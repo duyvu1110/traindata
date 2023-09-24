@@ -73,8 +73,8 @@ class LabelParser(object):
                     #     s_index = int(shared_utils.split_string(number_char_col[0], split_symbol)[0])
                     #     e_index = int(shared_utils.split_string(number_char_col[-1], split_symbol)[0]) + 1
                     # else:
-                    s_index = (shared_utils.split_string(number_char_col[0], split_symbol)[0] -'0') - 1
-                    e_index = shared_utils.split_string(number_char_col[-1], split_symbol)[0] - '0'
+                    s_index = int(str(shared_utils.split_string(number_char_col[0], split_symbol)[0])) - 1
+                    e_index = int(str(shared_utils.split_string(number_char_col[-1], split_symbol)[0]))
 
                     elem_tuple += (s_index, e_index)
 
