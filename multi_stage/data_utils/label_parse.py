@@ -78,6 +78,7 @@ class LabelParser(object):
 
                     elem_tuple += (s_index, e_index)
 
+                    print(elem_index)
                     if self.elem_col[elem_index] == "result":
                         result_elem += [s_index, e_index]
 
