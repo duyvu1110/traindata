@@ -177,7 +177,7 @@ def first_stage_model_main(
     dev_comp_eval, test_comp_eval, global_comp_eval = comp_eval
 
     # define first stage model and optimizer
-    MODEL2FN = {"bert": pipeline_model_utils.Baseline, "norm": pipeline_model_utils.Baseline}
+    MODEL2FN = {"bert": pipeline_model_utils.Baseline, "norm": pipeline_model_utils.LSTMModel}
 
     if config.model_mode == "bert":
         model = MODEL2FN[config.model_mode](config, model_parameters).to(config.device)
@@ -195,7 +195,7 @@ def first_stage_model_main(
     else:
         optimizer_need_model = model
 
-    OPTIM2FN = {"bert": optimizer_utils.Baseline_Optim, "norm": optimizer_utils.Baseline_Optim}
+    OPTIM2FN = {"bert": optimizer_utils.Baseline_Optim, "norm": optimizer_utils.LSTMModel_Optim}
     optimizer = OPTIM2FN[config.model_mode](optimizer_need_model, optimizer_parameters)
 
     dev_parameters = ["./ModelResult/" + model_name + "/dev_elem_result.txt",

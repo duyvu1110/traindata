@@ -35,6 +35,7 @@ def read_standard_file(path):
                 label_col = []
 
         # cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, '\t')
+        last_sentence = last_sentence.strip()
         cur_sent_label = last_sentence[-1]
         cur_sent = last_sentence[:-1].strip()
         
