@@ -3,23 +3,23 @@ Phần cứng và phần mềm	0
 Ở đây, chúng ta có một trận chiến rất thú vị: Mediatek Dimensity 920 5G và Qualcomm Snapdragon 778G.	0
 [[];[];[];[];[]]
 Theo các điểm chuẩn, bộ xử lý Snapdragon 778G được tìm thấy trên Galaxy M52 5G mạnh hơn một chút so với Dimensity 920 trên Redmi Note 11 Pro+.	1
-[["6&&bộ", "7&&xử", "8&&lý", "9&&Snapdragon", "10&&778G"];["24&&Dimensity", "25&&920"];["2&&các", "3&&điểm", "4&&chuẩn"];["18&&mạnh", "19&&hơn", "20&&một", "21&&chút"];[4]]
+[[6&&bộ, 7&&xử, 8&&lý, 9&&Snapdragon, 10&&778G];[24&&Dimensity, 25&&920];[2&&các, 3&&điểm, 4&&chuẩn];[18&&mạnh, 19&&hơn, 20&&một, 21&&chút];[4]]
 Mặt khác, bạn có thể nhận được dung lượng lưu trữ cao hơn với Redmi Note 11 Pro+, lên đến 256GB bộ nhớ trong UFS 2.2. Do sự khác biệt nhỏ giữa các bộ phận phần cứng, nên hiệu năng của hai smartphone này không chênh lệch nhau nhiều và dư sức xử lý các tác vụ hàng ngày của người dùng.	1
-[["16&&Redmi", "17&&Note", "18&&11", "19&&Pro", "20&&+"];[];["9&&dung", "10&&lượng", "11&&lưu", "12&&trữ"];["13&&cao", "14&&hơn"];["47&&hai", "48&&smartphone", "49&&này"];["47&&hai", "48&&smartphone", "49&&này"];["44&&hiệu", "45&&năng"];["50&&không", "51&&chênh", "52&&lệch", "53&&nhau", "54&&nhiều"];[0]]
+[[16&&Redmi, 17&&Note, 18&&11, 19&&Pro, 20&&+];[];[9&&dung, 10&&lượng, 11&&lưu, 12&&trữ];[13&&cao, 14&&hơn];[47&&hai, 48&&smartphone, 49&&này];[47&&hai, 48&&smartphone, 49&&này];[44&&hiệu, 45&&năng];[50&&không, 51&&chênh, 52&&lệch, 53&&nhau, 54&&nhiều];[0]]
 Về phần mềm, bộ đôi này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng.	0
 [[];[];[];[];[]]
 Máy ảnh	0
 [[];[];[];[];[]]
 Redmi Note 11 Pro+ được trang bị camera chính tốt hơn: cảm biến 108MP hỗ trợ quay video 4K so với camera chính 64MP của đối thủ.	1
-[["1&&Redmi", "2&&Note", "3&&11", "4&&Pro", "5&&+"];["24&&camera", "25&&chính", "26&&64MP", "27&&của", "28&&đối", "29&&thủ"];["9&&camera", "10&&chính"];["11&&tốt", "12&&hơn"];[4]]
+[[1&&Redmi, 2&&Note, 3&&11, 4&&Pro, 5&&+];[24&&camera, 25&&chính, 26&&64MP, 27&&của, 28&&đối, 29&&thủ];[9&&camera, 10&&chính];[11&&tốt, 12&&hơn];[4]]
 Mặt khác, Galaxy M52 5G có các cảm biến phụ tốt hơn: một camera góc siêu rộng 12MP (thay vì chỉ 8 MP) và một camera macro 5MP (thay vì 2 MP).	1
-[["4&&Galaxy", "5&&M52", "6&&5G"];[];["8&&các", "9&&cảm", "10&&biến", "11&&phụ"];["12&&tốt", "13&&hơn"];[4]]
+[[4&&Galaxy, 5&&M52, 6&&5G];[];[8&&các, 9&&cảm, 10&&biến, 11&&phụ];[12&&tốt, 13&&hơn];[4]]
 Cuối cùng nhưng không kém phần quan trọng, Galaxy M52 5G có camera trước tốt hơn với độ phân giải 32MP, trong khi Redmi Note 11 Pro+ chỉ sở hữu cảm biến 16MP kém hơn.	1
-[["10&&Galaxy", "11&&M52", "12&&5G"];["26&&Redmi", "27&&Note", "28&&11", "29&&Pro", "30&&+"];["14&&camera", "15&&trước"];["16&&tốt", "17&&hơn"];["26&&Redmi", "27&&Note", "28&&11", "29&&Pro", "30&&+"];["10&&Galaxy", "11&&M52", "12&&5G"];["34&&cảm", "35&&biến", "36&&16MP"];["37&&kém", "38&&hơn"];[4]]
+[[10&&Galaxy, 11&&M52, 12&&5G];[26&&Redmi, 27&&Note, 28&&11, 29&&Pro, 30&&+];[14&&camera, 15&&trước];[16&&tốt, 17&&hơn];[26&&Redmi, 27&&Note, 28&&11, 29&&Pro, 30&&+];[10&&Galaxy, 11&&M52, 12&&5G];[34&&cảm, 35&&biến, 36&&16MP];[37&&kém, 38&&hơn];[4]]
 Thời lượng pin	0
 [[];[];[];[];[]]
 Samsung Galaxy M52 5G thực sự có thời lượng pin lâu hơn đơn giản vì nó có pin lớn hơn với dung lượng 5,000 mAh. Mặc khác, Redmi Note 11 Pro+ dù có pin 4,500 mAh nhỏ hơn nhưng điện thoại này gây ấn tượng với công nghệ sạc nhanh 120W siêu tốc, giúp sạc đầy pin chỉ trong 15 phút.	1
-[["1&&Samsung", "2&&Galaxy", "3&&M52", "4&&5G"];[];["8&&thời", "9&&lượng", "10&&pin"];["11&&lâu", "12&&hơn"];["16&&nó"];[];["18&&pin"];["19&&lớn", "20&&hơn"];["30&&Redmi", "31&&Note", "32&&11", "33&&Pro", "34&&+"];[];["37&&pin"];["40&&nhỏ", "41&&hơn"];[4]]
+[[1&&Samsung, 2&&Galaxy, 3&&M52, 4&&5G];[];[8&&thời, 9&&lượng, 10&&pin];[11&&lâu, 12&&hơn];[16&&nó];[];[18&&pin];[19&&lớn, 20&&hơn];[30&&Redmi, 31&&Note, 32&&11, 33&&Pro, 34&&+];[];[37&&pin];[40&&nhỏ, 41&&hơn];[4]]
 Tạm kết	0
 [[];[];[];[];[]]
 Nhìn chung, không có smartphone chiến thắng trong bài so sánh này vì mỗi điện thoại đều có ưu và nhược điểm của riêng mình.	0
@@ -27,7 +27,7 @@ Nhìn chung, không có smartphone chiến thắng trong bài so sánh này vì 
 Với Redmi Note 11 Pro+, điện thoại này gây ấn tượng với người dùng nhờ khả năng sạc nhanh 120W ấn tượng và camera chính 50MP chất lượng.	0
 [[];[];[];[];[]]
 Còn với Galaxy M52 5G, smartphone này có thiết kế bắt mắt hơn, pin lớn, camera linh hoạt hơn và bộ xử lý cao cấp để chơi game.	1
-[["7&&smartphone", "8&&này"];[];["10&&thiết", "11&&kế"];["12&&bắt", "13&&mắt", "14&&hơn"];["7&&smartphone", "8&&này"];[];["19&&camera"];["20&&linh", "21&&hoạt", "22&&hơn"];[4]]
+[[7&&smartphone, 8&&này];[];[10&&thiết, 11&&kế];[12&&bắt, 13&&mắt, 14&&hơn];[7&&smartphone, 8&&này];[];[19&&camera];[20&&linh, 21&&hoạt, 22&&hơn];[4]]
 Bạn sẽ mua điện thoại nào?	0
 [[];[];[];[];[]]
 title: So sánh Galaxy Note 20 Ultra vs Galaxy Note 10+: Nâng cấp liệu có đáng?	0
@@ -35,47 +35,47 @@ title: So sánh Galaxy Note 20 Ultra vs Galaxy Note 10+: Nâng cấp liệu có 
 Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua.	0
 [[];[];[];[];[]]
 Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò.	1
-[["5&&đây"];[];[];["11&&mạnh", "12&&nhất", "13&&trên", "14&&thị", "15&&trường", "16&&smartphone", "17&&hiện", "18&&nay"];[1]]
+[[5&&đây];[];[];[11&&mạnh, 12&&nhất, 13&&trên, 14&&thị, 15&&trường, 16&&smartphone, 17&&hiện, 18&&nay];[1]]
 Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua.	0
 [[];[];[];[];[]]
 Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò.	1
-[["5&&đây"];[];[];["11&&mạnh", "12&&nhất", "13&&trên", "14&&thị", "15&&trường", "16&&smartphone", "17&&hiện", "18&&nay"];[1]]
+[[5&&đây];[];[];[11&&mạnh, 12&&nhất, 13&&trên, 14&&thị, 15&&trường, 16&&smartphone, 17&&hiện, 18&&nay];[1]]
 Thiết kế Galaxy Note 20 Ultra sang trọng và vuông vắn hơn	1
-[["1&&Thiết", "2&&kế", "3&&Galaxy", "4&&Note", "5&&20", "6&&Ultra"];[];[];["7&&sang", "8&&trọng", "9&&và", "10&&vuông", "11&&vắn", "12&&hơn"];[4]]
+[[1&&Thiết, 2&&kế, 3&&Galaxy, 4&&Note, 5&&20, 6&&Ultra];[];[];[7&&sang, 8&&trọng, 9&&và, 10&&vuông, 11&&vắn, 12&&hơn];[4]]
 Mặc dù cả Galaxy Note 20 Ultra và Galaxy Note 10+ đều được hoàn thiện từ khung kim loại cao cấp với 2 mặt kính cường lực bóng bẩy ở trước và sau.	1
-[["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"];["9&&Galaxy", "10&&Note", "11&&10", "12&&+"];["18&&khung", "19&&kim", "20&&loại", "21&&cao", "22&&cấp", "23&&với", "24&&2", "25&&mặt", "26&&kính", "27&&cường", "28&&lực", "29&&bóng", "30&&bẩy", "31&&ở", "32&&trước", "33&&và", "34&&sau"];["13&&đều", "14&&được", "15&&hoàn", "16&&thiện", "17&&từ"];[0]]
+[[4&&Galaxy, 5&&Note, 6&&20, 7&&Ultra];[9&&Galaxy, 10&&Note, 11&&10, 12&&+];[18&&khung, 19&&kim, 20&&loại, 21&&cao, 22&&cấp, 23&&với, 24&&2, 25&&mặt, 26&&kính, 27&&cường, 28&&lực, 29&&bóng, 30&&bẩy, 31&&ở, 32&&trước, 33&&và, 34&&sau];[13&&đều, 14&&được, 15&&hoàn, 16&&thiện, 17&&từ];[0]]
 Mặt trước mẫu Galaxy Note mới năm nay vẫn đi cùng màn hình cong cùng nốt ruồi đặc trưng của Samsung.	0
 [[];[];[];[];[]]
 Dường như điểm khác biệt lớn nhất về thiết kế của bộ đôi này chính là cụm camera ở mặt sau.	1
-[["9&&thiết", "10&&kế", "11&&của", "12&&bộ", "13&&đôi", "14&&này"];["9&&thiết", "10&&kế", "11&&của", "12&&bộ", "13&&đôi", "14&&này"];["17&&cụm", "18&&camera", "19&&ở", "20&&mặt", "21&&sau"];["3&&điểm", "4&&khác", "5&&biệt", "6&&lớn", "7&&nhất"];[-1]]
+[[9&&thiết, 10&&kế, 11&&của, 12&&bộ, 13&&đôi, 14&&này];[9&&thiết, 10&&kế, 11&&của, 12&&bộ, 13&&đôi, 14&&này];[17&&cụm, 18&&camera, 19&&ở, 20&&mặt, 21&&sau];[3&&điểm, 4&&khác, 5&&biệt, 6&&lớn, 7&&nhất];[-1]]
 Theo đó, Galaxy Note 20 Ultra đi cùng với module hình chữ nhật đúng như xu hướng hiện nay.	0
 [[];[];[];[];[]]
 Trong khi đó, bản tiền nhiệm lại sở hữu cụm camera 3 ống kính sắp dọc thông thường.	0
 [[];[];[];[];[]]
 Chính cải tiến này đã giúp Galaxy Note 20 Ultra trở nên sang trọng, mạnh mẽ và hợp xu hướng hơn.	1
-[["7&&Galaxy", "8&&Note", "9&&20", "10&&Ultra"];[];[];["13&&sang", "14&&trọng", "15&&,", "16&&mạnh", "17&&mẽ", "18&&và", "19&&hợp", "20&&xu", "21&&hướng", "22&&hơn"];[4]]
+[[7&&Galaxy, 8&&Note, 9&&20, 10&&Ultra];[];[];[13&&sang, 14&&trọng, 15&&,, 16&&mạnh, 17&&mẽ, 18&&và, 19&&hợp, 20&&xu, 21&&hướng, 22&&hơn];[4]]
 Bên cạnh đó, mẫu Galaxy Note mới còn đem tới cho người dùng tùy chọn màu sắc khá đẹp mắt và mới lạ.	0
 [[];[];[];[];[]]
 Một trong số đó chính là màu đồng huyền bí.	0
 [[];[];[];[];[]]
 Nhìn chung, thiết kế Galaxy Note 20 Ultra không có quá nhiều khác biệt so với Note 10+.	1
-[["6&&Galaxy", "7&&Note", "8&&20", "9&&Ultra"];["18&&Note", "19&&10", "20&&+"];["4&&thiết", "5&&kế"];["10&&không", "11&&có", "12&&quá", "13&&nhiều", "14&&khác", "15&&biệt"];[0]]
+[[6&&Galaxy, 7&&Note, 8&&20, 9&&Ultra];[18&&Note, 19&&10, 20&&+];[4&&thiết, 5&&kế];[10&&không, 11&&có, 12&&quá, 13&&nhiều, 14&&khác, 15&&biệt];[0]]
 Được Samsung chăm chút đến từng chi tiết, kích thước và trọng lượng của máy được cải thiện rõ rệt.	0
 [[];[];[];[];[]]
 Đây sẽ là lựa chọn tuyệt vời cho những ai thích ghi chép trên điện thoại.	0
 [[];[];[];[];[]]
 Màn hình Galaxy Note 20 Ultra vượt trội hơn hẳn	1
-[["3&&Galaxy", "4&&Note", "5&&20", "6&&Ultra"];[];["1&&Màn", "2&&hình"];["7&&vượt", "8&&trội", "9&&hơn", "10&&hẳn"];[4]]
+[[3&&Galaxy, 4&&Note, 5&&20, 6&&Ultra];[];[1&&Màn, 2&&hình];[7&&vượt, 8&&trội, 9&&hơn, 10&&hẳn];[4]]
 Là mẫu flagship cao cấp nhất của hãng nên Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch, độ phân giải 2K+.	1
-[["10&&Galaxy", "11&&Note", "12&&20", "13&&Ultra"];[];[];["4&&cao", "5&&cấp", "6&&nhất", "7&&của", "8&&hãng"];[4]]
+[[10&&Galaxy, 11&&Note, 12&&20, 13&&Ultra];[];[];[4&&cao, 5&&cấp, 6&&nhất, 7&&của, 8&&hãng];[4]]
 Chưa hết, màn hình máy còn tích hợp công nghệ Dynamic AMOLED 2x, cho độ sáng cao hơn tới 25%.	1
-[["4&&màn", "5&&hình", "6&&máy"];[];["17&&độ", "18&&sáng"];["19&&cao", "20&&hơn"];[4]]
+[[4&&màn, 5&&hình, 6&&máy];[];[17&&độ, 18&&sáng];[19&&cao, 20&&hơn];[4]]
 Một điểm nâng cấp phải kể đến nữa chính là màn hình Galaxy Note 20 Ultra còn có tần số quét màn hình lên đến 120Hz.	0
 [[];[];[];[];[]]
 Tuy nhiên, là fagship cũ nhưng Galaxy Note 10+ cũng không thể coi thường.	0
 [[];[];[];[];[]]
 Nhìn mặt trước máy không có gì khác biệt so với Note 20 Ultra.	1
-[["4&&máy"];["12&&Note", "13&&20", "14&&Ultra"];["2&&mặt", "3&&trước"];["5&&không", "6&&có", "7&&gì", "8&&khác", "9&&biệt"];[0]]
+[[4&&máy];[12&&Note, 13&&20, 14&&Ultra];[2&&mặt, 3&&trước];[5&&không, 6&&có, 7&&gì, 8&&khác, 9&&biệt];[0]]
 Máy ở hữu màn hình Dynamic AMOLED 6,8 inch, QHD+, hỗ trợ HDR10+, tần số quét 60Hz.	0
 [[];[];[];[];[]]
 Có thể thấy, với thông số này màn hình Galaxy Note 10+ vẫn đem đến cho người dùng những trải nghiệm tuyệt vời nhất xứng danh flagship hàng đầu trên thị trường hiện nay.	0
@@ -83,7 +83,7 @@ Có thể thấy, với thông số này màn hình Galaxy Note 10+ vẫn đem �
 Camera Galaxy Note 20 Ultra được nâng cấp mạnh mẽ	0
 [[];[];[];[];[]]
 Dường như điểm khác biệt có thể dễ dàng nhận thấy nhất của bộ đôi này chính là cụm camera.	1
-[["14&&bộ", "15&&đôi", "16&&này"];["14&&bộ", "15&&đôi", "16&&này"];["19&&cụm", "20&&camera"];["4&&khác", "5&&biệt"];[-1]]
+[[14&&bộ, 15&&đôi, 16&&này];[14&&bộ, 15&&đôi, 16&&này];[19&&cụm, 20&&camera];[4&&khác, 5&&biệt];[-1]]
 Theo đó, Galaxy Note 20 Ultra đi cùng cụm camera đúng như xu hướng hiện nay là các ống kính được đặt trong ô hình chữ nhật độc đáo.	0
 [[];[];[];[];[]]
 Trong đó, camera chính của máy có độ phân giải lên đến 108MP.	0
@@ -91,7 +91,7 @@ Trong đó, camera chính của máy có độ phân giải lên đến 108MP.	0
 Đi cùng với đó là một camera góc siêu rộng 12 MP và góc nhìn lên tới 120 độ với khả năng zoom lên đến 50x.	0
 [[];[];[];[];[]]
 Ngoài ra, Samsung còn trang bị thêm một cảm biến laser cho máy để lấy nét nhanh hơn.	1
-[["14&&máy"];[];["16&&lấy", "17&&nét"];["18&&nhanh", "19&&hơn"];[4]]
+[[14&&máy];[];[16&&lấy, 17&&nét];[18&&nhanh, 19&&hơn];[4]]
 Trong khi đó, Galaxy Note 10+ chỉ sở hữu camera chính 12MP cùng 2 camera phụ có độ phân giải lần lượt là 12MP và 16MP.	0
 [[];[];[];[];[]]
 Đáng tiếc là cụm camera của máy chỉ có độ phân giải 10x.	0
@@ -101,7 +101,7 @@ Tuy nhiên, máy vẫn đem tới những trải nghiệm nhiếp ảnh và quay
 Cấu hình không quá chênh lệch	0
 [[];[];[];[];[]]
 Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Galaxy Note 20 Ultra đi cùng chipset mạnh mẽ nhất là điều dễ hiểu.	1
-[["14&&Galaxy", "15&&Note", "16&&20", "17&&Ultra"];[];["20&&chipset"];["21&&mạnh", "22&&mẽ", "23&&nhất"];[1]]
+[[14&&Galaxy, 15&&Note, 16&&20, 17&&Ultra];[];[20&&chipset];[21&&mạnh, 22&&mẽ, 23&&nhất];[1]]
 Theo đó, máy được trang bị 2 chip xử lý gồm Exynos 990 và Snapdragon 865+ tùy thị trường.	0
 [[];[];[];[];[]]
 Đi cùng với đó là các tùy chọn RAM 8GB/ 12GB cùng bộ nhớ trong là 128GB/ 256GB/ 512GB.	0
@@ -109,15 +109,15 @@ Theo đó, máy được trang bị 2 chip xử lý gồm Exynos 990 và Snapdra
 Cung cấp năng lượng cho máy là viên pin có dung lượng 4500 mAh có hỗ trợ sạc nhanh lên đến 25W.	0
 [[];[];[];[];[]]
 Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới hiệu năng khủng nhất nhì trên thị trường hiện nay.	1
-[["6&&Galaxy", "7&&Note", "8&&20", "9&&Ultra"];[];["14&&hiệu", "15&&năng"];["16&&khủng", "17&&nhất", "18&&nhì", "19&&trên", "20&&thị", "21&&trường", "22&&hiện", "23&&nay"];[1]]
+[[6&&Galaxy, 7&&Note, 8&&20, 9&&Ultra];[];[14&&hiệu, 15&&năng];[16&&khủng, 17&&nhất, 18&&nhì, 19&&trên, 20&&thị, 21&&trường, 22&&hiện, 23&&nay];[1]]
 Do đó, máy có thể xử lý tốt mọi tác vụ do người dùng đặt ra một cách dễ dàng.	0
 [[];[];[];[];[]]
 Trong khi đó, Galaxy Note 10+ có phần kém cạnh hơn một chút khi chỉ sở hữu chip Exynos 9825 và Snapdragon 855.	0
 [[];[];[];[];[]]
 Trong khi đó,máy lại có cùng tùy chọn bộ nhớ tương tự như người kế nhiệm là 8GB/ 12GB RAM cùng bộ nhớ trong 128GB/ 256GB/ 512GB.	1
-[["5&&máy"];["16&&người", "17&&kế", "18&&nhiệm"];["9&&tùy", "10&&chọn", "11&&bộ", "12&&nhớ"];["13&&tương", "14&&tự"];[0]]
+[[5&&máy];[16&&người, 17&&kế, 18&&nhiệm];[9&&tùy, 10&&chọn, 11&&bộ, 12&&nhớ];[13&&tương, 14&&tự];[0]]
 Đáng tiếc là viên pin của máy cũng có phần kém cạnh hơn một chút khi chỉ có dung lượng 4300 mAh.	1
-[["7&&máy"];[];["4&&viên", "5&&pin"];["11&&kém", "12&&cạnh", "13&&hơn", "14&&một", "15&&chút"];[5]]
+[[7&&máy];[];[4&&viên, 5&&pin];[11&&kém, 12&&cạnh, 13&&hơn, 14&&một, 15&&chút];[5]]
 Mặc dù không sở hữu thông số cấu hình mạnh mẽ nhất nhưng có thể đánh giá Galaxy Note 10+ là một đối thử đáng gờm trên thị trường smartphone hiện nay.	0
 [[];[];[];[];[]]
 Máy vẫn đáp ứng rất tốt nhu cầu sử dụng của người dùng, nên việc nâng cấp từ Galaxy Note 10+ lên Note 20 Ultra cần cân nhắc kỹ.	0
@@ -125,7 +125,7 @@ Máy vẫn đáp ứng rất tốt nhu cầu sử dụng của người dùng, n
 Tổng kết	0
 [[];[];[];[];[]]
 Có thể thấy Galaxy Note 20 Ultra mang nhiều cải tiến vượt trội từ thiết kế, màn hình, camera lẫn hiệu năng.	1
-[["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"];[];["15&&thiết", "16&&kế"];["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"];["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"];[];["18&&màn", "19&&hình"];["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"];["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"];[];["21&&camera"];["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"];["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"];[];["23&&hiệu", "24&&năng"];["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"];[4]]
+[[4&&Galaxy, 5&&Note, 6&&20, 7&&Ultra];[];[15&&thiết, 16&&kế];[10&&cải, 11&&tiến, 12&&vượt, 13&&trội];[4&&Galaxy, 5&&Note, 6&&20, 7&&Ultra];[];[18&&màn, 19&&hình];[10&&cải, 11&&tiến, 12&&vượt, 13&&trội];[4&&Galaxy, 5&&Note, 6&&20, 7&&Ultra];[];[21&&camera];[10&&cải, 11&&tiến, 12&&vượt, 13&&trội];[4&&Galaxy, 5&&Note, 6&&20, 7&&Ultra];[];[23&&hiệu, 24&&năng];[10&&cải, 11&&tiến, 12&&vượt, 13&&trội];[4]]
 Tuy nhiên, Galaxy Note 10+ cũng được đánh giá cao ở thời điểm này.	0
 [[];[];[];[];[]]
 Do đó, tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý.	0
@@ -139,13 +139,13 @@ Phần so sánh dưới đây sẽ làm nổi bật các thông số kỹ thuậ
 Thiết kế và màn hình điện thoại	0
 [[];[];[];[];[]]
 Galaxy S21 Ultra và Galaxy Z Fold3 có hai kiểu thiết kế rất khác nhau.	1
-[["1&&Galaxy", "2&&S21", "3&&Ultra"];["5&&Galaxy", "6&&Z", "7&&Fold3"];["10&&kiểu", "11&&thiết", "12&&kế"];["13&&rất", "14&&khác", "15&&nhau"];[-1]]
+[[1&&Galaxy, 2&&S21, 3&&Ultra];[5&&Galaxy, 6&&Z, 7&&Fold3];[10&&kiểu, 11&&thiết, 12&&kế];[13&&rất, 14&&khác, 15&&nhau];[-1]]
 Trong khi S21 Ultra là một chiếc smartphone 6,8″ kiểu dáng thông thường thì Z Fold3 có thể gập lại với bản lề ở chế độ linh hoạt cho phép mở ở mọi góc độ.	0
 [[];[];[];[];[]]
 Z Fold3 có màn hình 6,2″ kích thước thu gọn ở mặt trước và màn hình bên trong có thể mở rộng đến 7,6″.	0
 [[];[];[];[];[]]
 Cả hai thiết bị đều có màn hình OLED với tốc độ làm mới thay đổi lên đến tối đa 120Hz.	1
-[["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"];["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"];["7&&màn", "8&&hình", "9&&OLED", "10&&với", "11&&tốc", "12&&độ", "13&&làm", "14&&mới", "15&&thay", "16&&đổi", "17&&lên", "18&&đến", "19&&tối", "20&&đa", "21&&120Hz"];["5&&đều", "6&&có"];[0]]
+[[1&&Cả, 2&&hai, 3&&thiết, 4&&bị];[1&&Cả, 2&&hai, 3&&thiết, 4&&bị];[7&&màn, 8&&hình, 9&&OLED, 10&&với, 11&&tốc, 12&&độ, 13&&làm, 14&&mới, 15&&thay, 16&&đổi, 17&&lên, 18&&đến, 19&&tối, 20&&đa, 21&&120Hz];[5&&đều, 6&&có];[0]]
 S21 Ultra có kính cường lực Gorilla Glass Victus để bảo vệ màn hình và khả năng chống bụi, nước IP68 để tránh làm hỏng các thành phần bên trong.	0
 [[];[];[];[];[]]
 Z Fold3 sử dụng cùng một loại kính Gorilla Glass Victus ở màn hình bên ngoài nhưng bên trong là một lớp bảo vệ mỏng hơn.	0
@@ -155,7 +155,7 @@ Chiếc điện thoại có thể gập lại được xếp hạng IPX8 về kh
 Thông số kỹ thuật	0
 [[];[];[];[];[]]
 S21 Ultra và Z Fold3 đều sử dụng chip Snapdragon 888, kết hợp với RAM 12GB và bộ nhớ trong 256GB.	1
-[["1&&S21", "2&&Ultra"];["4&&Z", "5&&Fold3"];["9&&chip", "10&&Snapdragon", "11&&888"];["6&&đều", "7&&sử", "8&&dụng"];["1&&S21", "2&&Ultra"];["4&&Z", "5&&Fold3"];["16&&RAM", "17&&12GB"];["6&&đều", "7&&sử", "8&&dụng"];["1&&S21", "2&&Ultra"];["4&&Z", "5&&Fold3"];["19&&bộ", "20&&nhớ", "21&&trong", "22&&256GB"];["6&&đều", "7&&sử", "8&&dụng"];[0]]
+[[1&&S21, 2&&Ultra];[4&&Z, 5&&Fold3];[9&&chip, 10&&Snapdragon, 11&&888];[6&&đều, 7&&sử, 8&&dụng];[1&&S21, 2&&Ultra];[4&&Z, 5&&Fold3];[16&&RAM, 17&&12GB];[6&&đều, 7&&sử, 8&&dụng];[1&&S21, 2&&Ultra];[4&&Z, 5&&Fold3];[19&&bộ, 20&&nhớ, 21&&trong, 22&&256GB];[6&&đều, 7&&sử, 8&&dụng];[0]]
 Tùy chọn thay thế duy nhất cho Z Fold3 là tăng dung lượng lưu trữ lên 512GB.	0
 [[];[];[];[];[]]
 Tuy nhiên, S21 Ultra lại có thêm tùy chọn RAM 12GB / 128GB rẻ hơn và phiên bản RAM 16GB / 512GB.	0
@@ -163,7 +163,7 @@ Tuy nhiên, S21 Ultra lại có thêm tùy chọn RAM 12GB / 128GB rẻ hơn và
 Camera	0
 [[];[];[];[];[]]
 Galaxy S21 Ultra là một trong những điện thoại có camera tốt nhất và sẽ vẫn là vua camera của Samsung ngay cả sau khi Galaxy Z Fold3 ra mắt.	1
-[["1&&Galaxy", "2&&S21", "3&&Ultra"];[];["11&&camera"];["12&&tốt", "13&&nhất"];["1&&Galaxy", "2&&S21", "3&&Ultra"];[];["19&&camera"];["17&&là", "18&&vua"];[1]]
+[[1&&Galaxy, 2&&S21, 3&&Ultra];[];[11&&camera];[12&&tốt, 13&&nhất];[1&&Galaxy, 2&&S21, 3&&Ultra];[];[19&&camera];[17&&là, 18&&vua];[1]]
 Ở mặt sau, Galaxy S21 Ultra sử dụng camera chính 108MP, một camera góc siêu rộng 12MP và hai camera tele 10MP, một camera zoom quang 3x và camera zoom quang 10x.	0
 [[];[];[];[];[]]
 Các camera phía sau của Galaxy Z Fold3 bao gồm ba camera 12MP với một camera tele chính cùng hai camera siêu rộng và quang học 2x.	0
@@ -171,21 +171,21 @@ Các camera phía sau của Galaxy Z Fold3 bao gồm ba camera 12MP với một 
 Đối với camera selfie, Galaxy S21 Ultra có camera selfie 40MP nằm chính giữa màn hình.	0
 [[];[];[];[];[]]
 Galaxy Z Fold3 giành ưu thế với camera 10MP trên màn hình phía trước trong phần notch cộng thêm một camera 4MP thứ hai được ẩn bên dưới màn hình.	1
-[["1&&Galaxy", "2&&Z", "3&&Fold3"];[];[];["4&&giành", "5&&ưu", "6&&thế"];[4]]
+[[1&&Galaxy, 2&&Z, 3&&Fold3];[];[];[4&&giành, 5&&ưu, 6&&thế];[4]]
 S21 Ultra chiếm ưu thế với dung lượng pin tới 5.000mAh, trong khi Z Fold3 chỉ là 4.400 mAh trên hệ thống pin kép.	1
-[["1&&S21", "2&&Ultra"];[];["7&&dung", "8&&lượng", "9&&pin"];["3&&chiếm", "4&&ưu", "5&&thế"];[4]]
+[[1&&S21, 2&&Ultra];[];[7&&dung, 8&&lượng, 9&&pin];[3&&chiếm, 4&&ưu, 5&&thế];[4]]
 Tuy nhiên, cả hai điện thoại đều cung cấp các thông số kỹ thuật sạc giống nhau bao gồm sạc có dây 25W, sạc không dây 10W và sạc không dây ngược 4,5W.	1
-[["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["11&&các", "12&&thông", "13&&số", "14&&kỹ", "15&&thuật", "16&&sạc"];["8&&đều", "9&&cung", "10&&cấp"];["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["21&&sạc", "22&&có", "23&&dây", "24&&25W"];["8&&đều", "9&&cung", "10&&cấp"];["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["26&&sạc", "27&&không", "28&&dây", "29&&10W"];["8&&đều", "9&&cung", "10&&cấp"];["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["4&&cả", "5&&hai", "6&&điện", "7&&thoại"];["31&&sạc", "32&&không", "33&&dây", "34&&ngược", "35&&4,5W"];["8&&đều", "9&&cung", "10&&cấp"];[0]]
+[[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[11&&các, 12&&thông, 13&&số, 14&&kỹ, 15&&thuật, 16&&sạc];[8&&đều, 9&&cung, 10&&cấp];[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[21&&sạc, 22&&có, 23&&dây, 24&&25W];[8&&đều, 9&&cung, 10&&cấp];[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[26&&sạc, 27&&không, 28&&dây, 29&&10W];[8&&đều, 9&&cung, 10&&cấp];[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[4&&cả, 5&&hai, 6&&điện, 7&&thoại];[31&&sạc, 32&&không, 33&&dây, 34&&ngược, 35&&4,5W];[8&&đều, 9&&cung, 10&&cấp];[0]]
 Cả hai điện thoại đều chạy Android 11 thông qua One UI của Samsung, mặc dù phiên bản của Z Fold3 có sự khác biệt đáng kể để phù hợp với màn hình phụ.	1
-[["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"];[];["7&&Android", "8&&11"];["5&&đều", "6&&chạy"];["18&&phiên", "19&&bản", "20&&của", "21&&Z", "22&&Fold3"];["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"];[];["25&&khác", "26&&biệt", "27&&đáng", "28&&kể"];[-1]]
+[[1&&Cả, 2&&hai, 3&&điện, 4&&thoại];[];[7&&Android, 8&&11];[5&&đều, 6&&chạy];[18&&phiên, 19&&bản, 20&&của, 21&&Z, 22&&Fold3];[1&&Cả, 2&&hai, 3&&điện, 4&&thoại];[];[25&&khác, 26&&biệt, 27&&đáng, 28&&kể];[-1]]
 Hai điện thoại đều hỗ trợ bút cảm ứng S Pen.	1
-[["1&&Hai", "2&&điện", "3&&thoại"];["1&&Hai", "2&&điện", "3&&thoại"];["7&&bút", "8&&cảm", "9&&ứng", "10&&S", "11&&Pen"];["4&&đều", "5&&hỗ", "6&&trợ"];[0]]
+[[1&&Hai, 2&&điện, 3&&thoại];[1&&Hai, 2&&điện, 3&&thoại];[7&&bút, 8&&cảm, 9&&ứng, 10&&S, 11&&Pen];[4&&đều, 5&&hỗ, 6&&trợ];[0]]
 Z Fold3 có hai phiên bản S Pen để lựa chọn – S Pen Fold Edition cơ bản hoặc S Pen Pro được hỗ trợ Bluetooth.	0
 [[];[];[];[];[]]
 Tạm kết	0
 [[];[];[];[];[]]
 Hầu hết người dùng sẽ khá hài lòng với S21 Ultra vì hiệu suất và sức mạnh chụp ảnh cao nhất.	1
-[["10&&S21", "11&&Ultra"];[];["13&&hiệu", "14&&suất"];["20&&cao", "21&&nhất"];["10&&S21", "11&&Ultra"];[];["16&&sức", "17&&mạnh", "18&&chụp", "19&&ảnh"];["20&&cao", "21&&nhất"];[1]]
+[[10&&S21, 11&&Ultra];[];[13&&hiệu, 14&&suất];[20&&cao, 21&&nhất];[10&&S21, 11&&Ultra];[];[16&&sức, 17&&mạnh, 18&&chụp, 19&&ảnh];[20&&cao, 21&&nhất];[1]]
 Trong khi Z Fold3 sẽ là một trải nghiệm thực sự đặc biệt cho bất kỳ người dùng nào muốn tận hưởng smartphone cấp cao.	0
 [[];[];[];[];[]]
 Vì vậy, việc lựa chọn smartphone thích hợp với bản thân còn phụ thuộc vào nhiều yếu tố đến từ mỗi người dùng.	0
@@ -199,17 +199,17 @@ Dưới đây là phần so sánh giữa các thông số kỹ thuật của hai
 So sánh thông số kĩ thuật Mi 11 và iPhone 12	0
 [[];[];[];[];[]]
 Cả Xiaomi Mi 11 và iPhone 12 đều có thiết kế hiện đại và sang trọng.	1
-[["2&&Xiaomi", "3&&Mi", "4&&11"];["6&&iPhone", "7&&12"];["10&&thiết", "11&&kế", "12&&hiện", "13&&đại", "14&&và", "15&&sang", "16&&trọng"];["8&&đều", "9&&có"];[0]]
+[[2&&Xiaomi, 3&&Mi, 4&&11];[6&&iPhone, 7&&12];[10&&thiết, 11&&kế, 12&&hiện, 13&&đại, 14&&và, 15&&sang, 16&&trọng];[8&&đều, 9&&có];[0]]
 Xiaomi Mi 11 có viền hẹp và không có phần khoét màn hình trong khi iPhone 12 có chất lượng vẻ bề ngoài tốt hơn vì được chế tạo bằng vật liệu tốt hơn và có khả năng chống thấm nước với chứng nhận IP68.	1
-[["16&&iPhone", "17&&12"];[];["19&&chất", "20&&lượng", "21&&vẻ", "22&&bề", "23&&ngoài"];["24&&tốt", "25&&hơn"];["16&&iPhone", "17&&12"];["1&&Xiaomi", "2&&Mi", "3&&11"];["31&&vật", "32&&liệu"];["33&&tốt", "34&&hơn"];[4]]
+[[16&&iPhone, 17&&12];[];[19&&chất, 20&&lượng, 21&&vẻ, 22&&bề, 23&&ngoài];[24&&tốt, 25&&hơn];[16&&iPhone, 17&&12];[1&&Xiaomi, 2&&Mi, 3&&11];[31&&vật, 32&&liệu];[33&&tốt, 34&&hơn];[4]]
 Hơn nữa, iPhone 12 có kích thước nhỏ gọn hơn và nhẹ hơn.	1
-[["4&&iPhone", "5&&12"];[];["7&&kích", "8&&thước"];["9&&nhỏ", "10&&gọn", "11&&hơn"];["4&&iPhone", "5&&12"];[];[];["13&&nhẹ", "14&&hơn"];[4]]
+[[4&&iPhone, 5&&12];[];[7&&kích, 8&&thước];[9&&nhỏ, 10&&gọn, 11&&hơn];[4&&iPhone, 5&&12];[];[];[13&&nhẹ, 14&&hơn];[4]]
 Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc, có tốc độ hiển thị 120 Hz. Đây là màn hình smartphone Xiaomi tốt nhất cho đến nay và cảm biến vân tay ở phía dưới màn hình.	1
-[["32&&smartphone", "33&&Xiaomi"];[];["30&&màn", "31&&hình"];["34&&tốt", "35&&nhất", "36&&cho", "37&&đến", "38&&nay"];[1]]
+[[32&&smartphone, 33&&Xiaomi];[];[30&&màn, 31&&hình];[34&&tốt, 35&&nhất, 36&&cho, 37&&đến, 38&&nay];[1]]
 Dòng iPhone 12 của nhà Táo cũng sở hữu một trong những màn hình tốt nhất trên thị trường, không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa.	1
-[["1&&Dòng", "2&&iPhone", "3&&12", "4&&của", "5&&nhà", "6&&Táo"];[];["13&&màn", "14&&hình"];["15&&tốt", "16&&nhất", "17&&trên", "18&&thị", "19&&trường"];[1]]
+[[1&&Dòng, 2&&iPhone, 3&&12, 4&&của, 5&&nhà, 6&&Táo];[];[13&&màn, 14&&hình];[15&&tốt, 16&&nhất, 17&&trên, 18&&thị, 19&&trường];[1]]
 Về cấu hình, hai sản phẩm này được trang bị các loại chipset và hệ điều hành mới nhất hiện nay.	1
-[["5&&hai", "6&&sản", "7&&phẩm", "8&&này"];["5&&hai", "6&&sản", "7&&phẩm", "8&&này"];["2&&cấu", "3&&hình"];["9&&được", "10&&trang", "11&&bị", "12&&các", "13&&loại", "14&&chipset", "15&&và", "16&&hệ", "17&&điều", "18&&hành", "19&&mới", "20&&nhất", "21&&hiện", "22&&nay"];[0]]
+[[5&&hai, 6&&sản, 7&&phẩm, 8&&này];[5&&hai, 6&&sản, 7&&phẩm, 8&&này];[2&&cấu, 3&&hình];[9&&được, 10&&trang, 11&&bị, 12&&các, 13&&loại, 14&&chipset, 15&&và, 16&&hệ, 17&&điều, 18&&hành, 19&&mới, 20&&nhất, 21&&hiện, 22&&nay];[0]]
 Xiaomi Mi 11 sở hữu chip Snapdragon 888 kết hợp với RAM lên đến 12GB, bộ nhớ trong lên tới 256GB.	0
 [[];[];[];[];[]]
 iPhone 12 có chipset Apple A14 Bionic, RAM 4GB và bộ nhớ tuỳ chọn 64GB, 128GB và 256GB.	0
@@ -217,11 +217,11 @@ iPhone 12 có chipset Apple A14 Bionic, RAM 4GB và bộ nhớ tuỳ chọn 64GB
 Xiaomi Mi 11 sử dụng hệ điều hành Android 11 trong khi iPhone 12 sử dụng iOS 14.	0
 [[];[];[];[];[]]
 Dung lượng pin của Xiaomi Mi 11 tốt hơn Apple iPhone 12	1
-[["5&&Xiaomi", "6&&Mi", "7&&11"];["11&&iPhone", "12&&12"];["1&&Dung", "2&&lượng", "3&&pin"];["8&&tốt", "9&&hơn"];[4]]
+[[5&&Xiaomi, 6&&Mi, 7&&11];[11&&iPhone, 12&&12];[1&&Dung, 2&&lượng, 3&&pin];[8&&tốt, 9&&hơn];[4]]
 Xiaomi Mi 11 sở hữu pin lớn 4600 mAh có thể kéo dài thời lượng sử dụng hơn iPhone 12.	1
-[["1&&Xiaomi", "2&&Mi", "3&&11"];["19&&iPhone", "20&&12"];["14&&thời", "15&&lượng", "16&&sử", "17&&dụng"];["18&&hơn"];[4]]
+[[1&&Xiaomi, 2&&Mi, 3&&11];[19&&iPhone, 20&&12];[14&&thời, 15&&lượng, 16&&sử, 17&&dụng];[18&&hơn];[4]]
 Bên cạnh việc có dung lượng pin lớn hơn, Mi 11 còn có công nghệ sạc 50W nhanh hơn và hỗ trợ sạc không dây ngược, trong khi iPhone 12 thì không.	1
-[["11&&Mi", "12&&11"];["31&&iPhone", "32&&12"];["5&&dung", "6&&lượng", "7&&pin"];["8&&lớn", "9&&hơn"];["11&&Mi", "12&&11"];["31&&iPhone", "32&&12"];["15&&công", "16&&nghệ", "17&&sạc"];["19&&nhanh", "20&&hơn"];[4]]
+[[11&&Mi, 12&&11];[31&&iPhone, 32&&12];[5&&dung, 6&&lượng, 7&&pin];[8&&lớn, 9&&hơn];[11&&Mi, 12&&11];[31&&iPhone, 32&&12];[15&&công, 16&&nghệ, 17&&sạc];[19&&nhanh, 20&&hơn];[4]]
 Về giá cả, Xiaomi Mi 11 có giá 611 USD ở thị trường Trung Quốc với dung lượng RAM 8GB và bộ nhớ trong 128GB, hiện tại vẫn chưa được tung ra trên thị trường toàn cầu.	0
 [[];[];[];[];[]]
 iPhone 12 có giá niêm yết khởi điểm là 1.129 USD.	0
@@ -245,21 +245,21 @@ Chúng ta sẽ tập trung vào camera chính của mỗi điện thoại.	0
 Đó là cảm biến loại 1/1,3 inch 200 megapixel cùng ống kính f/1.7 trên S23 Ultra và cảm biến loại 1 inch 50,3 megapixel và ống kính f/1.8 trên Vivo X90 Pro.	0
 [[];[];[];[];[]]
 Cả hai đều có tính năng ổn định hình ảnh quang học, nhưng chỉ có Vico mang thương hiệu Zeiss trên ống kính.	1
-[["1&&Cả", "2&&hai"];[];["5&&tính", "6&&năng", "7&&ổn", "8&&định", "9&&hình", "10&&ảnh", "11&&quang", "12&&học"];["3&&đều", "4&&có"];[0]]
+[[1&&Cả, 2&&hai];[];[5&&tính, 6&&năng, 7&&ổn, 8&&định, 9&&hình, 10&&ảnh, 11&&quang, 12&&học];[3&&đều, 4&&có];[0]]
 Các pixel trên cảm biến Sony IMX989 của X90 Pro lớn hơn về mặt vật lý và các pixel lớn hơn sẽ thu được nhiều ánh sáng hơn.	1
-[["9&&X90", "10&&Pro"];[];["1&&Các", "2&&pixel", "3&&trên", "4&&cảm", "5&&biến", "6&&Sony", "7&&IMX989"];["11&&lớn", "12&&hơn", "13&&về", "14&&mặt", "15&&vật", "16&&lý"];[4]]
+[[9&&X90, 10&&Pro];[];[1&&Các, 2&&pixel, 3&&trên, 4&&cảm, 5&&biến, 6&&Sony, 7&&IMX989];[11&&lớn, 12&&hơn, 13&&về, 14&&mặt, 15&&vật, 16&&lý];[4]]
 Trong điều kiện thiếu sáng, cảm biến của S23 Ultra ghép 16 pixel 0,6μm để tạo ra các pixel 2,4μm lớn hơn.	0
 [[];[];[];[];[]]
 Còn Vivo X90 chứa 4 pixel 1,6μm để tạo ra các pixel 3,2μm.	0
 [[];[];[];[];[]]
 Cả hai đều tạo ra hình ảnh 12 megapixel nhưng trường hợp của Vivo có phần nhỉnh hơn xíu với 12,5 megapixel.	1
-[["1&&Cả", "2&&hai"];["1&&Cả", "2&&hai"];["6&&hình", "7&&ảnh", "8&&12", "9&&megapixel"];["3&&đều", "4&&tạo", "5&&ra"];["14&&Vivo"];[];[];["15&&có", "16&&phần", "17&&nhỉnh", "18&&hơn", "19&&xíu"];[0]]
+[[1&&Cả, 2&&hai];[1&&Cả, 2&&hai];[6&&hình, 7&&ảnh, 8&&12, 9&&megapixel];[3&&đều, 4&&tạo, 5&&ra];[14&&Vivo];[];[];[15&&có, 16&&phần, 17&&nhỉnh, 18&&hơn, 19&&xíu];[0]]
 Vì vậy, Vivo X90 sẽ tạo ra các tệp hình ảnh RAW rõ hơn S23 Ultra trong điều kiện thiếu sáng.	1
-[["4&&Vivo", "5&&X90"];["16&&S23", "17&&Ultra"];["9&&các", "10&&tệp", "11&&hình", "12&&ảnh", "13&&RAW"];["14&&rõ", "15&&hơn"];[4]]
+[[4&&Vivo, 5&&X90];[16&&S23, 17&&Ultra];[9&&các, 10&&tệp, 11&&hình, 12&&ảnh, 13&&RAW];[14&&rõ, 15&&hơn];[4]]
 Dưới đây là hình ảnh so sánh từ hai camera:	0
 [[];[];[];[];[]]
 Đặt hai máy ảnh ở Chế độ ban đêm sẽ tạo ra nhiều sự khác biệt hơn thế.	1
-[["2&&hai", "3&&máy", "4&&ảnh"];["2&&hai", "3&&máy", "4&&ảnh"];["6&&Chế", "7&&độ", "8&&ban", "9&&đêm"];["13&&nhiều", "14&&sự", "15&&khác", "16&&biệt", "17&&hơn", "18&&thế"];[-1]]
+[[2&&hai, 3&&máy, 4&&ảnh];[2&&hai, 3&&máy, 4&&ảnh];[6&&Chế, 7&&độ, 8&&ban, 9&&đêm];[13&&nhiều, 14&&sự, 15&&khác, 16&&biệt, 17&&hơn, 18&&thế];[-1]]
 Nếu bạn nhìn kỹ, vẫn còn một số nhiễu màu bám vào các vùng có chi tiết trong hình ảnh của S23 Ultra mà X90 Pro không thể nhìn thấy.	0
 [[];[];[];[];[]]
 Mặc dù vậy, chế độ ban đêm của S23 Ultra vẫn hoàn toàn ổn định và tốt.	0
@@ -273,7 +273,7 @@ Nhưng điều đó yêu cầu ISO cao hơn để tổng thể hình ảnh đủ
 Đáng buồn thay, cả Vivo X90 Pro và S23 Ultra đều rất muốn duy trì ở tốc độ màn trập 1/120 giây, nhưng không đủ nhanh để theo kịp đối tượng chụp đang di chuyển.	0
 [[];[];[];[];[]]
 Cùng chụp ở tốc độ màn trập 1/120 giây, hình ảnh từ S23 Ultra trông chi tiết và đẹp hơn hình ảnh của X90 Pro, ngay cả khi ISO X90 cao hơn.	1
-[["16&&S23", "17&&Ultra"];["27&&X90", "28&&Pro"];["13&&hình", "14&&ảnh"];["19&&chi", "20&&tiết", "21&&và", "22&&đẹp", "23&&hơn"];["34&&X90"];["16&&S23", "17&&Ultra"];["33&&ISO"];["35&&cao", "36&&hơn"];[4]]
+[[16&&S23, 17&&Ultra];[27&&X90, 28&&Pro];[13&&hình, 14&&ảnh];[19&&chi, 20&&tiết, 21&&và, 22&&đẹp, 23&&hơn];[34&&X90];[16&&S23, 17&&Ultra];[33&&ISO];[35&&cao, 36&&hơn];[4]]
 Nhưng chờ đã, chúng ta còn có ống kính!	0
 [[];[];[];[];[]]
 Bên cạnh một cảm biến lớn, chúng ta cũng cần quan tâm đến ống kính đi kèm.	0
@@ -281,15 +281,15 @@ Bên cạnh một cảm biến lớn, chúng ta cũng cần quan tâm đến ố
 Đây cũng là một phần hỗ trợ trong điều kiện chụp thiếu sáng vì ống kính lớn hơn thường sẽ có khẩu độ lớn hơn.	0
 [[];[];[];[];[]]
 Trên lý thuyết, S23 Ultra dường như có khẩu độ rộng hơn ở f/1.7.	1
-[["5&&S23", "6&&Ultra"];[];["10&&khẩu", "11&&độ"];["12&&rộng", "13&&hơn"];[4]]
+[[5&&S23, 6&&Ultra];[];[10&&khẩu, 11&&độ];[12&&rộng, 13&&hơn];[4]]
 Đối với camera điện thoại, khẩu độ lớn hơn thường cho nhiều ảnh sáng hơn và kiểm soát độ sâu trường ảnh nhiều hơn.	0
 [[];[];[];[];[]]
 Nhưng khẩu độ f/1.8 trên X90 thực sự lớn hơn đáng kể so với S23 Ultra vì tổng thể ống kính lớn hơn.	1
-[["8&&X90"];["17&&S23", "18&&Ultra"];["2&&khẩu", "3&&độ"];["11&&lớn", "12&&hơn", "13&&đáng", "14&&kể"];["8&&X90"];["17&&S23", "18&&Ultra"];["20&&tổng", "21&&thể", "22&&ống", "23&&kính"];["24&&lớn", "25&&hơn"];[4]]
+[[8&&X90];[17&&S23, 18&&Ultra];[2&&khẩu, 3&&độ];[11&&lớn, 12&&hơn, 13&&đáng, 14&&kể];[8&&X90];[17&&S23, 18&&Ultra];[20&&tổng, 21&&thể, 22&&ống, 23&&kính];[24&&lớn, 25&&hơn];[4]]
 Nếu bạn tính đến định dạng cảm biến và so sánh, thì khẩu độ f/1.7 của S23 Ultra hoạt động giống như ống kính full-frame f/6.5.	1
-[["14&&khẩu", "15&&độ", "16&&f", "17&&/", "18&&1.7", "19&&của", "20&&S23", "21&&Ultra"];["26&&ống", "27&&kính", "28&&full-frame", "29&&f", "30&&/", "31&&6.5"];[];["22&&hoạt", "23&&động", "24&&giống", "25&&như"];[0]]
+[[14&&khẩu, 15&&độ, 16&&f, 17&&/, 18&&1.7, 19&&của, 20&&S23, 21&&Ultra];[26&&ống, 27&&kính, 28&&full-frame, 29&&f, 30&&/, 31&&6.5];[];[22&&hoạt, 23&&động, 24&&giống, 25&&như];[0]]
 Còn ống kính f/1.8 của X90 Pro tương đương với f/4.9 trên full-frame.	1
-[["2&&ống", "3&&kính", "4&&f", "5&&/", "6&&1.8", "7&&của", "8&&X90", "9&&Pro"];["13&&f", "14&&/", "15&&4.9", "16&&trên", "17&&full-frame"];[];["10&&tương", "11&&đương"];[0]]
+[[2&&ống, 3&&kính, 4&&f, 5&&/, 6&&1.8, 7&&của, 8&&X90, 9&&Pro];[13&&f, 14&&/, 15&&4.9, 16&&trên, 17&&full-frame];[];[10&&tương, 11&&đương];[0]]
 Khẩu độ lớn hơn là tin tốt cho X90 Pro, đông thời cũng là tin xấu mặc dù có huy hiệu Zeiss trên ống kính.	0
 [[];[];[];[];[]]
 Điều này khiến phần trung tâm sắc nét, nhưng chất lượng ngay bên ngoài trung tâm lại giảm rõ rệt.	0
@@ -307,15 +307,15 @@ Và những tệp RAW đã nói lên sự thật: cảm biến lớn vẫn tốt
 Nhưng ở cuối mỗi quá trình chụp ảnh, người dùng chỉ quan trọng một điều là hình ảnh.	0
 [[];[];[];[];[]]
 Về mặt kỹ thuật, X90 Pro có thể nhỉnh hơn, nhưng xét về tổng thể S23 Ultra lại làm tốt hơn.	1
-[["6&&X90", "7&&Pro"];["18&&S23", "19&&Ultra"];["1&&Về", "2&&mặt", "3&&kỹ", "4&&thuật"];["10&&nhỉnh", "11&&hơn"];["18&&S23", "19&&Ultra"];["6&&X90", "7&&Pro"];["16&&tổng", "17&&thể"];["21&&làm", "22&&tốt", "23&&hơn"];[4]]
+[[6&&X90, 7&&Pro];[18&&S23, 19&&Ultra];[1&&Về, 2&&mặt, 3&&kỹ, 4&&thuật];[10&&nhỉnh, 11&&hơn];[18&&S23, 19&&Ultra];[6&&X90, 7&&Pro];[16&&tổng, 17&&thể];[21&&làm, 22&&tốt, 23&&hơn];[4]]
 Điều chỉnh sắc màu và HDR của Samsung hoạt động tốt hơn X90 Pro.	1
-[["8&&Samsung"];["13&&X90", "14&&Pro"];["1&&Điều", "2&&chỉnh", "3&&sắc", "4&&màu"];["9&&hoạt", "10&&động", "11&&tốt", "12&&hơn"];["8&&Samsung"];["13&&X90", "14&&Pro"];["6&&HDR"];["9&&hoạt", "10&&động", "11&&tốt", "12&&hơn"];[4]]
+[[8&&Samsung];[13&&X90, 14&&Pro];[1&&Điều, 2&&chỉnh, 3&&sắc, 4&&màu];[9&&hoạt, 10&&động, 11&&tốt, 12&&hơn];[8&&Samsung];[13&&X90, 14&&Pro];[6&&HDR];[9&&hoạt, 10&&động, 11&&tốt, 12&&hơn];[4]]
 Các pixel bổ sung hoặc các kỹ thuật tính toán hiệu quả đều nghiêng về lợi thế của Samsung.	1
-[["19&&Samsung"];[];["1&&Các", "2&&pixel", "3&&bổ", "4&&sung"];["14&&nghiêng", "15&&về", "16&&lợi", "17&&thế"];["19&&Samsung"];[];["6&&các", "7&&kỹ", "8&&thuật", "9&&tính", "10&&toán", "11&&hiệu", "12&&quả"];["14&&nghiêng", "15&&về", "16&&lợi", "17&&thế"];[4]]
+[[19&&Samsung];[];[1&&Các, 2&&pixel, 3&&bổ, 4&&sung];[14&&nghiêng, 15&&về, 16&&lợi, 17&&thế];[19&&Samsung];[];[6&&các, 7&&kỹ, 8&&thuật, 9&&tính, 10&&toán, 11&&hiệu, 12&&quả];[14&&nghiêng, 15&&về, 16&&lợi, 17&&thế];[4]]
 Samsung và Vivo đều nhận thức rõ rằng máy ảnh không chỉ là cảm biến.	0
 [[];[];[];[];[]]
 Và S23 Ultra dường như có tất cả các bộ phận tạo nên hệ thống hình ảnh đồng bộ hoá tốt hơn X90 Pro.	1
-[["2&&S23", "3&&Ultra"];["23&&X90", "24&&Pro"];["10&&bộ", "11&&phận", "12&&tạo", "13&&nên", "14&&hệ", "15&&thống", "16&&hình", "17&&ảnh", "18&&đồng", "19&&bộ", "20&&hoá"];["21&&tốt", "22&&hơn"];[4]]
+[[2&&S23, 3&&Ultra];[23&&X90, 24&&Pro];[10&&bộ, 11&&phận, 12&&tạo, 13&&nên, 14&&hệ, 15&&thống, 16&&hình, 17&&ảnh, 18&&đồng, 19&&bộ, 20&&hoá];[21&&tốt, 22&&hơn];[4]]
 title: Đánh giá chi tiết Samsung Galaxy A14 5G: Có gì đáng để mong đợi?	0
 [[];[];[];[];[]]
 Điện thoại Samsung  là thương hiệu nổi tiếng đến từ Hàn Quốc, với nhiều dòng  điện thoại  nổi tiếng ở nhiều phân khúc khác nhau.	0
@@ -329,9 +329,9 @@ Tổng quan về điện thoại Samsung Galaxy A14 5G	0
 Samsung Galaxy A14 5G có thể là chiếc smartphone đầu tiên của năm 2023 được nhà sản xuất đến từ Hàn Quốc phát hành chính thức ở Việt Nam, lấy cảm hứng thiết kế từ những mẫu  điện thoại Samsung dòng A  trước đây với mặt lưng phẳng, màn hình giọt nước cùng cụm camera xếp dọc.	0
 [[];[];[];[];[]]
 Kích thước màn hình thì sẽ là 6.6 inch nên bạn có thể thoải mái hơn trong việc xem phim trên một không gian lớn.	1
-[[];[];["19&&xem", "20&&phim"];["14&&thoải", "15&&mái", "16&&hơn"];[4]]
+[[];[];[19&&xem, 20&&phim];[14&&thoải, 15&&mái, 16&&hơn];[4]]
 Bên cạnh đó thì hãng còn hỗ trợ thêm cho máy tần số quét 90 Hz, nó giúp bạn có thể thao tác mượt mà hơn với những cử chỉ cuộn/lướt quen thuộc hằng ngày.	1
-[["11&&máy"];[];["23&&thao", "24&&tác"];["25&&mượt", "26&&mà", "27&&hơn"];[4]]
+[[11&&máy];[];[23&&thao, 24&&tác];[25&&mượt, 26&&mà, 27&&hơn];[4]]
 Những điểm nổi bật của điện thoại Samsung Galaxy A14 5G	0
 [[];[];[];[];[]]
 Thiết kế quen thuộc	0
@@ -339,7 +339,7 @@ Thiết kế quen thuộc	0
 Điện thoại Samsung Galaxy A14 5G được làm chủ yếu từ nhựa và hoàn thiện theo kiểu vân nổi bao phủ lên toàn bộ phần mặt lưng, điều này vừa giúp máy tăng thêm độ bền bỉ nhưng cũng vừa giúp bạn có thể cầm nắm chắc hơn.	0
 [[];[];[];[];[]]
 Mẫu điện thoại có thiết kế vuông sang trọng, tinh tế không khác gì những chiếc smartphone cao cấp trên thị trường.	1
-[["1&&Mẫu", "2&&điện", "3&&thoại"];["16&&những", "17&&chiếc", "18&&smartphone", "19&&cao", "20&&cấp", "21&&trên", "22&&thị", "23&&trường"];["5&&thiết", "6&&kế", "7&&vuông"];["8&&sang", "9&&trọng", "10&&,", "11&&tinh", "12&&tế", "13&&không", "14&&khác", "15&&gì"];[0]]
+[[1&&Mẫu, 2&&điện, 3&&thoại];[16&&những, 17&&chiếc, 18&&smartphone, 19&&cao, 20&&cấp, 21&&trên, 22&&thị, 23&&trường];[5&&thiết, 6&&kế, 7&&vuông];[8&&sang, 9&&trọng, 10&&,, 11&&tinh, 12&&tế, 13&&không, 14&&khác, 15&&gì];[0]]
 Phần camera được làm liền mạch cùng khung nguyên khối, tạo cảm giác cầm nắm chắc chắn, vừa vặn.	0
 [[];[];[];[];[]]
 Cảm biến vân tay được đặt ngay nút nguồn, giúp việc mở khóa nhanh chóng, tiện lợi và an toàn.	0
@@ -351,7 +351,7 @@ Tấm nền PLS LCD với ưu điểm là tái hiện hình ảnh có độ sán
 Về độ chi tiết thì hình ảnh hiển thị trên điện thoại là cực kỳ sắc nét nhờ có độ phân giải Full HD+.	0
 [[];[];[];[];[]]
 Hơn hết, Samsung cũng tích hợp sẵn tần số quét 90Hz cho trải nghiệm mượt mà, hơn hẳn các đại diện khác chỉ có 60Hz, giúp bạn hạn chế tình trạng răng cưa hay hỗ trợ cài đặt nhiều mức đồ họa cao hơn khi chơi game.	1
-[["4&&Samsung"];["21&&các", "22&&đại", "23&&diện", "24&&khác"];["9&&tần", "10&&số", "11&&quét"];["19&&hơn", "20&&hẳn"];[4]]
+[[4&&Samsung];[21&&các, 22&&đại, 23&&diện, 24&&khác];[9&&tần, 10&&số, 11&&quét];[19&&hơn, 20&&hẳn];[4]]
 Trong đó, camera chính đạt độ phân giải 50MP cho ảnh sắc nét và rõ ràng.	0
 [[];[];[];[];[]]
 Kèm theo đó sẽ là các tính năng chụp ảnh hữu dụng như siêu độ phân giải, xóa phông hay macro để bạn có thể thỏa sức sáng tạo trước những khung cảnh tuyệt đẹp với đa dạng phong cách chụp hơn.	0
@@ -361,7 +361,7 @@ Kèm theo đó sẽ là các tính năng chụp ảnh hữu dụng như siêu đ
 Trang bị trên chiếc điện thoại Samsung Galaxy A14 5G này là con chip MediaTek Dimensity 700 với tám nhân, điều này giúp máy có thể duy trì sự ổn định khi sử dụng các tác vụ từ lướt web, xem phim và cho đến chơi game.	0
 [[];[];[];[];[]]
 Đây cũng là phiên bản 5G giá tốt nhất của hãng từ trước đến nay.	1
-[["1&&Đây"];[];["7&&giá"];["8&&tốt", "9&&nhất", "10&&của", "11&&hãng", "12&&từ", "13&&trước", "14&&đến", "15&&nay"];[1]]
+[[1&&Đây];[];[7&&giá];[8&&tốt, 9&&nhất, 10&&của, 11&&hãng, 12&&từ, 13&&trước, 14&&đến, 15&&nay];[1]]
 Bên cạnh 4 GB RAM có sẵn, người dùng cũng có thể mở rộng RAM bằng tính năng RAM Plus, cho phép tăng lên 4 GB RAM, tổng RAM đạt được là 8 GB.	0
 [[];[];[];[];[]]
 Viên pin cho cả ngày dài	0
@@ -395,11 +395,11 @@ Trang MacRumors gần đây đã post những bức ảnh được chụp bởi 
 Cùng ngắm nhìn những bức ảnh thực tế được chụp bởi những người sở hữu iPhone 13 sớm nhất tại các nước ở dưới đây.	0
 [[];[];[];[];[]]
 Sẽ không có gì ngạc nhiên khi iPhone 13 vượt trội hơn iPhone 6 bởi một số khác biệt rõ rệt nhất.	1
-[["8&&iPhone", "9&&13"];["13&&iPhone", "14&&6"];[];["10&&vượt", "11&&trội", "12&&hơn"];[4]]
+[[8&&iPhone, 9&&13];[13&&iPhone, 14&&6];[];[10&&vượt, 11&&trội, 12&&hơn];[4]]
 iPhone 8 có chất lượng ảnh tốt hơn và có cấu hình màu sắc thực sự khá giống với iPhone 13, nhưng vẫn có sự chênh lệch rõ ràng trong điều kiện ánh sáng thấp hơn.	1
-[["1&&iPhone", "2&&8"];["20&&iPhone", "21&&13"];["4&&chất", "5&&lượng", "6&&ảnh"];["7&&tốt", "8&&hơn"];["1&&iPhone", "2&&8"];["20&&iPhone", "21&&13"];["11&&cấu", "12&&hình", "13&&màu", "14&&sắc"];["15&&thực", "16&&sự", "17&&khá", "18&&giống"];["1&&iPhone", "2&&8"];["20&&iPhone", "21&&13"];["32&&điều", "33&&kiện", "34&&ánh", "35&&sáng", "36&&thấp", "37&&hơn"];["27&&chênh", "28&&lệch", "29&&rõ", "30&&ràng"];[-1]]
+[[1&&iPhone, 2&&8];[20&&iPhone, 21&&13];[4&&chất, 5&&lượng, 6&&ảnh];[7&&tốt, 8&&hơn];[1&&iPhone, 2&&8];[20&&iPhone, 21&&13];[11&&cấu, 12&&hình, 13&&màu, 14&&sắc];[15&&thực, 16&&sự, 17&&khá, 18&&giống];[1&&iPhone, 2&&8];[20&&iPhone, 21&&13];[32&&điều, 33&&kiện, 34&&ánh, 35&&sáng, 36&&thấp, 37&&hơn];[27&&chênh, 28&&lệch, 29&&rõ, 30&&ràng];[-1]]
 Với iPhone 11 Pro, khó có thể thấy những cải tiến trong ảnh chụp với điều kiện ánh sáng yếu nhưng iPhone 13 làm tốt hơn nhiều với ánh sáng vào ban đêm (ít gây lóa ống kính hơn).	1
-[["23&&iPhone", "24&&13"];["2&&iPhone", "3&&11", "4&&Pro"];["37&&gây", "38&&lóa", "39&&ống", "40&&kính"];["36&&ít", "37&&gây", "38&&lóa", "39&&ống", "40&&kính", "41&&hơn"];[4]]
+[[23&&iPhone, 24&&13];[2&&iPhone, 3&&11, 4&&Pro];[37&&gây, 38&&lóa, 39&&ống, 40&&kính];[36&&ít, 37&&gây, 38&&lóa, 39&&ống, 40&&kính, 41&&hơn];[4]]
 Tính năng Deep Fusion hoạt động chủ yếu với ánh sáng trong nhà tạo ra sự khác biệt lớn về chất lượng bức ảnh được thể hiện ở ảnh so sánh dưới đây.	0
 [[];[];[];[];[]]
 Những chiếc iPhone trước đây đã gặp rất nhiều khó khăn trong việc phơi sáng chính xác các khu vực khác nhau có ánh sáng không đồng đều và Apple đã thực hiện rất nhiều cải tiến về chất lượng camera trong vài năm qua.	0
@@ -407,11 +407,11 @@ Những chiếc iPhone trước đây đã gặp rất nhiều khó khăn trong 
 Thông tin khác về iPhone 13	0
 [[];[];[];[];[]]
 Màn hình của iPhone 13 mới được cải tiến hơn so với các thế hệ tiền nhiệm của chúng cộng thêm các sản phẩm chứa thời lượng pin dài hơn.	1
-[["4&&iPhone", "5&&13"];["13&&các", "14&&thế", "15&&hệ", "16&&tiền", "17&&nhiệm", "18&&của", "19&&chúng"];["1&&Màn", "2&&hình"];["8&&cải", "9&&tiến", "10&&hơn"];["22&&các", "23&&sản", "24&&phẩm"];[];["26&&thời", "27&&lượng", "28&&pin"];["29&&dài", "30&&hơn"];[4]]
+[[4&&iPhone, 5&&13];[13&&các, 14&&thế, 15&&hệ, 16&&tiền, 17&&nhiệm, 18&&của, 19&&chúng];[1&&Màn, 2&&hình];[8&&cải, 9&&tiến, 10&&hơn];[22&&các, 23&&sản, 24&&phẩm];[];[26&&thời, 27&&lượng, 28&&pin];[29&&dài, 30&&hơn];[4]]
 Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 đang được đánh giá là con chip tốt nhất hiện nay.	1
-[["1&&Chip", "2&&A15", "3&&Bionic", "4&&cung", "5&&cấp", "6&&hiệu", "7&&năng", "8&&khủng", "9&&cho", "10&&iPhone", "11&&13"];[];[];["19&&tốt", "20&&nhất", "21&&hiện", "22&&nay"];[1]]
+[[1&&Chip, 2&&A15, 3&&Bionic, 4&&cung, 5&&cấp, 6&&hiệu, 7&&năng, 8&&khủng, 9&&cho, 10&&iPhone, 11&&13];[];[];[19&&tốt, 20&&nhất, 21&&hiện, 22&&nay];[1]]
 Con chip cho phép người dùng sử dụng nhiều tính năng quay phim chụp ảnh chuyên nghiệp hơn.	1
-[[];[];["12&&quay", "13&&phim", "14&&chụp", "15&&ảnh"];["16&&chuyên", "17&&nghiệp", "18&&hơn"];[4]]
+[[];[];[12&&quay, 13&&phim, 14&&chụp, 15&&ảnh];[16&&chuyên, 17&&nghiệp, 18&&hơn];[4]]
 Apple đã cải tiến bộ phận camera vốn đã hoàn chỉnh với các cảm biến mới hỗ trợ người dùng có những bức ảnh đẹp nhất.	0
 [[];[];[];[];[]]
 Title: So sánh iPhone 14 Pro Max và OPPO Find X6 Pro: màn lột xác của flagship OPPO!	0
@@ -419,7 +419,7 @@ Title: So sánh iPhone 14 Pro Max và OPPO Find X6 Pro: màn lột xác của fl
 OPPO Find X6 Pro là mẫu flagship mới nhất nằm trong dải sản phẩm Find của hãng.	0
 [[];[];[];[];[]]
 Với thiết kế hoàn toàn mới, cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ, đây có thể coi một trong những mẫu máy toàn diện nhất nửa đầu năm 2023.	1
-[["19&&đây"];[];[];["28&&toàn", "29&&diện", "30&&nhất", "31&&nửa", "32&&đầu", "33&&năm", "34&&2023"];[1]]
+[[19&&đây];[];[];[28&&toàn, 29&&diện, 30&&nhất, 31&&nửa, 32&&đầu, 33&&năm, 34&&2023];[1]]
 Vậy thì hãy đặt lên bàn cân cùng với iPhone 14 Pro Max, để xem đâu là lựa chọn dành cho bạn nhé.	0
 [[];[];[];[];[]]
 Thời lượng pin	0
@@ -431,11 +431,11 @@ Thế hệ OPPO Find X5 Pro tiền nhiệm mặc dù có cùng dung lượng pin
 Còn trên Find X6 Pro, máy đạt tới hơn 7 giờ on-screen với các tác vụ hỗn hợp, bao gồm cả chơi game lẫn chấm điểm benchmark.	0
 [[];[];[];[];[]]
 Con số này có thể coi là đã tiệm cận iPhone 14 Pro Max.	1
-[[];["11&&iPhone", "12&&14", "13&&Pro", "14&&Max"];["1&&Con", "2&&số", "3&&này"];["9&&tiệm", "10&&cận"];[0]]
+[[];[11&&iPhone, 12&&14, 13&&Pro, 14&&Max];[1&&Con, 2&&số, 3&&này];[9&&tiệm, 10&&cận];[0]]
 Tất nhiên thiết bị tới từ Apple vẫn cho thời lượng pin nhỉnh hơn một chút với từ 8 – 9 giờ on-screen, tuy nhiên sự chênh lệch khi sử dụng thực tế là không quá nhiều.	1
-[["3&&thiết", "4&&bị", "5&&tới", "6&&từ", "7&&Apple"];[];["10&&thời", "11&&lượng", "12&&pin"];["13&&nhỉnh", "14&&hơn", "15&&một"];[4]]
+[[3&&thiết, 4&&bị, 5&&tới, 6&&từ, 7&&Apple];[];[10&&thời, 11&&lượng, 12&&pin];[13&&nhỉnh, 14&&hơn, 15&&một];[4]]
 Tuy nhiên, OPPO lại sở hữu công suất sạc vượt trội hơn hẳn đối thủ.	1
-[["4&&OPPO"];["15&&đối", "16&&thủ"];["8&&công", "9&&suất", "10&&sạc"];["11&&vượt", "12&&trội", "13&&hơn", "14&&hẳn"];[4]]
+[[4&&OPPO];[15&&đối, 16&&thủ];[8&&công, 9&&suất, 10&&sạc];[11&&vượt, 12&&trội, 13&&hơn, 14&&hẳn];[4]]
 Với củ sạc 100W, máy có thể nạp đầy viên pin 5.000mAh chỉ trong 20 phút, trong khi iPhone 14 Pro Max cần tới gần 2 tiếng để sạc đầy pin.	0
 [[];[];[];[];[]]
 Con số này là rất đáng cân nhắc nếu như bạn có nhu cầu sử dụng, di chuyển nhiều.	0
@@ -449,9 +449,9 @@ Màn hình	0
 Cá nhân mình thích màn hình trên OPPO hơn vì màn hình cong khiến trải nghiệm hiển thị tăng lên khá nhiều.	0
 [[];[];[];[];[]]
 – Độ sáng màn hình trên OPPO là 2.500 nits, cao hơn so với chỉ 2.000 nits trên iPhone.	1
-[["7&&OPPO"];["20&&iPhone"];["2&&Độ", "3&&sáng", "4&&màn", "5&&hình"];["12&&cao", "13&&hơn"];[4]]
+[[7&&OPPO];[20&&iPhone];[2&&Độ, 3&&sáng, 4&&màn, 5&&hình];[12&&cao, 13&&hơn];[4]]
 Tuy nhiên, đó chỉ là độ sáng cực đại khi dùng ngoài trời, còn trong các điều kiện thông thường, OPPO sẽ hạ xuống còn 1.500 nits, tức là tối hơn một chút so với iPhone 14 Pro Max.	1
-[["24&&OPPO"];["40&&iPhone", "41&&14", "42&&Pro", "43&&Max"];[];["34&&tối", "35&&hơn", "36&&một", "37&&chút"];[5]]
+[[24&&OPPO];[40&&iPhone, 41&&14, 42&&Pro, 43&&Max];[];[34&&tối, 35&&hơn, 36&&một, 37&&chút];[5]]
 Độ sáng màn hình trên OPPO Find X6 Pro và iPhone 14 Pro Max	0
 [[];[];[];[];[]]
 Camera	0
@@ -459,7 +459,7 @@ Camera	0
 Tiếp theo là tới camera.	0
 [[];[];[];[];[]]
 Với cá nhân mình, Find X6 Pro đã lột xác hoàn toàn so với Find X5 Pro của năm ngoái, và đây mới là OPPO Flagship mà mình mong muốn.	1
-[["6&&Find", "7&&X6", "8&&Pro"];["16&&Find", "17&&X5", "18&&Pro"];[];["10&&lột", "11&&xác", "12&&hoàn", "13&&toàn"];[-1]]
+[[6&&Find, 7&&X6, 8&&Pro];[16&&Find, 17&&X5, 18&&Pro];[];[10&&lột, 11&&xác, 12&&hoàn, 13&&toàn];[-1]]
 THỨ TỰ ẢNH CHỤP	0
 [[];[];[];[];[]]
 OPPO FIND X6 PRO (TRÁI) — IPHONE 14 PRO MAX (PHẢI)	0
@@ -469,13 +469,13 @@ Hãy đi đến khả năng quay video.	0
 Trong điều kiện thực tế, nước ảnh cho ra trên OPPO là rất tuyệt vời ngay cả khi đặt cạnh với iPhone 14 Pro Max.	0
 [[];[];[];[];[]]
 Khả năng cân bằng trắng tốt, màu áo xử lý đúng chứ không bị ngả sang tone vàng như trên iPhone.	1
-[[];["22&&iPhone"];["8&&màu", "9&&áo"];["14&&không", "15&&bị", "16&&ngả", "17&&sang", "18&&tone", "19&&vàng", "20&&như"];[-1]]
+[[];[22&&iPhone];[8&&màu, 9&&áo];[14&&không, 15&&bị, 16&&ngả, 17&&sang, 18&&tone, 19&&vàng, 20&&như];[-1]]
 Đặc biệt khi zoom, OPPO cho lượng chi tiết tái tạo tốt hơn thấy rõ so với iPhone, đôi khi bị mờ và noise.	1
-[["6&&OPPO"];["19&&iPhone"];["8&&lượng", "9&&chi", "10&&tiết", "11&&tái", "12&&tạo"];["13&&tốt", "14&&hơn", "15&&thấy", "16&&rõ"];[4]]
+[[6&&OPPO];[19&&iPhone];[8&&lượng, 9&&chi, 10&&tiết, 11&&tái, 12&&tạo];[13&&tốt, 14&&hơn, 15&&thấy, 16&&rõ];[4]]
 Những bức ảnh chụp ra trên OPPO Find X6 Pro cho màu sắc rất tương đồng với Galaxy S23 Ultra.	1
-[["1&&Những", "2&&bức", "3&&ảnh", "4&&chụp", "5&&ra", "6&&trên", "7&&OPPO", "8&&Find", "9&&X6", "10&&Pro"];["18&&Galaxy", "19&&S23", "20&&Ultra"];["12&&màu", "13&&sắc"];["15&&tương", "16&&đồng"];["7&&OPPO", "8&&Find", "9&&X6", "10&&Pro"];["18&&Galaxy", "19&&S23", "20&&Ultra"];["1&&Những", "2&&bức", "3&&ảnh"];["12&&màu", "13&&sắc", "14&&rất", "15&&tương", "16&&đồng"];[0]]
+[[1&&Những, 2&&bức, 3&&ảnh, 4&&chụp, 5&&ra, 6&&trên, 7&&OPPO, 8&&Find, 9&&X6, 10&&Pro];[18&&Galaxy, 19&&S23, 20&&Ultra];[12&&màu, 13&&sắc];[15&&tương, 16&&đồng];[7&&OPPO, 8&&Find, 9&&X6, 10&&Pro];[18&&Galaxy, 19&&S23, 20&&Ultra];[1&&Những, 2&&bức, 3&&ảnh];[12&&màu, 13&&sắc, 14&&rất, 15&&tương, 16&&đồng];[0]]
 Tuy nhiên, điểm đáng giá là chi tiết được tái tạo rất chân thực, không bị gai góc như trên Samsung.	1
-[[];["23&&Samsung"];[];["17&&không", "18&&bị", "19&&gai", "20&&góc", "21&&như"];[4]]
+[[];[23&&Samsung];[];[17&&không, 18&&bị, 19&&gai, 20&&góc, 21&&như];[4]]
 Trên iPhone, bức ảnh vẫn được tái tạo rất chân thật, tuy nhiên ám vàng khá mạnh và bạn nên hậu kỳ chúng trước khi đăng tải lên mạng xã hội.	0
 [[];[];[];[];[]]
 Tuy nhiên, ảnh chân dung trên OPPO Find X6 Pro đôi khi cho ra sự thiếu ổn định khi xảy ra hiện tượng xoá phông lỗi.	0
@@ -491,7 +491,7 @@ Một điểm đáng khen nữa trên Find X6 Pro là nó đã tối ưu rất v
 Với ứng dụng Instagram, mình đã có thể chuyển qua lại giữa các ống kính với nhau.	0
 [[];[];[];[];[]]
 Chất ảnh chụp ra trên các mạng xã hội nhìn chung là tốt, không bị bệt hay mất chi tiết như trên các thế hệ tiền nhiệm.	1
-[[];["24&&các", "25&&thế", "26&&hệ", "27&&tiền", "28&&nhiệm"];["1&&Chất", "2&&ảnh", "3&&chụp", "4&&ra", "5&&trên", "6&&các", "7&&mạng", "8&&xã", "9&&hội"];["15&&không", "16&&bị", "17&&bệt", "18&&hay", "19&&mất", "20&&chi", "21&&tiết", "22&&như"];[-1]]
+[[];[24&&các, 25&&thế, 26&&hệ, 27&&tiền, 28&&nhiệm];[1&&Chất, 2&&ảnh, 3&&chụp, 4&&ra, 5&&trên, 6&&các, 7&&mạng, 8&&xã, 9&&hội];[15&&không, 16&&bị, 17&&bệt, 18&&hay, 19&&mất, 20&&chi, 21&&tiết, 22&&như];[-1]]
 Khi so sánh với iPhone 14 Pro Max, thực sự OPPO năm nay đã làm quá tốt về chi tiết, tuy nhiên màu sắc vẫn bị biến đổi và không thật như khi trên khung xem trước.	0
 [[];[];[];[];[]]
 Thiết kế	0
@@ -503,27 +503,27 @@ OPPO có một mặt lưng da đẹp, đi kèm cụm camera rất lớn với th
 Còn iPhone đi theo ngôn ngữ thiết kế sang trọng, cao cấp với mặt lưng kính nhám cùng cụm ba camera vô cùng dày và lớn.	0
 [[];[];[];[];[]]
 Cả hai đều sở hữu những thông số bảo vệ tốt, từ IP68 cho đến kính cường lực cao cấp.	1
-[["1&&Cả", "2&&hai"];["1&&Cả", "2&&hai"];["6&&những", "7&&thông", "8&&số", "9&&bảo", "10&&vệ", "11&&tốt"];["3&&đều", "4&&sở", "5&&hữu"];[0]]
+[[1&&Cả, 2&&hai];[1&&Cả, 2&&hai];[6&&những, 7&&thông, 8&&số, 9&&bảo, 10&&vệ, 11&&tốt];[3&&đều, 4&&sở, 5&&hữu];[0]]
 Tuy nhiên, do sở hữu màn hình cong nên OPPO Find X6 Pro sẽ khó dán cường lực và phụ kiện hơn iPhone.	1
-[["11&&OPPO", "12&&Find", "13&&X6", "14&&Pro"];["24&&iPhone"];["18&&cường", "19&&lực", "20&&và", "21&&phụ", "22&&kiện"];["16&&khó", "17&&dán", "18&&cường", "19&&lực", "20&&và", "21&&phụ", "22&&kiện", "23&&hơn"];[5]]
+[[11&&OPPO, 12&&Find, 13&&X6, 14&&Pro];[24&&iPhone];[18&&cường, 19&&lực, 20&&và, 21&&phụ, 22&&kiện];[16&&khó, 17&&dán, 18&&cường, 19&&lực, 20&&và, 21&&phụ, 22&&kiện, 23&&hơn];[5]]
 Cá nhân mình thích cách làm màn hình cong trên Galaxy S23 Ultra hơn, độ cong vừa đủ trong khi vẫn đem đến trải nghiệm hiển thị là tuyệt vời.	0
 [[];[];[];[];[]]
 Hiệu năng	0
 [[];[];[];[];[]]
 Là hai chiếc flagship đỉnh cao nhất nên dễ hiểu khi cả OPPO Find X6 Pro và iPhone 14 Pro Max đều sở hữu cấu hình mạnh mẽ nhất.	1
-[["13&&OPPO", "14&&Find", "15&&X6", "16&&Pro"];["18&&iPhone", "19&&14", "20&&Pro", "21&&Max"];["25&&cấu", "26&&hình", "27&&mạnh", "28&&mẽ", "29&&nhất"];["22&&đều", "23&&sở", "24&&hữu"];[0]]
+[[13&&OPPO, 14&&Find, 15&&X6, 16&&Pro];[18&&iPhone, 19&&14, 20&&Pro, 21&&Max];[25&&cấu, 26&&hình, 27&&mạnh, 28&&mẽ, 29&&nhất];[22&&đều, 23&&sở, 24&&hữu];[0]]
 Tuy nhiên, khi xét cùng phiên bản bộ nhớ tiêu chuẩn, OPPO Find X6 Pro có đến 12GB RAM và 256GB ROM, gấp đôi so với 6GB RAM và 128GB ROM trên iPhone.	1
-[["14&&OPPO", "15&&Find", "16&&X6", "17&&Pro"];["36&&iPhone"];["7&&phiên", "8&&bản", "9&&bộ", "10&&nhớ", "11&&tiêu", "12&&chuẩn"];["26&&gấp", "27&&đôi"];[4]]
+[[14&&OPPO, 15&&Find, 16&&X6, 17&&Pro];[36&&iPhone];[7&&phiên, 8&&bản, 9&&bộ, 10&&nhớ, 11&&tiêu, 12&&chuẩn];[26&&gấp, 27&&đôi];[4]]
 Qua các bài chấm điểm benchmark, OPPO Find X6 Pro đạt được hơn 1,3 triệu điểm Antutu Benchmark.	0
 [[];[];[];[];[]]
 Tuy nhiên, iPhone lại duy trì được hiệu năng tốt hơn khi đạt độ ổn định cao hơn tới 10% trong bài kiểm tra 3DMark Wild Life Extreme Stress Test.	1
-[["4&&iPhone"];[];["6&&duy", "7&&trì", "8&&được", "9&&hiệu", "10&&năng"];["11&&tốt", "12&&hơn"];["4&&iPhone"];[];["15&&độ", "16&&ổn", "17&&định"];["18&&cao", "19&&hơn", "20&&tới", "21&&10%"];[4]]
+[[4&&iPhone];[];[6&&duy, 7&&trì, 8&&được, 9&&hiệu, 10&&năng];[11&&tốt, 12&&hơn];[4&&iPhone];[];[15&&độ, 16&&ổn, 17&&định];[18&&cao, 19&&hơn, 20&&tới, 21&&10%];[4]]
 Khả năng chơi game trên OPPO Find X6 Pro năm nay cũng rất ấn tượng.	0
 [[];[];[];[];[]]
 Kể cả với Genshin Impact, một tựa game ‘sát’ cấu hình thì OPPO vẫn có thể duy trì hiệu năng tốt khi dải FPS cho ra gần như thẳng tắp.	0
 [[];[];[];[];[]]
 Nhiệt lượng toả ra cũng vô cùng mát mẻ, thậm chí tốt hơn rất nhiều so với iPhone 14 Pro Max.	1
-[[];["19&&iPhone", "20&&14", "21&&Pro", "22&&Max"];["1&&Nhiệt", "2&&lượng", "3&&toả", "4&&ra"];["13&&tốt", "14&&hơn", "15&&rất", "16&&nhiều"];[4]]
+[[];[19&&iPhone, 20&&14, 21&&Pro, 22&&Max];[1&&Nhiệt, 2&&lượng, 3&&toả, 4&&ra];[13&&tốt, 14&&hơn, 15&&rất, 16&&nhiều];[4]]
 Thông số sau 15 phút chơi Genshin Impact (Cao, 60FPS) trên OPPO Find X6 Pro và iPhone 14 Pro Max	0
 [[];[];[];[];[]]
 Tổng kết	0
@@ -533,7 +533,7 @@ Có thể nói, cả iPhone 14 Pro Max lẫn OPPO Find X6 Pro đều là những
 OPPO sẽ phù hợp nếu bạn yêu cầu một chiếc máy với ngôn ngữ thiết kế độc đáo, mới lạ, một hiệu năng mạnh mẽ cùng hệ thống camera chất lượng.	0
 [[];[];[];[];[]]
 Còn iPhone 14 Pro Max vẫn sẽ là sự lựa chọn an toàn nhờ hệ điều hành iOS ổn định, lâu dài cùng thương hiệu tốt hơn.	1
-[["2&&iPhone", "3&&14", "4&&Pro", "5&&Max"];[];["15&&hệ", "16&&điều", "17&&hành", "18&&iOS"];["19&&ổn", "20&&định", "21&&,", "22&&lâu", "23&&dài", "24&&cùng", "25&&thương", "26&&hiệu", "27&&tốt", "28&&hơn"];[4]]
+[[2&&iPhone, 3&&14, 4&&Pro, 5&&Max];[];[15&&hệ, 16&&điều, 17&&hành, 18&&iOS];[19&&ổn, 20&&định, 21&&,, 22&&lâu, 23&&dài, 24&&cùng, 25&&thương, 26&&hiệu, 27&&tốt, 28&&hơn];[4]]
 Title: iPhone 12 Mini và 12 Pro Max: Người khổng lồ cùng bé tí hon, có gì đặc biệt?	0
 [[];[];[];[];[]]
 Trong bài viết ngày hôm nay, chúng ta hãy cùng đi so sánh iPhone 12 Mini và iPhone 12 Pro Max, để xem giữa một “gã khổng lồ” khi đứng cạnh một “chú bé” tí hon thì có gì thú vị nhé.	0
@@ -545,19 +545,19 @@ So sánh nhanh iPhone 12 Mini và iPhone 12 Pro Max	0
 Dưới đây là video so sánh nhanh ngoại hình, thiết kế của hai sản phẩm này.	0
 [[];[];[];[];[]]
 iPhone 12 Mini đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của iPhone 12 tiêu chuẩn.	1
-[["1&&iPhone", "2&&12", "3&&Mini"];["20&&iPhone", "21&&12", "22&&tiêu", "23&&chuẩn"];["14&&kích", "15&&thước"];["16&&nhỏ", "17&&gọn", "18&&hơn"];[6]]
+[[1&&iPhone, 2&&12, 3&&Mini];[20&&iPhone, 21&&12, 22&&tiêu, 23&&chuẩn];[14&&kích, 15&&thước];[16&&nhỏ, 17&&gọn, 18&&hơn];[6]]
 Các thông số kỹ thuật còn lại như bộ vi xử lý, cụm camera, thiết kế vuông vức lấy cảm hứng từ iPhone 4 thì gần như là giống hệt.	1
-[[];[];["9&&bộ", "10&&vi", "11&&xử", "12&&lý"];["28&&gần", "29&&như", "30&&là", "31&&giống", "32&&hệt"];[];[];["14&&cụm", "15&&camera"];["28&&gần", "29&&như", "30&&là", "31&&giống", "32&&hệt"];[];[];["17&&thiết", "18&&kế"];["28&&gần", "29&&như", "30&&là", "31&&giống", "32&&hệt"];[0]]
+[[];[];[9&&bộ, 10&&vi, 11&&xử, 12&&lý];[28&&gần, 29&&như, 30&&là, 31&&giống, 32&&hệt];[];[];[14&&cụm, 15&&camera];[28&&gần, 29&&như, 30&&là, 31&&giống, 32&&hệt];[];[];[17&&thiết, 18&&kế];[28&&gần, 29&&như, 30&&là, 31&&giống, 32&&hệt];[0]]
 Nhờ thiết kế viền màn hình mỏng, iPhone 12 Mini trông rất “mi nhon” khi đặt cạnh những người anh em sở hữu màn hình chỉ 4,7 inch như iPhone 7, 8 hay là SE 2020.	0
 [[];[];[];[];[]]
 iPhone 12 Pro Max lại là một thái cực hoàn toàn khác, đây đúng nghĩa là một gã khổng lồ thực sự trong thế hệ iPhone 12 năm nay.	0
 [[];[];[];[];[]]
 Phiên bản này có kích thước nhỉnh hơn đôi chút cho với các mẫu iPhone 6/7/8 Plus và hơn hẳn so với 11 Pro Max ra mắt vào năm ngoái.	1
-[["1&&Phiên", "2&&bản", "3&&này"];["13&&các", "14&&mẫu", "15&&iPhone", "16&&6", "17&&/", "18&&7", "19&&/", "20&&8", "21&&Plus"];["5&&kích", "6&&thước"];["7&&nhỉnh", "8&&hơn", "9&&đôi", "10&&chút"];["1&&Phiên", "2&&bản", "3&&này"];["27&&11", "28&&Pro", "29&&Max"];["5&&kích", "6&&thước"];["23&&hơn", "24&&hẳn"];[6]]
+[[1&&Phiên, 2&&bản, 3&&này];[13&&các, 14&&mẫu, 15&&iPhone, 16&&6, 17&&/, 18&&7, 19&&/, 20&&8, 21&&Plus];[5&&kích, 6&&thước];[7&&nhỉnh, 8&&hơn, 9&&đôi, 10&&chút];[1&&Phiên, 2&&bản, 3&&này];[27&&11, 28&&Pro, 29&&Max];[5&&kích, 6&&thước];[23&&hơn, 24&&hẳn];[6]]
 Không sở hữu sự tương đồng về mặt cấu hình như bộ đôi iPhone 12 Mini và iPhone 12, Apple đã lợi dụng không gian lớn bên trong phiên bản Pro Max để trang bị cho mẫu smartphone này hệ thống camera chất lượng hơn.	1
-[["38&&mẫu", "39&&smartphone", "40&&này", "41&&hệ", "42&&thống", "43&&camera"];["14&&iPhone", "15&&12", "16&&Mini"];[];["44&&chất", "45&&lượng", "46&&hơn"];["38&&mẫu", "39&&smartphone", "40&&này"];["18&&iPhone", "19&&12"];["41&&hệ", "42&&thống", "43&&camera"];["44&&chất", "45&&lượng", "46&&hơn"];["30&&phiên", "31&&bản", "32&&Pro", "33&&Max"];["14&&iPhone", "15&&12", "16&&Mini"];["9&&cấu", "10&&hình"];["1&&Không", "2&&sở", "3&&hữu", "4&&sự", "5&&tương", "6&&đồng"];["30&&phiên", "31&&bản", "32&&Pro", "33&&Max"];["18&&iPhone", "19&&12"];["9&&cấu", "10&&hình"];["1&&Không", "2&&sở", "3&&hữu", "4&&sự", "5&&tương", "6&&đồng"];[-1]]
+[[38&&mẫu, 39&&smartphone, 40&&này, 41&&hệ, 42&&thống, 43&&camera];[14&&iPhone, 15&&12, 16&&Mini];[];[44&&chất, 45&&lượng, 46&&hơn];[38&&mẫu, 39&&smartphone, 40&&này];[18&&iPhone, 19&&12];[41&&hệ, 42&&thống, 43&&camera];[44&&chất, 45&&lượng, 46&&hơn];[30&&phiên, 31&&bản, 32&&Pro, 33&&Max];[14&&iPhone, 15&&12, 16&&Mini];[9&&cấu, 10&&hình];[1&&Không, 2&&sở, 3&&hữu, 4&&sự, 5&&tương, 6&&đồng];[30&&phiên, 31&&bản, 32&&Pro, 33&&Max];[18&&iPhone, 19&&12];[9&&cấu, 10&&hình];[1&&Không, 2&&sở, 3&&hữu, 4&&sự, 5&&tương, 6&&đồng];[-1]]
 Nhờ đó, chất lượng hình ảnh trên iPhone 12 Pro Max hứa hẹn sẽ có chất lượng vượt trội hơn so với người anh em của mình.	1
-[["9&&iPhone", "10&&12", "11&&Pro", "12&&Max"];["24&&người", "25&&anh", "26&&em", "27&&của", "28&&mình"];["4&&chất", "5&&lượng", "6&&hình", "7&&ảnh"];["19&&vượt", "20&&trội", "21&&hơn"];["6&&hình", "7&&ảnh", "8&&trên", "9&&iPhone", "10&&12", "11&&Pro", "12&&Max"];["24&&người", "25&&anh", "26&&em", "27&&của", "28&&mình"];["4&&chất", "5&&lượng"];["19&&vượt", "20&&trội", "21&&hơn"];[4]]
+[[9&&iPhone, 10&&12, 11&&Pro, 12&&Max];[24&&người, 25&&anh, 26&&em, 27&&của, 28&&mình];[4&&chất, 5&&lượng, 6&&hình, 7&&ảnh];[19&&vượt, 20&&trội, 21&&hơn];[6&&hình, 7&&ảnh, 8&&trên, 9&&iPhone, 10&&12, 11&&Pro, 12&&Max];[24&&người, 25&&anh, 26&&em, 27&&của, 28&&mình];[4&&chất, 5&&lượng];[19&&vượt, 20&&trội, 21&&hơn];[4]]
 Được biết, bộ đôi iPhone 12 Mini và Pro Max sẽ cùng được lên kệ vào ngày 13/11 tới đây với mức giá khởi điểm lần lượt từ $729 cho bản Mini và $1.099 cho bản Pro Max.	0
 [[];[];[];[];[]]
 title: So sánh camera giữa Galaxy S10 Plus và Huawei P30 Pro	0
@@ -573,21 +573,21 @@ Vậy thì trên thực tế thì P30 Pro có cho chất lượng ảnh tương 
 Trang technobuffalo đã có 1 bài so sánh camera của 2 mẫu flagship này dựa theo những ảnh chụp thực tế.	0
 [[];[];[];[];[]]
 Cả 2 máy đều sử dụng camera mặc định với phiên bản phần mềm ngay từ lúc khui hộp, nhằm tránh đi sự sai lệch về khả năng thực tế do 2 mẫu smartphone này có thời điểm ra mắt khác nhau.	1
-[["1&&Cả", "2&&2", "3&&máy"];["1&&Cả", "2&&2", "3&&máy"];["7&&camera", "8&&mặc", "9&&định"];["4&&đều", "5&&sử", "6&&dụng"];[0]]
+[[1&&Cả, 2&&2, 3&&máy];[1&&Cả, 2&&2, 3&&máy];[7&&camera, 8&&mặc, 9&&định];[4&&đều, 5&&sử, 6&&dụng];[0]]
 Với ảnh chụp từ camera góc rộng và camera góc siêu rộng như trong ảnh trên, bên trái sẽ là ảnh từ P30 Pro, còn bên phải là của Galaxy S10 Plus, tương tự với các ảnh ở dưới.	0
 [[];[];[];[];[]]
 Samsung có góc chụp rộng hơn ở camera góc siêu rộng, chất lượng hình của cả 2 máy đều rất tương xứng, tuy có 1 chút sự khác biệt ở màu sắc nhưng điều này là không đáng kể do nó còn phụ thuộc vào sự tinh chỉnh của hãng và người dùng.	1
-[["1&&Samsung"];[];["3&&góc", "4&&chụp"];["5&&rộng", "6&&hơn"];["17&&cả", "18&&2", "19&&máy"];["17&&cả", "18&&2", "19&&máy"];["13&&chất", "14&&lượng", "15&&hình"];["20&&đều", "21&&rất", "22&&tương", "23&&xứng"];[0]]
+[[1&&Samsung];[];[3&&góc, 4&&chụp];[5&&rộng, 6&&hơn];[17&&cả, 18&&2, 19&&máy];[17&&cả, 18&&2, 19&&máy];[13&&chất, 14&&lượng, 15&&hình];[20&&đều, 21&&rất, 22&&tương, 23&&xứng];[0]]
 Điểm khác biệt lớn nhất mà chúng ta nhận thấy sẽ là ở camera zoom.	1
-[[];[];["14&&camera", "15&&zoom"];["1&&Điểm", "2&&khác", "3&&biệt", "4&&lớn", "5&&nhất"];[-1]]
+[[];[];[14&&camera, 15&&zoom];[1&&Điểm, 2&&khác, 3&&biệt, 4&&lớn, 5&&nhất];[-1]]
 P30 Pro cho khả năng zoom quang học 5X, 10X zoom lai và lên đến 50X zoom kỹ thuật số.	0
 [[];[];[];[];[]]
 Đối với Galaxy S10 Plus thì chỉ là 2X zoom quang học và zoom kỹ thuật số tối đa chỉ có 10X.	0
 [[];[];[];[];[]]
 Không nghi ngờ gì nữa, khả năng zoom của P30 Pro vượt trội hơn hẳn so với Galaxy S10 Plus.	1
-[["11&&P30", "12&&Pro"];["19&&Galaxy", "20&&S10", "21&&Plus"];["7&&khả", "8&&năng", "9&&zoom"];["13&&vượt", "14&&trội", "15&&hơn", "16&&hẳn"];[4]]
+[[11&&P30, 12&&Pro];[19&&Galaxy, 20&&S10, 21&&Plus];[7&&khả, 8&&năng, 9&&zoom];[13&&vượt, 14&&trội, 15&&hơn, 16&&hẳn];[4]]
 Galaxy S10 Plus cho chất lượng hình ảnh rất tốt, nhưng khả năng zoom của P30 Pro lại càng tuyệt vời hơn.	1
-[["17&&P30", "18&&Pro"];["1&&Galaxy", "2&&S10", "3&&Plus"];["13&&khả", "14&&năng", "15&&zoom"];["21&&tuyệt", "22&&vời", "23&&hơn"];[4]]
+[[17&&P30, 18&&Pro];[1&&Galaxy, 2&&S10, 3&&Plus];[13&&khả, 14&&năng, 15&&zoom];[21&&tuyệt, 22&&vời, 23&&hơn];[4]]
 Đối với smartphone, khả năng zoom ở khoảng cách cực xa như vậy mà vẫn giữ được độ rõ nét, và chi tiết đủ dùng như vậy là quá vượt trội.	0
 [[];[];[];[];[]]
 Khi đi sâu vào khả năng chụp ảnh xóa phông thì chế độ chụp chân dung của Huawei sẽ không hoạt động nếu chủ thể không có mặt người.	0
@@ -595,9 +595,9 @@ Khi đi sâu vào khả năng chụp ảnh xóa phông thì chế độ chụp c
 Hình ảnh bên trái của Huawei P30 Pro được chụp bằng chế độ khẩu độ, còn bên phải của Samsung Galaxy S10 Plus được chụp qua chế độ lấy nét động ( chế độ này của Samsung không đòi hỏi yêu cầu mặt người trên chủ thể).	0
 [[];[];[];[];[]]
 Huawei P30 Pro cho khả năng chụp ảnh thiếu sáng tốt hơn so với Samsung Galaxy S10 Plus ngay cả khi ở chế độ thường và chế độ chụp đêm.	1
-[["1&&Huawei", "2&&P30", "3&&Pro"];["15&&Samsung", "16&&Galaxy", "17&&S10", "18&&Plus"];["5&&khả", "6&&năng", "7&&chụp", "8&&ảnh", "9&&thiếu", "10&&sáng"];["11&&tốt", "12&&hơn"];[4]]
+[[1&&Huawei, 2&&P30, 3&&Pro];[15&&Samsung, 16&&Galaxy, 17&&S10, 18&&Plus];[5&&khả, 6&&năng, 7&&chụp, 8&&ảnh, 9&&thiếu, 10&&sáng];[11&&tốt, 12&&hơn];[4]]
 Khẩu độ kép trên Galaxy Note 10 Plus cho nhiều ánh sáng vào hơn, nhưng kể cả khi dùng thêm tính năng tối ưu hóa cảnh vật thì P30 Pro vẫn cho hình ảnh giàu chi tiết và ánh sáng hơn.	1
-[["5&&Galaxy", "6&&Note", "7&&10", "8&&Plus"];["30&&P30", "31&&Pro"];["1&&Khẩu", "2&&độ", "3&&kép"];["9&&cho", "10&&nhiều", "11&&ánh", "12&&sáng", "13&&vào", "14&&hơn"];["30&&P30", "31&&Pro"];["5&&Galaxy", "6&&Note", "7&&10", "8&&Plus"];["34&&hình", "35&&ảnh"];["36&&giàu", "37&&chi", "38&&tiết", "39&&và", "40&&ánh", "41&&sáng", "42&&hơn"];[4]]
+[[5&&Galaxy, 6&&Note, 7&&10, 8&&Plus];[30&&P30, 31&&Pro];[1&&Khẩu, 2&&độ, 3&&kép];[9&&cho, 10&&nhiều, 11&&ánh, 12&&sáng, 13&&vào, 14&&hơn];[30&&P30, 31&&Pro];[5&&Galaxy, 6&&Note, 7&&10, 8&&Plus];[34&&hình, 35&&ảnh];[36&&giàu, 37&&chi, 38&&tiết, 39&&và, 40&&ánh, 41&&sáng, 42&&hơn];[4]]
 Hình trên bên trái là P30 Pro dùng chế độ chụp thường, ở giữa là chế độ tối của P30 Pro, bên phải là của Galaxy S10 Plus.	0
 [[];[];[];[];[]]
 Cảm biến ToF mang lại những gì ?	0
@@ -605,71 +605,71 @@ Cảm biến ToF mang lại những gì ?	0
 Theo như Huawei thì cảm biến này cung cấp dữ kiện cho AI để phân biệt được những chi tiết nhỏ nhất như sợi tóc trên chủ thể trong chế độ chân dung.	0
 [[];[];[];[];[]]
 Vậy nên cả 2 đều cho chất lượng ảnh chân dung khá tương đồng.	1
-[["3&&cả", "4&&2"];["3&&cả", "4&&2"];["7&&chất", "8&&lượng", "9&&ảnh", "10&&chân", "11&&dung"];["12&&khá", "13&&tương", "14&&đồng"];[0]]
+[[3&&cả, 4&&2];[3&&cả, 4&&2];[7&&chất, 8&&lượng, 9&&ảnh, 10&&chân, 11&&dung];[12&&khá, 13&&tương, 14&&đồng];[0]]
 Ngoại trừ việc dù không có ToF nhưng Galaxy S10 Plus vẫn nhận diện tóc trên đầu của chủ thể tốt hơn P30 Pro.	1
-[["9&&Galaxy", "10&&S10", "11&&Plus"];["23&&P30", "24&&Pro"];["13&&nhận", "14&&diện", "15&&tóc", "16&&trên", "17&&đầu", "18&&của", "19&&chủ", "20&&thể"];["21&&tốt", "22&&hơn"];[4]]
+[[9&&Galaxy, 10&&S10, 11&&Plus];[23&&P30, 24&&Pro];[13&&nhận, 14&&diện, 15&&tóc, 16&&trên, 17&&đầu, 18&&của, 19&&chủ, 20&&thể];[21&&tốt, 22&&hơn];[4]]
 Cả 2 mẫu flagship này đều bắt được chi tiết rất tốt ngay cả khi chịu ảnh hưởng của ánh sáng mạnh phát ra từ chiếc đèn sưởi.	1
-[["1&&Cả", "2&&2", "3&&mẫu", "4&&flagship", "5&&này"];[];["9&&chi", "10&&tiết"];["6&&đều", "7&&bắt", "8&&được", "9&&chi", "10&&tiết", "11&&rất", "12&&tốt"];[0]]
+[[1&&Cả, 2&&2, 3&&mẫu, 4&&flagship, 5&&này];[];[9&&chi, 10&&tiết];[6&&đều, 7&&bắt, 8&&được, 9&&chi, 10&&tiết, 11&&rất, 12&&tốt];[0]]
 Huawei cho độ chính xác màu tốt hơn ở khu vực đèn sáng mạnh.	1
-[["1&&Huawei"];[];["3&&độ", "4&&chính", "5&&xác", "6&&màu"];["7&&tốt", "8&&hơn", "9&&ở", "10&&khu", "11&&vực", "12&&đèn", "13&&sáng", "14&&mạnh"];[4]]
+[[1&&Huawei];[];[3&&độ, 4&&chính, 5&&xác, 6&&màu];[7&&tốt, 8&&hơn, 9&&ở, 10&&khu, 11&&vực, 12&&đèn, 13&&sáng, 14&&mạnh];[4]]
 Còn trong khi đó Galaxy S10 Plus có dải tương phản động tốt hơn, có thể dễ dàng nhận ra khi nhìn vào ổ cửa sổ đằng sau.	1
-[["5&&Galaxy", "6&&S10", "7&&Plus"];[];["9&&dải", "10&&tương", "11&&phản", "12&&động"];["13&&tốt", "14&&hơn"];[4]]
+[[5&&Galaxy, 6&&S10, 7&&Plus];[];[9&&dải, 10&&tương, 11&&phản, 12&&động];[13&&tốt, 14&&hơn];[4]]
 Galaxy S10 Plus hơi tỏ ra thua thiệt khi chụp selfie, phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng.	1
-[["1&&Galaxy", "2&&S10", "3&&Plus"];[];["10&&chụp", "11&&selfie"];["5&&tỏ", "6&&ra", "7&&thua", "8&&thiệt"];[5]]
+[[1&&Galaxy, 2&&S10, 3&&Plus];[];[10&&chụp, 11&&selfie];[5&&tỏ, 6&&ra, 7&&thua, 8&&thiệt];[5]]
 Khi so sánh thì Huawei P30 Pro cho chi tiết hình tốt hơn với độ chính xác màu cao hơn ở cả chủ thể và hậu cảnh.	1
-[["5&&Huawei", "6&&P30", "7&&Pro"];[];["9&&chi", "10&&tiết", "11&&hình"];["12&&tốt", "13&&hơn"];["5&&Huawei", "6&&P30", "7&&Pro"];[];["15&&độ", "16&&chính", "17&&xác", "18&&màu"];["19&&cao", "20&&hơn"];[4]]
+[[5&&Huawei, 6&&P30, 7&&Pro];[];[9&&chi, 10&&tiết, 11&&hình];[12&&tốt, 13&&hơn];[5&&Huawei, 6&&P30, 7&&Pro];[];[15&&độ, 16&&chính, 17&&xác, 18&&màu];[19&&cao, 20&&hơn];[4]]
 Hình ảnh trên là một bài thử AI khá thú vị ở trên 2 mẫu điện thoại.	0
 [[];[];[];[];[]]
 P30 Pro làm mờ hậu cảnh khá tốt trong khi đó vẫn giữ được chi tiết của bông hoa.	0
 [[];[];[];[];[]]
 Đối với Galaxy S10 Plus thì bông hoa cũng tương tự nhưng hậu cảnh lại không được xử lý như Huawei.	1
-[["3&&Galaxy", "4&&S10", "5&&Plus"];["21&&Huawei"];["7&&bông", "8&&hoa"];["10&&tương", "11&&tự"];["3&&Galaxy", "4&&S10", "5&&Plus"];["21&&Huawei"];["13&&hậu", "14&&cảnh"];["16&&không", "17&&được", "18&&xử", "19&&lý", "20&&như"];[-1]]
+[[3&&Galaxy, 4&&S10, 5&&Plus];[21&&Huawei];[7&&bông, 8&&hoa];[10&&tương, 11&&tự];[3&&Galaxy, 4&&S10, 5&&Plus];[21&&Huawei];[13&&hậu, 14&&cảnh];[16&&không, 17&&được, 18&&xử, 19&&lý, 20&&như];[-1]]
 Samsung Galaxy S10 Plus và Huawei P30 Pro đều có cụm camera ấn tượng, nhưng 2 máy hướng đến 2 trường phái khác nhau khi chụp.	1
-[["1&&Samsung", "2&&Galaxy", "3&&S10", "4&&Plus"];["6&&Huawei", "7&&P30", "8&&Pro"];["11&&cụm", "12&&camera", "13&&ấn", "14&&tượng"];["9&&đều", "10&&có"];[0]]
+[[1&&Samsung, 2&&Galaxy, 3&&S10, 4&&Plus];[6&&Huawei, 7&&P30, 8&&Pro];[11&&cụm, 12&&camera, 13&&ấn, 14&&tượng];[9&&đều, 10&&có];[0]]
 Vậy thì quyết định chiếc smartphone nào sở hữu camera tốt hơn còn phụ thuộc vào sở thích cũng như con mắt nghệ thuật của người dùng.	0
 [[];[];[];[];[]]
 Huawei P30 Pro cho hình ấm áp hơn, còn Samsung Galaxy S10 Plus đi theo hướng tươi sáng nhiều hơn.	1
-[["1&&Huawei", "2&&P30", "3&&Pro"];["11&&Samsung", "12&&Galaxy", "13&&S10"];["5&&hình"];["6&&ấm", "7&&áp", "8&&hơn"];["11&&Samsung", "12&&Galaxy", "13&&S10"];["1&&Huawei", "2&&P30", "3&&Pro"];[];["18&&tươi", "19&&sáng", "20&&nhiều", "21&&hơn"];[4]]
+[[1&&Huawei, 2&&P30, 3&&Pro];[11&&Samsung, 12&&Galaxy, 13&&S10];[5&&hình];[6&&ấm, 7&&áp, 8&&hơn];[11&&Samsung, 12&&Galaxy, 13&&S10];[1&&Huawei, 2&&P30, 3&&Pro];[];[18&&tươi, 19&&sáng, 20&&nhiều, 21&&hơn];[4]]
 Title: Cùng phân khúc, nên mua iPhone 13 Pro Max hay Xiaomi Mi 11 Ultra?	0
 [[];[];[];[];[]]
 Trong bài viết ngày hôm nay, hãy cùng FPTShop so sánh hai chiếc smartphone cao cấp có thể nói là tốt nhất trên thị trường hiện nay là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé!	1
-[["13&&hai", "14&&chiếc", "15&&smartphone", "16&&cao", "17&&cấp"];[];[];["22&&tốt", "23&&nhất", "24&&trên", "25&&thị", "26&&trường", "27&&hiện", "28&&nay"];[1]]
+[[13&&hai, 14&&chiếc, 15&&smartphone, 16&&cao, 17&&cấp];[];[];[22&&tốt, 23&&nhất, 24&&trên, 25&&thị, 26&&trường, 27&&hiện, 28&&nay];[1]]
 Trong bài viết ngày hôm nay, hãy cùng so sánh 2 chiếc smartphone tốt nhất của Apple và Xiaomi ở thời điểm hiện tại là iPhone 13 Pro Max chính hãng và Xiaomi Mi 11 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé!	0
 [[];[];[];[];[]]
 Thiết kế	0
 [[];[];[];[];[]]
 Tổng quan về thiết kế, mặc dù có phần notch lớn ở mặt trước nhưng với nhiều người iPhone 13 Pro Max trông hấp dẫn hơn so với Xiaomi Mi 11 Ultra.	1
-[["20&&iPhone", "21&&13", "22&&Pro", "23&&Max"];["30&&Xiaomi", "31&&Mi", "32&&11", "33&&Ultra"];["4&&thiết", "5&&kế"];["25&&hấp", "26&&dẫn", "27&&hơn"];[4]]
+[[20&&iPhone, 21&&13, 22&&Pro, 23&&Max];[30&&Xiaomi, 31&&Mi, 32&&11, 33&&Ultra];[4&&thiết, 5&&kế];[25&&hấp, 26&&dẫn, 27&&hơn];[4]]
 Đó là bởi vì điện thoại của Apple có chất lượng hoàn thiện cao cấp hơn với thân máy mỏng và nhẹ hơn đối thủ của nó.	1
-[["5&&điện", "6&&thoại", "7&&của", "8&&Apple"];["24&&đối", "25&&thủ", "26&&của", "27&&nó"];["10&&chất", "11&&lượng", "12&&hoàn", "13&&thiện"];["14&&cao", "15&&cấp", "16&&hơn"];["5&&điện", "6&&thoại", "7&&của", "8&&Apple"];["24&&đối", "25&&thủ", "26&&của", "27&&nó"];["18&&thân", "19&&máy"];["20&&mỏng", "21&&và", "22&&nhẹ", "23&&hơn"];[4]]
+[[5&&điện, 6&&thoại, 7&&của, 8&&Apple];[24&&đối, 25&&thủ, 26&&của, 27&&nó];[10&&chất, 11&&lượng, 12&&hoàn, 13&&thiện];[14&&cao, 15&&cấp, 16&&hơn];[5&&điện, 6&&thoại, 7&&của, 8&&Apple];[24&&đối, 25&&thủ, 26&&của, 27&&nó];[18&&thân, 19&&máy];[20&&mỏng, 21&&và, 22&&nhẹ, 23&&hơn];[4]]
 Ngoài ra, di động Apple có khung viền được hoàn thiện từ chất liệu thép không gỉ cao cấp hơn khung nhôm của Mi 11 Ultra.	1
-[["4&&di", "5&&động", "6&&Apple"];["25&&Mi", "26&&11", "27&&Ultra"];["8&&khung", "9&&viền"];["14&&chất", "15&&liệu", "16&&thép", "17&&không", "18&&gỉ", "19&&cao", "20&&cấp", "21&&hơn"];["4&&di", "5&&động", "6&&Apple", "7&&có", "8&&khung", "9&&viền"];["22&&khung", "23&&nhôm", "24&&của", "25&&Mi", "26&&11", "27&&Ultra"];["14&&chất", "15&&liệu", "16&&thép", "17&&không", "18&&gỉ"];["19&&cao", "20&&cấp", "21&&hơn"];[4]]
+[[4&&di, 5&&động, 6&&Apple];[25&&Mi, 26&&11, 27&&Ultra];[8&&khung, 9&&viền];[14&&chất, 15&&liệu, 16&&thép, 17&&không, 18&&gỉ, 19&&cao, 20&&cấp, 21&&hơn];[4&&di, 5&&động, 6&&Apple, 7&&có, 8&&khung, 9&&viền];[22&&khung, 23&&nhôm, 24&&của, 25&&Mi, 26&&11, 27&&Ultra];[14&&chất, 15&&liệu, 16&&thép, 17&&không, 18&&gỉ];[19&&cao, 20&&cấp, 21&&hơn];[4]]
 Mặt lưng chiếc iPhone này được bảo vệ bởi kính Ceramic Shield siêu bền và nó có khả năng sống sót dưới nước ở độ sâu 6 mét trong tối đa 30 phút.	0
 [[];[];[];[];[]]
 Trong khi đó, mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến mặt sau của nó kém thẩm mỹ hơn so với đối thủ Apple.	1
-[["18&&nó"];["25&&đối", "26&&thủ", "27&&Apple"];["15&&mặt", "16&&sau"];["19&&kém", "20&&thẩm", "21&&mỹ", "22&&hơn"];[5]]
+[[18&&nó];[25&&đối, 26&&thủ, 27&&Apple];[15&&mặt, 16&&sau];[19&&kém, 20&&thẩm, 21&&mỹ, 22&&hơn];[5]]
 Nhưng như đề cập ở trên, mặt trước trên mẫu flagship mới của Xiaomi trông đẹp hơn iPhone 13 Pro Max nhờ sử dụng màn hình đục lỗ, hai cạnh bên được uốn cong tràn và tỷ lệ màn hình trên thân máy cao hơn.	1
-[["11&&mẫu", "12&&flagship", "13&&mới", "14&&của", "15&&Xiaomi"];["19&&iPhone", "20&&13", "21&&Pro", "22&&Max"];["8&&mặt", "9&&trước"];["17&&đẹp", "18&&hơn"];["11&&mẫu", "12&&flagship", "13&&mới", "14&&của", "15&&Xiaomi"];["19&&iPhone", "20&&13", "21&&Pro", "22&&Max"];["39&&tỷ", "40&&lệ", "41&&màn", "42&&hình", "43&&trên", "44&&thân", "45&&máy"];["46&&cao", "47&&hơn"];[4]]
+[[11&&mẫu, 12&&flagship, 13&&mới, 14&&của, 15&&Xiaomi];[19&&iPhone, 20&&13, 21&&Pro, 22&&Max];[8&&mặt, 9&&trước];[17&&đẹp, 18&&hơn];[11&&mẫu, 12&&flagship, 13&&mới, 14&&của, 15&&Xiaomi];[19&&iPhone, 20&&13, 21&&Pro, 22&&Max];[39&&tỷ, 40&&lệ, 41&&màn, 42&&hình, 43&&trên, 44&&thân, 45&&máy];[46&&cao, 47&&hơn];[4]]
 Màn hình	0
 [[];[];[];[];[]]
 Đều là những chiếc smartphone cao cấp nhất của Apple và Xiaomi ở thời điểm hiện tại, thế nên cả iPhone 13 Pro Max và Mi 11 Ultra đều có màn hình cực kỳ chất lượng và dư sức mang đến những giây phút giải trí đa phương tiện tốt nhất cho người dùng.	0
 [[];[];[];[];[]]
 Tuy nhiên, trên lý thuyết thì màn hình Xiaomi Mi 11 Ultra có chất lượng hiển thị nhỉnh hơn một chút so với iPhone 13 Pro Max khi nó sử dụng tấm nền AMOLED hiển thị tới một tỷ màu, có tần số quét 120Hz, chứng nhận HDR10+, Dolby Vision và độ sáng cực đại cao (lên đến 1,700 nits), cũng như độ phân giải Quad-HD+.	1
-[["8&&màn", "9&&hình", "10&&Xiaomi", "11&&Mi", "12&&11", "13&&Ultra"];["25&&iPhone", "26&&13", "27&&Pro", "28&&Max"];["15&&chất", "16&&lượng", "17&&hiển", "18&&thị"];["19&&nhỉnh", "20&&hơn", "21&&một", "22&&chút"];["10&&Xiaomi", "11&&Mi", "12&&11", "13&&Ultra"];["25&&iPhone", "26&&13", "27&&Pro", "28&&Max"];["8&&màn", "9&&hình"];["15&&chất", "16&&lượng", "17&&hiển", "18&&thị", "19&&nhỉnh", "20&&hơn", "21&&một", "22&&chút"];[4]]
+[[8&&màn, 9&&hình, 10&&Xiaomi, 11&&Mi, 12&&11, 13&&Ultra];[25&&iPhone, 26&&13, 27&&Pro, 28&&Max];[15&&chất, 16&&lượng, 17&&hiển, 18&&thị];[19&&nhỉnh, 20&&hơn, 21&&một, 22&&chút];[10&&Xiaomi, 11&&Mi, 12&&11, 13&&Ultra];[25&&iPhone, 26&&13, 27&&Pro, 28&&Max];[8&&màn, 9&&hình];[15&&chất, 16&&lượng, 17&&hiển, 18&&thị, 19&&nhỉnh, 20&&hơn, 21&&một, 22&&chút];[4]]
 Thông số kỹ thuật và phần mềm	0
 [[];[];[];[];[]]
 Trên lý thuyết, Xiaomi Mi 11 Ultra trông mạnh mẽ hơn khi đi kèm với RAM lên đến 12GB, nhưng thực tế là iPhone 13 Pro Max sẽ cho hiệu suất tốt hơn do chip Apple A15 Bionic mạnh hơn và sự tối ưu hóa tốt hơn của hệ điều hành iOS.	1
-[["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"];["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"];[];["10&&mạnh", "11&&mẽ", "12&&hơn"];["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"];["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"];["32&&hiệu", "33&&suất"];["34&&tốt", "35&&hơn"];["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"];["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"];["37&&chip"];["41&&mạnh", "42&&hơn"];["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"];["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"];["45&&tối", "46&&ưu", "47&&hóa"];["48&&tốt", "49&&hơn"];[4]]
+[[5&&Xiaomi, 6&&Mi, 7&&11, 8&&Ultra];[26&&iPhone, 27&&13, 28&&Pro, 29&&Max];[];[10&&mạnh, 11&&mẽ, 12&&hơn];[26&&iPhone, 27&&13, 28&&Pro, 29&&Max];[5&&Xiaomi, 6&&Mi, 7&&11, 8&&Ultra];[32&&hiệu, 33&&suất];[34&&tốt, 35&&hơn];[26&&iPhone, 27&&13, 28&&Pro, 29&&Max];[5&&Xiaomi, 6&&Mi, 7&&11, 8&&Ultra];[37&&chip];[41&&mạnh, 42&&hơn];[26&&iPhone, 27&&13, 28&&Pro, 29&&Max];[5&&Xiaomi, 6&&Mi, 7&&11, 8&&Ultra];[45&&tối, 46&&ưu, 47&&hóa];[48&&tốt, 49&&hơn];[4]]
 Mặc dù chỉ có RAM 6GB nhưng iPhone 13 Pro Max có thể nhanh hơn và mạnh hơn.	1
-[["8&&iPhone", "9&&13", "10&&Pro", "11&&Max"];[];[];["14&&nhanh", "15&&hơn"];["8&&iPhone", "9&&13", "10&&Pro", "11&&Max"];[];[];["17&&mạnh", "18&&hơn"];[4]]
+[[8&&iPhone, 9&&13, 10&&Pro, 11&&Max];[];[];[14&&nhanh, 15&&hơn];[8&&iPhone, 9&&13, 10&&Pro, 11&&Max];[];[];[17&&mạnh, 18&&hơn];[4]]
 Xiaomi Mi 11 Ultra chạy Android 11 khi xuất xưởng và nó sẽ là một trong những điện thoại Xiaomi đầu tiên nhận được bản cập nhật Android 12, trong khi iPhone 13 Pro Max chạy iOS 15.	0
 [[];[];[];[];[]]
 Máy ảnh	0
 [[];[];[];[];[]]
 Trong hai điện thoại này, Xiaomi Mi 11 Ultra cho chất lượng chụp ảnh tốt hơn.	1
-[["7&&Xiaomi", "8&&Mi", "9&&11", "10&&Ultra"];[];["12&&chất", "13&&lượng", "14&&chụp", "15&&ảnh"];["16&&tốt", "17&&hơn"];[4]]
+[[7&&Xiaomi, 8&&Mi, 9&&11, 10&&Ultra];[];[12&&chất, 13&&lượng, 14&&chụp, 15&&ảnh];[16&&tốt, 17&&hơn];[4]]
 Theo DxOMark, đây là chiếc điện thoại có camera tốt nhất trên thị trường.	1
-[["4&&đây"];[];["10&&camera"];["11&&tốt", "12&&nhất", "13&&trên", "14&&thị", "15&&trường"];[0]]
+[[4&&đây];[];[10&&camera];[11&&tốt, 12&&nhất, 13&&trên, 14&&thị, 15&&trường];[0]]
 Nó có camera chính 50MP và một cặp cảm biến 48MP: một là ống kính tiềm vọng với OIS và zoom quang 5x, trong khi cảm biến còn lại là ống kính góc siêu rộng.	0
 [[];[];[];[];[]]
 Chính vì vậy mà mẫu flagship mới nhất của Xiaomi có thể chụp được những bức ảnh tuyệt vời trong mọi điều kiện ánh sáng và quay video với độ phân giải lên đến 8K.	0
@@ -677,13 +677,13 @@ Chính vì vậy mà mẫu flagship mới nhất của Xiaomi có thể chụp �
 Còn với iPhone 13 Pro Max thì dù hệ thống máy ảnh của điện thoại này cũng cực kỳ chất lượng và dư sức làm hài lòng bất kỳ người dùng khó tính nào, nhưng nó chỉ đi kèm ống kính tele hỗ trợ zoom quang học tối đa chỉ 3x.	0
 [[];[];[];[];[]]
 Do đó, xét về tính linh hoạt thì di động Apple kém hơn một chút so với đối thủ của nó.	1
-[["10&&di", "11&&động", "12&&Apple"];["19&&đối", "20&&thủ", "21&&của", "22&&nó"];["6&&tính", "7&&linh", "8&&hoạt"];["13&&kém", "14&&hơn", "15&&một", "16&&chút"];[5]]
+[[10&&di, 11&&động, 12&&Apple];[19&&đối, 20&&thủ, 21&&của, 22&&nó];[6&&tính, 7&&linh, 8&&hoạt];[13&&kém, 14&&hơn, 15&&một, 16&&chút];[5]]
 Thời lượng pin	0
 [[];[];[];[];[]]
 Mặc dù Xiaomi Mi 11 Ultra có pin 5,000 mAh lớn hơn, nhưng iPhone 13 Pro Max có thể cung cấp thời lượng pin lâu hơn trong một lần sạc vì nó có tối ưu hóa phần mềm tốt hơn.	1
-[["3&&Xiaomi", "4&&Mi", "5&&11", "6&&Ultra"];["15&&iPhone", "16&&13", "17&&Pro", "18&&Max"];["8&&pin"];["11&&lớn", "12&&hơn"];["15&&iPhone", "16&&13", "17&&Pro", "18&&Max"];["3&&Xiaomi", "4&&Mi", "5&&11", "6&&Ultra"];["23&&thời", "24&&lượng", "25&&pin"];["26&&lâu", "27&&hơn"];["33&&nó"];["3&&Xiaomi", "4&&Mi", "5&&11", "6&&Ultra"];["35&&tối", "36&&ưu", "37&&hóa", "38&&phần", "39&&mềm"];["40&&tốt", "41&&hơn"];[4]]
+[[3&&Xiaomi, 4&&Mi, 5&&11, 6&&Ultra];[15&&iPhone, 16&&13, 17&&Pro, 18&&Max];[8&&pin];[11&&lớn, 12&&hơn];[15&&iPhone, 16&&13, 17&&Pro, 18&&Max];[3&&Xiaomi, 4&&Mi, 5&&11, 6&&Ultra];[23&&thời, 24&&lượng, 25&&pin];[26&&lâu, 27&&hơn];[33&&nó];[3&&Xiaomi, 4&&Mi, 5&&11, 6&&Ultra];[35&&tối, 36&&ưu, 37&&hóa, 38&&phần, 39&&mềm];[40&&tốt, 41&&hơn];[4]]
 Mặt khác, chiếc flagship Xiaomi có tốc độ sạc nhanh hơn nhờ công suất 65W cho cả sạc có dây và sạc không dây.	1
-[["4&&chiếc", "5&&flagship", "6&&Xiaomi"];[];["8&&tốc", "9&&độ", "10&&sạc"];["11&&nhanh", "12&&hơn"];[4]]
+[[4&&chiếc, 5&&flagship, 6&&Xiaomi];[];[8&&tốc, 9&&độ, 10&&sạc];[11&&nhanh, 12&&hơn];[4]]
 Tạm kết	0
 [[];[];[];[];[]]
 Nhìn chung, đây vẫn là cuộc chiến chưa có hồi kết của 2 ông lớn công nghệ.	0
@@ -701,13 +701,13 @@ Với mức giá đã “mềm” hơn, cùng những thông số phần cứng 
 Là một flagship với tuổi đời 1 năm rưỡi, tới giờ Samsung Galaxy S10 Plus vẫn khẳng định mình là chiếc smartphone vô cùng đáng mua và có mức giá cũng rất hấp dẫn.	0
 [[];[];[];[];[]]
 Thậm chí trong tầm giá dưới 12 triệu, đây chắc chắn sẽ là nhà vô địch về nhiều mặt như hiển thị, thiết kế và camera.	1
-[["10&&đây"];[];["22&&hiển", "23&&thị"];["14&&là", "15&&nhà", "16&&vô", "17&&địch"];["10&&đây"];[];["25&&thiết", "26&&kế"];["14&&là", "15&&nhà", "16&&vô", "17&&địch"];["10&&đây"];[];["28&&camera"];["14&&là", "15&&nhà", "16&&vô", "17&&địch"];[1]]
+[[10&&đây];[];[22&&hiển, 23&&thị];[14&&là, 15&&nhà, 16&&vô, 17&&địch];[10&&đây];[];[25&&thiết, 26&&kế];[14&&là, 15&&nhà, 16&&vô, 17&&địch];[10&&đây];[];[28&&camera];[14&&là, 15&&nhà, 16&&vô, 17&&địch];[1]]
 Nếu bạn đang tìm một chiếc điện thoại dung hoà đủ 3 yếu tố thiết kế đẹp – cấu hình khoẻ – camera tốt trong tầm giá dưới 12 triệu đồng, có lẽ Galaxy S10 Plus là cái tên đầu tiên bạn nên nghĩ tới.	0
 [[];[];[];[];[]]
 Vô địch tầm giá về thiết kế	0
 [[];[];[];[];[]]
 So với những sản phẩm cùng phân khúc giá, khó có chiếc điện thoại nào có thể đọ được với Galaxy S10 Plus về mặt thẩm mỹ và mức độ hoàn thiện.	1
-[["3&&những", "4&&sản", "5&&phẩm", "6&&cùng", "7&&phân", "8&&khúc", "9&&giá"];["22&&Galaxy", "23&&S10", "24&&Plus"];["27&&thẩm", "28&&mỹ"];["11&&khó", "12&&có", "13&&chiếc", "14&&điện", "15&&thoại", "16&&nào", "17&&có", "18&&thể", "19&&đọ", "20&&được"];["3&&những", "4&&sản", "5&&phẩm", "6&&cùng", "7&&phân", "8&&khúc", "9&&giá"];["22&&Galaxy", "23&&S10", "24&&Plus"];["30&&mức", "31&&độ", "32&&hoàn", "33&&thiện"];["11&&khó", "12&&có", "13&&chiếc", "14&&điện", "15&&thoại", "16&&nào", "17&&có", "18&&thể", "19&&đọ", "20&&được"];[5]]
+[[3&&những, 4&&sản, 5&&phẩm, 6&&cùng, 7&&phân, 8&&khúc, 9&&giá];[22&&Galaxy, 23&&S10, 24&&Plus];[27&&thẩm, 28&&mỹ];[11&&khó, 12&&có, 13&&chiếc, 14&&điện, 15&&thoại, 16&&nào, 17&&có, 18&&thể, 19&&đọ, 20&&được];[3&&những, 4&&sản, 5&&phẩm, 6&&cùng, 7&&phân, 8&&khúc, 9&&giá];[22&&Galaxy, 23&&S10, 24&&Plus];[30&&mức, 31&&độ, 32&&hoàn, 33&&thiện];[11&&khó, 12&&có, 13&&chiếc, 14&&điện, 15&&thoại, 16&&nào, 17&&có, 18&&thể, 19&&đọ, 20&&được];[5]]
 Tổng thể thiết kế Galaxy S10 Plus sử dụng hai mặt kính cường lực Gorilla Glass cực bền, ép vào khung viền kim loại được hoàn thiện sáng bóng.	0
 [[];[];[];[];[]]
 Kiểu thiết kế này của Samsung sẵn sàng làm bất cứ ai nhìn vào cũng phải “xiêu lòng”, tạo ra vẻ ngoài vô cùng sang trọng.	0
@@ -715,9 +715,9 @@ Kiểu thiết kế này của Samsung sẵn sàng làm bất cứ ai nhìn vào
 Chiếc smartphone này cũng xuất hiện trong hàng loạt “bộ cánh” đủ sắc màu khác nhau bao gồm xanh ngọc lục bảo, trắng pha lê và đen ngân hà.	0
 [[];[];[];[];[]]
 Hiếm có chiếc smartphone nào đạt được tiêu chuẩn “tràn viền” như Galaxy S10 Plus.	1
-[["4&&smartphone"];["15&&Galaxy", "16&&S10", "17&&Plus"];["8&&tiêu", "9&&chuẩn", "10&&“", "11&&tràn", "12&&viền", "13&&”"];["1&&Hiếm", "2&&có", "3&&chiếc", "4&&smartphone", "5&&nào", "6&&đạt", "7&&được", "8&&tiêu", "9&&chuẩn", "10&&“", "11&&tràn", "12&&viền", "13&&”"];[5]]
+[[4&&smartphone];[15&&Galaxy, 16&&S10, 17&&Plus];[8&&tiêu, 9&&chuẩn, 10&&“, 11&&tràn, 12&&viền, 13&&”];[1&&Hiếm, 2&&có, 3&&chiếc, 4&&smartphone, 5&&nào, 6&&đạt, 7&&được, 8&&tiêu, 9&&chuẩn, 10&&“, 11&&tràn, 12&&viền, 13&&”];[5]]
 Sở hữu màn hình Dynamic AMOLED được uốn cong về hai cạnh, với phần viền được làm siêu mỏng và không hề có một chiếc tai thỏ nào như cách nhiều hãng smartphone theo đuổi, Galaxy S10 Plus sở hữu một mặt trước gần như chỉ có màn hình, với độ bao phủ lên tới 88.9%.	1
-[["38&&Galaxy", "39&&S10", "40&&Plus"];["32&&nhiều", "33&&hãng", "34&&smartphone"];["25&&một", "26&&chiếc", "27&&tai", "28&&thỏ"];["22&&không", "23&&hề", "24&&có", "25&&một", "26&&chiếc", "27&&tai", "28&&thỏ", "29&&nào"];[-1]]
+[[38&&Galaxy, 39&&S10, 40&&Plus];[32&&nhiều, 33&&hãng, 34&&smartphone];[25&&một, 26&&chiếc, 27&&tai, 28&&thỏ];[22&&không, 23&&hề, 24&&có, 25&&một, 26&&chiếc, 27&&tai, 28&&thỏ, 29&&nào];[-1]]
 Thứ duy nhất chiếm đi một chút không gian mặt trước là cụm camera trước được đặt thông minh ở một góc màn hình, giúp cản trở tối thiểu trải nghiệm hình ảnh của người dùng.	0
 [[];[];[];[];[]]
 Ơn trời, cổng tai nghe 3.5mm đang dần trở nên hiếm thấy trong nhiều năm nay vẫn được Samsung giữ lại trên chiếc flagship của mình.	0
@@ -725,9 +725,9 @@ Thứ duy nhất chiếm đi một chút không gian mặt trước là cụm ca
 Hơn thế nữa, nếu bạn đang tìm kiếm một chiếc điện thoại có khả năng khá nước và bụi bẩn trong tầm tiền này, Galaxy S10 Plus chắc chắc sẽ không làm bạn thất vọng với tiêu chuẩn IP68.	0
 [[];[];[];[];[]]
 Vẫn khẳng định top đầu về chất lượng màn hình	1
-[[];[];["7&&chất", "8&&lượng", "9&&màn", "10&&hình"];["4&&top", "5&&đầu"];[1]]
+[[];[];[7&&chất, 8&&lượng, 9&&màn, 10&&hình];[4&&top, 5&&đầu];[1]]
 Màn hình của S10 Plus là một trong số những chiếc điện thoại được đánh giá cao nhất về chất lượng.	1
-[["4&&S10", "5&&Plus"];[];["1&&Màn", "2&&hình"];["14&&được", "15&&đánh", "16&&giá", "17&&cao", "18&&nhất", "19&&về", "20&&chất", "21&&lượng"];["1&&Màn", "2&&hình", "3&&của", "4&&S10", "5&&Plus"];[];["20&&chất", "21&&lượng"];["14&&được", "15&&đánh", "16&&giá", "17&&cao", "18&&nhất"];[1]]
+[[4&&S10, 5&&Plus];[];[1&&Màn, 2&&hình];[14&&được, 15&&đánh, 16&&giá, 17&&cao, 18&&nhất, 19&&về, 20&&chất, 21&&lượng];[1&&Màn, 2&&hình, 3&&của, 4&&S10, 5&&Plus];[];[20&&chất, 21&&lượng];[14&&được, 15&&đánh, 16&&giá, 17&&cao, 18&&nhất];[1]]
 Độ phân giải QuadHD+ trên một không gian rộng 6,4 inch cho mật độ điểm ảnh cao lên tới 522ppi cho hình ảnh siêu sắc nét.	0
 [[];[];[];[];[]]
 Công nghệ Dynamic AMOLED cũng giúp Galaxy S10 Plus hiển thị hình ảnh rực rỡ, độ tương phản vô cực và một màu đen cực sâu.	0
@@ -757,13 +757,13 @@ Galaxy S10 Plus cũng có thể quay phim ở độ phân giải tối đa 4K t�
 Về măt phần mềm, Samsung đã trang bị trang bị nhiều tính năng vô cùng hữu ích cho camera của máy bao gồm Live Focus, tự động nhận diện 30 cảnh khác nhau bằng AI.	0
 [[];[];[];[];[]]
 Khi cập nhật lên Android 10, Galaxy S10 Plus cũng sở hữu tính năng chụp ảnh Single Take thời thượng tương tự như S20 Series.	1
-[["8&&Galaxy", "9&&S10", "10&&Plus"];["25&&S20", "26&&Series"];["14&&tính", "15&&năng", "16&&chụp", "17&&ảnh", "18&&Single", "19&&Take"];["11&&cũng", "12&&sở", "13&&hữu"];[0]]
+[[8&&Galaxy, 9&&S10, 10&&Plus];[25&&S20, 26&&Series];[14&&tính, 15&&năng, 16&&chụp, 17&&ảnh, 18&&Single, 19&&Take];[11&&cũng, 12&&sở, 13&&hữu];[0]]
 Hiệu năng rất ổn và thời lượng pin tốt	0
 [[];[];[];[];[]]
 Galaxy S10 Plus sử dụng SoC “cây nhà lá vườn” Exynos 9820 8 nhân, với RAM 8GB và bộ nhớ 128GB.	0
 [[];[];[];[];[]]
 Đây không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa, tuy nhiên vẫn vô cùng khoẻ để thực hiện tất cả các tác vụ mượt mà.	1
-[["1&&Đây"];[];["5&&cấu", "6&&hình"];["2&&không", "3&&còn", "4&&là", "5&&cấu", "6&&hình", "7&&mạnh", "8&&mẽ", "9&&nhất", "10&&trong", "11&&thế", "12&&giới", "13&&smartphone", "14&&nữa"];[3]]
+[[1&&Đây];[];[5&&cấu, 6&&hình];[2&&không, 3&&còn, 4&&là, 5&&cấu, 6&&hình, 7&&mạnh, 8&&mẽ, 9&&nhất, 10&&trong, 11&&thế, 12&&giới, 13&&smartphone, 14&&nữa];[3]]
 Chiếc smartphone này cũng không ngại bất kỳ tựa game hot nào trên kho ứng dụng.	0
 [[];[];[];[];[]]
 Viên pin 4100mAh cũng là một con số rất lớn với một chiếc smartphone.	0
@@ -779,9 +779,9 @@ Tổng kết lại, Galaxy S10 Plus là một chiếc flagship rất đáng mua 
 title: Không phải Z Fold3, Galaxy S22 Ultra là smartphone tốt nhất của Samsung?	0
 [[];[];[];[];[]]
 Xét theo mức giá bán, Samsung Galaxy Z Fold3 là sản phẩm cao cấp nhất của Samsung.	1
-[["7&&Samsung", "8&&Galaxy", "9&&Z", "10&&Fold3"];[];["3&&mức", "4&&giá", "5&&bán"];["14&&cao", "15&&cấp", "16&&nhất", "17&&của", "18&&Samsung"];[1]]
+[[7&&Samsung, 8&&Galaxy, 9&&Z, 10&&Fold3];[];[3&&mức, 4&&giá, 5&&bán];[14&&cao, 15&&cấp, 16&&nhất, 17&&của, 18&&Samsung];[1]]
 Tuy nhiên, sau một thời gian trải nghiệm, Samsung Galaxy S22 Ultra đang được nhiều người coi là dòng máy tốt nhất của gã khổng lồ xứ Kim Chi, hoặc ít nhất là ngang hàng với các dòng máy gập đã ra mắt.	1
-[["11&&Samsung", "12&&Galaxy", "13&&S22", "14&&Ultra"];[];[];["23&&tốt", "24&&nhất", "25&&của", "26&&gã", "27&&khổng", "28&&lồ", "29&&xứ", "30&&Kim", "31&&Chi"];["11&&Samsung", "12&&Galaxy", "13&&S22", "14&&Ultra"];["40&&các", "41&&dòng", "42&&máy", "43&&gập", "44&&đã", "45&&ra", "46&&mắt"];[];["37&&ngang", "38&&hàng"];[0]]
+[[11&&Samsung, 12&&Galaxy, 13&&S22, 14&&Ultra];[];[];[23&&tốt, 24&&nhất, 25&&của, 26&&gã, 27&&khổng, 28&&lồ, 29&&xứ, 30&&Kim, 31&&Chi];[11&&Samsung, 12&&Galaxy, 13&&S22, 14&&Ultra];[40&&các, 41&&dòng, 42&&máy, 43&&gập, 44&&đã, 45&&ra, 46&&mắt];[];[37&&ngang, 38&&hàng];[0]]
 Tại sao lại có luồng ý kiến này?	0
 [[];[];[];[];[]]
 Hi vọng bài viết sau đây của Hoàng Hà Mobile sẽ giúp khách hàng giải đáp được thắc mắc trên!	0
@@ -793,7 +793,7 @@ Một chiếc máy màn hình lớn như Galaxy Z Fold3, nếu không sử dụn
 Thật may là điều đó không xảy ra.	0
 [[];[];[];[];[]]
 Về cơ bản thì chiếc S-Pen trên Galaxy Z Fold3 5G sẽ to hơn hầu hết các chiếc bút chúng ta từng thấy trên Galaxy Note.	1
-[["5&&chiếc", "6&&S-Pen", "7&&trên", "8&&Galaxy", "9&&Z", "10&&Fold3", "11&&5G"];["15&&hầu", "16&&hết", "17&&các", "18&&chiếc", "19&&bút", "20&&chúng", "21&&ta", "22&&từng", "23&&thấy", "24&&trên", "25&&Galaxy", "26&&Note"];[];["13&&to", "14&&hơn"];[6]]
+[[5&&chiếc, 6&&S-Pen, 7&&trên, 8&&Galaxy, 9&&Z, 10&&Fold3, 11&&5G];[15&&hầu, 16&&hết, 17&&các, 18&&chiếc, 19&&bút, 20&&chúng, 21&&ta, 22&&từng, 23&&thấy, 24&&trên, 25&&Galaxy, 26&&Note];[];[13&&to, 14&&hơn];[6]]
 Cảm giác vẽ, viết trên dòng máy gập này cũng rất ấn tượng.	0
 [[];[];[];[];[]]
 Có lẽ cây bút khá lớn, Samsung quyết định không trang bị khe cắm bút cho máy, tránh làm tăng khối lượng.	0
@@ -809,11 +809,11 @@ Bút cảm ứng nhẹ và linh hoạt – được ẩn bên trong một khe c�
 Bạn chỉ cần bật nó ra khỏi điện thoại và ghi ngay các ghi chú ngay trên màn hình của máy.	0
 [[];[];[];[];[]]
 Đó là chưa kể S-Pen đi kèm với Galaxy S22 Ultra cũng nhanh hơn các đời trước, với tốc độ cải thiện 70% và độ trễ ít hơn.	1
-[["5&&S-Pen", "6&&đi", "7&&kèm", "8&&với", "9&&Galaxy", "10&&S22", "11&&Ultra"];["15&&các", "16&&đời", "17&&trước"];[];["13&&nhanh", "14&&hơn"];["5&&S-Pen", "6&&đi", "7&&kèm", "8&&với", "9&&Galaxy", "10&&S22", "11&&Ultra"];["15&&các", "16&&đời", "17&&trước"];["26&&độ", "27&&trễ"];["28&&ít", "29&&hơn"];["5&&S-Pen", "6&&đi", "7&&kèm", "8&&với", "9&&Galaxy", "10&&S22", "11&&Ultra"];["15&&các", "16&&đời", "17&&trước"];["20&&tốc", "21&&độ"];["22&&cải", "23&&thiện", "24&&70%"];[4]]
+[[5&&S-Pen, 6&&đi, 7&&kèm, 8&&với, 9&&Galaxy, 10&&S22, 11&&Ultra];[15&&các, 16&&đời, 17&&trước];[];[13&&nhanh, 14&&hơn];[5&&S-Pen, 6&&đi, 7&&kèm, 8&&với, 9&&Galaxy, 10&&S22, 11&&Ultra];[15&&các, 16&&đời, 17&&trước];[26&&độ, 27&&trễ];[28&&ít, 29&&hơn];[5&&S-Pen, 6&&đi, 7&&kèm, 8&&với, 9&&Galaxy, 10&&S22, 11&&Ultra];[15&&các, 16&&đời, 17&&trước];[20&&tốc, 21&&độ];[22&&cải, 23&&thiện, 24&&70%];[4]]
 Đưa vào các tính năng chuyển đổi chữ viết tay thành văn bản, bút stylus chính xác hơn được tích hợp vào Microsoft Outlook – đây là một bổ sung đáng hoan nghênh cho mẫu Ultra của Galaxy S.	0
 [[];[];[];[];[]]
 Hiệu năng số 1 thế giới Android!	1
-[[];[];["1&&Hiệu", "2&&năng"];["3&&số", "4&&1", "5&&thế", "6&&giới", "7&&Android"];[1]]
+[[];[];[1&&Hiệu, 2&&năng];[3&&số, 4&&1, 5&&thế, 6&&giới, 7&&Android];[1]]
 Đây cũng là một ưu điểm rõ ràng của Galaxy S22 Ultra trong việc “sinh sau đẻ muộn”.	0
 [[];[];[];[];[]]
 Với việc ra đời trong năm 2022, Galaxy S22 series phiên bản chính hãng Việt Nam lại được bán ra với con chip Snapdragon 8 Gen 1, điều mà phần lớn khách hàng đã không ngờ tới.	0
@@ -821,9 +821,9 @@ Với việc ra đời trong năm 2022, Galaxy S22 series phiên bản chính h�
 Nếu là Exynos thì khách hàng sẽ có nhiều điều đắn đo, nhưng Snapdragon thì là một sự so sánh quá dễ dàng!	0
 [[];[];[];[];[]]
 des: Galaxy S22 Ultra có hiệu năng cực mạnh mẽ đứng TOP đầu thế giới	1
-[["3&&Galaxy", "4&&S22", "5&&Ultra"];[];["7&&hiệu", "8&&năng"];["12&&đứng", "13&&TOP", "14&&đầu", "15&&thế", "16&&giới"];[1]]
+[[3&&Galaxy, 4&&S22, 5&&Ultra];[];[7&&hiệu, 8&&năng];[12&&đứng, 13&&TOP, 14&&đầu, 15&&thế, 16&&giới];[1]]
 Galaxy Z Fold3 được trang bị con chip mạnh nhất 2021 của Qualcomm – Snapdragon 888.	1
-[["15&&Snapdragon", "16&&888"];[];[];["9&&mạnh", "10&&nhất", "11&&2021"];["1&&Galaxy", "2&&Z", "3&&Fold3"];[];["7&&con", "8&&chip"];["9&&mạnh", "10&&nhất", "11&&2021"];[1]]
+[[15&&Snapdragon, 16&&888];[];[];[9&&mạnh, 10&&nhất, 11&&2021];[1&&Galaxy, 2&&Z, 3&&Fold3];[];[7&&con, 8&&chip];[9&&mạnh, 10&&nhất, 11&&2021];[1]]
 Hiệu năng của Galaxy Z Fold3 rất tốt.	0
 [[];[];[];[];[]]
 Máy có thể xử lí những tác vụ hằng ngày mà không gặp bất kì vấn đề gì về tốc độ.	0
@@ -835,19 +835,19 @@ Các tác vụ đa nhiệm đều được xử lí trơn tru.	0
 Những trò chơi đòi hỏi cấu hình cao đều chạy rất ổn trên Galaxy Z Fold3.	0
 [[];[];[];[];[]]
 Tuy chênh lệch không nhiều, nhưng rõ ràng việc Galaxy S22 Ultra nổi bật hơn về thông số là điều khó có thể phủ nhận!	1
-[["11&&Galaxy", "12&&S22", "13&&Ultra"];[];["18&&thông", "19&&số"];["14&&nổi", "15&&bật", "16&&hơn"];[4]]
+[[11&&Galaxy, 12&&S22, 13&&Ultra];[];[18&&thông, 19&&số];[14&&nổi, 15&&bật, 16&&hơn];[4]]
 Đó là chưa kể những chỉ số được nâng cấp khác như Camera chính tới 108MP, màn hình độ sáng khủng 1.750 nits, sự trở lại của sạc nhanh 45W,…	0
 [[];[];[];[];[]]
 Và cuối cùng là mức giá	0
 [[];[];[];[];[]]
 Như đã đề cập ở ngay đầu bài viết, đây chính là lợi thế của Galaxy S22 Ultra.	1
-[["17&&Galaxy", "18&&S22", "19&&Ultra"];[];[];["14&&lợi", "15&&thế"];[4]]
+[[17&&Galaxy, 18&&S22, 19&&Ultra];[];[];[14&&lợi, 15&&thế];[4]]
 Galaxy Z Fold3 hay Z Flip3 đều sử dụng màn hình gập – một linh kiện thuộc loại cao cấp bậc nhất nên mức giá cũng cần tương xứng.	0
 [[];[];[];[];[]]
 Ngược lại, thiết kế của dòng máy Galaxy S22 Ultra “truyền thống” hơn, nên mức giá của S22 Ultra rẻ hơn là điều dễ hiểu.	1
-[["22&&S22", "23&&Ultra"];[];["19&&mức", "20&&giá"];["24&&rẻ", "25&&hơn"];["7&&dòng", "8&&máy", "9&&Galaxy", "10&&S22", "11&&Ultra"];[];["4&&thiết", "5&&kế"];["12&&“", "13&&truyền", "14&&thống", "15&&”", "16&&hơn"];[4]]
+[[22&&S22, 23&&Ultra];[];[19&&mức, 20&&giá];[24&&rẻ, 25&&hơn];[7&&dòng, 8&&máy, 9&&Galaxy, 10&&S22, 11&&Ultra];[];[4&&thiết, 5&&kế];[12&&“, 13&&truyền, 14&&thống, 15&&”, 16&&hơn];[4]]
 Xét theo mức giá niêm yết khi ra mắt, Galaxy S22 Ultra có mức giá chỉ khoảng hơn 1/2 so với Galaxy Z Fold3, và bằng 2/3 so với Z Flip3!	1
-[["11&&Galaxy", "12&&S22", "13&&Ultra"];["25&&Galaxy", "26&&Z", "27&&Fold3"];["3&&mức", "4&&giá", "5&&niêm", "6&&yết"];["19&&hơn", "20&&1", "21&&/", "22&&2"];["11&&Galaxy", "12&&S22", "13&&Ultra"];["36&&Z", "37&&Flip3"];["3&&mức", "4&&giá", "5&&niêm", "6&&yết"];["30&&bằng", "31&&2", "32&&/", "33&&3"];[4]]
+[[11&&Galaxy, 12&&S22, 13&&Ultra];[25&&Galaxy, 26&&Z, 27&&Fold3];[3&&mức, 4&&giá, 5&&niêm, 6&&yết];[19&&hơn, 20&&1, 21&&/, 22&&2];[11&&Galaxy, 12&&S22, 13&&Ultra];[36&&Z, 37&&Flip3];[3&&mức, 4&&giá, 5&&niêm, 6&&yết];[30&&bằng, 31&&2, 32&&/, 33&&3];[4]]
 Rõ ràng điện thoại gập là một bước tiến lớn, nhưng với việc duy trì dòng Galaxy S series, Samsung cũng thừa hiểu rằng số lượng khách hàng yêu thương dòng máy dạng chữ nhật cổ điển vẫn rất nhiều.	0
 [[];[];[];[];[]]
 Những khách hàng này, họ cần một dòng máy mạnh mẽ, thiết kế quen thuộc, đủ đáp ứng mọi nhu cầu, nhưng mức giá vẫn đủ tốt để tiếp cận.	0
@@ -855,9 +855,9 @@ Những khách hàng này, họ cần một dòng máy mạnh mẽ, thiết kế
 Và như thế, Galaxy S22 Ultra đã xuất hiện với sự cân bằng gần như hoàn hảo!	0
 [[];[];[];[];[]]
 Tổng kết: Hoàn toàn xứng đáng xếp ngang hàng các đàn anh!	1
-[[];["11&&các", "12&&đàn", "13&&anh"];[];["8&&xếp", "9&&ngang", "10&&hàng"];[0]]
+[[];[11&&các, 12&&đàn, 13&&anh];[];[8&&xếp, 9&&ngang, 10&&hàng];[0]]
 Bạn sẽ khó tìm thấy một thiết bị di động có khả năng hoạt động tốt hơn Samsung Galaxy S22 Ultra.	1
-[["18&&Samsung", "19&&Galaxy", "20&&S22", "21&&Ultra"];[];["12&&khả", "13&&năng", "14&&hoạt", "15&&động"];["3&&khó", "4&&tìm", "5&&thấy", "6&&một", "7&&thiết", "8&&bị", "9&&di", "10&&động", "11&&có", "12&&khả", "13&&năng", "14&&hoạt", "15&&động", "16&&tốt", "17&&hơn"];[4]]
+[[18&&Samsung, 19&&Galaxy, 20&&S22, 21&&Ultra];[];[12&&khả, 13&&năng, 14&&hoạt, 15&&động];[3&&khó, 4&&tìm, 5&&thấy, 6&&một, 7&&thiết, 8&&bị, 9&&di, 10&&động, 11&&có, 12&&khả, 13&&năng, 14&&hoạt, 15&&động, 16&&tốt, 17&&hơn];[4]]
 Nếu bạn thích ghi chú bằng tay hoặc bạn là một nghệ sĩ có những ý tưởng tuyệt vời khi di chuyển, S-Pen giờ đây luôn bên bạn và đủ linh hoạt để hỗ trợ chuyển đổi từ chữ viết tay sang văn bản, tạo tác phẩm nghệ thuật.	0
 [[];[];[];[];[]]
 Hệ thống camera ở đây rất tuyệt vời và sẽ cho phép bạn chụp những hình ảnh sát với những điều mắt bạn có thể nhìn thấy.	0
@@ -877,7 +877,7 @@ Dưới đây là bài đánh giá nhanh iPhone 14 series, để bạn hiểu r�
 Thiết kế cũ, bổ sung màu mới	0
 [[];[];[];[];[]]
 iPhone 14 và iPhone 14 Plus là sự thừa hưởng thiết kế của iPhone 13 năm trước.	1
-[["1&&iPhone", "2&&14"];["14&&iPhone", "15&&13", "16&&năm", "17&&trước"];["11&&thiết", "12&&kế"];["9&&thừa", "10&&hưởng"];["4&&iPhone", "5&&14", "6&&Plus"];["14&&iPhone", "15&&13", "16&&năm", "17&&trước"];["11&&thiết", "12&&kế"];["9&&thừa", "10&&hưởng"];[0]]
+[[1&&iPhone, 2&&14];[14&&iPhone, 15&&13, 16&&năm, 17&&trước];[11&&thiết, 12&&kế];[9&&thừa, 10&&hưởng];[4&&iPhone, 5&&14, 6&&Plus];[14&&iPhone, 15&&13, 16&&năm, 17&&trước];[11&&thiết, 12&&kế];[9&&thừa, 10&&hưởng];[0]]
 Điện thoại vẫn có notch “tai thỏ”, mặt lưng với cụm camera đặt chéo, khung nhôm và sử dụng lớp kính Ceramic Shield.	0
 [[];[];[];[];[]]
 Lớp kính này có khả năng bảo vệ tốt, chống trầy xước, va đập hiệu quả.	0
@@ -901,13 +901,13 @@ Vẫn là chip A15 Bionic nhưng đồ họa mạnh hơn	0
 iPhone 14 và iPhone 14 Plus tích hợp A15 Bionic.	0
 [[];[];[];[];[]]
 Tuy nhiên A15 Bionic này sẽ được bổ sung thêm một lõi GPU, tổng GPU là 5 lõi, cho khả năng xử lý đồ họa tốt hơn.	1
-[["3&&A15", "4&&Bionic"];[];["22&&khả", "23&&năng", "24&&xử", "25&&lý", "26&&đồ", "27&&họa"];["28&&tốt", "29&&hơn"];[4]]
+[[3&&A15, 4&&Bionic];[];[22&&khả, 23&&năng, 24&&xử, 25&&lý, 26&&đồ, 27&&họa];[28&&tốt, 29&&hơn];[4]]
 Còn xét về hiệu năng tổng thể, thì người dùng có thể hoàn toàn yên tâm với A15 Bionic, khi đây vẫn là con chip mạnh mẽ vượt trội hơn rất nhiều đại diện flagship khác, bảo đảm cho bạn sử dụng dài lâu.	1
-[["23&&đây"];["35&&đại", "36&&diện", "37&&flagship", "38&&khác"];[];["28&&mạnh", "29&&mẽ", "30&&vượt", "31&&trội", "32&&hơn", "33&&rất", "34&&nhiều"];[4]]
+[[23&&đây];[35&&đại, 36&&diện, 37&&flagship, 38&&khác];[];[28&&mạnh, 29&&mẽ, 30&&vượt, 31&&trội, 32&&hơn, 33&&rất, 34&&nhiều];[4]]
 iPhone 14 Plus – chiếc iPhone pin tốt nhất	0
 [[];[];[];[];[]]
 Trong buổi ra mắt iPhone 14, Apple đã chia sẻ rằng bản iPhone 14 Plus là chiếc iPhone có pin tốt nhất từ trước đến nay.	1
-[["14&&iPhone", "15&&14", "16&&Plus"];[];["21&&pin"];["22&&tốt", "23&&nhất", "24&&từ", "25&&trước", "26&&đến", "27&&nay"];[1]]
+[[14&&iPhone, 15&&14, 16&&Plus];[];[21&&pin];[22&&tốt, 23&&nhất, 24&&từ, 25&&trước, 26&&đến, 27&&nay];[1]]
 Nhờ vậy, mẫu điện thoại hứa hẹn cho bạn sử dụng thoải mái, mang tới trải nghiệm liền mạch, cho cuộc sống năng động.	0
 [[];[];[];[];[]]
 Đối với bản iPhone 14, điện thoại sẽ có thời lượng pin sử dụng vừa đủ trong khoảng một ngày.	0
@@ -933,7 +933,7 @@ Giờ đây, bạn không chỉ chụp đẹp ở điều kiện đủ sáng mà
 Màn hình Dynamic Island độc đáo	0
 [[];[];[];[];[]]
 Khác với iPhone 14 và iPhone 14 Plus, iPhone 14 Pro và iPhone 14 Pro Max sở hữu màn hình thế hệ mới - Dynamic Island với khả năng tùy biến thú vị.	1
-[["10&&iPhone", "11&&14", "12&&Pro", "13&&và", "14&&iPhone", "15&&14", "16&&Pro", "17&&Max"];["3&&iPhone", "4&&14", "5&&và", "6&&iPhone", "7&&14", "8&&Plus"];["20&&màn", "21&&hình"];["1&&Khác"];[-1]]
+[[10&&iPhone, 11&&14, 12&&Pro, 13&&và, 14&&iPhone, 15&&14, 16&&Pro, 17&&Max];[3&&iPhone, 4&&14, 5&&và, 6&&iPhone, 7&&14, 8&&Plus];[20&&màn, 21&&hình];[1&&Khác];[-1]]
 Theo đó, Dynamic Island là phần notch có thiết kế hình “viên thuốc” cùng sự hỗ trợ của phần mềm, giúp chúng có thể thực hiện nhiều tác vụ tiện lợi.	0
 [[];[];[];[];[]]
 Các hiệu ứng để tùy biến với Dynamic Island đều thân thiện và đẹp mắt, cho bạn những trải nghiệm mới lạ mà chỉ có iPhone 14 Pro và iPhone 14 Pro Max mang đến.	0
@@ -945,7 +945,7 @@ Thiết kế cao cấp và sắc màu sang trọng	0
 iPhone 14 Pro và iPhone 14 Pro Max được hoàn thiện từ khung thép cao cấp, vuông vức, kính bảo vệ Ceramic Shield và khả năng chống bụi/nước IP68.	0
 [[];[];[];[];[]]
 Ngoài ra, các màu có trên iPhone 14 Pro và 14 Pro Max đều cực kì sang trọng, trong đó màu mới là màu tím, bên cạnh ba màu cũ là vàng, bạc và đen.	1
-[["8&&iPhone", "9&&14", "10&&Pro"];["12&&14", "13&&Pro", "14&&Max"];["5&&màu"];["15&&đều", "16&&cực", "17&&kì", "18&&sang", "19&&trọng"];[0]]
+[[8&&iPhone, 9&&14, 10&&Pro];[12&&14, 13&&Pro, 14&&Max];[5&&màu];[15&&đều, 16&&cực, 17&&kì, 18&&sang, 19&&trọng];[0]]
 Đẳng cấp với màn hình hàng đầu	0
 [[];[];[];[];[]]
 iPhone 14 Pro (6.1 inch) và iPhone 14 Pro Max (6.7 inch) đẳng cấp với màn hình đứng đầu trên thị trường.	0
@@ -961,17 +961,17 @@ Khác với Android là màn hình đen đơn thuần.	0
 Camera 48MP là tâm điểm	0
 [[];[];[];[];[]]
 Lần đầu tiên phiên bản iPhone mới nhận được cải tiến vượt trội khi camera chính có độ phân giải 48MP, cho hình ảnh sắc nét và nhiều chi tiết hơn 4 lần.	1
-[["4&&phiên", "5&&bản", "6&&iPhone", "7&&mới"];[];["24&&hình", "25&&ảnh"];["9&&được", "10&&cải", "11&&tiến", "12&&vượt", "13&&trội"];["4&&phiên", "5&&bản", "6&&iPhone", "7&&mới"];[];["15&&camera", "16&&chính"];["26&&sắc", "27&&nét", "28&&và", "29&&nhiều", "30&&chi", "31&&tiết", "32&&hơn", "33&&4", "34&&lần"];[4]]
+[[4&&phiên, 5&&bản, 6&&iPhone, 7&&mới];[];[24&&hình, 25&&ảnh];[9&&được, 10&&cải, 11&&tiến, 12&&vượt, 13&&trội];[4&&phiên, 5&&bản, 6&&iPhone, 7&&mới];[];[15&&camera, 16&&chính];[26&&sắc, 27&&nét, 28&&và, 29&&nhiều, 30&&chi, 31&&tiết, 32&&hơn, 33&&4, 34&&lần];[4]]
 Đồng thời, Apple cũng nâng cấp kích thước cảm biến lên tới 65%, cải thiện chụp đêm một cách hiệu quả.	0
 [[];[];[];[];[]]
 Ngoài ra, camera tele cũng có chất lượng quang học gấp đôi bản tiền nhiệm, giúp bạn chụp zoom tốt hơn với khả năng zoom 2x và 3x.	1
-[["4&&camera", "5&&tele"];["14&&bản", "15&&tiền", "16&&nhiệm"];["8&&chất", "9&&lượng", "10&&quang", "11&&học"];["12&&gấp", "13&&đôi"];["4&&camera", "5&&tele"];["14&&bản", "15&&tiền", "16&&nhiệm"];["20&&chụp", "21&&zoom"];["22&&tốt", "23&&hơn"];[4]]
+[[4&&camera, 5&&tele];[14&&bản, 15&&tiền, 16&&nhiệm];[8&&chất, 9&&lượng, 10&&quang, 11&&học];[12&&gấp, 13&&đôi];[4&&camera, 5&&tele];[14&&bản, 15&&tiền, 16&&nhiệm];[20&&chụp, 21&&zoom];[22&&tốt, 23&&hơn];[4]]
 Camera trước của cả hai cũng có tính năng Tự động lấy nét, giúp lấy nét chuẩn xác và sắc nét hơn.	0
 [[];[];[];[];[]]
 Chip A16 Bionic – sức mạnh vô đối trên smartphone	0
 [[];[];[];[];[]]
 Khác với bản tiêu chuẩn, bản Pro được tích hợp chip A16 Bionic cực mạnh, vượt mặt tất cả các đối thủ hiện nay trên thị trường.	1
-[["7&&bản", "8&&Pro"];["3&&bản", "4&&tiêu", "5&&chuẩn"];["10&&tích", "11&&hợp", "12&&chip", "13&&A16", "14&&Bionic"];["1&&Khác"];["7&&bản", "8&&Pro"];["20&&tất", "21&&cả", "22&&các", "23&&đối", "24&&thủ", "25&&hiện", "26&&nay", "27&&trên", "28&&thị", "29&&trường"];[];["18&&vượt", "19&&mặt"];[-1]]
+[[7&&bản, 8&&Pro];[3&&bản, 4&&tiêu, 5&&chuẩn];[10&&tích, 11&&hợp, 12&&chip, 13&&A16, 14&&Bionic];[1&&Khác];[7&&bản, 8&&Pro];[20&&tất, 21&&cả, 22&&các, 23&&đối, 24&&thủ, 25&&hiện, 26&&nay, 27&&trên, 28&&thị, 29&&trường];[];[18&&vượt, 19&&mặt];[-1]]
 Chip mới có gần 16 tỷ bóng bán dẫn, 6 lõi CPU, 5 lõi GPU, ISP nâng cao và tiết kiệm pin hiệu quả, giúp iPhone 14 Pro và 14 Pro Max xử lý siêu nhanh, phản hồi ngay lập tức mọi tác vụ.	0
 [[];[];[];[];[]]
 Thời lượng pin đáng kinh ngạc	0
@@ -1013,7 +1013,7 @@ Thông số kỹ thuật	0
 Thiết kế	0
 [[];[];[];[];[]]
 Nhìn chung phong cách thiết kế của chiếc Samsung Galaxy A11 không có gì khác biệt so với các mẫu điện thoại tầm trung giá rẻ khác của Samsung.	1
-[["9&&Samsung", "10&&Galaxy", "11&&A11"];["19&&các", "20&&mẫu", "21&&điện", "22&&thoại", "23&&tầm", "24&&trung", "25&&giá", "26&&rẻ", "27&&khác", "28&&của", "29&&Samsung"];["3&&phong", "4&&cách", "5&&thiết", "6&&kế"];["12&&không", "13&&có", "14&&gì", "15&&khác", "16&&biệt"];[0]]
+[[9&&Samsung, 10&&Galaxy, 11&&A11];[19&&các, 20&&mẫu, 21&&điện, 22&&thoại, 23&&tầm, 24&&trung, 25&&giá, 26&&rẻ, 27&&khác, 28&&của, 29&&Samsung];[3&&phong, 4&&cách, 5&&thiết, 6&&kế];[12&&không, 13&&có, 14&&gì, 15&&khác, 16&&biệt];[0]]
 Nó vẫn vậy, màn hình phẳng, vỏ nhựa, khung nhựa bo tròn ở các góc.	0
 [[];[];[];[];[]]
 Nhưng A11 vẫn có những đặc điểm riêng của nó.	0
@@ -1045,7 +1045,7 @@ Hoàn thiện bóng nâng cao sự sang trọng của điện thoại nhưng l�
 Mặt sau Samsung Galaxy A11	0
 [[];[];[];[];[]]
 Nổi bật ở mặt sau vẫn là bộ 3 camera, chúng được xếp dọc ở góc trên bên trái như những mẫu của năm ngoái.	1
-[[];["22&&những", "23&&mẫu", "24&&của", "25&&năm", "26&&ngoái"];["8&&bộ", "9&&3", "10&&camera"];["21&&như"];[0]]
+[[];[22&&những, 23&&mẫu, 24&&của, 25&&năm, 26&&ngoái];[8&&bộ, 9&&3, 10&&camera];[21&&như];[0]]
 Nó không phải nằm trong một khối chữ nhật như, nhưng cũng chẳng ảnh hưởng gì tới tính năng camera cả.	0
 [[];[];[];[];[]]
 Cảm biến vân tay không được tích hợp trong màn hình vì nó không phải tấm nền OLED.	0
@@ -1055,7 +1055,7 @@ Nó cũng không gắn bên như những điện thoại tầm trung mà nó n�
 Tất nhiên như vậy vẫn tốt và cảm biến vân tay vẫn làm tốt nhiệm vụ của mình.	0
 [[];[];[];[];[]]
 Mở khóa chính xác nhưng không nhanh như những điện thoại cao cấp hơn mà thôi.	1
-[[];["9&&những", "10&&điện", "11&&thoại", "12&&cao", "13&&cấp", "14&&hơn"];["1&&Mở", "2&&khóa"];["6&&không", "7&&nhanh", "8&&như"];[5]]
+[[];[9&&những, 10&&điện, 11&&thoại, 12&&cao, 13&&cấp, 14&&hơn];[1&&Mở, 2&&khóa];[6&&không, 7&&nhanh, 8&&như];[5]]
 Các cạnh còn lại	0
 [[];[];[];[];[]]
 Khung máy vẫn là nhựa và nó hoàn thiện tương tự như mặt lưng của nó.	0
@@ -1091,7 +1091,7 @@ Dù sao thì có jack tai nghe vẫn là một ưu điểm của chiếc điện
 Cạnh dưới Samsung Galaxy A11	0
 [[];[];[];[];[]]
 Galaxy A11 đã được trang bị cổng sạc USB type C, nó cho phép tốc độ sạc và truyền dữ liệu nhanh hơn nhiều so với micro-USB trước đây.	1
-[["7&&cổng", "8&&sạc", "9&&USB", "10&&type", "11&&C"];["28&&micro-USB", "29&&trước", "30&&đây"];["16&&tốc", "17&&độ", "18&&sạc"];["23&&nhanh", "24&&hơn", "25&&nhiều"];[];["28&&micro-USB", "29&&trước", "30&&đây"];["20&&truyền", "21&&dữ", "22&&liệu"];["23&&nhanh", "24&&hơn", "25&&nhiều"];[4]]
+[[7&&cổng, 8&&sạc, 9&&USB, 10&&type, 11&&C];[28&&micro-USB, 29&&trước, 30&&đây];[16&&tốc, 17&&độ, 18&&sạc];[23&&nhanh, 24&&hơn, 25&&nhiều];[];[28&&micro-USB, 29&&trước, 30&&đây];[20&&truyền, 21&&dữ, 22&&liệu];[23&&nhanh, 24&&hơn, 25&&nhiều];[4]]
 Cạnh đó là micro chính và đối diện là loa ngoài khá lớn.	0
 [[];[];[];[];[]]
 Màn hình	0
@@ -1099,9 +1099,9 @@ Màn hình	0
 Samsung Galaxy A11 là một sản phẩm hiếm hoi ở tầm giá 3 triệu có thiết kế màn hình đục lỗ.	0
 [[];[];[];[];[]]
 Điều đó cho phép không gian hiển thị lớn hơn và trải nghiệm màn hình được nâng cao.	1
-[[];[];["5&&không", "6&&gian", "7&&hiển", "8&&thị"];["9&&lớn", "10&&hơn"];[4]]
+[[];[];[5&&không, 6&&gian, 7&&hiển, 8&&thị];[9&&lớn, 10&&hơn];[4]]
 Đó là một tấm nền PLS TFT 6.4 inch nên góc nhìn nó không cao như IPS, tất nhiên không thể yêu cầu một tấm nền OLED ở đây.	1
-[["4&&tấm", "5&&nền", "6&&PLS"];["17&&IPS"];["11&&góc", "12&&nhìn"];["14&&không", "15&&cao", "16&&như"];[5]]
+[[4&&tấm, 5&&nền, 6&&PLS];[17&&IPS];[11&&góc, 12&&nhìn];[14&&không, 15&&cao, 16&&như];[5]]
 Độ phân giải màn hình chỉ dừng lại ở mức HD+ (720 x 1560 pixel) với mật độ điểm ảnh khá thấp – 268ppi.	0
 [[];[];[];[];[]]
 Nói chung màn hình này chỉ dùng cho lướt web thì được nhưng xem phim chất lượng cao thì vẫn chưa đáp ứng được.	0
@@ -1113,13 +1113,13 @@ Với công nghệ màn hình TFT, bạn vẫn có màn hình khá sáng, đủ 
 Thêm vào đó là màu sắc tái tạo không rực rỡ như những màn hình Samsung vốn có.	0
 [[];[];[];[];[]]
 Tất nhiệt nó “nhạt nhòa” hơn so với màn hình IPS và OLED khá nhiều.	1
-[["3&&nó"];["11&&màn", "12&&hình", "13&&IPS"];[];["4&&“", "5&&nhạt", "6&&nhòa", "7&&”", "8&&hơn"];["3&&nó"];["15&&OLED"];[];["4&&“", "5&&nhạt", "6&&nhòa", "7&&”", "8&&hơn"];[5]]
+[[3&&nó];[11&&màn, 12&&hình, 13&&IPS];[];[4&&“, 5&&nhạt, 6&&nhòa, 7&&”, 8&&hơn];[3&&nó];[15&&OLED];[];[4&&“, 5&&nhạt, 6&&nhòa, 7&&”, 8&&hơn];[5]]
 Phần mềm	0
 [[];[];[];[];[]]
 Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1. Đây là hệ điều hành mới nhất của năm nay.	1
-[["18&&hệ", "19&&điều", "20&&hành"];[];[];["21&&mới", "22&&nhất", "23&&của", "24&&năm", "25&&nay"];[1]]
+[[18&&hệ, 19&&điều, 20&&hành];[];[];[21&&mới, 22&&nhất, 23&&của, 24&&năm, 25&&nay];[1]]
 Có nghĩa là bạn sẽ trải nghiệm giao diện và phần mềm tương tự như những điện thoại hàng đầu của Samsung năm nay.	1
-[[];["16&&những", "17&&điện", "18&&thoại", "19&&hàng", "20&&đầu", "21&&của", "22&&Samsung", "23&&năm", "24&&nay"];["6&&trải", "7&&nghiệm", "8&&giao", "9&&diện"];["13&&tương", "14&&tự"];[];["16&&những", "17&&điện", "18&&thoại", "19&&hàng", "20&&đầu", "21&&của", "22&&Samsung", "23&&năm", "24&&nay"];["11&&phần", "12&&mềm"];["13&&tương", "14&&tự"];[0]]
+[[];[16&&những, 17&&điện, 18&&thoại, 19&&hàng, 20&&đầu, 21&&của, 22&&Samsung, 23&&năm, 24&&nay];[6&&trải, 7&&nghiệm, 8&&giao, 9&&diện];[13&&tương, 14&&tự];[];[16&&những, 17&&điện, 18&&thoại, 19&&hàng, 20&&đầu, 21&&của, 22&&Samsung, 23&&năm, 24&&nay];[11&&phần, 12&&mềm];[13&&tương, 14&&tự];[0]]
 Trừ các tính năng yêu cầu phần cứng cao cấp ở những sản phẩm đắt tiền hơn thì tất cả tính năng mới đều thể hiện ở A11.	0
 [[];[];[];[];[]]
 Điều hướng toàn màn hình, thông báo được cải thiện, chủ đề tối trên toàn hệ thống, v.v.	0
@@ -1139,7 +1139,7 @@ Samsung Galaxy A11 chỉ được trang bị bộ xử lý Snapdragon 450 với 
 Tất nhiên không thể đòi hỏi chipset quá mạnh như ở điện thoại tầm trung hay cao cấp ở đây được.	0
 [[];[];[];[];[]]
 Nhưng Snapdragon 450 vẫn hơi đuối ở tầm giá rẻ này khi các đối thủ có những con chip tầm Snapdragon 665.	1
-[["2&&Snapdragon", "3&&450"];["13&&các", "14&&đối", "15&&thủ", "16&&có", "17&&những", "18&&con", "19&&chip", "20&&tầm", "21&&Snapdragon", "22&&665"];[];["5&&hơi", "6&&đuối", "7&&ở", "8&&tầm", "9&&giá", "10&&rẻ", "11&&này"];[5]]
+[[2&&Snapdragon, 3&&450];[13&&các, 14&&đối, 15&&thủ, 16&&có, 17&&những, 18&&con, 19&&chip, 20&&tầm, 21&&Snapdragon, 22&&665];[];[5&&hơi, 6&&đuối, 7&&ở, 8&&tầm, 9&&giá, 10&&rẻ, 11&&này];[5]]
 Đánh giá đồ họa bằng 3Dmark	0
 [[];[];[];[];[]]
 Đánh giá hiệu năng bằng PC Mark	0
@@ -1155,7 +1155,7 @@ Khả năng chơi game	0
 Nói về khả năng chơi game thì chúng ta dựa hầu hết vào bộ xử lý của điện thoại.	0
 [[];[];[];[];[]]
 Và Snapdragon 450  không nhanh và mạnh như những điện thoại tầm trung hay cao cấp.	1
-[["2&&Snapdragon", "3&&450"];[];[];["5&&không", "6&&nhanh", "7&&và", "8&&mạnh", "9&&như"];[5]]
+[[2&&Snapdragon, 3&&450];[];[];[5&&không, 6&&nhanh, 7&&và, 8&&mạnh, 9&&như];[5]]
 Tuy nhiên nó cung cấp vừa đủ để chơi game giải trí ở tầm giá 3 triệu.	0
 [[];[];[];[];[]]
 Chơi PUBG mobile với Galaxy A11	0
@@ -1205,6 +1205,6 @@ Màu sắc tái tạo hơi mờ nhạt nhưng đó là điều bình thường v
 Ảnh chụp đủ sáng từ camera chính	0
 [[];[];[];[];[]]
 Khi sử dụng camera góc siêu rộng bạn sẽ nhận được những khung hình rộng hơn.	1
-[["4&&camera", "5&&góc", "6&&siêu", "7&&rộng"];[];["13&&khung", "14&&hình"];["15&&rộng", "16&&hơn"];[4]]
+[[4&&camera, 5&&góc, 6&&siêu, 7&&rộng];[];[13&&khung, 14&&hình];[15&&rộng, 16&&hơn];[4]]
 Nhưng chất lượng không thể sánh bằng camera chính được.	1
-[[];["8&&camera", "9&&chính"];["2&&chất", "3&&lượng"];["4&&không", "5&&thể", "6&&sánh", "7&&bằng"];[5]]
+[[];[8&&camera, 9&&chính];[2&&chất, 3&&lượng];[4&&không, 5&&thể, 6&&sánh, 7&&bằng];[5]]
