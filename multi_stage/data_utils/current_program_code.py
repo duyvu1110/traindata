@@ -22,7 +22,11 @@ def read_standard_file(path):
 
             else:
                 if last_sentence != "":
-                    cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, '\t')
+                    last_sentence = last_sentence.strip()
+                    # cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, '\t')
+                    cur_sent_label = last_sentence[-1]
+                    cur_sent_label = cur_sent_label[:-1].strip()
+                    
                     sent_col.append(cur_sent)
                     sent_label_col.append(int(cur_sent_label))
                     final_label_col.append(label_col)
