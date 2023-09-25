@@ -70,17 +70,7 @@ class GlobalConfig(object):
     def __init__(self, position_sys):
         self.elem_col = ["entity_1", "entity_2", "aspect", "result"]
         self.polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
-        # self.polarity_dict = {k: index - 1 for index, k in enumerate(self.polarity_col)}
-        self.polarity_dict = {
-            "DIF": -1,
-            "EQL": 0,
-            "SUP+": 1,
-            "SUP-": 2,
-            "SUP": 3,
-            "COM+": 4,
-            "COM-": 5,
-            "COM":  6
-        }
+        self.polarity_dict = {k: index - 1 for index, k in enumerate(self.polarity_col)}
 
         if position_sys == "SPAN":
             self.position_sys = []
