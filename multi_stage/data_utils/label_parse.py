@@ -67,7 +67,7 @@ class LabelParser(object):
             # not polarity
             if elem_index != len(elem_representation) - 1:
                 for each_seg_elem in seg_elem_col:
-                    number_char_col = shared_utils.split_string(each_seg_elem, ", ")
+                    number_char_col = shared_utils.split_string(each_seg_elem, " ")
                     
                     # if file_type == "cn":
                     #     s_index = int(shared_utils.split_string(number_char_col[0], split_symbol)[0])
