@@ -53,9 +53,6 @@ class LabelParser(object):
         :return:
         """
         elem_representation = shared_utils.split_string(sequence_label[1:-1], ";")
-        print(len(elem_representation))
-        for i in elem_representation:
-            print(i, '\t')
             
         tuple_pair_representation, result_elem = [], []
         for elem_index, each_elem in enumerate(elem_representation):
@@ -81,9 +78,6 @@ class LabelParser(object):
                         e_index = int(shared_utils.split_string(number_char_col[-1], split_symbol)[0])
 
                     elem_tuple += (s_index, e_index)
-
-                    print(elem_index)
-                    print(self.elem_col[elem_index])
                     
                     if self.elem_col[elem_index] == "result":
                         result_elem += [s_index, e_index]
