@@ -453,8 +453,10 @@ def token_mapping_bert(bert_token_col, gold_token_col):
     :param gold_token_col: a list char list
     :return: a map: {bert_index: [char_index]}
     """
-    assert len(bert_token_col) == len(gold_token_col), "bert data length not equal to char data length"
     print(bert_token_col, '\t', gold_token_col)
+    
+    assert len(bert_token_col) == len(gold_token_col), "bert data length not equal to char data length"
+    
     mapping_col = []
     for index in range(len(bert_token_col)):
         seq_map, bert_index, token_index = {}, 1, 0
