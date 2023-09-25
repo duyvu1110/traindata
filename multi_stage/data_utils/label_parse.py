@@ -73,12 +73,12 @@ class LabelParser(object):
                 for each_seg_elem in seg_elem_col:
                     number_char_col = shared_utils.split_string(each_seg_elem, " ")
                     
-                    # if file_type == "cn":
-                    #     s_index = int(shared_utils.split_string(number_char_col[0], split_symbol)[0])
-                    #     e_index = int(shared_utils.split_string(number_char_col[-1], split_symbol)[0]) + 1
-                    # else:
-                    s_index = int(shared_utils.split_string(number_char_col[0], split_symbol)[0]) - 1
-                    e_index = int(shared_utils.split_string(number_char_col[-1], split_symbol)[0])
+                    if file_type == "cn":
+                        s_index = int(shared_utils.split_string(number_char_col[0], split_symbol)[0])
+                        e_index = int(shared_utils.split_string(number_char_col[-1], split_symbol)[0]) + 1
+                    else:
+                        s_index = int(shared_utils.split_string(number_char_col[0], split_symbol)[0]) - 1
+                        e_index = int(shared_utils.split_string(number_char_col[-1], split_symbol)[0])
 
                     elem_tuple += (s_index, e_index)
 
