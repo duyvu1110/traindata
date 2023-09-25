@@ -22,7 +22,7 @@ def read_standard_file(path):
 
             else:
                 if last_sentence != "":
-                    cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, "\t")
+                    cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, '\t')
                     sent_col.append(cur_sent)
                     sent_label_col.append(int(cur_sent_label))
                     final_label_col.append(label_col)
@@ -30,7 +30,7 @@ def read_standard_file(path):
                 last_sentence = shared_utils.clear_string(line, replace_symbol={u'\u3000': u""})
                 label_col = []
 
-        cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, "\t")
+        cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, '\t')
         sent_col.append(cur_sent)
         sent_label_col.append(int(cur_sent_label))
         final_label_col.append(label_col)
