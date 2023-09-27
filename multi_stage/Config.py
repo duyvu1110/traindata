@@ -26,7 +26,7 @@ class BaseConfig(object):
         self.premodel_path = args.premodel_path
 
         # self.data_type = "eng" if args.file_type == "Camera-COQE" else "cn"
-        self.data_type = "vi"
+        self.data_type = "cn"
 
         self.path = PathConfig(
             self.device, self.file_type, self.program_mode, self.premodel_path
