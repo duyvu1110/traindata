@@ -112,7 +112,7 @@ def main():
     #     data_gene = kesserl14_utils.DataGenerator(config)
     # else:
     #     data_gene = coae13_utils.DataGenerator(config)
-    py_vncorenlp.download_model(save_dir=config.path.standard_path)
+    py_vncorenlp.download_model(save_dir='/kaggle/working/vncorenlp')
     
     data_gene = kesserl14_utils.DataGenerator(config)
     data_gene.generate_data()
