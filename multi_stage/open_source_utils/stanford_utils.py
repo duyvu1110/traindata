@@ -12,7 +12,7 @@ class stanfordFeature(object):
         """
         self.sentences_col = sentences
         stanza.download('vi')
-        self.nlp = stanza.Pipeline('vi')
+        self.nlp = stanza.Pipeline('vi', processors='tokenize,pos,lemma,depparse', verbose=False)
 
         # using set to store label type
         self.pos_dict, self.pos_index = {"PAD": 0}, 1

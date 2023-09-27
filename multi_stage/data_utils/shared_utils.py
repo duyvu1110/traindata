@@ -499,6 +499,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
     # print(len(bert_token_col), '\t', len(gold_token_col))
     
     assert len(bert_token_col) == len(gold_token_col), "bert data length not equal to char data length"
+    print (bert_token_col)
+    print(gold_token_col)
     
     mapping_col = []
     for index in range(len(bert_token_col)):
@@ -519,7 +521,7 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             bert_length = len(seq_bert_token[bert_index])
 
             # drop "##" prefix
-            if seq_bert_token[bert_index].find("##") != -1:
+            if seq_bert_token[bert_index].find("@@") != -1:
                 bert_length = len(seq_bert_token[bert_index]) - 2
 
             while token_length > bert_length:
@@ -527,7 +529,7 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                 seq_map[token_index].append(bert_index)
                 bert_length += len(seq_bert_token[bert_index])
 
-                if seq_bert_token[bert_index].find("##") != -1:
+                if seq_bert_token[bert_index].find("@@") != -1:
                     bert_length -= 2
 
             print (bert_length, '\t', token_length)

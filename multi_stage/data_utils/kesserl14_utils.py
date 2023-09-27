@@ -59,7 +59,7 @@ class DataGenerator(object):
             data_dict['bert_token'] = shared_utils.get_token_col(sent_col, bert_tokenizer=self.bert_tokenizer, dim=1)
 
             # mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
-            mapping_col = shared_utils.token_mapping_phobert(data_dict['bert_token'], data_dict['standard_token'])
+            mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
 
             label_col = cpc.convert_eng_label_dict_by_mapping(label_col, mapping_col)
 
