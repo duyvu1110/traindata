@@ -453,7 +453,7 @@ def token_mapping_bert(bert_token_col, gold_token_col):
     :param gold_token_col: a list char list
     :return: a map: {bert_index: [char_index]}
     """
-    print(len(bert_token_col), '\t', len(gold_token_col))
+    # print(len(bert_token_col), '\t', len(gold_token_col))
     
     assert len(bert_token_col) == len(gold_token_col), "bert data length not equal to char data length"
     
@@ -476,16 +476,20 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             bert_length = len(seq_bert_token[bert_index])
 
             # drop "##" prefix
-            if seq_bert_token[bert_index].find("##") != -1:
-                bert_length = len(seq_bert_token[bert_index]) - 2
+            # if seq_bert_token[bert_index].find("##") != -1:
+            #     bert_length = len(seq_bert_token[bert_index]) - 2
 
-            while token_length > bert_length:
+            # while token_length > bert_length:
+            #     bert_index = bert_index + 1
+            #     seq_map[token_index].append(bert_index)
+            #     bert_length += len(seq_bert_token[bert_index])
+
+            #     if seq_bert_token[bert_index].find("##") != -1:
+            #         bert_length -= 2
+            while seq_bert_token[bert_index].startswith("##"):
                 bert_index = bert_index + 1
                 seq_map[token_index].append(bert_index)
                 bert_length += len(seq_bert_token[bert_index])
-
-                if seq_bert_token[bert_index].find("##") != -1:
-                    bert_length -= 2
 
             print (bert_length, '\t', token_length)
             assert bert_length == token_length, "appear mapping error!"
