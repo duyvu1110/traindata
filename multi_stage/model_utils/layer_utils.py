@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from torchcrf import CRF
 
-from transformers import BertModel, BertLayer
+from transformers import AutoModel, BertLayer
 
 ########################################################################################################################
 # Model Encoder Layer.
@@ -13,7 +13,7 @@ from transformers import BertModel, BertLayer
 class BERTCell(nn.Module):
     def __init__(self, model_path):
         super(BERTCell, self).__init__()
-        self.bert = BertModel.from_pretrained(model_path)
+        self.bert = AutoModel.from_pretrained(model_path)
         self.hidden_size = self.bert.config.hidden_size
         self.hidden_dropout_prob = self.bert.config.hidden_dropout_prob
 

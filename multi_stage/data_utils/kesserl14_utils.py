@@ -4,7 +4,8 @@ from data_utils.label_parse import LabelParser
 from data_utils import shared_utils
 from data_utils import current_program_code as cpc
 from open_source_utils import stanford_utils
-from transformers import BertTokenizer
+# from transformers import BertTokenizer
+from transformers import AutoModel, AutoTokenizer
 
 
 class DataGenerator(object):
@@ -20,7 +21,7 @@ class DataGenerator(object):
 
         # store some data using in model
         self.train_data_dict, self.dev_data_dict, self.test_data_dict = {}, {}, {}
-        self.bert_tokenizer = BertTokenizer.from_pretrained(config.path.bert_model_path)
+        self.bert_tokenizer = AutoTokenizer.from_pretrained(config.path.bert_model_path)
 
         self.elem_col = ["entity_1", "entity_2", "aspect", "result"]
 
@@ -43,7 +44,6 @@ class DataGenerator(object):
             sf = stanford_utils.stanfordFeature(sent_col, self.config.path.stanford_path)
             data_dict['standard_token'] = sf.get_tokenizer()
             shared_utils.write_pickle(data_dict, self.config.path.pre_process_data[data_type])
-
         else:
             data_dict = shared_utils.read_pickle(self.config.path.pre_process_data[data_type])
 
