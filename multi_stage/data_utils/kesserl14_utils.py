@@ -41,8 +41,11 @@ class DataGenerator(object):
 
         # using stanford tool to get some feature data.
         if not os.path.exists(self.config.path.pre_process_data[data_type]):
+            
             sf = stanford_utils.stanfordFeature(sent_col, self.config.path.stanford_path)
+            
             data_dict['standard_token'] = sf.get_tokenizer()
+            
             shared_utils.write_pickle(data_dict, self.config.path.pre_process_data[data_type])
         else:
             data_dict = shared_utils.read_pickle(self.config.path.pre_process_data[data_type])
@@ -55,7 +58,8 @@ class DataGenerator(object):
         if self.config.model_mode == "bert":
             data_dict['bert_token'] = shared_utils.get_token_col(sent_col, bert_tokenizer=self.bert_tokenizer, dim=1)
 
-            mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
+            # mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
+            mapping_col = shared_utils.token_mapping_phobert(data_dict['bert_token'], data_dict['standard_token'])
 
             label_col = cpc.convert_eng_label_dict_by_mapping(label_col, mapping_col)
 

@@ -446,6 +446,49 @@ def bert_mapping_char(bert_token_col, gold_char_col):
     return mapping_col
 
 
+def token_mapping_phobert(phobert_token_col, gold_token_col):
+    """
+    :param phobert_token_col: a list of token lists by PhoBERT tokenizer (with [CLS] and [SEP])
+    :param gold_token_col: a list of token lists
+    :return: a map: {phobert_index: [token_index]}
+    """
+    assert len(phobert_token_col) == len(gold_token_col), "PhoBERT data length not equal to token data length"
+    
+    mapping_col = []
+    for index in range(len(phobert_token_col)):
+        seq_map, phobert_index, token_index = {}, 1, 0
+        seq_phobert_token, seq_gold_token = phobert_token_col[index], gold_token_col[index]
+
+        while phobert_index < len(seq_phobert_token) and token_index < len(seq_gold_token):
+            seq_map[phobert_index] = [token_index]
+
+            # [UNK] denotes special symbol
+            if seq_phobert_token[phobert_index] == "[UNK]":
+                phobert_index = phobert_index + 1
+                token_index = token_index + 1
+                continue
+
+            # Get the current index correspond to the length
+            token_length = len(seq_gold_token[token_index])
+            phobert_length = len(seq_phobert_token[phobert_index])
+
+            # Drop "##" prefix
+            while seq_phobert_token[phobert_index].startswith("##"):
+                phobert_index = phobert_index + 1
+                phobert_length += len(seq_phobert_token[phobert_index])
+
+            assert phobert_length == token_length, "Mapping error! Token length does not match PhoBERT token length."
+
+            token_index = token_index + 1
+            phobert_index = phobert_index + 1
+
+        # Handle the case where phobert_index is at the last position
+        seq_map[phobert_index] = [token_index]
+        mapping_col.append(seq_map)
+
+    return mapping_col
+
+
 # english version mapping, {token_index: [bert_index]}
 def token_mapping_bert(bert_token_col, gold_token_col):
     """
@@ -476,20 +519,16 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             bert_length = len(seq_bert_token[bert_index])
 
             # drop "##" prefix
-            # if seq_bert_token[bert_index].find("##") != -1:
-            #     bert_length = len(seq_bert_token[bert_index]) - 2
+            if seq_bert_token[bert_index].find("##") != -1:
+                bert_length = len(seq_bert_token[bert_index]) - 2
 
-            # while token_length > bert_length:
-            #     bert_index = bert_index + 1
-            #     seq_map[token_index].append(bert_index)
-            #     bert_length += len(seq_bert_token[bert_index])
-
-            #     if seq_bert_token[bert_index].find("##") != -1:
-            #         bert_length -= 2
-            while seq_bert_token[bert_index].startswith("##"):
+            while token_length > bert_length:
                 bert_index = bert_index + 1
                 seq_map[token_index].append(bert_index)
                 bert_length += len(seq_bert_token[bert_index])
+
+                if seq_bert_token[bert_index].find("##") != -1:
+                    bert_length -= 2
 
             print (bert_length, '\t', token_length)
             assert bert_length == token_length, "appear mapping error!"
