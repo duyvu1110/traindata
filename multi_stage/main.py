@@ -13,8 +13,6 @@ from eval_utils.base_eval import BaseEvaluation, ElementEvaluation, PairEvaluati
 from eval_utils import create_eval
 from data_utils import current_program_code as cpc
 
-import py_vncorenlp
-
 def set_seed(seed):
     random.seed(seed)
     np.random.seed(seed)
