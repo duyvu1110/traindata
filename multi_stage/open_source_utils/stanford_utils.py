@@ -1,16 +1,17 @@
 import copy
 from stanfordcorenlp import StanfordCoreNLP
+import py_vncorenlp
 
 
 class stanfordFeature(object):
-    def __init__(self, sentences, stanford_path, lang="en"):
+    def __init__(self, sentences, stanford_path):
         """
         :param sentences: a list of sentence, [sentence1, sentence2......]
         :param stanford_path: nlp stanford core path
         :param lang: denote which language sentences need to process
         """
         self.sentences_col = sentences
-        self.nlp = StanfordCoreNLP(stanford_path, lang=lang)
+        self.nlp = py_vncorenlp.VnCoreNLP(stanford_path)
 
         # using set to store label type
         self.pos_dict, self.pos_index = {"PAD": 0}, 1

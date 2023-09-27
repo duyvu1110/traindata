@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from torchcrf import CRF
 
-from transformers import AutoModel, BertLayer
+from transformers import AutoModel
 
 ########################################################################################################################
 # Model Encoder Layer.

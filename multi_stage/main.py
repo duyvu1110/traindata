@@ -13,6 +13,7 @@ from eval_utils.base_eval import BaseEvaluation, ElementEvaluation, PairEvaluati
 from eval_utils import create_eval
 from data_utils import current_program_code as cpc
 
+import py_vncorenlp
 
 def set_seed(seed):
     random.seed(seed)
@@ -111,6 +112,7 @@ def main():
     #     data_gene = kesserl14_utils.DataGenerator(config)
     # else:
     #     data_gene = coae13_utils.DataGenerator(config)
+    py_vncorenlp.download_model(save_dir=config.path.standard_path)
     
     data_gene = kesserl14_utils.DataGenerator(config)
     data_gene.generate_data()
@@ -163,7 +165,7 @@ def main():
         dev_parameters = ["./ModelResult/" + model_name + "/dev_elem_result.txt",
                           "./PreTrainModel/" + model_name + "/dev_model"]
 
-        print("========================test==========================")
+        print("=================================test===================================")
         predicate_model = torch.load(dev_parameters[1])
 
         test_parameters = ["./ModelResult/" + model_name + "/test_elem_result.txt", None]
