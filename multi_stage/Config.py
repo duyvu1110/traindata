@@ -1,5 +1,5 @@
 from data_utils import shared_utils
-from transformers import BertTokenizer
+from transformers import AutoTokenizer
 
 
 class BaseConfig(object):
@@ -33,7 +33,7 @@ class BaseConfig(object):
         )
         self.val = GlobalConfig(self.position_sys)
         print('self.path.bert_model_path', self.path.bert_model_path)
-        self.bert_tokenizer = BertTokenizer.from_pretrained(self.path.bert_model_path)
+        self.bert_tokenizer = AutoTokenizer.from_pretrained(self.path.bert_model_path)
 
 
 class PathConfig(object):
