@@ -473,7 +473,7 @@ def token_mapping_phobert(phobert_token_col, gold_token_col):
             phobert_length = len(seq_phobert_token[phobert_index])
 
             # Drop "##" prefix
-            while seq_phobert_token[phobert_index].startswith("##"):
+            while seq_phobert_token[phobert_index].startswith("@@"):
                 phobert_index = phobert_index + 1
                 phobert_length += len(seq_phobert_token[phobert_index])
 
