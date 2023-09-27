@@ -12,7 +12,7 @@ class stanfordFeature(object):
         """
         self.sentences_col = sentences
         py_vncorenlp.download_model(save_dir=stanford_path)
-        self.nlp = py_vncorenlp.VnCoreNLP(savedir = stanford_path)
+        self.nlp = py_vncorenlp.VnCoreNLP(save_dir = stanford_path)
 
         # using set to store label type
         self.pos_dict, self.pos_index = {"PAD": 0}, 1
