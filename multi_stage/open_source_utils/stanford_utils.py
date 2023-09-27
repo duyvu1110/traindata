@@ -1,6 +1,6 @@
 import copy
 from stanfordcorenlp import StanfordCoreNLP
-import py_vncorenlp
+import stanza
 
 
 class stanfordFeature(object):
@@ -11,8 +11,8 @@ class stanfordFeature(object):
         :param lang: denote which language sentences need to process
         """
         self.sentences_col = sentences
-        py_vncorenlp.download_model(save_dir=stanford_path)
-        self.nlp = py_vncorenlp.VnCoreNLP(save_dir = stanford_path)
+        stanza.download('vi')
+        self.nlp = stanza.Pipeline('vi')
 
         # using set to store label type
         self.pos_dict, self.pos_index = {"PAD": 0}, 1
@@ -28,7 +28,13 @@ class stanfordFeature(object):
         """
         input_tokens = []
         for i in range(len(self.sentences_col)):
-            token_list = self.nlp.word_tokenize(self.sentences_col[i])
+            # token_list = self.nlp.word_tokenize(self.sentences_col[i])
+            token_list = []
+            doc = self.nlp(self.sentences_col[i])
+            for sentence in vi_doc.sentences:
+                for token in s.tokens:
+                    token_list.append(token.text)
+            # token_list = self.nlp(self.sentences_col[i])
             input_tokens.append(token_list)
 
         return input_tokens
@@ -44,8 +50,13 @@ class stanfordFeature(object):
 
         pos_feature = []
         for index in range(len(self.sentences_col)):
-            tag_list = self.nlp.pos_tag(self.sentences_col[index])
-            pos_tag_list = list(list(zip(*tag_list))[1])
+            # tag_list = self.nlp.pos_tag(self.sentences_col[index])
+            # pos_tag_list = list(list(zip(*tag_list))[1])
+            pos_tag_list = []
+            doc = self.nlp(self.sentences_col[index])
+            for sentence in doc.sentences:
+                for word in sentence.words:
+                    pos_tag_list.append(word.pos)
 
             # update pos-tag set
             for tag in pos_tag_list:
@@ -63,10 +74,15 @@ class stanfordFeature(object):
         """
         dep_matrix_feature, dep_label_feature = [], []
         for index in range(len(self.sentences_col)):
-            dep_parse = self.nlp.dependency_parse(self.sentences_col[index])
-
-            label_col = list(list(zip(*dep_parse))[0])
-            out_node, in_node = list(list(zip(*dep_parse))[1]), list(list(zip(*dep_parse))[2])
+            # dep_parse = self.nlp.dependency_parse(self.sentences_col[index])
+            # label_col = list(list(zip(*dep_parse))[0])
+            # out_node, in_node = list(list(zip(*dep_parse))[1]), list(list(zip(*dep_parse))[2])
+            doc = self.nlp(self.sentences_col[index])
+            dep_parse = [(word.deprel, word.head, word.text) for sent in doc.sentences for word in sent.words]
+            
+            label_col = [dep[0] for dep in dep_parse]
+            out_node = [dep[1] for dep in dep_parse]
+            in_node = [dep[2] for dep in dep_parse]
 
             # define dep matrix and dep label matrix
             dep_matrix = [[0 for _ in range(len(out_node))] for j in range(len(out_node))]
