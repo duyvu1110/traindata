@@ -11,7 +11,8 @@ class stanfordFeature(object):
         :param lang: denote which language sentences need to process
         """
         self.sentences_col = sentences
-        self.nlp = py_vncorenlp.VnCoreNLP(stanford_path)
+        py_vncorenlp.download_model(save_dir=stanford_path)
+        self.nlp = py_vncorenlp.VnCoreNLP(savedir = stanford_path)
 
         # using set to store label type
         self.pos_dict, self.pos_index = {"PAD": 0}, 1
