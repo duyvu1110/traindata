@@ -31,7 +31,7 @@ class stanfordFeature(object):
             # token_list = self.nlp.word_tokenize(self.sentences_col[i])
             token_list = []
             doc = self.nlp(self.sentences_col[i])
-            for sentence in vi_doc.sentences:
+            for sentence in doc.sentences:
                 for token in s.tokens:
                     token_list.append(token.text)
             # token_list = self.nlp(self.sentences_col[i])
