@@ -284,7 +284,8 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
         # using bert tokenizer to get bert token
         else:
             if add_next_sent is None:
-                return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP]')
+                # return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP]')
+                return bert_tokenizer.tokenize(sent_col)
             else:
                 return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP] ' + add_next_sent + ' [SEP]')
     else:
