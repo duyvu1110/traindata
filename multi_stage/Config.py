@@ -50,12 +50,14 @@ class PathConfig(object):
 
         # nlp tool file path
         if device == "cpu":
-            self.stanford_path = "/kaggle/working/vncorenlp"
+            # self.stanford_path = "/kaggle/working/vncorenlp"
+            self.stanford_path = "/kaggle/input/corenlp/stanford-corenlp-full-2018-10-05"
             # self.bert_model_path = "/kaggle/input/huggingface-bert/bert-base-uncased"
             self.bert_model_path = "vinai/phobert-base-v2"
             
         else:
-            self.stanford_path = premodel_path + "/kaggle/working/vncorenlp"
+            # self.stanford_path = premodel_path + "/kaggle/working/vncorenlp"
+            self.stanford_path = premodel_path + "/kaggle/input/corenlp/stanford-corenlp-full-2018-10-05"
             # self.bert_model_path = premodel_path + "/kaggle/input/huggingface-bert/bert-base-uncased"
             self.bert_model_path = "vinai/phobert-base-v2"
             self.GloVe_path = premodel_path + "/kaggle/input/glove840b300dtxt/glove.840B.300d.txt"
