@@ -106,12 +106,12 @@ def main():
 
     print(model_name)
 
-    # if config.data_type == "eng":
-    #     data_gene = kesserl14_utils.DataGenerator(config)
-    # else:
-    #     data_gene = coae13_utils.DataGenerator(config)
+    if config.data_type == "eng":
+        data_gene = kesserl14_utils.DataGenerator(config)
+    else:
+        data_gene = coae13_utils.DataGenerator(config)
     
-    data_gene = kesserl14_utils.DataGenerator(config)
+    # data_gene = kesserl14_utils.DataGenerator(config)
     data_gene.generate_data()
 
     global_eval = BaseEvaluation(config)
