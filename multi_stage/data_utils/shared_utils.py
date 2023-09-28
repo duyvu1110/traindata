@@ -460,7 +460,10 @@ def token_mapping_bert(bert_token_col, gold_token_col):
     for index in range(len(bert_token_col)):
         seq_map, bert_index, token_index = {}, 1, 0
         seq_bert_token, seq_gold_token = bert_token_col[index], gold_token_col[index]
-
+        
+        print('seq_bert_token', seq_bert_token)
+        print('seq_gold_token', seq_gold_token)
+        
         while bert_index < len(seq_bert_token) and token_index < len(seq_gold_token):
             seq_map[token_index] = [bert_index]
 
