@@ -37,7 +37,7 @@ class DataGenerator(object):
         sent_col, sent_label_col, label_col = cpc.read_standard_file(data_path)
 
         LP = LabelParser(label_col, ["entity_1", "entity_2", "aspect", "result"])
-        label_col, tuple_pair_col = LP.parse_sequence_label("&&", sent_col, file_type="cn")
+        label_col, tuple_pair_col = LP.parse_sequence_label("&&", sent_col, file_type="en")
 
         # using stanford tool to get some feature data.
         if not os.path.exists(self.config.path.pre_process_data[data_type]):
