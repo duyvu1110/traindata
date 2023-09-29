@@ -284,16 +284,9 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
         # using bert tokenizer to get bert token
         else:
             if add_next_sent is None:
-                # return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP]')
                 temp = bert_tokenizer(sent_col)
-                temp['input_ids'][0] = 101
-                temp['input_ids'][-1] = 102
-                temp['input_ids'].insert(0, 101)
-                temp['input_ids'].append(102)
-                temp['token_type_ids'].append(0)
-                temp['token_type_ids'].append(0)
-                temp['attention_mask'].append(1)
-                temp['attention_mask'].append(1)
+                temp.insert(0, '[CLS]')
+                temp.append('SEP')
                 # return bert_tokenizer.tokenize(sent_col)
                 return temp
             else:
