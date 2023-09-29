@@ -284,11 +284,11 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
         # using bert tokenizer to get bert token
         else:
             if add_next_sent is None:
-                # temp = bert_tokenizer.tokenize(sent_col)
-                # temp.insert(0, ['[CLS]'])
-                # temp.append('[SEP]')
-                return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP]')
-                # return temp
+                temp = bert_tokenizer.tokenize(sent_col)
+                temp.insert(0, ['[CLS]'])
+                temp.append('[SEP]')
+                # return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP]')
+                return temp
             else:
                 return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP] ' + add_next_sent + ' [SEP]')
     else:
@@ -422,7 +422,8 @@ def bert_mapping_char(bert_token_col, gold_char_col):
             seq_map[bert_index] = [char_index]
 
             # [UNK] denote special symbol
-            if seq_bert_token[bert_index] == "[UNK]":
+            # if seq_bert_token[bert_index] == "[UNK]":
+            if seq_bert_token[bert_index] == "<unk>":
                 bert_index = bert_index + 1
                 char_index = char_index + 1
                 continue

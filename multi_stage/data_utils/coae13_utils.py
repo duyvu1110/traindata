@@ -32,7 +32,7 @@ class DataGenerator(object):
         sent_col, sent_label_col, label_col = cpc.read_standard_file(data_path)
 
         LP = LabelParser(label_col, ["entity_1", "entity_2", "aspect", "result"])
-        label_col, tuple_pair_col = LP.parse_sequence_label("&", sent_col)
+        label_col, tuple_pair_col = LP.parse_sequence_label("&&", sent_col)
 
         data_dict['label_col'] = label_col
         data_dict['comparative_label'] = sent_label_col
