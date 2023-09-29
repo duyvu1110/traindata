@@ -1,5 +1,5 @@
 import copy
-from stanfordcorenlp import StanfordCoreNLP
+# from stanfordcorenlp import StanfordCoreNLP
 from underthesea import word_tokenize, pos_tag, dependency_parse
 
 
