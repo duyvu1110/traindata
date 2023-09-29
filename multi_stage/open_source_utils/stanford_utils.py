@@ -14,7 +14,7 @@ class stanfordFeature(object):
         # self.nlp = stanza.Pipeline('vi', processors='tokenize,pos,lemma,depparse', verbose=False)
 
         # using set to store label type
-        self.pos_dict, self.pos_index = {"PAD": 0}, 1
+        self.pos_dict, self.pos_index = {"pad": 0}, 1
         self.dep_label_dict, self.dep_label_index = {}, 1
         self.vocab = {}
 
@@ -45,7 +45,8 @@ class stanfordFeature(object):
         for index in range(len(self.sentences_col)):
             # tag_list = self.nlp.pos_tag(self.sentences_col[index])
             # pos_tag_list = list(list(zip(*tag_list))[1])
-            pos_tag_list = pos_tag(self.sentences_col[index])
+            tag_list = pos_tag(self.sentences_col[index])
+            pos_tag_list = list(list(zip(*tag_list))[1])
 
             # update pos-tag set
             for tag in pos_tag_list:
