@@ -297,6 +297,10 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
             temp['input_ids'][-1] = 102
             temp['input_ids'].insert(0, 101)
             temp['input_ids'].append(102)
+            temp['token_type_ids'].append(0)
+            temp['token_type_ids'].append(0)
+            temp['attention_mask'].append(1)
+            temp['attention_mask'].append(1)
             # token_col.append(get_token_col(sent_col[index], split_symbol, bert_tokenizer, dim - 1))
             token_col.append(temp)
 
