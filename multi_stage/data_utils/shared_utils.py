@@ -296,7 +296,7 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
 
         for index in range(len(sent_col)):
             token_col.append(get_token_col(sent_col[index], split_symbol, bert_tokenizer, dim - 1))
-            token_col.append(temp)
+            # token_col.append(temp)
 
         return token_col
 
