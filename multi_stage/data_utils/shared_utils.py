@@ -474,7 +474,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             seq_map[token_index] = [bert_index]
 
             # [UNK] denote special symbol
-            if seq_bert_token[bert_index] == "[UNK]":
+            # if seq_bert_token[bert_index] == "[UNK]":
+            if seq_bert_token[bert_index] == "<unk>":
                 bert_index = bert_index + 1
                 token_index = token_index + 1
                 continue
