@@ -285,8 +285,8 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
         else:
             if add_next_sent is None:
                 temp = bert_tokenizer(sent_col)
-                temp.insert(0, '[CLS]')
-                temp.append('SEP')
+                temp[:0] = ['[CLS]']
+                temp.append('[SEP]')
                 # return bert_tokenizer.tokenize(sent_col)
                 return temp
             else:
