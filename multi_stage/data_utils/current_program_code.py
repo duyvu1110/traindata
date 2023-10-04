@@ -158,8 +158,8 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
 
         for key, elem_position_col in sequence_label.items():
             for elem_index, elem_position in enumerate(elem_position_col):
-                s_index = elem_position[0]
-                e_index = elem_position[1]
+                s_index = elem_position[0] - 1
+                e_index = elem_position[1] - 1
 
                 # 针对英文数据集可能存在空的情况
                 print(key)
