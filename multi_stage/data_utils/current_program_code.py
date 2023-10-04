@@ -142,9 +142,6 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
     :return:
     """
     assert len(label_col) == len(mapping_col)
-
-    print('label_col\n', label_col)
-    print('mapping_col\n', mapping_col)
     
     convert_label_col = []
     for index in range(len(label_col)):
@@ -162,6 +159,10 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
                 e_index = elem_position[1]
 
                 # 针对英文数据集可能存在空的情况
+                print(sequence_label[key][elem_index])
+                print(sequence_map[s_index][0], sequence_map[e_index][-1])
+                
+                
                 if s_index == -1 or e_index == -1:
                     sequence_label[key][elem_index] = [-1, -1]
                 else:
