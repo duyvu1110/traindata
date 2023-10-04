@@ -162,7 +162,7 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
                 e_index = elem_position[1] - 1
 
                 # 针对英文数据集可能存在空的情况
-                print(key)
+                print(s_index, e_index)
                 print(sequence_label[key][elem_index])
                 print(sequence_map[s_index][0], sequence_map[e_index][-1])                
                 
