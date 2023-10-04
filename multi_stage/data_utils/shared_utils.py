@@ -494,7 +494,7 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             while token_length > bert_length:
                 bert_index = bert_index + 1
                 seq_map[token_index].append(bert_index)
-                bert_length += len(seq_bert_token[bert_index]) + 1
+                bert_length += len(seq_bert_token[bert_index]) - 3
 
                 # if seq_bert_token[bert_index].find("##") != -1:
                 #     bert_length -= 2
