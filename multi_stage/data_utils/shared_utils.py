@@ -475,8 +475,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                 bert_index = bert_index + 1
                 token_index = token_index + 1
                 continue
-            if seq_gold_char[char_index].find(' ') != -1:
-                seq_gold_char[char_index] = seq_gold_char[char_index].replace(' ', '')
+            if seq_gold_token[char_index].find(' ') != -1:
+                seq_gold_token[char_index] = seq_gold_token[char_index].replace(' ', '')
             # get cur index correspond length
             token_length = len(seq_gold_token[token_index])
             bert_length = len(seq_bert_token[bert_index])
