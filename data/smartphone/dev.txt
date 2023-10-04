@@ -1,1106 +1,1061 @@
-Về cấu hình của Samsung A31 và A51 , cả hai đều được trang bị RAM 6GB và có dung lượng bộ nhớ 128GB , sự khác biệt chủ yếu đến từ bộ xử lý .   1
-[[10&&cả 11&&hai];[10&&cả 11&&hai];[16&&RAM 17&&6GB];[12&&đều 13&&được 14&&trang 15&&bị];[0]]
-[[10&&cả 11&&hai];[10&&cả 11&&hai];[33&&bộ 34&&xử 35&&lý];[27&&khác 28&&biệt];[-1]]
-[[10&&cả 11&&hai];[10&&cả 11&&hai];[20&&dung 21&&lượng 22&&bộ 23&&nhớ 24&&128GB];[19&&có];[0]]
-Samsung A31 được trang bị con chip Mediatek MT6768 Helio P65 , còn Galaxy A51 sử dụng bộ xử lý Exynos 9611 tự sản xuất .   0
+Hi vọng quay những so sánh trên , các bạn có thể chọn được sản phẩm ứng ý , phù hợp nhu cầu sử dụng .    0
 [[];[];[];[];[]]
-Về hiệu suất tổng thể , Exynos 9611 tốt hơn một chút so với Helio P65 , nhưng là không đáng so với mức chênh lệch hơn 1 triệu đồng .   1
-[[7&&Exynos 8&&9611];[15&&Helio 16&&P65];[2&&hiệu 3&&suất];[9&&tốt 10&&hơn 11&&một 12&&chút];[4]]
-[[6&&cả 7&&hai];[6&&cả 7&&hai];[3&&Cấu 4&&hình];[8&&không 9&&chênh 10&&lệch 11&&nhiều];[0]]
-Cấu hình của cả hai không chênh lệch nhiều .   1
-[[4&&cả 5&&hai];[4&&cả 5&&hai];[1&&Cấu 2&&hình];[6&&không 7&&chênh 8&&lệch 9&&nhiều];[0]]
-Samsung A51 sở hữu camera góc siêu rộng độ phân giải cao hơn , cho chất lượng ảnh chụp rực rỡ và sắc nét hơn .   1
-[[1&&Samsung 2&&A51];[];[5&&camera 6&&góc 7&&siêu 8&&rộng];[9&&độ 10&&phân 11&&giải 12&&cao 13&&hơn];[4]]
-[[1&&Samsung 2&&A51];[];[16&&chất 17&&lượng 18&&ảnh 19&&chụp];[20&&rực 21&&rỡ 22&&và 23&&sắc 24&&nét 25&&hơn];[4]]
-Khả năng quay video của A51 cũng vượt trội hơn rất nhiều so với A31 .   1
-[[6&&A51];[15&&A31];[1&&Khả 2&&năng 3&&quay 4&&video];[8&&vượt 9&&trội 10&&hơn 11&&rất 12&&nhiều];[4]]
-Mặc dù 4K là không quá cần thiết , nhưng với khả năng quay Full HD 120 khung hình / giây , Samsung A51 cho phép tạo ra những video quay chậm sắc nét , ghi lại hoàn hảo mọi khoảng khắc .   0
+Chọn mua Samsung Galaxy A31 hay A51 phụ thuộc vào nhu cầu của bạn .    0
 [[];[];[];[];[]]
-Camera trước của Samsung A51 cũng có độ phân giải cao hơn khá nhiều hứa hẹn cho chất lượng ảnh selfie chi tiết , bắt mắt hơn Samsung A31 .   1
-[[4&&Samsung 5&&A51];[28&&Samsung 29&&A31];[1&&Camera 2&&trước];[8&&độ 9&&phân 10&&giải 11&&cao 12&&hơn 13&&khá 14&&nhiều];[4]]
-[[4&&Samsung 5&&A51];[28&&Samsung 29&&A31];[18&&chất 19&&lượng 20&&ảnh 21&&selfie];[22&&chi 23&&tiết];[4]]
-[[4&&Samsung 5&&A51];[28&&Samsung 29&&A31];[];[25&&bắt 26&&mắt 27&&hơn];[4]]
-[[1&&Camera 2&&trước 3&&của 4&&Samsung 5&&A51];[28&&Samsung 29&&A31];[8&&độ 9&&phân 10&&giải];[11&&cao 12&&hơn 13&&khá 14&&nhiều];[4]]
-[[3&&Samsung 4&&A51];[12&&A31];[7&&cụm 8&&camera];[9&&vượt 10&&trội 11&&hơn];[4]]
-Samsung A51 sở hữu cụm camera vượt trội hơn A31 .   1
-[[1&&Samsung 2&&A51];[10&&A31];[5&&cụm 6&&camera];[7&&vượt 8&&trội 9&&hơn];[4]]
-Với độ dày và nặng hơn , Samsung A31 sử hữu viên pin khủng lên đến 5,000 mAh còn Samsung A51 chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .   1
-[[8&&Samsung 9&&A31];[20&&Samsung 21&&A51];[];[5&&nặng 6&&hơn];[5]]
-Nhìn thì ít nhưng , mức chênh lệch lên đến 20 % rất đáng xem xét .   0
+Thế Giới Di Động là địa chỉ uy tín bạn nên lựa chọn để mua điện thoại với đa dạng các sản phẩm thuộc dòng Samsung đình đám .    0
 [[];[];[];[];[]]
-Nếu bạn không chơi game liên tục , cũng ít khi có những chuyến đi dài ngày thì cả hai vẫn đáp ứng tốt .   0
+Bạn hoàn toàn có thể yên tâm về chất lượng và giá thành của sản phẩm .    0
 [[];[];[];[];[]]
-Nếu pin là yếu tố bạn ưu tiên thì Samsung A31 đáng lựa chọn hơn .   1
-[[10&&Samsung 11&&A31];[];[2&&pin];[12&&đáng 13&&lựa 14&&chọn 15&&hơn];[4]]
-[[3&&Samsung 4&&A31];[6&&A51];[9&&những 10&&ưu 11&&và 12&&nhược 13&&điểm 14&&riêng];[7&&đều 8&&có];[0]]
-Samsung A31 và A51 đều có những ưu và nhược điểm riêng .   1
-[[1&&Samsung 2&&A31];[4&&A51];[7&&những 8&&ưu 9&&và 10&&nhược 11&&điểm 12&&riêng];[5&&đều 6&&có];[0]]
-Xét về thiết kế , Galaxy A51 có màn hình đục lỗ hiện đại , bắt mắt hơn .   1
-[[6&&Galaxy 7&&A51];[];[3&&thiết 4&&kế];[16&&bắt 17&&mắt 18&&hơn];[4]]
-Về màn hình , cả hai cùng có tấm nền Super AMOLED Full HD + với kích thước chênh lệch rất ít ( A31 là 6.4 inch , A51 là 6.5 inch ) nên chất lượng hiển thị không khác nhau nhiều và đều rất tốt trong phân khúc .   1
-[[5&&cả 6&&hai];[5&&cả 6&&hai];[2&&màn 3&&hình];[7&&cùng 8&&có 9&&tấm 10&&nền 11&&Super 12&&AMOLED 13&&Full 14&&HD 15&&+];[0]]
-[[5&&cả 6&&hai];[5&&cả 6&&hai];[2&&màn 3&&hình];[17&&kích 18&&thước 19&&chênh 20&&lệch 21&&rất 22&&ít];[0]]
-[[];[];[35&&chất 36&&lượng 37&&hiển 38&&thị];[39&&không 40&&khác 41&&nhau 42&&nhiều];[0]]
-Về hiệu năng , Galaxy A51 có nhỉnh hơn nhưng không nhiều .   1
-[[5&&Galaxy 6&&A51];[];[2&&hiệu 3&&năng];[8&&nhỉnh 9&&hơn 10&&nhưng 11&&không 12&&nhiều];[0]]
-Hi vọng quay những so sánh trên , các bạn có thể chọn được sản phẩm ứng ý , phù hợp nhu cầu sử dụng .   0
+Bên cạnh đó , Thế Giới Di Động còn có nhiều chương trình khuyến mãi hấp dẫn khi mua hàng tại đây .    0
 [[];[];[];[];[]]
-Chọn mua Samsung Galaxy A31 hay A51 phụ thuộc vào nhu cầu của bạn .   0
+Với hệ thống siêu thị phủ khắp các tỉnh thành trên toàn quốc , bạn có thể đến siêu thị gần nhất để được trải nghiệm và tư vấn mua sản phẩm một cách dễ dàng .    0
 [[];[];[];[];[]]
-Thế Giới Di Động là địa chỉ uy tín bạn nên lựa chọn để mua điện thoại với đa dạng các sản phẩm thuộc dòng Samsung đình đám .   0
+Nên chọn mua điện thoại Samsung tại địa chỉ uy tín như Thế Giới Di Động .    0
 [[];[];[];[];[]]
-Bạn hoàn toàn có thể yên tâm về chất lượng và giá thành của sản phẩm .   0
+- Hư gì đổi nấy 12 tháng tại 3304 siêu thị toàn quốc ( miễn phí tháng đầu ) .    0
 [[];[];[];[];[]]
-Bên cạnh đó , Thế Giới Di Động còn có nhiều chương trình khuyến mãi hấp dẫn khi mua hàng tại đây .   0
+- Bảo hành chính hãng điện thoại 1 năm tại các trung tâm bảo hành hãng .    0
 [[];[];[];[];[]]
-Với hệ thống siêu thị phủ khắp các tỉnh thành trên toàn quốc , bạn có thể đến siêu thị gần nhất để được trải nghiệm và tư vấn mua sản phẩm một cách dễ dàng .   0
+Chính sách bảo hành điện thoại hấp dẫn tại Thế Giới Di Động .    0
 [[];[];[];[];[]]
-Nên chọn mua điện thoại Samsung tại địa chỉ uy tín như Thế Giới Di Động .   0
+Bài viết trên vừa so sánh Samsung A31 và Samsung A51 chi tiết - Dòng nào đáng mua hơn .    0
 [[];[];[];[];[]]
-- Hư gì đổi nấy 12 tháng tại 3304 siêu thị toàn quốc ( miễn phí tháng đầu ) .   0
+Cảm ơn bạn đã dành thời gian đọc bài viết .    0
 [[];[];[];[];[]]
-- Bảo hành chính hãng điện thoại 1 năm tại các trung tâm bảo hành hãng .   0
+Galaxy A32 và OPPO A74 thuộc dòng A của hai thương hiệu lớn là Samsung và OPPO .    0
 [[];[];[];[];[]]
-Chính sách bảo hành điện thoại hấp dẫn tại Thế Giới Di Động .   0
+Đây là dòng điện thoại hướng tới người dùng trẻ với các tính năng mới cùng giá bán phải chăng .    0
 [[];[];[];[];[]]
-Bài viết trên vừa so sánh Samsung A31 và Samsung A51 chi tiết - Dòng nào đáng mua hơn .   0
-[[];[];[];[];[]]
-Cảm ơn bạn đã dành thời gian đọc bài viết .   0
-[[];[];[];[];[]]
-Galaxy A32 và OPPO A74 thuộc dòng A của hai thương hiệu lớn là Samsung và OPPO .   0
-[[];[];[];[];[]]
-Đây là dòng điện thoại hướng tới người dùng trẻ với các tính năng mới cùng giá bán phải chăng .   0
-[[];[];[];[];[]]
-OPPO A74 và Samsung Galaxy A32 có cùng mức giá 6.69 triệu và cả hai đều là những chiến binh tầm trung trong nửa đầu năm 2021 .   1
+OPPO A74 và Samsung Galaxy A32 có cùng mức giá 6.69 triệu và cả hai đều là những chiến binh tầm trung trong nửa đầu năm 2021 .    1
 [[1&&OPPO 2&&A74];[4&&Samsung 5&&Galaxy 6&&A32];[9&&mức 10&&giá];[7&&có 8&&cùng];[0]]
 [[14&&cả 15&&hai];[14&&cả 15&&hai];[];[16&&đều 17&&là 18&&những 19&&chiến 20&&binh 21&&tầm 22&&trung 23&&trong 24&&nửa 25&&đầu 26&&năm 27&&2021];[0]]
-Năm nay , Galaxy A 2021 của Samsung sở hữu thiết kế khác biệt so với thị trường .   1
+Năm nay , Galaxy A 2021 của Samsung sở hữu thiết kế khác biệt so với thị trường .    1
 [[4&&Galaxy 5&&A 6&&2021];[17&&thị 18&&trường];[11&&thiết 12&&kế];[13&&khác 14&&biệt];[-1]]
-Kiểu thiết kế tinh giản cùng các phiên bản màu sắc thời thượng tím , xanh , trắng và đen .   0
+Kiểu thiết kế tinh giản cùng các phiên bản màu sắc thời thượng tím , xanh , trắng và đen .    0
 [[];[];[];[];[]]
-Các cảm biến camera cũng được tích hợp sẵn vào mặt lưng , tạo vẻ ngoài hiện đại và thời thượng .   0
+Các cảm biến camera cũng được tích hợp sẵn vào mặt lưng , tạo vẻ ngoài hiện đại và thời thượng .    0
 [[];[];[];[];[]]
-Đối với OPPO A74 là thiết kế mặt lưng bóng bẩy và đổ màu gradient cùng cụm camera hình chữ nhật .   0
+Đối với OPPO A74 là thiết kế mặt lưng bóng bẩy và đổ màu gradient cùng cụm camera hình chữ nhật .    0
 [[];[];[];[];[]]
-Điện thoại có hai tùy chọn cho bạn là xanh và đen .   0
+Điện thoại có hai tùy chọn cho bạn là xanh và đen .    0
 [[];[];[];[];[]]
-Phiên bản màu xanh khá “ cuốn ” , phù hợp với người dùng thích sự tinh tế .   1
+Phiên bản màu xanh khá “ cuốn ” , phù hợp với người dùng thích sự tinh tế .    1
 [[4&&Galaxy 5&&A32];[];[1&&Màn 2&&hình];[6&&“ 7&&nhỉnh 8&&” 9&&hơn];[4]]
-Samsung năm nay đã có bước cải tiến khá lớn về màn hình cho chiếc điện thoại tầm giá 6-7 triệu của mình là màn hình 90H z .   0
+Samsung năm nay đã có bước cải tiến khá lớn về màn hình cho chiếc điện thoại tầm giá 6-7 triệu của mình là màn hình 90H z .    0
 [[];[];[];[];[]]
-Với màn hình này , bạn có thể trải nghiệm tuyệt vời với khả năng “ lướt ” , “ vuốt ” mượt mà so với màn hình 60H z của OPPO A74 .   0
+Với màn hình này , bạn có thể trải nghiệm tuyệt vời với khả năng “ lướt ” , “ vuốt ” mượt mà so với màn hình 60H z của OPPO A74 .    0
 [[];[];[];[];[]]
-Tuy nhiên nhìn đi nhìn lại thì OPPO A74 có màn hình “ đục lỗ ” sẽ nhìn hợp xu hướng hơn so với màn hình “ giọt sương ” trên Galaxy A32 .   1
+Tuy nhiên nhìn đi nhìn lại thì OPPO A74 có màn hình “ đục lỗ ” sẽ nhìn hợp xu hướng hơn so với màn hình “ giọt sương ” trên Galaxy A32 .    1
 [[8&&OPPO 9&&A74];[32&&Galaxy 33&&A32];[11&&màn 12&&hình];[19&&hợp 20&&xu 21&&hướng 22&&hơn];[4]]
-Về kích thước thì cả hai không sự khác biệt khi cùng thông số 6.4 inch Full HD + .   1
+Về kích thước thì cả hai không sự khác biệt khi cùng thông số 6.4 inch Full HD + .    1
 [[5&&cả 6&&hai];[5&&cả 6&&hai];[2&&kích 3&&thước];[7&&không 8&&sự 9&&khác 10&&biệt];[0]]
 [[5&&cả 6&&hai];[5&&cả 6&&hai];[13&&thông 14&&số 15&&6.4 16&&inch 17&&Full 18&&HD 19&&+];[12&&cùng];[0]]
-Màn hình lớn sẽ giúp bạn có không gian giải trí tuyệt vời và dù thế nào thì cả hai đều được trang bị tấm nền cao cấp , cho chất lượng hiển thị sắc nét và chân thực .   1
+Màn hình lớn sẽ giúp bạn có không gian giải trí tuyệt vời và dù thế nào thì cả hai đều được trang bị tấm nền cao cấp , cho chất lượng hiển thị sắc nét và chân thực .    1
 [[19&&cả 20&&hai];[19&&cả 20&&hai];[25&&tấm 26&&nền 27&&cao 28&&cấp];[21&&đều 22&&được 23&&trang 24&&bị];[0]]
 [[];[];[1&&Vi 2&&xử 3&&lý];[4&&khá 5&&tương 6&&đồng];[0]]
-OPPO A74 sở hữu vi xử lý Snapdragon 662 và Galaxy A32 là Helio G80 .   0
+OPPO A74 sở hữu vi xử lý Snapdragon 662 và Galaxy A32 là Helio G80 .    0
 [[];[];[];[];[]]
-So điểm hiệu năng trên Antutu thì Helio G80 có số điểm cao hơn khi nằm khoảng gần 200.000 điểm và Snapdragon 662 khoảng 180.000 điểm .   1
+So điểm hiệu năng trên Antutu thì Helio G80 có số điểm cao hơn khi nằm khoảng gần 200.000 điểm và Snapdragon 662 khoảng 180.000 điểm .    1
 [[8&&Helio 9&&G80];[22&&Snapdragon 23&&662];[2&&điểm 3&&hiệu 4&&năng 5&&trên 6&&Antutu];[13&&cao 14&&hơn];[4]]
-Đối với điểm hiệu năng trên GeekBench 5 thì SD662 có 319 điểm đơn lõi , 1401 điểm đa lõi và Helio G80 là 355 điểm đơn lõi , 1311 điểm đa lõi .   0
+Đối với điểm hiệu năng trên GeekBench 5 thì SD662 có 319 điểm đơn lõi , 1401 điểm đa lõi và Helio G80 là 355 điểm đơn lõi , 1311 điểm đa lõi .    0
 [[];[];[];[];[]]
-Chính vì thế mà hiệu năng điện thoại cũng không chênh lệch nhiều , nhưng so về độ ổn định thì Qualcomm sẽ có lợi thế về lâu dài hơn so với chip từ MediaTek .   1
+Chính vì thế mà hiệu năng điện thoại cũng không chênh lệch nhiều , nhưng so về độ ổn định thì Qualcomm sẽ có lợi thế về lâu dài hơn so với chip từ MediaTek .    1
 [[22&&Qualcomm];[35&&MediaTek];[5&&hiệu 6&&năng];[10&&không 11&&chênh 12&&lệch 13&&nhiều];[0]]
 [[22&&Qualcomm];[35&&MediaTek];[18&&độ 19&&ổn 20&&định];[24&&có 25&&lợi 26&&thế 27&&về 28&&lâu 29&&dài 30&&hơn];[4]]
-OPPO A74 và Galaxy A32 sở hữu viên pin lớn 5.000 mAh .   0
+OPPO A74 và Galaxy A32 sở hữu viên pin lớn 5.000 mAh .    0
 [[];[];[];[];[]]
-Đây là viên pin để bạn có thể sử dụng đến hai ngày dài .   0
+Đây là viên pin để bạn có thể sử dụng đến hai ngày dài .    0
 [[];[];[];[];[]]
-Sự khác biệt sẽ đến từ sạc nhanh khi Samsung chỉ hỗ trợ sạc nhanh 15W trong khi đó OPPO đến tận 33W .   1
+Sự khác biệt sẽ đến từ sạc nhanh khi Samsung chỉ hỗ trợ sạc nhanh 15W trong khi đó OPPO đến tận 33W .    1
 [[10&&Samsung];[20&&OPPO];[7&&sạc 8&&nhanh];[2&&khác 3&&biệt];[-1]]
-Quá trình thử nghiệm cho thấy Galaxy A32 đạt 100 % pin trong vòng khoảng 2 tiếng 20 phút và OPPO A74 là khoảng 2 tiếng .   0
+Quá trình thử nghiệm cho thấy Galaxy A32 đạt 100 % pin trong vòng khoảng 2 tiếng 20 phút và OPPO A74 là khoảng 2 tiếng .    0
 [[];[];[];[];[]]
-Phải nói năm nay Samsung chơi lớn trên những chiếc điện thoại dòng A. Khi Galalxy A32 có tận bốn camera sau là camera chính 64MP , góc rộng 8MP , camera macro 5MP và camera đo độ sâu 5MP .   0
+Phải nói năm nay Samsung chơi lớn trên những chiếc điện thoại dòng A. Khi Galalxy A32 có tận bốn camera sau là camera chính 64MP , góc rộng 8MP , camera macro 5MP và camera đo độ sâu 5MP .    0
 [[];[];[];[];[]]
-Các camera này sẽ mang đến từng tấm ảnh khác cho từng góc chụp .   0
+Các camera này sẽ mang đến từng tấm ảnh khác cho từng góc chụp .    0
 [[];[];[];[];[]]
-Đi kèm 4 camera sau , Galaxy A32 cũng tích hợp camera selfie đến 20MP , để bạn thỏa thích chụp được các tấm ảnh selfie sắc nét .   0
+Đi kèm 4 camera sau , Galaxy A32 cũng tích hợp camera selfie đến 20MP , để bạn thỏa thích chụp được các tấm ảnh selfie sắc nét .    0
 [[];[];[];[];[]]
-Trong khi đó , OPPO A74 chỉ có ba camera sau bao gồm camera chính 48MP , camera macro 2MP , camera đo độ sâu 2MP và camera selfie dừng lại ở độ phân giải 16MP .   0
+Trong khi đó , OPPO A74 chỉ có ba camera sau bao gồm camera chính 48MP , camera macro 2MP , camera đo độ sâu 2MP và camera selfie dừng lại ở độ phân giải 16MP .    0
 [[];[];[];[];[]]
-Điều này cũng có nghĩa Galaxy A32 sẽ hơn hẳn camera của OPPO A74 từ các độ sắc nét cho đến các góc chụp .   1
+Điều này cũng có nghĩa Galaxy A32 sẽ hơn hẳn camera của OPPO A74 từ các độ sắc nét cho đến các góc chụp .    1
 [[6&&Galaxy 7&&A32];[11&&camera 12&&của 13&&OPPO 14&&A74];[17&&độ 18&&sắc 19&&nét];[9&&hơn 10&&hẳn];[4]]
 [[6&&Galaxy 7&&A32];[11&&camera 12&&của 13&&OPPO 14&&A74];[22&&các 23&&góc 24&&chụp];[9&&hơn 10&&hẳn];[4]]
-Nhìn chung cả hai điện thoại đều có thế mạnh nhất định .   0
+Nhìn chung cả hai điện thoại đều có thế mạnh nhất định .    0
 [[];[];[];[];[]]
-Nếu bạn đang tìm kiếm chiếc điện thoại có thiết kế chuyển màu ấn tượng , hỗ trợ sạc nhanh cùng hiệu năng ổn định dài lâu thì OPPO A74 rất lý tưởng .   0
+Nếu bạn đang tìm kiếm chiếc điện thoại có thiết kế chuyển màu ấn tượng , hỗ trợ sạc nhanh cùng hiệu năng ổn định dài lâu thì OPPO A74 rất lý tưởng .    0
 [[];[];[];[];[]]
-Đối với người dùng yêu cầu về camera “ xịn ” , thiết kế tinh giản và màn hình mượt mà thì Galaxy A32 rất phù hợp .   0
+Đối với người dùng yêu cầu về camera “ xịn ” , thiết kế tinh giản và màn hình mượt mà thì Galaxy A32 rất phù hợp .    0
 [[];[];[];[];[]]
-Ngoài ra giữa hai chọn lựa OPPO hay Samsung còn phụ thuộc vào việc bạn yêu thích thương hiệu nào hơn .   0
+Ngoài ra giữa hai chọn lựa OPPO hay Samsung còn phụ thuộc vào việc bạn yêu thích thương hiệu nào hơn .    0
 [[];[];[];[];[]]
-Vì cả hai đều là sản phẩm ấn tượng trong phân khúc của chính nó .   1
+Vì cả hai đều là sản phẩm ấn tượng trong phân khúc của chính nó .    1
 [[2&&cả 3&&hai];[2&&cả 3&&hai];[];[4&&đều 5&&là 6&&sản 7&&phẩm 8&&ấn 9&&tượng 10&&trong 11&&phân 12&&khúc 13&&của 14&&chính 15&&nó];[0]]
-Đầu tháng 9 vừa qua , Samsung lại ra mắt thêm một sản phẩm tuyệt vời ở phân khúc tầm trung .   0
+Đầu tháng 9 vừa qua , Samsung lại ra mắt thêm một sản phẩm tuyệt vời ở phân khúc tầm trung .    0
 [[];[];[];[];[]]
-Đó chính là chiếc Samsung Galaxy M51 .   0
+Đó chính là chiếc Samsung Galaxy M51 .    0
 [[];[];[];[];[]]
-Mình phải nói là Samsung thực sự “ sởi lởi ” khi trang bị cho chiếc điện thoại mới này rất nhiều thứ .   0
+Mình phải nói là Samsung thực sự “ sởi lởi ” khi trang bị cho chiếc điện thoại mới này rất nhiều thứ .    0
 [[];[];[];[];[]]
-Đó là một viên pin khủng tới 7000 mAh , một màn hình Super AMOLED 6.7 inch nằm ở tầm trung .   0
+Đó là một viên pin khủng tới 7000 mAh , một màn hình Super AMOLED 6.7 inch nằm ở tầm trung .    0
 [[];[];[];[];[]]
-Cùng tìm hiểu chi tiết hơn về chiếc điện thoại này qua bài đánh giá dưới đây của mình .   0
+Cùng tìm hiểu chi tiết hơn về chiếc điện thoại này qua bài đánh giá dưới đây của mình .    0
 [[];[];[];[];[]]
-Nói về thiết kế , mình phải nói đó là một bước đột phá mạnh mẽ của Samsung .   0
+Nói về thiết kế , mình phải nói đó là một bước đột phá mạnh mẽ của Samsung .    0
 [[];[];[];[];[]]
-Từ trước đến nay , chúng ta đã thấy những chiếc điện thoại pin 5000 mAh đã gặp rắc rối thiết kế vì có một thân máy dày .   0
+Từ trước đến nay , chúng ta đã thấy những chiếc điện thoại pin 5000 mAh đã gặp rắc rối thiết kế vì có một thân máy dày .    0
 [[];[];[];[];[]]
-Đó là một điều khó chịu khi chúng ta dùng smartphone .   0
+Đó là một điều khó chịu khi chúng ta dùng smartphone .    0
 [[];[];[];[];[]]
-Nhưng đối với Samsung Galaxy M51 thì vấn đề đó đã được giải quyết , mặc dù nó mang trong mình viên pin 7000 mAh nhưng độ dày của nó cũng chỉ tương đương như những chiếc S20 mà thôi .   1
+Nhưng đối với Samsung Galaxy M51 thì vấn đề đó đã được giải quyết , mặc dù nó mang trong mình viên pin 7000 mAh nhưng độ dày của nó cũng chỉ tương đương như những chiếc S20 mà thôi .    1
 [[4&&Samsung 5&&Galaxy 6&&M51];[36&&những 37&&chiếc 38&&S20];[27&&độ 28&&dày];[33&&tương 34&&đương];[0]]
-Tuy nhiên khi nhắc tới độ nặng , nó chỉ được hoàn thiện bằng nhựa giả kính bên ngoài , nó vẫn có sức nặng 213 g .   0
+Tuy nhiên khi nhắc tới độ nặng , nó chỉ được hoàn thiện bằng nhựa giả kính bên ngoài , nó vẫn có sức nặng 213 g .    0
 [[];[];[];[];[]]
-Như vậy với độ dày 9.5 mm cùng cân nặng này mà có viên pin 7.000 mAh là chấp nhận được ở một chiếc smartphone 2020 .   0
+Như vậy với độ dày 9.5 mm cùng cân nặng này mà có viên pin 7.000 mAh là chấp nhận được ở một chiếc smartphone 2020 .    0
 [[];[];[];[];[]]
-Ngoài độ dày và trọng lượng mang tính đột phá thì hầu hết thiết kế của chiếc M51 này là một điển hình của Samsung trong năm 2020 .   0
+Ngoài độ dày và trọng lượng mang tính đột phá thì hầu hết thiết kế của chiếc M51 này là một điển hình của Samsung trong năm 2020 .    0
 [[];[];[];[];[]]
-Đó là một mặt lưng cong , các cạnh phẳng và các góc bo tròn .   0
+Đó là một mặt lưng cong , các cạnh phẳng và các góc bo tròn .    0
 [[];[];[];[];[]]
-Lựa chọn màu sắc có vẻ hơi đơn điệu khi bạn chỉ có 2 lựa chọn màu là Celestial Black , Electric Blue .   0
+Lựa chọn màu sắc có vẻ hơi đơn điệu khi bạn chỉ có 2 lựa chọn màu là Celestial Black , Electric Blue .    0
 [[];[];[];[];[]]
-Mặt trước là một màn hình Super AMOLED Plus lớn tới 6.7 inch .   0
+Mặt trước là một màn hình Super AMOLED Plus lớn tới 6.7 inch .    0
 [[];[];[];[];[]]
-Màn hình thực sự lớn kết hợp với các cạnh cực mỏng cho trải nghiệm màn hình là rất tuyệt vời .   0
+Màn hình thực sự lớn kết hợp với các cạnh cực mỏng cho trải nghiệm màn hình là rất tuyệt vời .    0
 [[];[];[];[];[]]
-Màn hình đục lỗ không khống chế ở góc màn hình mà lại là chính giữa có vẻ hơi lạ so với những màn hình khác .   1
+Màn hình đục lỗ không khống chế ở góc màn hình mà lại là chính giữa có vẻ hơi lạ so với những màn hình khác .    1
 [[1&&Màn 2&&hình 3&&đục 4&&lỗ 5&&không 6&&khống 7&&chế 8&&ở 9&&góc 10&&màn 11&&hình 12&&mà 13&&lại 14&&là 15&&chính 16&&giữa];[23&&những 24&&màn 25&&hình 26&&khác];[];[19&&hơi 20&&lạ];[-1]]
-Tuy rằng đục lỗ không nhỏ như những chiếc Flagship nhưng nó cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .   1
+Tuy rằng đục lỗ không nhỏ như những chiếc Flagship nhưng nó cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .    1
 [[12&&nó];[8&&những 9&&chiếc 10&&Flagship];[3&&đục 4&&lỗ];[5&&không 6&&nhỏ 7&&như];[5]]
-Cạnh tiếp xúc giữa màn hình và khung máy chình là dải loa thoại khá ngắn và dễ dàng nhìn thấy .   0
+Cạnh tiếp xúc giữa màn hình và khung máy chình là dải loa thoại khá ngắn và dễ dàng nhìn thấy .    0
 [[];[];[];[];[]]
-Mặt sau hoàn thiện bằng nhựa bóng như mình đã nói .   0
+Mặt sau hoàn thiện bằng nhựa bóng như mình đã nói .    0
 [[];[];[];[];[]]
-Nhưng điều này thực sự dễ hiểu khi nó phải hi sinh để có một viên pin lớn cùng trọng lượng chấp nhận được .   0
+Nhưng điều này thực sự dễ hiểu khi nó phải hi sinh để có một viên pin lớn cùng trọng lượng chấp nhận được .    0
 [[];[];[];[];[]]
-Nếu nó là mặt kính hoặc mặt nhôm thì trọng lượng sẽ rất lớn và bạn sẽ có cảm giác thực sự là cầm một “ cục gạch ” trong tay .   0
+Nếu nó là mặt kính hoặc mặt nhôm thì trọng lượng sẽ rất lớn và bạn sẽ có cảm giác thực sự là cầm một “ cục gạch ” trong tay .    0
 [[];[];[];[];[]]
-Nổi bật ở mặt sau này là một cụm 4 camera nằm trong khung hình chữ nhật trên góc trái .   0
+Nổi bật ở mặt sau này là một cụm 4 camera nằm trong khung hình chữ nhật trên góc trái .    0
 [[];[];[];[];[]]
-Trang bị ống kính chính lớn nhất mới 64MP nên cụm camera này không có nhô ra quá nhiều như chiếc Samsung Galaxy S20 năm nay .   1
+Trang bị ống kính chính lớn nhất mới 64MP nên cụm camera này không có nhô ra quá nhiều như chiếc Samsung Galaxy S20 năm nay .    1
 [[11&&cụm 12&&camera 13&&này];[22&&Samsung 23&&Galaxy 24&&S20];[];[14&&không 15&&có 16&&nhô 17&&ra 18&&quá 19&&nhiều 20&&như];[4]]
-Tất nhiên nó vẫn có độ chênh nhất định khi bạn đặt trên mặt bàn .   0
+Tất nhiên nó vẫn có độ chênh nhất định khi bạn đặt trên mặt bàn .    0
 [[];[];[];[];[]]
-Hoàn thiện nhựa bóng thực sự vẫn dễ bị xước và là trung tâm thu hút mồ hôi cùng với vân tay .   0
+Hoàn thiện nhựa bóng thực sự vẫn dễ bị xước và là trung tâm thu hút mồ hôi cùng với vân tay .    0
 [[];[];[];[];[]]
-Với một lớp vỏ này thì tốt nhất bạn nên dùng ốp lưng để có thể bảo vệ tốt nhất cho điện thoại nhé .   0
+Với một lớp vỏ này thì tốt nhất bạn nên dùng ốp lưng để có thể bảo vệ tốt nhất cho điện thoại nhé .    0
 [[];[];[];[];[]]
-Mặt sau hoàn thiện bằng nhựa thì khung máy cũng là nhựa và sơn bóng như vậy .   0
+Mặt sau hoàn thiện bằng nhựa thì khung máy cũng là nhựa và sơn bóng như vậy .    0
 [[];[];[];[];[]]
-Như thường lệ các cổng kết nối cùng nút bấm đều được tích hợp trên khung máy này .   1
+Như thường lệ các cổng kết nối cùng nút bấm đều được tích hợp trên khung máy này .    1
 [[4&&các 5&&cổng 6&&kết 7&&nối 8&&cùng 9&&nút 10&&bấm];[];[];[11&&đều 12&&được 13&&tích 14&&hợp 15&&trên 16&&khung 17&&máy 18&&này];[0]]
-Cạnh bên trái không có gì ngoài khay sim .   0
+Cạnh bên trái không có gì ngoài khay sim .    0
 [[];[];[];[];[]]
-Bạn sẽ thấy khay sim có 2 vị trí cho thẻ sim và vị trí thẻ nhớ độc lập .   0
+Bạn sẽ thấy khay sim có 2 vị trí cho thẻ sim và vị trí thẻ nhớ độc lập .    0
 [[];[];[];[];[]]
-Vậy nên bạn không cần phải phân vân giữa mở rộng bộ nhớ và dùng sim kép .   0
+Vậy nên bạn không cần phải phân vân giữa mở rộng bộ nhớ và dùng sim kép .    0
 [[];[];[];[];[]]
-Cạnh bên phải chứa nút nguồn cùng với phím tăng giảm âm lượng , chúng hơi dịch lên phía trên một chút so với các mẫu điện thoại khác .   1
+Cạnh bên phải chứa nút nguồn cùng với phím tăng giảm âm lượng , chúng hơi dịch lên phía trên một chút so với các mẫu điện thoại khác .    1
 [[];[25&&các 26&&mẫu 27&&điện 28&&thoại 29&&khác];[5&&nút 6&&nguồn];[16&&hơi 17&&dịch 18&&lên 19&&phía 20&&trên 21&&một 22&&chút];[-1]]
 [[];[25&&các 26&&mẫu 27&&điện 28&&thoại 29&&khác];[9&&phím 10&&tăng 11&&giảm 12&&âm 13&&lượng];[16&&hơi 17&&dịch 18&&lên 19&&phía 20&&trên 21&&một 22&&chút];[-1]]
-Hơn nữa cảm biến vân tay được tích hợp trong phím nguồn vì thế phím nguồn được vát bằng và hơi lõm so với khung máy .   0
+Hơn nữa cảm biến vân tay được tích hợp trong phím nguồn vì thế phím nguồn được vát bằng và hơi lõm so với khung máy .    0
 [[];[];[];[];[]]
-Cạnh phía trên vẫn không có gì ngoài một chiếc micro phụ ở đây .   0
+Cạnh phía trên vẫn không có gì ngoài một chiếc micro phụ ở đây .    0
 [[];[];[];[];[]]
-Cạnh dưới rất đầy đủ và sự có mặt của jack cắm tai nghe 3.5 mm là điều đáng hoan nghênh khi mà hầu hết điện thoại cùng tầm giá đều cắt bỏ điều này .   0
+Cạnh dưới rất đầy đủ và sự có mặt của jack cắm tai nghe 3.5 mm là điều đáng hoan nghênh khi mà hầu hết điện thoại cùng tầm giá đều cắt bỏ điều này .    0
 [[];[];[];[];[]]
-Ngoài jack cắm tai nghe chúng ta còn có một khe cắm sạc USB type C , micro chính cùng với loa ngoài ở đây .   0
+Ngoài jack cắm tai nghe chúng ta còn có một khe cắm sạc USB type C , micro chính cùng với loa ngoài ở đây .    0
 [[];[];[];[];[]]
-Samsung Galaxy M51 được trang bị màn hình Super AMOLED 6.7 inch với độ phân giải Full HD + ( 2400 x 1080 ) .   0
+Samsung Galaxy M51 được trang bị màn hình Super AMOLED 6.7 inch với độ phân giải Full HD + ( 2400 x 1080 ) .    0
 [[];[];[];[];[]]
-Tuy nhiên màn hình này chỉ được bảo vệ bởi một tấm cường lực Corning gorilla glass 3 mà thôi .   0
+Tuy nhiên màn hình này chỉ được bảo vệ bởi một tấm cường lực Corning gorilla glass 3 mà thôi .    0
 [[];[];[];[];[]]
-Trong khi điện thoại hiện nay đã có một miếng tấm kính mới thế hệ thứ 7 mà Corning gọi là Victus .   0
+Trong khi điện thoại hiện nay đã có một miếng tấm kính mới thế hệ thứ 7 mà Corning gọi là Victus .    0
 [[];[];[];[];[]]
-Còn một điều đáng tiếc khác chính là tốc độ làm mới của màn hình Galaxy M51 chỉ ở mức mặc định 60H z mà thôi .   0
+Còn một điều đáng tiếc khác chính là tốc độ làm mới của màn hình Galaxy M51 chỉ ở mức mặc định 60H z mà thôi .    0
 [[];[];[];[];[]]
-Điều này vẫn để mình cảm thấy tiếc nuối vì Samsung thường vẫn nhỉnh hơn các thương hiệu khác ở chất lượng màn hình nhưng giờ đây nó vẫn thua kém ở tốc độ làm mới .   1
+Điều này vẫn để mình cảm thấy tiếc nuối vì Samsung thường vẫn nhỉnh hơn các thương hiệu khác ở chất lượng màn hình nhưng giờ đây nó vẫn thua kém ở tốc độ làm mới .    1
 [[11&&Samsung];[16&&các 17&&thương 18&&hiệu 19&&khác];[21&&chất 22&&lượng 23&&màn 24&&hình];[14&&nhỉnh 15&&hơn];[4]]
 [[28&&nó];[];[33&&tốc 34&&độ 35&&làm 36&&mới];[30&&thua 31&&kém];[5]]
-So sánh một chút với chiếc Realme 6 hoặc Realme 7 có tốc độ làm mới 90H z . Hay một sản phẩm của Xiaomi là POCO X2 có tốc độ 120 Hz . Hơn nữa mức giá của chúng là tương đương với chiếc M51 này .   1
+So sánh một chút với chiếc Realme 6 hoặc Realme 7 có tốc độ làm mới 90H z . Hay một sản phẩm của Xiaomi là POCO X2 có tốc độ 120 Hz . Hơn nữa mức giá của chúng là tương đương với chiếc M51 này .    1
 [[39&&chúng];[44&&chiếc 45&&M51 46&&này];[36&&mức 37&&giá];[41&&tương 42&&đương];[0]]
-Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của nó là Snapdragon 730G nhưng độ mượt khi chơi game không thể so sánh với màn hình 90H z cùng chipset .   1
+Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của nó là Snapdragon 730G nhưng độ mượt khi chơi game không thể so sánh với màn hình 90H z cùng chipset .    1
 [[14&&nó];[29&&màn 30&&hình 31&&90Hz 32&&cùng 33&&chipset];[19&&độ 20&&mượt 21&&khi 22&&chơi 23&&game];[24&&không 25&&thể 26&&so 27&&sánh 28&&với];[5]]
-Tuy nói về những điểm yếu như vậy nhưng khả năng hiển thị của nó vẫn rất tốt với tấm nền “ Super AMOLED plus ” nhé .   0
+Tuy nói về những điểm yếu như vậy nhưng khả năng hiển thị của nó vẫn rất tốt với tấm nền “ Super AMOLED plus ” nhé .    0
 [[];[];[];[];[]]
-Nó vẫn là Diamond PenTil nhưng là một bảng điều khiển mỏng hơn , các góc nhìn tuyệt vời hơn .   0
+Nó vẫn là Diamond PenTil nhưng là một bảng điều khiển mỏng hơn , các góc nhìn tuyệt vời hơn .    0
 [[];[];[];[];[]]
-Tất nhiên độ tương phản màn hình AMOLED gần như vô cực rồi .   0
+Tất nhiên độ tương phản màn hình AMOLED gần như vô cực rồi .    0
 [[];[];[];[];[]]
-Độ tái hiện màu sắc tự nhiên được hiệu chỉnh theo sRGB và DCI-P3 nhờ có quản lý màu tự động .   0
+Độ tái hiện màu sắc tự nhiên được hiệu chỉnh theo sRGB và DCI-P3 nhờ có quản lý màu tự động .    0
 [[];[];[];[];[]]
-Samsung Galaxy M51 chạy hệ điều hành Android 10 với giao diện người dùng One UI 2.1 Core .   0
+Samsung Galaxy M51 chạy hệ điều hành Android 10 với giao diện người dùng One UI 2.1 Core .    0
 [[];[];[];[];[]]
-Với phiên bản phần mềm này bạn sẽ có nhiều tính năng mới như ghi màn hình tích hợp và chế độ máy ảnh Pro đầy đủ .   0
+Với phiên bản phần mềm này bạn sẽ có nhiều tính năng mới như ghi màn hình tích hợp và chế độ máy ảnh Pro đầy đủ .    0
 [[];[];[];[];[]]
-Đổi lại bạn sẽ không có Samsung Pay và các tính năng như bảo mật thư mục .   0
+Đổi lại bạn sẽ không có Samsung Pay và các tính năng như bảo mật thư mục .    0
 [[];[];[];[];[]]
-Ngay cả khi phần mềm được cập nhật thì những tính năng này cũng không thể có được vì điện thoại dòng M không có chứng nhận Knox .   0
+Ngay cả khi phần mềm được cập nhật thì những tính năng này cũng không thể có được vì điện thoại dòng M không có chứng nhận Knox .    0
 [[];[];[];[];[]]
-Vì thế sẽ không an toàn lắm cho những ứng dụng của bạn , tất nhiên bảo mật hệ thống vẫn rất tốt chỉ cần bạn cẩn thận một chút là được .   0
+Vì thế sẽ không an toàn lắm cho những ứng dụng của bạn , tất nhiên bảo mật hệ thống vẫn rất tốt chỉ cần bạn cẩn thận một chút là được .    0
 [[];[];[];[];[]]
-One UI 2.1 Core mới của Samsung bây giờ đã được hoàn thiện hơn nhiều và cung cấp cho bạn những trải nghiệm mượt mà và không gặp bất kỳ trục trặc nào .   0
+One UI 2.1 Core mới của Samsung bây giờ đã được hoàn thiện hơn nhiều và cung cấp cho bạn những trải nghiệm mượt mà và không gặp bất kỳ trục trặc nào .    0
 [[];[];[];[];[]]
-Chủ đề tối toàn hệ thống và lọc ánh sáng xanh rất được yêu thích vì sử dụng điện thoại trong không gian tối sẽ dễ dàng hơn khi không bị chói mắt .   0
+Chủ đề tối toàn hệ thống và lọc ánh sáng xanh rất được yêu thích vì sử dụng điện thoại trong không gian tối sẽ dễ dàng hơn khi không bị chói mắt .    0
 [[];[];[];[];[]]
-Có một tính năng cực hay ở phiên bản One UI mới này nữa chính là thông báo bật lên thông minh .   0
+Có một tính năng cực hay ở phiên bản One UI mới này nữa chính là thông báo bật lên thông minh .    0
 [[];[];[];[];[]]
-Bất cứ khi nào bạn nhận được thông báo từ ứng dụng thì nó sẽ xuất hiện dưới dạng bong bóng như của messenger .   0
+Bất cứ khi nào bạn nhận được thông báo từ ứng dụng thì nó sẽ xuất hiện dưới dạng bong bóng như của messenger .    0
 [[];[];[];[];[]]
-Bạn có thể nhấp vào đó và nó sẽ hiển thị một cửa số nổi y chang messenger .   0
+Bạn có thể nhấp vào đó và nó sẽ hiển thị một cửa số nổi y chang messenger .    0
 [[];[];[];[];[]]
-Tuy nhiên kích thước và độ mờ của cửa sổ nổi này bạn có thể điều chỉnh được .   0
+Tuy nhiên kích thước và độ mờ của cửa sổ nổi này bạn có thể điều chỉnh được .    0
 [[];[];[];[];[]]
-Một điểm hay nữa là bạn chỉ cần vuốt từ trên xuống dưới ở cảm biến vân tay , bảng thông báo sẽ tự đọng kéo xuống dù bạn đang ở chế độ nào .   0
+Một điểm hay nữa là bạn chỉ cần vuốt từ trên xuống dưới ở cảm biến vân tay , bảng thông báo sẽ tự đọng kéo xuống dù bạn đang ở chế độ nào .    0
 [[];[];[];[];[]]
-Samsung Galaxy M51 trang bị bộ xử lý Snapdragon 730G 8 nm .   0
+Samsung Galaxy M51 trang bị bộ xử lý Snapdragon 730G 8 nm .    0
 [[];[];[];[];[]]
-Đó là chipset lõi tám ( 2 × 2,2 GHz Kryo 470 Gold và 6 × 1,8 GHz Kryo 470 Silver ) cùng với GPU Adreno 618 .   0
+Đó là chipset lõi tám ( 2 × 2,2 GHz Kryo 470 Gold và 6 × 1,8 GHz Kryo 470 Silver ) cùng với GPU Adreno 618 .    0
 [[];[];[];[];[]]
-Đây là điện thoại Galaxy M-series thứ 4 trang bị bộ xử lý của Qualcomm .   0
+Đây là điện thoại Galaxy M-series thứ 4 trang bị bộ xử lý của Qualcomm .    0
 [[];[];[];[];[]]
-Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép M51 trở thành điện thoại mạnh mẽ nhất trong dòng M .   1
+Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép M51 trở thành điện thoại mạnh mẽ nhất trong dòng M .    1
 [[22&&M51];[];[];[27&&mạnh 28&&mẽ 29&&nhất 30&&trong 31&&dòng 32&&M];[1]]
-Nhìn qua một chút khi chạy các bài kiểm tra hiệu năng , Galaxy M51 hoạt động kém hơn ở hầu hết các mức điểm chuẩn phổ biến .   1
+Nhìn qua một chút khi chạy các bài kiểm tra hiệu năng , Galaxy M51 hoạt động kém hơn ở hầu hết các mức điểm chuẩn phổ biến .    1
 [[14&&Galaxy 15&&M51];[23&&các 24&&mức 25&&điểm 26&&chuẩn 27&&phổ 28&&biến];[11&&hiệu 12&&năng];[18&&kém 19&&hơn];[5]]
-Điểm số Geekbench 5 của nó thấp hơn so với các thiết bị chạy Snapdragon 730G khác .   1
+Điểm số Geekbench 5 của nó thấp hơn so với các thiết bị chạy Snapdragon 730G khác .    1
 [[6&&nó];[11&&các 12&&thiết 13&&bị 14&&chạy 15&&Snapdragon 16&&730G 17&&khác];[1&&Điểm 2&&số 3&&Geekbench 4&&5];[7&&thấp 8&&hơn];[5]]
-GPU Adreno 618 của Snapdragon 730G là một bước tiến so với Adreno 612 của Snapdragon 675 .   1
+GPU Adreno 618 của Snapdragon 730G là một bước tiến so với Adreno 612 của Snapdragon 675 .    1
 [[1&&GPU 2&&Adreno 3&&618 4&&của 5&&Snapdragon 6&&730G];[13&&Adreno 14&&612 15&&của 16&&Snapdragon 17&&675];[];[8&&một 9&&bước 10&&tiến 11&&so 12&&với];[4]]
-Tuy nhiên , nó thua kém GPU Adreno 620 của Snapdragon 765G một chút .   1
+Tuy nhiên , nó thua kém GPU Adreno 620 của Snapdragon 765G một chút .    1
 [[4&&nó];[7&&GPU 8&&Adreno 9&&620 10&&của 11&&Snapdragon 12&&765G];[];[5&&thua 6&&kém];[5]]
-Galaxy M51 một lần nữa cho điểm số và tốc độ khung hình thấp hơn so với các thiết bị chạy Snapdragon 730G khác .   1
+Galaxy M51 một lần nữa cho điểm số và tốc độ khung hình thấp hơn so với các thiết bị chạy Snapdragon 730G khác .    1
 [[1&&Galaxy 2&&M51];[18&&các 19&&thiết 20&&bị 21&&chạy 22&&Snapdragon 23&&730G 24&&khác];[7&&điểm 8&&số];[14&&thấp 15&&hơn];[5]]
 [[1&&Galaxy 2&&M51];[18&&các 19&&thiết 20&&bị 21&&chạy 22&&Snapdragon 23&&730G 24&&khác];[10&&tốc 11&&độ 12&&khung 13&&hình];[14&&thấp 15&&hơn];[5]]
-Trước khi nói về khả năng chơi game , mình thấy tốc độ làm mới màn hình của chiếc M51 này chỉ ở mức 60H z . Ban đầu cảm thấy quá thấp so với các màn hình có tốc độ làm mới 90 Hz hay 120 Hz của Realme hoặc Xiaomi .   1
+Trước khi nói về khả năng chơi game , mình thấy tốc độ làm mới màn hình của chiếc M51 này chỉ ở mức 60H z . Ban đầu cảm thấy quá thấp so với các màn hình có tốc độ làm mới 90 Hz hay 120 Hz của Realme hoặc Xiaomi .    1
 [[16&&màn 17&&hình 18&&của 19&&chiếc 20&&M51];[35&&các 36&&màn 37&&hình 38&&có 39&&tốc 40&&độ 41&&làm 42&&mới 43&&90 44&&Hz 45&&hay 46&&120 47&&Hz 48&&của 49&&Realme 50&&hoặc 51&&Xiaomi];[12&&tốc 13&&độ 14&&làm 15&&mới];[31&&quá 32&&thấp 33&&so 34&&với];[5]]
-Tuy nhiên tốc độ 60H z được duy trì rất ổn định và không bị tụt khung hình khi chơi game .   0
+Tuy nhiên tốc độ 60H z được duy trì rất ổn định và không bị tụt khung hình khi chơi game .    0
 [[];[];[];[];[]]
-Tất nhiên nó không thể lên cao hơn 60 được .   0
+Tất nhiên nó không thể lên cao hơn 60 được .    0
 [[];[];[];[];[]]
-Nói về khả năng chơi game thì con chip chuyên game Snapdragon 730G này là thoải mái cho bạn chơi rồi .   0
+Nói về khả năng chơi game thì con chip chuyên game Snapdragon 730G này là thoải mái cho bạn chơi rồi .    0
 [[];[];[];[];[]]
-Dù là những game đòi hỏi đồ họa cao cũng “ cân ” tốt , tất nhiên là mình đang nói tới max setting nha .   0
+Dù là những game đòi hỏi đồ họa cao cũng “ cân ” tốt , tất nhiên là mình đang nói tới max setting nha .    0
 [[];[];[];[];[]]
-Khi chơi PUBG mobile , mặc dù để max đồ họa nhưng nó vẫn cực kỳ mượt mà .   0
+Khi chơi PUBG mobile , mặc dù để max đồ họa nhưng nó vẫn cực kỳ mượt mà .    0
 [[];[];[];[];[]]
-Như mình nói màn hình rất ổn định ở 60H z cùng với chip ngon thì việc ổn định hình ảnh ở 60 fps là quá dễ với sản phẩm này .   0
+Như mình nói màn hình rất ổn định ở 60H z cùng với chip ngon thì việc ổn định hình ảnh ở 60 fps là quá dễ với sản phẩm này .    0
 [[];[];[];[];[]]
-Kể cả lúc bạn bung dù hay bắn “ hội đồng ” thì nó cũng rất mượt mà .   0
+Kể cả lúc bạn bung dù hay bắn “ hội đồng ” thì nó cũng rất mượt mà .    0
 [[];[];[];[];[]]
-Di chuyển dễ dàng , hiển thị bụi cỏ rung động và âm thanh các kiểu rất thật .   0
+Di chuyển dễ dàng , hiển thị bụi cỏ rung động và âm thanh các kiểu rất thật .    0
 [[];[];[];[];[]]
-PUBG là game đòi hỏi đồ họa rất cao mà còn chơi được như thế thì chơi Liên Quân cũng chẳng có gì trở ngại nó được cả .   0
+PUBG là game đòi hỏi đồ họa rất cao mà còn chơi được như thế thì chơi Liên Quân cũng chẳng có gì trở ngại nó được cả .    0
 [[];[];[];[];[]]
-Với cài đặt max đồ họa bạn sẽ có cảm nhận tuyệt vời hơn .   0
+Với cài đặt max đồ họa bạn sẽ có cảm nhận tuyệt vời hơn .    0
 [[];[];[];[];[]]
-Bụi cỏ lay động , farm quái cũng thấy thích .   0
+Bụi cỏ lay động , farm quái cũng thấy thích .    0
 [[];[];[];[];[]]
-Nhất là khi combat tổng , bạn sẽ thoải mái thể hiện kỹ năng của mình mà không bị cản trở bởi giật lag các kiểu .   0
+Nhất là khi combat tổng , bạn sẽ thoải mái thể hiện kỹ năng của mình mà không bị cản trở bởi giật lag các kiểu .    0
 [[];[];[];[];[]]
-Cùng với đó là một camera selfie được trang bị cảm biến lên tới 32 MP f / 2.0 , 26 mm , 1 / 2.8 “ , 0.8 µm .   0
+Cùng với đó là một camera selfie được trang bị cảm biến lên tới 32 MP f / 2.0 , 26 mm , 1 / 2.8 “ , 0.8 µm .    0
 [[];[];[];[];[]]
-Đối với phần mềm chụp ảnh , Samsung đã tích hợp tính năng “ chụp một lần ” để chụp ảnh và quay video với tất cả các ống kính cùng lúc .   0
+Đối với phần mềm chụp ảnh , Samsung đã tích hợp tính năng “ chụp một lần ” để chụp ảnh và quay video với tất cả các ống kính cùng lúc .    0
 [[];[];[];[];[]]
-Điều này cho bạn những bức ảnh và khoảnh khắc đẹp nhất cho mỗi khung hình .   0
+Điều này cho bạn những bức ảnh và khoảnh khắc đẹp nhất cho mỗi khung hình .    0
 [[];[];[];[];[]]
-Tính năng này mới chỉ tìm thấy trên các sản phẩm cao cấp của Samsung như S20 và Note 20 series năm nay .   0
+Tính năng này mới chỉ tìm thấy trên các sản phẩm cao cấp của Samsung như S20 và Note 20 series năm nay .    0
 [[];[];[];[];[]]
-Tất nhiên sau khi chụp tất cả , bạn có thể lựa chọn cái nào đẹp thì để lại và không đẹp lắm thì không lưu .   0
+Tất nhiên sau khi chụp tất cả , bạn có thể lựa chọn cái nào đẹp thì để lại và không đẹp lắm thì không lưu .    0
 [[];[];[];[];[]]
-Tính năng này cũng được tích hợp ở camera trước .   0
+Tính năng này cũng được tích hợp ở camera trước .    0
 [[];[];[];[];[]]
-Trong điều kiện đủ sáng , camera chính tạo ra hình ảnh tuyệt vời .   0
+Trong điều kiện đủ sáng , camera chính tạo ra hình ảnh tuyệt vời .    0
 [[];[];[];[];[]]
-Độ sặc nét cao nhưng không quá mức , dải động rộng , màu sắc bão hòa nhẹ .   0
+Độ sặc nét cao nhưng không quá mức , dải động rộng , màu sắc bão hòa nhẹ .    0
 [[];[];[];[];[]]
-Nhìn chung là khả năng xử lý hình ảnh trong điều kiện đủ sáng khá tốt .   0
+Nhìn chung là khả năng xử lý hình ảnh trong điều kiện đủ sáng khá tốt .    0
 [[];[];[];[];[]]
-Bạn cũng có thể chụp ảnh ở chế độ 64MP .   0
+Bạn cũng có thể chụp ảnh ở chế độ 64MP .    0
 [[];[];[];[];[]]
-Kết quả bạn sẽ có hình ảnh sắc nét hơn và chi tiết hơn .   1
+Kết quả bạn sẽ có hình ảnh sắc nét hơn và chi tiết hơn .    1
 [[];[];[6&&hình 7&&ảnh];[8&&sắc 9&&nét 10&&hơn];[4]]
 [[];[];[];[12&&chi 13&&tiết 14&&hơn];[4]]
-Nhưng đổi lại nó sẽ chiếm nhiều không gian lưu trữ hơn .   1
+Nhưng đổi lại nó sẽ chiếm nhiều không gian lưu trữ hơn .    1
 [[4&&nó];[];[8&&không 9&&gian 10&&lưu 11&&trữ];[6&&chiếm 7&&nhiều 8&&không 9&&gian 10&&lưu 11&&trữ 12&&hơn];[5]]
-Trong điều kiện ánh sáng yếu , Galaxy M51 vẫn cho hình ảnh chất lượng tốt .   0
+Trong điều kiện ánh sáng yếu , Galaxy M51 vẫn cho hình ảnh chất lượng tốt .    0
 [[];[];[];[];[]]
-Có chế độ ban đêm hỗ trợ cho việc chụp ảnh .   0
+Có chế độ ban đêm hỗ trợ cho việc chụp ảnh .    0
 [[];[];[];[];[]]
-Bạn sẽ có một hình ảnh có độ phơi sáng khá cao hơn , nâng cao chi tiết ở những vùng tối hơn .   1
+Bạn sẽ có một hình ảnh có độ phơi sáng khá cao hơn , nâng cao chi tiết ở những vùng tối hơn .    1
 [[5&&hình 6&&ảnh];[];[8&&độ 9&&phơi 10&&sáng];[12&&cao 13&&hơn];[4]]
 [[5&&hình 6&&ảnh];[];[17&&chi 18&&tiết 19&&ở 20&&những 21&&vùng 22&&tối];[15&&nâng 16&&cao 17&&chi 18&&tiết 19&&ở 20&&những 21&&vùng 22&&tối 23&&hơn];[4]]
-Đương nhiên khi bạn phong to hình ảnh lên sẽ thấy khá nhiều hạt mịn .   0
+Đương nhiên khi bạn phong to hình ảnh lên sẽ thấy khá nhiều hạt mịn .    0
 [[];[];[];[];[]]
-Nếu bạn chụp ảnh trong điều kiện ánh sáng đèn trong nhà thì hình ảnh cũng rất tốt .   0
+Nếu bạn chụp ảnh trong điều kiện ánh sáng đèn trong nhà thì hình ảnh cũng rất tốt .    0
 [[];[];[];[];[]]
-Nói chung không chê được điểm gì .   0
+Nói chung không chê được điểm gì .    0
 [[];[];[];[];[]]
-Camera góc cực rộng có một góc nhìn lên tới 123 độ , cho phép bạn lấy được trường ảnh rộng hơn khá nhiều so với các mẫu ultrawide khác .   1
+Camera góc cực rộng có một góc nhìn lên tới 123 độ , cho phép bạn lấy được trường ảnh rộng hơn khá nhiều so với các mẫu ultrawide khác .    1
 [[1&&Camera 2&&góc 3&&cực 4&&rộng];[27&&các 28&&mẫu 29&&ultrawide 30&&khác];[19&&trường 20&&ảnh];[21&&rộng 22&&hơn 23&&khá 24&&nhiều];[4]]
-Nó giữ được màu sắc tốt và dải động khá cao .   0
+Nó giữ được màu sắc tốt và dải động khá cao .    0
 [[];[];[];[];[]]
-Có đôi khi các góc vẫn chưa thể so sánh được với camera chính nhưng nhìn chung là chấp nhận tốt .   0
+Có đôi khi các góc vẫn chưa thể so sánh được với camera chính nhưng nhìn chung là chấp nhận tốt .    0
 [[];[];[];[];[]]
-Chế độ ban đêm cũng được sử dụng với camera góc siêu rộng .   0
+Chế độ ban đêm cũng được sử dụng với camera góc siêu rộng .    0
 [[];[];[];[];[]]
-Bạn cũng nhận được hình ảnh khá tốt , tuy nhiên phóng to hình ảnh lên cũng sẽ thấy những điểm mờ hoặc hạt mịn .   0
+Bạn cũng nhận được hình ảnh khá tốt , tuy nhiên phóng to hình ảnh lên cũng sẽ thấy những điểm mờ hoặc hạt mịn .    0
 [[];[];[];[];[]]
-Nói chung hình ảnh sử dụng được nhưng không quá đẹp .   0
+Nói chung hình ảnh sử dụng được nhưng không quá đẹp .    0
 [[];[];[];[];[]]
-Nhờ một cảm biến macro 5MP , bạn sẽ có được những tấm ảnh đẹp với nhiều chi tiết và tái hiện màu sắc rất tốt .   0
+Nhờ một cảm biến macro 5MP , bạn sẽ có được những tấm ảnh đẹp với nhiều chi tiết và tái hiện màu sắc rất tốt .    0
 [[];[];[];[];[]]
-Đây là một ưu điểm khi xu thế hiện nay rất yêu thích chụp hình cận cảnh .   0
+Đây là một ưu điểm khi xu thế hiện nay rất yêu thích chụp hình cận cảnh .    0
 [[];[];[];[];[]]
-Tuy nhiên đây là một ống kính tiêu cự cố định nên không có khả năng tự động lấy nét .   0
+Tuy nhiên đây là một ống kính tiêu cự cố định nên không có khả năng tự động lấy nét .    0
 [[];[];[];[];[]]
-Vì vậy bạn cần đưa ống kính tới đúng tiêu cự và duy trì để lấy nét chính xác mới có hình ảnh đẹp được .   0
+Vì vậy bạn cần đưa ống kính tới đúng tiêu cự và duy trì để lấy nét chính xác mới có hình ảnh đẹp được .    0
 [[];[];[];[];[]]
-Chế độ Live Focus của Samsung cho phép bạn chụp chân dung .   0
+Chế độ Live Focus của Samsung cho phép bạn chụp chân dung .    0
 [[];[];[];[];[]]
-Hơn nữa bạn còn có thể xem trước độ mờ của background .   0
+Hơn nữa bạn còn có thể xem trước độ mờ của background .    0
 [[];[];[];[];[]]
-Cảm biến phát hiện cạnh tốt , tất nhiên là chủ thể phải đứng yên .   0
+Cảm biến phát hiện cạnh tốt , tất nhiên là chủ thể phải đứng yên .    0
 [[];[];[];[];[]]
-Ngoài ra bạn còn có tùy chọn để thay đổi độ mờ và kiểu mờ sau khi đã chụp ảnh xong .   0
+Ngoài ra bạn còn có tùy chọn để thay đổi độ mờ và kiểu mờ sau khi đã chụp ảnh xong .    0
 [[];[];[];[];[]]
-Camera selfie dùng cảm biến Sony IMX616 32MP tạo ra hình ảnh mặc định 8MP , nhưng bạn cùng có thể chọn chế độ chụp 32MP đấy .   0
+Camera selfie dùng cảm biến Sony IMX616 32MP tạo ra hình ảnh mặc định 8MP , nhưng bạn cùng có thể chọn chế độ chụp 32MP đấy .    0
 [[];[];[];[];[]]
-Chất lượng hình ảnh rất tốt với camera selfie này .   0
+Chất lượng hình ảnh rất tốt với camera selfie này .    0
 [[];[];[];[];[]]
-Nhưng có một điều đặc biệt chính là bạn đang chỉ có một ống kính thường và bạn vẫn có thể chụp góc rộng selfie .   0
+Nhưng có một điều đặc biệt chính là bạn đang chỉ có một ống kính thường và bạn vẫn có thể chụp góc rộng selfie .    0
 [[];[];[];[];[]]
-Video 4K ở tốc độ 30 khung hình / giây và 1080 p ở tốc độ 30 khung hình / giây có chất lượng tuyệt vời .   0
+Video 4K ở tốc độ 30 khung hình / giây và 1080 p ở tốc độ 30 khung hình / giây có chất lượng tuyệt vời .    0
 [[];[];[];[];[]]
-Mặc dù Samsung không đầu tư chống rung quang học nhưng lại có EIS rất tốt nên hình ảnh rất ổn định và cho chất lượng cao .   0
+Mặc dù Samsung không đầu tư chống rung quang học nhưng lại có EIS rất tốt nên hình ảnh rất ổn định và cho chất lượng cao .    0
 [[];[];[];[];[]]
-Điện thoại Samsung Galaxy M51 được trang bị viên pin khủng nhất trên thị trường hiện nay nhờ một bước đột phá trong thiết kế .   1
+Điện thoại Samsung Galaxy M51 được trang bị viên pin khủng nhất trên thị trường hiện nay nhờ một bước đột phá trong thiết kế .    1
 [[3&&Samsung 4&&Galaxy 5&&M51];[];[9&&viên 10&&pin];[11&&khủng 12&&nhất 13&&trên 14&&thị 15&&trường 16&&hiện 17&&nay];[1]]
-Với viên pin này thì chắc chắn bạn sẽ có một thời lượng pin khủng để sử dụng và nếu như mức sử dụng của bạn ở mức trung bình thì dùng 2-3 ngày là quá bình thường rồi .   0
+Với viên pin này thì chắc chắn bạn sẽ có một thời lượng pin khủng để sử dụng và nếu như mức sử dụng của bạn ở mức trung bình thì dùng 2-3 ngày là quá bình thường rồi .    0
 [[];[];[];[];[]]
-Điểm đặc biệt khác của điện thoại này nằm ở bộ sạc của nó .   0
+Điểm đặc biệt khác của điện thoại này nằm ở bộ sạc của nó .    0
 [[];[];[];[];[]]
-Đó là bộ sạc C to C khá đặc biệt trên thị trường .   0
+Đó là bộ sạc C to C khá đặc biệt trên thị trường .    0
 [[];[];[];[];[]]
-Với cấu tạo này thì bạn sẽ không cần mua thêm một cáp khác để thực hiện sạc ngược mà dùng luôn cáp này sạc ngược cho một điện thoại có chân tpye C khác .   0
+Với cấu tạo này thì bạn sẽ không cần mua thêm một cáp khác để thực hiện sạc ngược mà dùng luôn cáp này sạc ngược cho một điện thoại có chân tpye C khác .    0
 [[];[];[];[];[]]
-Nó đi kèm sạc nhanh 25W , vẫn là nhanh nhưng đối với viên pin 7000 mAh . Galaxy M51 mất 115 phút để sạc từ 0 % lên 100 % với bộ sạc nhanh 25W đi kèm .   0
+Nó đi kèm sạc nhanh 25W , vẫn là nhanh nhưng đối với viên pin 7000 mAh . Galaxy M51 mất 115 phút để sạc từ 0 % lên 100 % với bộ sạc nhanh 25W đi kèm .    0
 [[];[];[];[];[]]
-Đây là nói đang sạc cho một viên pin khủng đấy nhé .   0
+Đây là nói đang sạc cho một viên pin khủng đấy nhé .    0
 [[];[];[];[];[]]
-Khi chúng ta có thời lương pin cực lớn như thế này rồi thì vấn đề sạc không cần quá nhanh vì khi chịu tải sạc nhanh thì tuổi thọ về lâu dài của viên pin sẽ kém hơn .   0
+Khi chúng ta có thời lương pin cực lớn như thế này rồi thì vấn đề sạc không cần quá nhanh vì khi chịu tải sạc nhanh thì tuổi thọ về lâu dài của viên pin sẽ kém hơn .    0
 [[];[];[];[];[]]
-Bởi vậy để nói một cục sạc 65W hay 25W thì tất nhiên sạc 65W sẽ nhanh chóng gây “ chai ” pin hơn đấy .   1
+Bởi vậy để nói một cục sạc 65W hay 25W thì tất nhiên sạc 65W sẽ nhanh chóng gây “ chai ” pin hơn đấy .    1
 [[14&&sạc 15&&65W];[10&&25W];[19&&gây 20&&“ 21&&chai 22&&” 23&&pin];[24&&hơn];[5]]
-Hiện tại chiếc Samsung Galaxy M51 mới ra mắt tại Ấn Độ và mức giá đâu đó tầm 8 triệu và với mức giá này bạn vẫn có những lựa chọn khác cho bản thân .   0
+Hiện tại chiếc Samsung Galaxy M51 mới ra mắt tại Ấn Độ và mức giá đâu đó tầm 8 triệu và với mức giá này bạn vẫn có những lựa chọn khác cho bản thân .    0
 [[];[];[];[];[]]
-Tất nhiên những lựa chọn đó nhằm vào nhu cầu riêng về một mảng nào đó mà thôi .   0
+Tất nhiên những lựa chọn đó nhằm vào nhu cầu riêng về một mảng nào đó mà thôi .    0
 [[];[];[];[];[]]
-Đầu tiên trong danh sách chúng ta sẽ có chiếc Vivo V19 ở cùng một mức giá .   1
+Đầu tiên trong danh sách chúng ta sẽ có chiếc Vivo V19 ở cùng một mức giá .    1
 [[];[11&&Vivo 12&&V19];[16&&mức 17&&giá];[14&&cùng 15&&một];[0]]
-Chiếc điện thoại này có một vài ưu thế lớn như một màn hình có độ sáng cực cao , hoàn thiện 2 mặt kính cao cấp hơn và camera selfie kép đẳng cấp .   1
+Chiếc điện thoại này có một vài ưu thế lớn như một màn hình có độ sáng cực cao , hoàn thiện 2 mặt kính cao cấp hơn và camera selfie kép đẳng cấp .    1
 [[1&&Chiếc 2&&điện 3&&thoại 4&&này];[];[21&&hoàn 22&&thiện 23&&2 24&&mặt 25&&kính];[26&&cao 27&&cấp 28&&hơn];[4]]
-Tuy nhiên những mặt khác tỏ ra yếu đuối hơn Galaxy M51 một chút .   1
+Tuy nhiên những mặt khác tỏ ra yếu đuối hơn Galaxy M51 một chút .    1
 [[];[11&&Galaxy 12&&M51];[3&&những 4&&mặt 5&&khác];[8&&yếu 9&&đuối 10&&hơn];[5]]
-Đó là một bộ xử lý chậm hơn với Snapdragon 712 , phần cứng camera sau yếu hơn .   1
+Đó là một bộ xử lý chậm hơn với Snapdragon 712 , phần cứng camera sau yếu hơn .    1
 [[];[];[4&&bộ 5&&xử 6&&lý];[7&&chậm 8&&hơn];[5]]
 [[];[];[13&&phần 14&&cứng 15&&camera 16&&sau];[17&&yếu 18&&hơn];[5]]
-Tất nhiên nói về pin thì chẳng có máy nào so sánh được với viên pin 7.000 mAh của M51 .   1
+Tất nhiên nói về pin thì chẳng có máy nào so sánh được với viên pin 7.000 mAh của M51 .    1
 [[20&&M51];[];[5&&pin];[7&&chẳng 8&&có 9&&máy 10&&nào 11&&so 12&&sánh 13&&được];[1]]
-Tiếp tục là chiếc Realme 6 Pro cũng có mức giá tương đương .   1
+Tiếp tục là chiếc Realme 6 Pro cũng có mức giá tương đương .    1
 [[5&&Realme 6&&6 7&&Pro];[];[10&&mức 11&&giá];[12&&tương 13&&đương];[0]]
-Nó được hoàn thiện 2 mặt kính , một màn hình 90H z mượt mà hơn , trang bị ống kính tele , camera selfie kép đẳng cấp hơn , sạc nhanh hơn .   1
+Nó được hoàn thiện 2 mặt kính , một màn hình 90H z mượt mà hơn , trang bị ống kính tele , camera selfie kép đẳng cấp hơn , sạc nhanh hơn .    1
 [[1&&Nó];[];[10&&màn 11&&hình];[13&&mượt 14&&mà 15&&hơn];[4]]
 [[1&&Nó];[];[23&&camera 24&&selfie];[26&&đẳng 27&&cấp 28&&hơn];[4]]
 [[1&&Nó];[];[30&&sạc];[31&&nhanh 32&&hơn];[4]]
-Nhưng ngược lại bạn sẽ chỉ có một màn hình IPS LCD , bộ xử lý Snapdragon 720G thấp hơn một bậc .   1
+Nhưng ngược lại bạn sẽ chỉ có một màn hình IPS LCD , bộ xử lý Snapdragon 720G thấp hơn một bậc .    1
 [[];[];[14&&bộ 15&&xử 16&&lý];[19&&thấp 20&&hơn 21&&một 22&&bậc];[5]]
-Tất nhiên sạc nhanh 30W thì nhanh hơn nhưng dung lượng pin thì gặp “ ông nội ” rồi .   1
+Tất nhiên sạc nhanh 30W thì nhanh hơn nhưng dung lượng pin thì gặp “ ông nội ” rồi .    1
 [[];[];[3&&sạc 4&&nhanh];[7&&nhanh 8&&hơn];[4]]
-Oppo A93 là một lựa chọn khác nhưng nó có mức giá rẻ hơn một chút .   1
+Oppo A93 là một lựa chọn khác nhưng nó có mức giá rẻ hơn một chút .    1
 [[9&&nó];[];[11&&mức 12&&giá];[13&&rẻ 14&&hơn 15&&một 16&&chút];[4]]
-Vẫn là hoàn thiện hai mặt kính cao cấp hơn , bộ xử lý tương đương nhau nhưng nó có camera selfie kép tốt hơn để chụp chân dung .   1
+Vẫn là hoàn thiện hai mặt kính cao cấp hơn , bộ xử lý tương đương nhau nhưng nó có camera selfie kép tốt hơn để chụp chân dung .    1
 [[19&&nó];[];[3&&hoàn 4&&thiện 5&&hai 6&&mặt 7&&kính];[8&&cao 9&&cấp 10&&hơn];[4]]
 [[19&&nó];[];[12&&bộ 13&&xử 14&&lý];[15&&tương 16&&đương 17&&nhau];[0]]
 [[19&&nó];[];[21&&camera 22&&selfie];[24&&tốt 25&&hơn];[4]]
-Ngược lại nói về pin thì bạn không cần so sánh nhiều vì 7.000 mAh là không ai vượt nổi rồi .   1
+Ngược lại nói về pin thì bạn không cần so sánh nhiều vì 7.000 mAh là không ai vượt nổi rồi .    1
 [[];[];[5&&pin];[17&&không 18&&ai 19&&vượt 20&&nổi];[1]]
-Thêm vào đó là một màn hình hiển thị đẹp hơn và lớn hơn cùng với phần cứng camera sau mạnh mẽ hơn là những lợi thế của Galaxy M51 .   1
+Thêm vào đó là một màn hình hiển thị đẹp hơn và lớn hơn cùng với phần cứng camera sau mạnh mẽ hơn là những lợi thế của Galaxy M51 .    1
 [[29&&Galaxy 30&&M51];[];[6&&màn 7&&hình 8&&hiển 9&&thị];[10&&đẹp 11&&hơn];[4]]
 [[29&&Galaxy 30&&M51];[];[6&&màn 7&&hình 8&&hiển 9&&thị];[13&&lớn 14&&hơn];[4]]
 [[29&&Galaxy 30&&M51];[];[17&&phần 18&&cứng 19&&camera 20&&sau];[21&&mạnh 22&&mẽ 23&&hơn];[4]]
-Cuối cùng chúng ta sẽ nói về chiếc Xiaomi Redmi Note 9 Pro .   0
+Cuối cùng chúng ta sẽ nói về chiếc Xiaomi Redmi Note 9 Pro .    0
 [[];[];[];[];[]]
-Nó cũng có mặt sau bằng nhựa với khung nhôm nhưng lại có IP53 chống sốc rất tốt .   0
+Nó cũng có mặt sau bằng nhựa với khung nhôm nhưng lại có IP53 chống sốc rất tốt .    0
 [[];[];[];[];[]]
-Một màn hình IPS LCD hiển thị yếu hơn nhưng lại có tốc độ làm mới tới 120H z và độ sáng cao .   1
+Một màn hình IPS LCD hiển thị yếu hơn nhưng lại có tốc độ làm mới tới 120H z và độ sáng cao .    1
 [[];[];[2&&màn 3&&hình];[6&&hiển 7&&thị 8&&yếu 9&&hơn];[5]]
 [[2&&màn 3&&hình 4&&IPS 5&&LCD];[];[6&&hiển 7&&thị];[8&&yếu 9&&hơn];[5]]
-Bộ xử lý Snapdragon 732G mạnh mẽ hơn một chút so với 730G và nó cũng là tối ưu hóa chơi game hơn .   1
+Bộ xử lý Snapdragon 732G mạnh mẽ hơn một chút so với 730G và nó cũng là tối ưu hóa chơi game hơn .    1
 [[1&&Bộ 2&&xử 3&&lý 4&&Snapdragon 5&&732G];[13&&730G];[];[6&&mạnh 7&&mẽ 8&&hơn 9&&một 10&&chút];[4]]
-Phần cứng camera tương đương nhưng macro cùng selfie có độ phân giải thấp hơn .   1
+Phần cứng camera tương đương nhưng macro cùng selfie có độ phân giải thấp hơn .    1
 [[];[];[1&&Phần 2&&cứng 3&&camera];[4&&tương 5&&đương];[0]]
 [[];[];[7&&macro];[11&&độ 12&&phân 13&&giải 14&&thấp 15&&hơn];[5]]
 [[];[];[9&&selfie];[11&&độ 12&&phân 13&&giải 14&&thấp 15&&hơn];[5]]
 [[7&&macro];[];[11&&độ 12&&phân 13&&giải];[14&&thấp 15&&hơn];[5]]
 [[9&&selfie];[];[11&&độ 12&&phân 13&&giải];[14&&thấp 15&&hơn];[5]]
-Pin thì không thể so sánh với pin của M51 rồi .   1
+Pin thì không thể so sánh với pin của M51 rồi .    1
 [[];[10&&M51];[1&&Pin];[3&&không 4&&thể 5&&so 6&&sánh 7&&với];[5]]
-Samsung Galaxy M51 được đánh giá là khá toàn diện trong phân khúc tầm trung .   0
+Samsung Galaxy M51 được đánh giá là khá toàn diện trong phân khúc tầm trung .    0
 [[];[];[];[];[]]
-Nó đang nắm giữ vô địch về dung lượng và thời lượng pin , vì thế rất thích hợp để bạn sử dụng lâu dài mà không cần lo lắng nhiều về sạc .   0
+Nó đang nắm giữ vô địch về dung lượng và thời lượng pin , vì thế rất thích hợp để bạn sử dụng lâu dài mà không cần lo lắng nhiều về sạc .    0
 [[];[];[];[];[]]
-Thêm vào đó là một màn hình lớn và bộ xử lý mạnh mẽ , tối ưu hóa chơi game làm bạn thoải mái giải trí .   0
+Thêm vào đó là một màn hình lớn và bộ xử lý mạnh mẽ , tối ưu hóa chơi game làm bạn thoải mái giải trí .    0
 [[];[];[];[];[]]
-Chụp ảnh cũng đẹp và đa năng với chụp macro nổi bật và chi tiết nhiều hơn .   1
+Chụp ảnh cũng đẹp và đa năng với chụp macro nổi bật và chi tiết nhiều hơn .    1
 [[];[];[9&&chụp 10&&macro];[14&&chi 15&&tiết 16&&nhiều 17&&hơn];[4]]
 [[9&&chụp 10&&macro];[];[14&&chi 15&&tiết];[16&&nhiều 17&&hơn];[4]]
-Trang MacRumors gần đây đã post những bức ảnh được chụp bởi iPhone 13 với iPhone 11 Pro , iPhone 8 và iPhone 6 và đi đến kết luận rằng nếu bạn yêu thích chụp ảnh và đang sử dụng đời máy cũ thì iPhone 13 đáng để nâng cấp .   0
+Trang MacRumors gần đây đã post những bức ảnh được chụp bởi iPhone 13 với iPhone 11 Pro , iPhone 8 và iPhone 6 và đi đến kết luận rằng nếu bạn yêu thích chụp ảnh và đang sử dụng đời máy cũ thì iPhone 13 đáng để nâng cấp .    0
 [[];[];[];[];[]]
-Cùng ngắm nhìn những bức ảnh thực tế được chụp bởi những người sở hữu iPhone 13 sớm nhất tại các nước ở dưới đây .   0
+Cùng ngắm nhìn những bức ảnh thực tế được chụp bởi những người sở hữu iPhone 13 sớm nhất tại các nước ở dưới đây .    0
 [[];[];[];[];[]]
-des : So sánh camera các đời iPhone chụp ảnh đường hoàng hôn .   0
+des : So sánh camera các đời iPhone chụp ảnh đường hoàng hôn .    0
 [[];[];[];[];[]]
-Sẽ không có gì ngạc nhiên khi iPhone 13 vượt trội hơn iPhone 6 bởi một số khác biệt rõ rệt nhất .   1
+Sẽ không có gì ngạc nhiên khi iPhone 13 vượt trội hơn iPhone 6 bởi một số khác biệt rõ rệt nhất .    1
 [[8&&iPhone 9&&13];[13&&iPhone 14&&6];[];[10&&vượt 11&&trội 12&&hơn];[4]]
-iPhone 8 có chất lượng ảnh tốt hơn và có cấu hình màu sắc thực sự khá giống với iPhone 13 , nhưng vẫn có sự chênh lệch rõ ràng trong điều kiện ánh sáng thấp hơn .   1
+iPhone 8 có chất lượng ảnh tốt hơn và có cấu hình màu sắc thực sự khá giống với iPhone 13 , nhưng vẫn có sự chênh lệch rõ ràng trong điều kiện ánh sáng thấp hơn .    1
 [[1&&iPhone 2&&8];[20&&iPhone 21&&13];[4&&chất 5&&lượng 6&&ảnh];[7&&tốt 8&&hơn];[4]]
 [[1&&iPhone 2&&8];[20&&iPhone 21&&13];[11&&cấu 12&&hình 13&&màu 14&&sắc];[15&&thực 16&&sự 17&&khá 18&&giống];[0]]
 [[1&&iPhone 2&&8];[20&&iPhone 21&&13];[32&&điều 33&&kiện 34&&ánh 35&&sáng 36&&thấp 37&&hơn];[27&&chênh 28&&lệch 29&&rõ 30&&ràng];[-1]]
-des : So sánh những bức hình chụp mặt trời lặn .   0
+des : So sánh những bức hình chụp mặt trời lặn .    0
 [[];[];[];[];[]]
-Với iPhone 11 Pro , khó có thể thấy những cải tiến trong ảnh chụp với điều kiện ánh sáng yếu nhưng iPhone 13 làm tốt hơn nhiều với ánh sáng vào ban đêm ( ít gây lóa ống kính hơn ) .   1
+Với iPhone 11 Pro , khó có thể thấy những cải tiến trong ảnh chụp với điều kiện ánh sáng yếu nhưng iPhone 13 làm tốt hơn nhiều với ánh sáng vào ban đêm ( ít gây lóa ống kính hơn ) .    1
 [[23&&iPhone 24&&13];[2&&iPhone 3&&11 4&&Pro];[37&&gây 38&&lóa 39&&ống 40&&kính];[36&&ít 37&&gây 38&&lóa 39&&ống 40&&kính 41&&hơn];[4]]
-Tính năng Deep Fusion hoạt động chủ yếu với ánh sáng trong nhà tạo ra sự khác biệt lớn về chất lượng bức ảnh được thể hiện ở ảnh so sánh dưới đây .   0
+Tính năng Deep Fusion hoạt động chủ yếu với ánh sáng trong nhà tạo ra sự khác biệt lớn về chất lượng bức ảnh được thể hiện ở ảnh so sánh dưới đây .    0
 [[];[];[];[];[]]
-des : So sánh ảnh chụp động vật nuôi .   0
+des : So sánh ảnh chụp động vật nuôi .    0
 [[];[];[];[];[]]
-Những chiếc iPhone trước đây đã gặp rất nhiều khó khăn trong việc phơi sáng chính xác các khu vực khác nhau có ánh sáng không đồng đều và Apple đã thực hiện rất nhiều cải tiến về chất lượng camera trong vài năm qua .   0
+Những chiếc iPhone trước đây đã gặp rất nhiều khó khăn trong việc phơi sáng chính xác các khu vực khác nhau có ánh sáng không đồng đều và Apple đã thực hiện rất nhiều cải tiến về chất lượng camera trong vài năm qua .    0
 [[];[];[];[];[]]
-Màn hình của iPhone 13 mới được cải tiến hơn so với các thế hệ tiền nhiệm của chúng cộng thêm các sản phẩm chứa thời lượng pin dài hơn .   1
+Màn hình của iPhone 13 mới được cải tiến hơn so với các thế hệ tiền nhiệm của chúng cộng thêm các sản phẩm chứa thời lượng pin dài hơn .    1
 [[4&&iPhone 5&&13];[13&&các 14&&thế 15&&hệ 16&&tiền 17&&nhiệm 18&&của 19&&chúng];[1&&Màn 2&&hình];[8&&cải 9&&tiến 10&&hơn];[4]]
 [[22&&các 23&&sản 24&&phẩm];[];[26&&thời 27&&lượng 28&&pin];[29&&dài 30&&hơn];[4]]
-Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 đang được đánh giá là con chip tốt nhất hiện nay .   1
+Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 đang được đánh giá là con chip tốt nhất hiện nay .    1
 [[1&&Chip 2&&A15 3&&Bionic 4&&cung 5&&cấp 6&&hiệu 7&&năng 8&&khủng 9&&cho 10&&iPhone 11&&13];[];[];[19&&tốt 20&&nhất 21&&hiện 22&&nay];[1]]
-Con chip cho phép người dùng sử dụng nhiều tính năng quay phim chụp ảnh chuyên nghiệp hơn .   1
+Con chip cho phép người dùng sử dụng nhiều tính năng quay phim chụp ảnh chuyên nghiệp hơn .    1
 [[];[];[12&&quay 13&&phim 14&&chụp 15&&ảnh];[16&&chuyên 17&&nghiệp 18&&hơn];[4]]
-Apple đã cải tiến bộ phận camera vốn đã hoàn chỉnh với các cảm biến mới hỗ trợ người dùng có những bức ảnh đẹp nhất .   0
+Apple đã cải tiến bộ phận camera vốn đã hoàn chỉnh với các cảm biến mới hỗ trợ người dùng có những bức ảnh đẹp nhất .    0
 [[];[];[];[];[]]
-Samsung Galaxy Z Fold2 – mẫu điện thoại màn hình gập thế hệ mới của Samsung , mang tới nhiều nâng cấp và cải tiến hơn rất nhiều so với người tiền nhiệm Galaxy Fold .   1
+Samsung Galaxy Z Fold2 – mẫu điện thoại màn hình gập thế hệ mới của Samsung , mang tới nhiều nâng cấp và cải tiến hơn rất nhiều so với người tiền nhiệm Galaxy Fold .    1
 [[1&&Samsung 2&&Galaxy 3&&Z 4&&Fold2];[31&&người 32&&tiền 33&&nhiệm 34&&Galaxy 35&&Fold];[21&&nâng 22&&cấp];[20&&nhiều 21&&nâng 22&&cấp 23&&và 24&&cải 25&&tiến 26&&hơn 27&&rất 28&&nhiều];[4]]
 [[1&&Samsung 2&&Galaxy 3&&Z 4&&Fold2];[31&&người 32&&tiền 33&&nhiệm 34&&Galaxy 35&&Fold];[24&&cải 25&&tiến];[20&&nhiều 21&&nâng 22&&cấp 23&&và 24&&cải 25&&tiến 26&&hơn 27&&rất 28&&nhiều];[4]]
-Với sự kiện Galaxy Unpacked dành riêng cho Galaxy Z Fold2 hôm 2/9 vừa qua , dường như Samsung đang gửi đến các hãng điện thoại khác một thông điệp cực kì rõ ràng : “ Galaxy Z Fold2 chính là tương lai của smartphone và chúng tôi vẫn đang dẫn đầu ” .   0
+Với sự kiện Galaxy Unpacked dành riêng cho Galaxy Z Fold2 hôm 2/9 vừa qua , dường như Samsung đang gửi đến các hãng điện thoại khác một thông điệp cực kì rõ ràng : “ Galaxy Z Fold2 chính là tương lai của smartphone và chúng tôi vẫn đang dẫn đầu ” .    0
 [[];[];[];[];[]]
-Bản thân người viết là mình cũng đã có cơ hội được trải nghiệm Galaxy Z Fold2 trong một thời gian không phải dài nhưng cũng không phải là ngắn .   0
+Bản thân người viết là mình cũng đã có cơ hội được trải nghiệm Galaxy Z Fold2 trong một thời gian không phải dài nhưng cũng không phải là ngắn .    0
 [[];[];[];[];[]]
-Dù cho đã được mở hộp Galaxy Fold từ năm ngoái , thế nhưng với Galaxy Z Fold2 của năm nay , mọi trải nghiệm dường như hoàn toàn mới mẻ và cực kì ấn tượng .   0
+Dù cho đã được mở hộp Galaxy Fold từ năm ngoái , thế nhưng với Galaxy Z Fold2 của năm nay , mọi trải nghiệm dường như hoàn toàn mới mẻ và cực kì ấn tượng .    0
 [[];[];[];[];[]]
-Cảm nhận đầu tiên của mình khi cầm trên tay chiếc Galaxy Z Fold2 đó chính là các đường bo xung quanh máy đã được Samsung tinh chỉnh lại để mang lại một cảm giác máy có phần bền bỉ , chắc chắn hơn thế hệ Galaxy Fold đầu tiên .   1
+Cảm nhận đầu tiên của mình khi cầm trên tay chiếc Galaxy Z Fold2 đó chính là các đường bo xung quanh máy đã được Samsung tinh chỉnh lại để mang lại một cảm giác máy có phần bền bỉ , chắc chắn hơn thế hệ Galaxy Fold đầu tiên .    1
 [[11&&chiếc 12&&Galaxy 13&&Z 14&&Fold2];[45&&thế 46&&hệ 47&&Galaxy 48&&Fold 49&&đầu 50&&tiên];[19&&đường 20&&bo 21&&xung 22&&quanh 23&&máy];[39&&bền 40&&bỉ 41&&, 42&&chắc 43&&chắn 44&&hơn];[4]]
-Từ vật liệu cấu thành cho tới kiểu cách hoàn thiện máy , mọi thứ đều mang lại cho người dùng một cảm giác cực kì cao cấp và sang trọng .   0
+Từ vật liệu cấu thành cho tới kiểu cách hoàn thiện máy , mọi thứ đều mang lại cho người dùng một cảm giác cực kì cao cấp và sang trọng .    0
 [[];[];[];[];[]]
-Ông lớn tới từ Hàn Quốc đã dùng khung kim loại cùng với tấm kính cường lực Gorilla Glass Victus ở cả mặt trước lẫn mặt sau .   0
+Ông lớn tới từ Hàn Quốc đã dùng khung kim loại cùng với tấm kính cường lực Gorilla Glass Victus ở cả mặt trước lẫn mặt sau .    0
 [[];[];[];[];[]]
-Các phím bấm vật lý bạn đọc có thể tìm thấy ở cạnh phải máy , và nút nguồn cũng đồng thời là cảm biến vân tay một chạm siêu nhạy .   0
+Các phím bấm vật lý bạn đọc có thể tìm thấy ở cạnh phải máy , và nút nguồn cũng đồng thời là cảm biến vân tay một chạm siêu nhạy .    0
 [[];[];[];[];[]]
-Xoay qua phần mặt lưng , bạn đọc sẽ bắt gặp cụm camera rất quen thuộc đã từng xuất hiện trên Galaxy Note20 Ultra .   0
+Xoay qua phần mặt lưng , bạn đọc sẽ bắt gặp cụm camera rất quen thuộc đã từng xuất hiện trên Galaxy Note20 Ultra .    0
 [[];[];[];[];[]]
-Đó là một cụm module hình chữ nhật được nhô lên hơi cao so với mặt lưng cùng hệ thống 3 ống kính camera ở bên trong .   1
+Đó là một cụm module hình chữ nhật được nhô lên hơi cao so với mặt lưng cùng hệ thống 3 ống kính camera ở bên trong .    1
 [[4&&cụm 5&&module 6&&hình 7&&chữ 8&&nhật];[16&&mặt 17&&lưng];[];[10&&nhô 11&&lên 12&&hơi 13&&cao 14&&so 15&&với];[6]]
-Samsung sẽ cung cấp tới 2 phiên bản màu sắc của Galaxy Z Fold2 cho người dùng lựa chọn bao gồm Mystic Bronze và Mystic Black .   0
+Samsung sẽ cung cấp tới 2 phiên bản màu sắc của Galaxy Z Fold2 cho người dùng lựa chọn bao gồm Mystic Bronze và Mystic Black .    0
 [[];[];[];[];[]]
-Điểm đáng khen nhất đó chính là phần bản lề của Galaxy Z Fold2 đã được Samsung “ đại tu ” lại .   0
+Điểm đáng khen nhất đó chính là phần bản lề của Galaxy Z Fold2 đã được Samsung “ đại tu ” lại .    0
 [[];[];[];[];[]]
-Mình cảm thấy cực kì hài lòng và ấn tượng với độ chắc chắn và cứng cáp của phần bàn lề này .   0
+Mình cảm thấy cực kì hài lòng và ấn tượng với độ chắc chắn và cứng cáp của phần bàn lề này .    0
 [[];[];[];[];[]]
-Công nghệ bản lề này chúng ta đã từng thấy trên mẫu Galaxy Z Flip trước đây .   0
+Công nghệ bản lề này chúng ta đã từng thấy trên mẫu Galaxy Z Flip trước đây .    0
 [[];[];[];[];[]]
-Cấu trúc CAM mà hãng đang áp dụng bên trong phần bản lề giúp tăng cường độ cứng cáp , từ đó phần bản lề của máy sẽ trở nên cực kì bền bỉ .   0
+Cấu trúc CAM mà hãng đang áp dụng bên trong phần bản lề giúp tăng cường độ cứng cáp , từ đó phần bản lề của máy sẽ trở nên cực kì bền bỉ .    0
 [[];[];[];[];[]]
-Độ bền bỉ này đã được Samsung tự hào dành riêng cho một cái tên là “ Flex Mode ” .   1
+Độ bền bỉ này đã được Samsung tự hào dành riêng cho một cái tên là “ Flex Mode ” .    1
 [[7&&Galaxy 8&&Z 9&&Fold2];[];[3&&Phần 4&&bản 5&&lề];[13&&cứng 14&&cáp 15&&hơn 16&&rất 17&&nhiều];[4]]
-Đi sâu vào Flex Mode thì với công nghệ này , phần bản lề của máy sẽ có thể tùy ý dừng lại ở mọi góc độ khác nhau trong khoảng từ 80 cho tới 160 độ ) , cho phép người dùng có thể sử dụng được phần màn hình chính bên trong tùy theo mọi mục đích khác nhau .   0
+Đi sâu vào Flex Mode thì với công nghệ này , phần bản lề của máy sẽ có thể tùy ý dừng lại ở mọi góc độ khác nhau trong khoảng từ 80 cho tới 160 độ ) , cho phép người dùng có thể sử dụng được phần màn hình chính bên trong tùy theo mọi mục đích khác nhau .    0
 [[];[];[];[];[]]
-Và theo như Samsung công bố thì phần bản lề này có thể đóng gập được tối đa 200.000 lần , vậy nên nếu bạn đang sở hữu một chiếc Galaxy Z Fold2 thì có thể yên tâm sử dụng được trong vòng ít nhất là từ 2-3 năm .   0
+Và theo như Samsung công bố thì phần bản lề này có thể đóng gập được tối đa 200.000 lần , vậy nên nếu bạn đang sở hữu một chiếc Galaxy Z Fold2 thì có thể yên tâm sử dụng được trong vòng ít nhất là từ 2-3 năm .    0
 [[];[];[];[];[]]
-Điểm cải tiến đáng giá tiếp theo chính là phần màn hình ngoài của Galaxy Z Fold2 đã được Samsung tăng kích thước lên rộng hơn .   1
+Điểm cải tiến đáng giá tiếp theo chính là phần màn hình ngoài của Galaxy Z Fold2 đã được Samsung tăng kích thước lên rộng hơn .    1
 [[15&&Galaxy 16&&Z 17&&Fold2];[];[10&&phần 11&&màn 12&&hình 13&&ngoài];[21&&tăng 22&&kích 23&&thước 24&&lên 25&&rộng 26&&hơn];[4]]
 [[10&&phần 11&&màn 12&&hình 13&&ngoài 14&&của 15&&Galaxy 16&&Z 17&&Fold2];[];[22&&kích 23&&thước];[25&&rộng 26&&hơn];[4]]
-Giờ đây , người dùng chúng ta đã có một màn hình ngoài rộng tới 6.2 inch , tỉ lệ 25 : 9 trên tấm nền Super AMOLED , độ phân giải 2.260 x 816 pixel .   0
+Giờ đây , người dùng chúng ta đã có một màn hình ngoài rộng tới 6.2 inch , tỉ lệ 25 : 9 trên tấm nền Super AMOLED , độ phân giải 2.260 x 816 pixel .    0
 [[];[];[];[];[]]
-Triết lý thiết kế Infinity-O cũng giúp cho Galaxy Z Fold2 nếu nhin từ bên ngoài khá quen thuộc và thân thiện .   0
+Triết lý thiết kế Infinity-O cũng giúp cho Galaxy Z Fold2 nếu nhin từ bên ngoài khá quen thuộc và thân thiện .    0
 [[];[];[];[];[]]
-Nếu như so với màn hình 4.6 inch của Galaxy Fold đời đầu , đây thực sự là một nâng cấp tuyệt vời .   0
+Nếu như so với màn hình 4.6 inch của Galaxy Fold đời đầu , đây thực sự là một nâng cấp tuyệt vời .    0
 [[];[];[];[];[]]
-Thế nhưng đó chưa phải là tất cả của Galaxy Z Fold2 .   0
+Thế nhưng đó chưa phải là tất cả của Galaxy Z Fold2 .    0
 [[];[];[];[];[]]
-Nhắc tới mẫu điện thoại này mà bỏ qua phần màn hình chính bên trong thì thật là một thiếu sót vô cùng lớn .   0
+Nhắc tới mẫu điện thoại này mà bỏ qua phần màn hình chính bên trong thì thật là một thiếu sót vô cùng lớn .    0
 [[];[];[];[];[]]
-Màn hình Infinity Flex có thể gập lại của Galaxy Z Fold2 có kích thước khi mở ra lên tới 7.6 inch , lúc này máy sẽ như một chiếc tablet 7 inch thứ thiệt .   1
+Màn hình Infinity Flex có thể gập lại của Galaxy Z Fold2 có kích thước khi mở ra lên tới 7.6 inch , lúc này máy sẽ như một chiếc tablet 7 inch thứ thiệt .    1
 [[26&&máy];[29&&một 30&&chiếc 31&&tablet 32&&7 33&&inch 34&&thứ 35&&thiệt];[];[28&&như];[0]]
-Màn hình của Z Fold2 sẽ được bảo vệ bởi lớp kính siêu mỏng UTG đã được áp dụng trên Galaxy Z Flip .   0
+Màn hình của Z Fold2 sẽ được bảo vệ bởi lớp kính siêu mỏng UTG đã được áp dụng trên Galaxy Z Flip .    0
 [[];[];[];[];[]]
-Tốc độ tần số quét màn hình của Galaxy Z Fold2 giờ đây đã được nâng lên thành 120H z thay vì 60H z cơ bản của Galaxy Fold và Galaxy Z Flip .   0
+Tốc độ tần số quét màn hình của Galaxy Z Fold2 giờ đây đã được nâng lên thành 120H z thay vì 60H z cơ bản của Galaxy Fold và Galaxy Z Flip .    0
 [[];[];[];[];[]]
-Màn hình chính này có tỉ lệ là 22.5 : 18 , cùng độ phân giải đạt 2.208 x 1.768 pixel .   0
+Màn hình chính này có tỉ lệ là 22.5 : 18 , cùng độ phân giải đạt 2.208 x 1.768 pixel .    0
 [[];[];[];[];[]]
-Một thay đổi “ đáng đồng tiền bát gạo ” khác tren màn hình này chính là việc Samsung đã thay phần notch khá lớn của Galaxy Fold thành thiết kế dạng đục lỗ chứa camera selfie .   0
+Một thay đổi “ đáng đồng tiền bát gạo ” khác tren màn hình này chính là việc Samsung đã thay phần notch khá lớn của Galaxy Fold thành thiết kế dạng đục lỗ chứa camera selfie .    0
 [[];[];[];[];[]]
-Sự thay đổi này đã giúp cho màn hình chính của Galaxy Z Fold2 có thêm nhiều không gian hiển thị hơn , nâng cao trải nghiệm hàng ngày của người dùng , từ đọc báo , xem phim cho tới chơi game , tất cả đều thật tuyệt vời .   1
+Sự thay đổi này đã giúp cho màn hình chính của Galaxy Z Fold2 có thêm nhiều không gian hiển thị hơn , nâng cao trải nghiệm hàng ngày của người dùng , từ đọc báo , xem phim cho tới chơi game , tất cả đều thật tuyệt vời .    1
 [[12&&Galaxy 13&&Z 14&&Fold2];[];[8&&màn 9&&hình 10&&chính];[17&&nhiều 18&&không 19&&gian 20&&hiển 21&&thị 22&&hơn];[4]]
-Tuy vẫn còn nếp nhăn ở giữa màn hình thế nhưng điều này cũng sẽ không ảnh hưởng quá nhiều tới trải nghiệm của người dùng .   0
+Tuy vẫn còn nếp nhăn ở giữa màn hình thế nhưng điều này cũng sẽ không ảnh hưởng quá nhiều tới trải nghiệm của người dùng .    0
 [[];[];[];[];[]]
-Về sức mạnh phần cứng , Galaxy Z Fold2 được Samsung ưu ái trang bị bộ vi xử lý mạnh mẽ và tốt nhất hiện tại của Qualcomm là Snapdragon 865 + .   1
+Về sức mạnh phần cứng , Galaxy Z Fold2 được Samsung ưu ái trang bị bộ vi xử lý mạnh mẽ và tốt nhất hiện tại của Qualcomm là Snapdragon 865 + .    1
 [[7&&Galaxy 8&&Z 9&&Fold2];[];[16&&bộ 17&&vi 18&&xử 19&&lý];[20&&mạnh 21&&mẽ 22&&và 23&&tốt 24&&nhất 25&&hiện 26&&tại 27&&của 28&&Qualcomm];[1]]
-Đi cùng với đó là thanh RAM 12GB , bộ nhớ trong 128GB hoặc 256GB sử dụng công nghệ UFS 3.1 cho tốc độ truy xuất dữ liệu siêu nhanh .   0
+Đi cùng với đó là thanh RAM 12GB , bộ nhớ trong 128GB hoặc 256GB sử dụng công nghệ UFS 3.1 cho tốc độ truy xuất dữ liệu siêu nhanh .    0
 [[];[];[];[];[]]
-Chuyển tới khả năng nhiếp ảnh , Galaxy Z Fold2 sở hữu một hệ thông camera bao gồm 3 ống kính ở phía sau với thông số lần lượt là 12MP cho camera chính tương tự như của Galaxy Note20 .   1
+Chuyển tới khả năng nhiếp ảnh , Galaxy Z Fold2 sở hữu một hệ thông camera bao gồm 3 ống kính ở phía sau với thông số lần lượt là 12MP cho camera chính tương tự như của Galaxy Note20 .    1
 [[8&&Galaxy 9&&Z 10&&Fold2];[39&&Galaxy 40&&Note20];[14&&hệ 15&&thông 16&&camera];[35&&tương 36&&tự];[0]]
-Camera thứ hai có độ phân giải cũng là 12MP hỗ trợ chụp góc siêu rộng với độ rộng lên tới 123 độ và cuối cùng là camera tele độ phân giải 12MP có khả năng zoom quang 2 x .   0
+Camera thứ hai có độ phân giải cũng là 12MP hỗ trợ chụp góc siêu rộng với độ rộng lên tới 123 độ và cuối cùng là camera tele độ phân giải 12MP có khả năng zoom quang 2 x .    0
 [[];[];[];[];[]]
-Các chế độ chụp ảnh của Galaxy Z Fold2 cũng rất ấn tượng bao gồm Single Take ( Chụp một chạm ) , Night Mode ( Chụp đêm ) , Pro Video ( Quay video chuyên nghiệp ) , … Đặc biệt , với Galaxy Z Fold2 , bạn còn có thể xem trước được camera ở phần màn hình bên ngoài khi chụp ảnh bằng camera sau .   0
+Các chế độ chụp ảnh của Galaxy Z Fold2 cũng rất ấn tượng bao gồm Single Take ( Chụp một chạm ) , Night Mode ( Chụp đêm ) , Pro Video ( Quay video chuyên nghiệp ) , … Đặc biệt , với Galaxy Z Fold2 , bạn còn có thể xem trước được camera ở phần màn hình bên ngoài khi chụp ảnh bằng camera sau .    0
 [[];[];[];[];[]]
-Với camera selfie , máy sở hữu tới 2 camera 10MP , một camera ở màn hình bên ngoài và một camera được tích hợp ở phần màn hình bên trong .   0
+Với camera selfie , máy sở hữu tới 2 camera 10MP , một camera ở màn hình bên ngoài và một camera được tích hợp ở phần màn hình bên trong .    0
 [[];[];[];[];[]]
-Có quá nhiều điểm để chúng ta có thể “ xiêu lòng ” Galaxy Z Fold2 ngay từ cái nhìn và cái chạm tay đầu tiên .   0
+Có quá nhiều điểm để chúng ta có thể “ xiêu lòng ” Galaxy Z Fold2 ngay từ cái nhìn và cái chạm tay đầu tiên .    0
 [[];[];[];[];[]]
-Với những người dùng đã và đang sử dụng Galaxy Fold thế hệ đầu , Galaxy Z Fold2 chính là những gì mà họ đang mong đợi .   0
+Với những người dùng đã và đang sử dụng Galaxy Fold thế hệ đầu , Galaxy Z Fold2 chính là những gì mà họ đang mong đợi .    0
 [[];[];[];[];[]]
-Màn hình phụ lớn hơn , màn hình chính cũng được tăng kích thước , phần bản lề chắc chắn hơn cùng một cấu hình phần cứng vượt trội .   1
+Màn hình phụ lớn hơn , màn hình chính cũng được tăng kích thước , phần bản lề chắc chắn hơn cùng một cấu hình phần cứng vượt trội .    1
 [[];[];[1&&Màn 2&&hình 3&&phụ];[4&&lớn 5&&hơn];[4]]
 [[];[];[7&&màn 8&&hình 9&&chính];[11&&được 12&&tăng 13&&kích 14&&thước];[4]]
 [[];[];[16&&phần 17&&bản 18&&lề];[19&&chắc 20&&chắn 21&&hơn];[4]]
 [[];[];[24&&cấu 25&&hình 26&&phần 27&&cứng];[28&&vượt 29&&trội];[4]]
-Samsung Galaxy Z Fold2 sẽ bắt đầu được mở bán từ ngày 18/9 tới đây tại hơn 40 quốc gia cùng mức giá niêm yết khởi điểm là $ 1.999 , tức là sẽ rơi vào khoảng hơn 46 triệu đồng .   1
+Samsung Galaxy Z Fold2 sẽ bắt đầu được mở bán từ ngày 18/9 tới đây tại hơn 40 quốc gia cùng mức giá niêm yết khởi điểm là $ 1.999 , tức là sẽ rơi vào khoảng hơn 46 triệu đồng .    1
 [[1&&Galaxy 2&&S22 3&&Ultra 4&&5G];[];[];[11&&cao 12&&cấp 13&&nhất 14&&của 15&&Samsung];[1]]
-Cùng là smartphone cao cấp của Samsung nhưng mỗi mẫu điện thoại lại được xây dựng theo 2 hướng khác nhau .   0
+Cùng là smartphone cao cấp của Samsung nhưng mỗi mẫu điện thoại lại được xây dựng theo 2 hướng khác nhau .    0
 [[];[];[];[];[]]
-Bài so sánh Galaxy S22 Ultra 5G và mẫu điện thoại gập cao cấp Galaxy Fold 3 sẽ giúp bạn tìm được tình yêu thật sự của mình .   0
+Bài so sánh Galaxy S22 Ultra 5G và mẫu điện thoại gập cao cấp Galaxy Fold 3 sẽ giúp bạn tìm được tình yêu thật sự của mình .    0
 [[];[];[];[];[]]
-Về cơ bản , Samsung Galaxy S22 Ultra 5G phù hợp với đại đa số thói quen sử dụng của người dùng hơn .   0
+Về cơ bản , Samsung Galaxy S22 Ultra 5G phù hợp với đại đa số thói quen sử dụng của người dùng hơn .    0
 [[];[];[];[];[]]
-Thiết kế phẳng mới mẽ và kế thừa nhiều công nghệ mới của năm 2022 .   0
+Thiết kế phẳng mới mẽ và kế thừa nhiều công nghệ mới của năm 2022 .    0
 [[];[];[];[];[]]
-Còn Galaxy Fold lại sở hữu thiết kế độc lạ , màn hình lớn và mọi thông số đều rất ổn .   0
+Còn Galaxy Fold lại sở hữu thiết kế độc lạ , màn hình lớn và mọi thông số đều rất ổn .    0
 [[];[];[];[];[]]
-Khi đánh giá Samsung Galaxy S22 Ultra 5G và Galaxy Z Fold 3 , đa số người dùng vẫn thích chiếc điện thoại dòng S. Nguyên nhân là kiểu máy truyền thông dễ sử dụng , quen thuộc , lần này Samsung khá chút ý đến các đường nét , rất sang trọng .   0
+Khi đánh giá Samsung Galaxy S22 Ultra 5G và Galaxy Z Fold 3 , đa số người dùng vẫn thích chiếc điện thoại dòng S. Nguyên nhân là kiểu máy truyền thông dễ sử dụng , quen thuộc , lần này Samsung khá chút ý đến các đường nét , rất sang trọng .    0
 [[];[];[];[];[]]
-Ở một bên khác , Z Fold 3 thiết về sự mới lạ , có khả năng mở gập như một cuốn sách .   1
+Ở một bên khác , Z Fold 3 thiết về sự mới lạ , có khả năng mở gập như một cuốn sách .    1
 [[6&&Z 7&&Fold 8&&3];[21&&một 22&&cuốn 23&&sách];[16&&khả 17&&năng 18&&mở 19&&gập];[20&&như];[0]]
-Khi đưa vào sử dụng , chiếc điện thoại gập cung cấp nhiều chức năng thực dụng hơn .   1
+Khi đưa vào sử dụng , chiếc điện thoại gập cung cấp nhiều chức năng thực dụng hơn .    1
 [[7&&chiếc 8&&điện 9&&thoại 10&&gập];[];[14&&chức 15&&năng 16&&thực 17&&dụng];[13&&nhiều 14&&chức 15&&năng 16&&thực 17&&dụng 18&&hơn];[4]]
 [[];[];[1&&Màn 2&&hình];[3&&tương 4&&đương];[0]]
-Chắc rằng , S22 Ultra 5G là một trong những chiếc điện thoại có màn hình tốt nhất hiện nay .   1
+Chắc rằng , S22 Ultra 5G là một trong những chiếc điện thoại có màn hình tốt nhất hiện nay .    1
 [[4&&S22 5&&Ultra 6&&5G];[];[15&&màn 16&&hình];[17&&tốt 18&&nhất 19&&hiện 20&&nay];[1]]
-Tấm nền Dynamic AMOLED 2X 6.8 inch với độ phân giải QHD + .   0
+Tấm nền Dynamic AMOLED 2X 6.8 inch với độ phân giải QHD + .    0
 [[];[];[];[];[]]
-Dĩ nhiên , nó sẽ kế thừa công nghệ tự động làm mới màn hình từ 10H z - 120H z .   0
+Dĩ nhiên , nó sẽ kế thừa công nghệ tự động làm mới màn hình từ 10H z - 120H z .    0
 [[];[];[];[];[]]
-Độ sáng tối đa của máy tốt hơn nhiều so với Galaxy Fold 3 với 1800 nits .   1
+Độ sáng tối đa của máy tốt hơn nhiều so với Galaxy Fold 3 với 1800 nits .    1
 [[6&&máy];[12&&Galaxy 13&&Fold 14&&3];[1&&Độ 2&&sáng 3&&tối 4&&đa];[7&&tốt 8&&hơn 9&&nhiều];[4]]
-Samsung Z Fold 3 có lợi thế về kích thước màn hình với kích thước 7.6 inch + 6.2 inch .   1
+Samsung Z Fold 3 có lợi thế về kích thước màn hình với kích thước 7.6 inch + 6.2 inch .    1
 [[1&&Samsung 2&&Z 3&&Fold 4&&3];[];[9&&kích 10&&thước 11&&màn 12&&hình];[5&&có 6&&lợi 7&&thế];[4]]
-Nhưng tốc độ làm mới màn hình phải điều chỉnh thủ công .   0
+Nhưng tốc độ làm mới màn hình phải điều chỉnh thủ công .    0
 [[];[];[];[];[]]
-Được lợi thế của người đi sau , Galaxy S22 Ultra 5G được trang bị Snapdragon 8 Gen 1 hoặc Exynos 2200 .   0
+Được lợi thế của người đi sau , Galaxy S22 Ultra 5G được trang bị Snapdragon 8 Gen 1 hoặc Exynos 2200 .    0
 [[];[];[];[];[]]
-Cách biệt một thế hệ so với Snapdragon 888 hoặc Exynos 2100 trên Galaxy Fold 3 .   0
+Cách biệt một thế hệ so với Snapdragon 888 hoặc Exynos 2100 trên Galaxy Fold 3 .    0
 [[];[];[];[];[]]
-Rõ ràng , sẽ có một khoảng cách về tốc độ xử lý , khả năng đồ họa và khả năng tiết kiệm năng lượng giữa bộ đôi điện thoại .   1
+Rõ ràng , sẽ có một khoảng cách về tốc độ xử lý , khả năng đồ họa và khả năng tiết kiệm năng lượng giữa bộ đôi điện thoại .    1
 [[27&&bộ 28&&đôi 29&&điện 30&&thoại];[27&&bộ 28&&đôi 29&&điện 30&&thoại];[10&&tốc 11&&độ 12&&xử 13&&lý];[5&&có 6&&một 7&&khoảng 8&&cách];[-1]]
 [[27&&bộ 28&&đôi 29&&điện 30&&thoại];[27&&bộ 28&&đôi 29&&điện 30&&thoại];[15&&khả 16&&năng 17&&đồ 18&&họa];[5&&có 6&&một 7&&khoảng 8&&cách];[-1]]
 [[27&&bộ 28&&đôi 29&&điện 30&&thoại];[27&&bộ 28&&đôi 29&&điện 30&&thoại];[20&&khả 21&&năng 22&&tiết 23&&kiệm 24&&năng 25&&lượng];[5&&có 6&&một 7&&khoảng 8&&cách];[-1]]
-Cả hai đều có thể hoạt động trên giao diện One UI 4 và có lượng RAM 8GB .   1
+Cả hai đều có thể hoạt động trên giao diện One UI 4 và có lượng RAM 8GB .    1
 [[1&&Cả 2&&hai];[1&&Cả 2&&hai];[6&&hoạt 7&&động 8&&trên 9&&giao 10&&diện 11&&One 12&&UI 13&&4];[3&&đều 4&&có 5&&thể];[0]]
 [[1&&Cả 2&&hai];[1&&Cả 2&&hai];[17&&RAM 18&&8GB];[3&&đều 4&&có];[0]]
-Tuy nhiên , thiết bị dòng S còn có phiên bản RAM đến 12GB .   0
+Tuy nhiên , thiết bị dòng S còn có phiên bản RAM đến 12GB .    0
 [[];[];[];[];[]]
-Về thời lượng pin và thời gian sử dụng , điện thoại Galaxy S22 Ultra 5G có lợi thế hơn vì viên pin lơn , 500 mAh .   1
+Về thời lượng pin và thời gian sử dụng , điện thoại Galaxy S22 Ultra 5G có lợi thế hơn vì viên pin lơn , 500 mAh .    1
 [[13&&Galaxy 14&&S22 15&&Ultra 16&&5G];[];[2&&thời 3&&lượng 4&&pin];[18&&lợi 19&&thế 20&&hơn];[4]]
 [[13&&Galaxy 14&&S22 15&&Ultra 16&&5G];[];[6&&thời 7&&gian 8&&sử 9&&dụng];[18&&lợi 19&&thế 20&&hơn];[4]]
-Đi kèm là con chip tốt hơn và màn hình nhỏ hơn giúp cho chiếc điện thoại hoạt động lâu hơn Samsung Galaxy Z Fold 3 .   1
+Đi kèm là con chip tốt hơn và màn hình nhỏ hơn giúp cho chiếc điện thoại hoạt động lâu hơn Samsung Galaxy Z Fold 3 .    1
 [[15&&chiếc 16&&điện 17&&thoại];[22&&Samsung 23&&Galaxy 24&&Z 25&&Fold 26&&3];[4&&con 5&&chip];[6&&tốt 7&&hơn];[4]]
 [[15&&chiếc 16&&điện 17&&thoại];[22&&Samsung 23&&Galaxy 24&&Z 25&&Fold 26&&3];[9&&màn 10&&hình];[11&&nhỏ 12&&hơn];[4]]
 [[15&&chiếc 16&&điện 17&&thoại];[22&&Samsung 23&&Galaxy 24&&Z 25&&Fold 26&&3];[18&&hoạt 19&&động];[20&&lâu 21&&hơn];[4]]
-Samsung còn cung cấp cho thiết bị công nghệ sạc nhanh 45W , sạc không dây 15W và sạc người 4.5 W .   0
+Samsung còn cung cấp cho thiết bị công nghệ sạc nhanh 45W , sạc không dây 15W và sạc người 4.5 W .    0
 [[];[];[];[];[]]
-Galaxy Z Fold 3 chỉ sử dụng viên pin 4400 mAh và công nghệ sạc 25W nhưng vẫn đủ cho bạn sử dụng cả ngày .   0
+Galaxy Z Fold 3 chỉ sử dụng viên pin 4400 mAh và công nghệ sạc 25W nhưng vẫn đủ cho bạn sử dụng cả ngày .    0
 [[];[];[];[];[]]
-Galaxy S22 Ultra 5G với màn hình đục lỗ truyền thống sở hữu một camera selfie độ phân giải 40MP .   0
+Galaxy S22 Ultra 5G với màn hình đục lỗ truyền thống sở hữu một camera selfie độ phân giải 40MP .    0
 [[];[];[];[];[]]
-Đây là loại ống kích góc rộng và được cung cấp đầy đủ các khả năng quay phim 4K , Auto-HDR và video call đôi .   0
+Đây là loại ống kích góc rộng và được cung cấp đầy đủ các khả năng quay phim 4K , Auto-HDR và video call đôi .    0
 [[];[];[];[];[]]
-Một chiếc camera hiệu quả khi sử dụng trong thời buổi thường xuyên kết nối video giữa các người dùng .   0
+Một chiếc camera hiệu quả khi sử dụng trong thời buổi thường xuyên kết nối video giữa các người dùng .    0
 [[];[];[];[];[]]
-Z Fold 3 có 1 camera ở màn hình trước với độ phân giải 10MP và một camera 4MP ẩn dưới màn hình .   0
+Z Fold 3 có 1 camera ở màn hình trước với độ phân giải 10MP và một camera 4MP ẩn dưới màn hình .    0
 [[];[];[];[];[]]
-Như vậy , so về thông số và các chức năng , camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo .   1
+Như vậy , so về thông số và các chức năng , camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo .    1
 [[13&&camera 14&&selfie 15&&Galaxy 16&&S22 17&&Ultra 18&&5G];[];[6&&thông 7&&số];[23&&trên 24&&kèo];[4]]
 [[];[];[9&&các 10&&chức 11&&năng];[23&&trên 24&&kèo];[4]]
-Nhưng nhiều người lại thích công nghệ camera ẩn dưới màn hình của Galaxy Z Fold 3 .   0
+Nhưng nhiều người lại thích công nghệ camera ẩn dưới màn hình của Galaxy Z Fold 3 .    0
 [[];[];[];[];[]]
-Hơn nữa , thiết kế gập cho phép việc selfie trên Galaxy Z Fole 3 trở nên đa dụng và dễ sáng tạo .   0
+Hơn nữa , thiết kế gập cho phép việc selfie trên Galaxy Z Fole 3 trở nên đa dụng và dễ sáng tạo .    0
 [[];[];[];[];[]]
-Cụm camera sau của Samsung Galaxy S22 Ultra 5G gồm một ống kích chính ( góc rộng ) có độ phân giải 108MP , được hỗ trợ các công nghệ PDAF , lấy nét Laser AF và chống rung OIS .   0
+Cụm camera sau của Samsung Galaxy S22 Ultra 5G gồm một ống kích chính ( góc rộng ) có độ phân giải 108MP , được hỗ trợ các công nghệ PDAF , lấy nét Laser AF và chống rung OIS .    0
 [[];[];[];[];[]]
-Bên cạnh đó là ống kính tiềm vọng 10MP có khả năng zoom quang 10 x , lấy nét đôi dual pixel PDAF .   0
+Bên cạnh đó là ống kính tiềm vọng 10MP có khả năng zoom quang 10 x , lấy nét đôi dual pixel PDAF .    0
 [[];[];[];[];[]]
-Thêm nữa là ống kính góc siêu rộng 12MP với góc chụp 120 ˚ .   0
+Thêm nữa là ống kính góc siêu rộng 12MP với góc chụp 120 ˚ .    0
 [[];[];[];[];[]]
-Cuối cùng là ống kính tele với khả năng zoom quang 3 x .   0
+Cuối cùng là ống kính tele với khả năng zoom quang 3 x .    0
 [[];[];[];[];[]]
-Cụm camera sau của Galaxy Z Fold 3 gồm một ống kích góc rộng 12MP đi kèm khẩu độ F / 1.8 .   0
+Cụm camera sau của Galaxy Z Fold 3 gồm một ống kích góc rộng 12MP đi kèm khẩu độ F / 1.8 .    0
 [[];[];[];[];[]]
-Bên cạnh đó là ống kính góc siêu rộng 12MP và ống kính tele có khả năng zoom quang 2X .   0
+Bên cạnh đó là ống kính góc siêu rộng 12MP và ống kính tele có khả năng zoom quang 2X .    0
 [[];[];[];[];[]]
-Cả hai đều là những chiếc điện thoại thông minh có khả năng chụp ảnh tốt nhất của Samsung .   1
+Cả hai đều là những chiếc điện thoại thông minh có khả năng chụp ảnh tốt nhất của Samsung .    1
 [[1&&Cả 2&&hai];[];[12&&khả 13&&năng 14&&chụp 15&&ảnh];[16&&tốt 17&&nhất];[1]]
-Tuy nhiên , nếu so sánh Galaxy S22 Ultra và Galaxy Z Fold 3 một cách chi tiết thì điện thoại dòng S có rất nhiều tối ưu về thông số , công nghệ và tính năng .   0
+Tuy nhiên , nếu so sánh Galaxy S22 Ultra và Galaxy Z Fold 3 một cách chi tiết thì điện thoại dòng S có rất nhiều tối ưu về thông số , công nghệ và tính năng .    0
 [[];[];[];[];[]]
-Trong đó , một trong những khả năng chụp ảnh tốt nhất của Galaxy S22 Ultra mà Samsung tự hào nhất là chế độ night mode .   1
+Trong đó , một trong những khả năng chụp ảnh tốt nhất của Galaxy S22 Ultra mà Samsung tự hào nhất là chế độ night mode .    1
 [[14&&Galaxy 15&&S22 16&&Ultra];[];[23&&chế 24&&độ 25&&night 26&&mode];[7&&khả 8&&năng 9&&chụp 10&&ảnh 11&&tốt 12&&nhất];[1]]
-Có vẻ hãng đã đầu tư rất nhiều cho việc phát triển tính năng này và nó đã trở thành tâm điểm quảng cáo sản phẩm trên toàn thế giới .   0
+Có vẻ hãng đã đầu tư rất nhiều cho việc phát triển tính năng này và nó đã trở thành tâm điểm quảng cáo sản phẩm trên toàn thế giới .    0
 [[];[];[];[];[]]
-Dĩ nhiên , công nghệ này vượt trội hơn hẳn khả năng chụp đêm trên Galaxy Z Fold 3 .   1
+Dĩ nhiên , công nghệ này vượt trội hơn hẳn khả năng chụp đêm trên Galaxy Z Fold 3 .    1
 [[4&&công 5&&nghệ 6&&này];[11&&khả 12&&năng 13&&chụp 14&&đêm 15&&trên 16&&Galaxy 17&&Z 18&&Fold 19&&3];[];[7&&vượt 8&&trội 9&&hơn 10&&hẳn];[4]]
-Cả hai dòng flagship đều đi kèm với bút cảm ứng S Pen .   0
+Cả hai dòng flagship đều đi kèm với bút cảm ứng S Pen .    0
 [[];[];[];[];[]]
-Có một điểm cần lưu ý là Samsung Galaxy S22 Ultra 5G có thể tương thích với mọi loại bút S Pen .   0
+Có một điểm cần lưu ý là Samsung Galaxy S22 Ultra 5G có thể tương thích với mọi loại bút S Pen .    0
 [[];[];[];[];[]]
-Nhưng điều này không xảy ra với Galaxy Z Fold 3 .   0
+Nhưng điều này không xảy ra với Galaxy Z Fold 3 .    0
 [[];[];[];[];[]]
-Do thiết kế màn hình đặc biệt thuộc dạng dẻo nên điện thoại dòng Fold chỉ có thể sử dụng đi kèm S Pen Pro ( có hỗ trợ Bluetooth ) và S Pen Fold Edition .   0
+Do thiết kế màn hình đặc biệt thuộc dạng dẻo nên điện thoại dòng Fold chỉ có thể sử dụng đi kèm S Pen Pro ( có hỗ trợ Bluetooth ) và S Pen Fold Edition .    0
 [[];[];[];[];[]]
-Thực tế sử dụng , S22 Ultra 5G có rất nhiều tính năng và khá thú vị khi thao tác thông qua S Pen .   0
+Thực tế sử dụng , S22 Ultra 5G có rất nhiều tính năng và khá thú vị khi thao tác thông qua S Pen .    0
 [[];[];[];[];[]]
-Còn với Samsung Z Fold 3 , nhờ màn hình lớn nên sử dụng S Pen rất đã , nhất là các thao tác liên quan đến đồ họa .   0
+Còn với Samsung Z Fold 3 , nhờ màn hình lớn nên sử dụng S Pen rất đã , nhất là các thao tác liên quan đến đồ họa .    0
 [[];[];[];[];[]]
-Về tương lai , việc khả năng cao Samsung sẽ loại bỏ dòng Note thì có lẽ S Pen sẽ dần trở thành phụ kiện đăc lực cho dòng Galaxy S .   0
+Về tương lai , việc khả năng cao Samsung sẽ loại bỏ dòng Note thì có lẽ S Pen sẽ dần trở thành phụ kiện đăc lực cho dòng Galaxy S .    0
 [[];[];[];[];[]]
-Từ cái nhìn tổng quan , rõ ràng Galaxy S22 Ultra 5G vượt trội hơn Z Fold 3 về mọi mặt : Hiệu năng , camera , dung lượng pin , công nghệ .   1
+Từ cái nhìn tổng quan , rõ ràng Galaxy S22 Ultra 5G vượt trội hơn Z Fold 3 về mọi mặt : Hiệu năng , camera , dung lượng pin , công nghệ .    1
 [[9&&Galaxy 10&&S22 11&&Ultra 12&&5G];[16&&Z 17&&Fold 18&&3];[23&&Hiệu 24&&năng];[13&&vượt 14&&trội 15&&hơn];[4]]
 [[9&&Galaxy 10&&S22 11&&Ultra 12&&5G];[16&&Z 17&&Fold 18&&3];[26&&camera];[13&&vượt 14&&trội 15&&hơn];[4]]
 [[9&&Galaxy 10&&S22 11&&Ultra 12&&5G];[16&&Z 17&&Fold 18&&3];[28&&dung 29&&lượng 30&&pin];[13&&vượt 14&&trội 15&&hơn];[4]]
 [[9&&Galaxy 10&&S22 11&&Ultra 12&&5G];[16&&Z 17&&Fold 18&&3];[32&&công 33&&nghệ];[13&&vượt 14&&trội 15&&hơn];[4]]
-Thậm chí mức giá thiết bị vẫn rẻ hơn dù là người đi sau .   1
+Thậm chí mức giá thiết bị vẫn rẻ hơn dù là người đi sau .    1
 [[5&&thiết 6&&bị];[];[3&&mức 4&&giá];[8&&rẻ 9&&hơn];[4]]
-Tuy nhiên , vẫn nhiều người dùng thích dòng điện thoại Fold vì nó mang đến sự mới mẽ và độc đáo .   0
+Tuy nhiên , vẫn nhiều người dùng thích dòng điện thoại Fold vì nó mang đến sự mới mẽ và độc đáo .    0
 [[];[];[];[];[]]
-Nếu thiết kế điện thoại không phải là điểm hấp dẫn đối với bạn thì đừng chần chờ mà chọn ngay điện thoại dòng S .   0
+Nếu thiết kế điện thoại không phải là điểm hấp dẫn đối với bạn thì đừng chần chờ mà chọn ngay điện thoại dòng S .    0
 [[];[];[];[];[]]
-Bạn đang muốn mua một chiếc điện thoại đến từ nhà Samsung , nhưng lại đang phân vân giữa 2 sản phẩm là Samsung Galaxy A73 và Samsung Galaxy S21 Fe .   0
+Bạn đang muốn mua một chiếc điện thoại đến từ nhà Samsung , nhưng lại đang phân vân giữa 2 sản phẩm là Samsung Galaxy A73 và Samsung Galaxy S21 Fe .    0
 [[];[];[];[];[]]
-Bài viết này sẽ giải đáp thắc mắc , đưa ra sự so sánh giữa Samsung Galaxy A73 và Samsung Galaxy S21 Fe .   0
+Bài viết này sẽ giải đáp thắc mắc , đưa ra sự so sánh giữa Samsung Galaxy A73 và Samsung Galaxy S21 Fe .    0
 [[];[];[];[];[]]
-Theo những thông tin được Samsung công bố trong sự kiện ra mắt những mẫu điện thoại mới nhất của dòng Galaxy A , đây là phân khúc điện thoại tầm trung cận cao cấp .   0
+Theo những thông tin được Samsung công bố trong sự kiện ra mắt những mẫu điện thoại mới nhất của dòng Galaxy A , đây là phân khúc điện thoại tầm trung cận cao cấp .    0
 [[];[];[];[];[]]
-Tại sự kiện ra mắt , Galaxy A73 5G sẽ được trang bị con chip Snapdragon 778G , đây là sự nâng cấp nhẹ so với người tiền nhiệm .   1
+Tại sự kiện ra mắt , Galaxy A73 5G sẽ được trang bị con chip Snapdragon 778G , đây là sự nâng cấp nhẹ so với người tiền nhiệm .    1
 [[7&&Galaxy 8&&A73 9&&5G];[27&&người 28&&tiền 29&&nhiệm];[14&&con 15&&chip 16&&Snapdragon 17&&778G];[22&&nâng 23&&cấp 24&&nhẹ];[4]]
-Với thiết kế bo cong các góc , tạo cảm giác thoải mái khi cầm nắm , cùng với đó là kiểu màn hình nốt ruồi quen thuộc .   0
+Với thiết kế bo cong các góc , tạo cảm giác thoải mái khi cầm nắm , cùng với đó là kiểu màn hình nốt ruồi quen thuộc .    0
 [[];[];[];[];[]]
-Samsung Galaxy A73 với nhiều cải tiến mới .   0
+Samsung Galaxy A73 với nhiều cải tiến mới .    0
 [[];[];[];[];[]]
-Samsung Galaxy S21 FE được trang bị chip Exynos 2100 mạnh mẽ .   0
+Samsung Galaxy S21 FE được trang bị chip Exynos 2100 mạnh mẽ .    0
 [[];[];[];[];[]]
-Về thiết kế không có gì bí ẩn về chất liệu mà nhà sản xuất điện thoại sẽ sử dụng cho Galaxy S21 FE .   0
+Về thiết kế không có gì bí ẩn về chất liệu mà nhà sản xuất điện thoại sẽ sử dụng cho Galaxy S21 FE .    0
 [[];[];[];[];[]]
-Với vỏ ngoài làm bằng nhựa sẽ giúp chiếc điện thoại trở nên nhẹ hơn nhưng vẫn không kém phần sang trọng .   0
+Với vỏ ngoài làm bằng nhựa sẽ giúp chiếc điện thoại trở nên nhẹ hơn nhưng vẫn không kém phần sang trọng .    0
 [[];[];[];[];[]]
-Galaxy S21 FE áp dụng một trong những thiết kế tốt hơn của S21 phát triển với thiết kế đường viền cắt làm nơi chứa cụm camera phía sau .   0
+Galaxy S21 FE áp dụng một trong những thiết kế tốt hơn của S21 phát triển với thiết kế đường viền cắt làm nơi chứa cụm camera phía sau .    0
 [[];[];[];[];[]]
-Các cạnh của Galaxy S21 FE khá bóng bẩy và trơn .   0
+Các cạnh của Galaxy S21 FE khá bóng bẩy và trơn .    0
 [[];[];[];[];[]]
-Samsung Galaxy S21 FE cải tiến về thiết kế .   0
+Samsung Galaxy S21 FE cải tiến về thiết kế .    0
 [[];[];[];[];[]]
-Samsung Galaxy A73 sở hữu thiết kế nguyên khối , khung và mặt lưng làm từ nhựa .   0
+Samsung Galaxy A73 sở hữu thiết kế nguyên khối , khung và mặt lưng làm từ nhựa .    0
 [[];[];[];[];[]]
-Đối với Samsung Galaxy S21 FE cũng có thiết kế nguyên khối , khung và mặt lưng làm từ nhựa .   1
+Đối với Samsung Galaxy S21 FE cũng có thiết kế nguyên khối , khung và mặt lưng làm từ nhựa .    1
 [[3&&Samsung 4&&Galaxy 5&&S21 6&&FE];[];[9&&thiết 10&&kế 11&&nguyên 12&&khối];[7&&cũng 8&&có];[0]]
 [[3&&Samsung 4&&Galaxy 5&&S21 6&&FE];[];[14&&khung 15&&và 16&&mặt 17&&lưng 18&&làm 19&&từ 20&&nhựa];[7&&cũng 8&&có];[0]]
-Samsung Galaxy A73 được trang bị màn hình Super AMOLED Plus .   0
+Samsung Galaxy A73 được trang bị màn hình Super AMOLED Plus .    0
 [[];[];[];[];[]]
-Samsung Galaxy S21 FE có màn hình Dynamic AMOLED 2X .   0
+Samsung Galaxy S21 FE có màn hình Dynamic AMOLED 2X .    0
 [[];[];[];[];[]]
-Màn hình của cả hai điện thoại đều rất sắc nét và sẽ mang lại cho bạn trải nghiệm ấn tượng .   1
+Màn hình của cả hai điện thoại đều rất sắc nét và sẽ mang lại cho bạn trải nghiệm ấn tượng .    1
 [[4&&cả 5&&hai 6&&điện 7&&thoại];[4&&cả 5&&hai 6&&điện 7&&thoại];[1&&Màn 2&&hình];[8&&đều 9&&rất 10&&sắc 11&&nét];[0]]
-Màn hình Super AMOLED Plus trên Samsung Galaxy A73 .   0
+Màn hình Super AMOLED Plus trên Samsung Galaxy A73 .    0
 [[];[];[];[];[]]
-Samsung Galaxy A73 có camera sau gồm Camera chính 108 MP và camera phụ lần lượt là 12 MP , 5 MP , 5 MP .   0
+Samsung Galaxy A73 có camera sau gồm Camera chính 108 MP và camera phụ lần lượt là 12 MP , 5 MP , 5 MP .    0
 [[];[];[];[];[]]
-Camera trước có độ phân giải ấn tượng lên đến 32M p .   0
+Camera trước có độ phân giải ấn tượng lên đến 32M p .    0
 [[];[];[];[];[]]
-Samsung Galaxy S21 FE sở hữu Camera trước với độ phân giải lần lượt là 12MP , 5MP , 5MP , Camera trước là 32MP .   0
+Samsung Galaxy S21 FE sở hữu Camera trước với độ phân giải lần lượt là 12MP , 5MP , 5MP , Camera trước là 32MP .    0
 [[];[];[];[];[]]
-Camera 108MP trên Samsung Galaxy A73 .   0
+Camera 108MP trên Samsung Galaxy A73 .    0
 [[];[];[];[];[]]
-Samsung Galaxy A73 trang bị chip Snapdragon 778G 5G 8 nhân .   0
+Samsung Galaxy A73 trang bị chip Snapdragon 778G 5G 8 nhân .    0
 [[];[];[];[];[]]
-Samsung Galaxy S21 FE trang bị chip Exynos 2100 từ chính nhà Samsung .   0
+Samsung Galaxy S21 FE trang bị chip Exynos 2100 từ chính nhà Samsung .    0
 [[];[];[];[];[]]
-Hai con chip trên đều mang lại hiệu năng mạnh mẽ , tuy nhiên chip Snapdragon của A73 sẽ phù hợp hơn với những ai thích chơi game .   1
+Hai con chip trên đều mang lại hiệu năng mạnh mẽ , tuy nhiên chip Snapdragon của A73 sẽ phù hợp hơn với những ai thích chơi game .    1
 [[1&&Hai 2&&con 3&&chip 4&&trên];[1&&Hai 2&&con 3&&chip 4&&trên];[8&&hiệu 9&&năng 10&&mạnh 11&&mẽ];[5&&đều 6&&mang 7&&lại];[0]]
 [[16&&Snapdragon 17&&của 18&&A73];[];[27&&chơi 28&&game];[20&&phù 21&&hợp 22&&hơn];[4]]
-Chip Exynos trên Samsung Galaxy S21 FE .   0
+Chip Exynos trên Samsung Galaxy S21 FE .    0
 [[];[];[];[];[]]
-Cả 2 chiếc điện thoại đều có cùng mức RAM là 8 GB , 128GB ROM .   1
+Cả 2 chiếc điện thoại đều có cùng mức RAM là 8 GB , 128GB ROM .    1
 [[1&&Cả 2&&2 3&&chiếc 4&&điện 5&&thoại];[1&&Cả 2&&2 3&&chiếc 4&&điện 5&&thoại];[9&&mức 10&&RAM 11&&là 12&&8 13&&GB];[6&&đều 7&&có];[0]]
 [[1&&Cả 2&&2 3&&chiếc 4&&điện 5&&thoại];[1&&Cả 2&&2 3&&chiếc 4&&điện 5&&thoại];[15&&128GB 16&&ROM];[6&&đều 7&&có];[0]]
-Với dung lượng RAM lớn cả hai máy đều có khả năng đa nhiệm mượt mà .   1
+Với dung lượng RAM lớn cả hai máy đều có khả năng đa nhiệm mượt mà .    1
 [[6&&cả 7&&hai 8&&máy];[6&&cả 7&&hai 8&&máy];[11&&khả 12&&năng 13&&đa 14&&nhiệm 15&&mượt 16&&mà];[9&&đều 10&&có];[0]]
-Hỗ trợ RAM 8GB , ROM 128GB .   0
+Hỗ trợ RAM 8GB , ROM 128GB .    0
 [[];[];[];[];[]]
-Trên Samsung Galaxy A73 và Samsung Galaxy S21 FE đều được hỗ trợ kết nối 5G cho khả năng kết nối internet ấn tượng , tốc độ cao .   1
+Trên Samsung Galaxy A73 và Samsung Galaxy S21 FE đều được hỗ trợ kết nối 5G cho khả năng kết nối internet ấn tượng , tốc độ cao .    1
 [[2&&Samsung 3&&Galaxy 4&&A73];[6&&Samsung 7&&Galaxy 8&&S21 9&&FE];[14&&kết 15&&nối 16&&5G];[10&&đều 11&&được 12&&hỗ 13&&trợ];[0]]
-Kết nối mạng 5G .   0
+Kết nối mạng 5G .    0
 [[];[];[];[];[]]
-Samsung Galaxy A73 dung lượng pin 5000 mAh , có hỗ trợ sạc nhanh 25W .   0
+Samsung Galaxy A73 dung lượng pin 5000 mAh , có hỗ trợ sạc nhanh 25W .    0
 [[];[];[];[];[]]
-Đối với Samsung Galaxy S21 FE có dung lượng pin kém hơn đó là 4500 mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .   1
+Đối với Samsung Galaxy S21 FE có dung lượng pin kém hơn đó là 4500 mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .    1
 [[3&&Samsung 4&&Galaxy 5&&S21 6&&FE];[];[8&&dung 9&&lượng 10&&pin];[11&&kém 12&&hơn];[5]]
-Sạc không dây trên Samsung Galaxy s21 FE .   0
+Sạc không dây trên Samsung Galaxy s21 FE .    0
 [[];[];[];[];[]]
-Trên cả 2 thiết bị đều có bảo mật nâng cao khóa vân tay dưới màn hình .   1
+Trên cả 2 thiết bị đều có bảo mật nâng cao khóa vân tay dưới màn hình .    1
 [[2&&cả 3&&2 4&&thiết 5&&bị];[2&&cả 3&&2 4&&thiết 5&&bị];[8&&bảo 9&&mật 10&&nâng 11&&cao 12&&khoá 13&&vân 14&&tay 15&&dưới 16&&màn 17&&hình];[6&&đều 7&&có];[0]]
-Tuy nhiên Samsung Galaxy S21 FE còn có mở khóa khuôn mặt .   0
+Tuy nhiên Samsung Galaxy S21 FE còn có mở khóa khuôn mặt .    0
 [[];[];[];[];[]]
-Cả Samsung Galaxy A73 và S21 FE đều là những chiếc điện thoại hỗ trợ đầy đủ các tính năng và thực hiện tốt các tác vụ hằng ngày .   1
+Cả Samsung Galaxy A73 và S21 FE đều là những chiếc điện thoại hỗ trợ đầy đủ các tính năng và thực hiện tốt các tác vụ hằng ngày .    1
 [[2&&Samsung 3&&Galaxy 4&&A73];[6&&S21 7&&FE];[14&&hỗ 15&&trợ 16&&đầy 17&&đủ 18&&các 19&&tính 20&&năng];[8&&đều];[0]]
 [[2&&Samsung 3&&Galaxy 4&&A73];[6&&S21 7&&FE];[22&&thực 23&&hiện 24&&tốt 25&&các 26&&tác 27&&vụ 28&&hằng 29&&ngày];[8&&đều];[0]]
-Đối với những người yêu thích màn hình sống động , với gam màu nổi bật , đa dạng kiểu bảo mật cùng với đó là hỗ trợ nhiều tính năng nổi bật như sạc ngược , sạc không dây thì chiếc Samsung Galaxy S21 FE sẽ là lựa chọn phù hợp .   0
+Đối với những người yêu thích màn hình sống động , với gam màu nổi bật , đa dạng kiểu bảo mật cùng với đó là hỗ trợ nhiều tính năng nổi bật như sạc ngược , sạc không dây thì chiếc Samsung Galaxy S21 FE sẽ là lựa chọn phù hợp .    0
 [[];[];[];[];[]]
-Còn đối với những ai có kinh phí không quá cao , nhu cầu sử dụng vừa đủ thì Samsung Galaxy A73 cũng vẫn đáp ứng tốt từ nhu cầu chơi game , khi được trang bị chip Snapdragon 778G mạnh mẽ , dung lượng pin cao 5000 mAh cho bạn dùng cả ngày và một Camera chính có độ phân giải lên đến 108MP .   0
+Còn đối với những ai có kinh phí không quá cao , nhu cầu sử dụng vừa đủ thì Samsung Galaxy A73 cũng vẫn đáp ứng tốt từ nhu cầu chơi game , khi được trang bị chip Snapdragon 778G mạnh mẽ , dung lượng pin cao 5000 mAh cho bạn dùng cả ngày và một Camera chính có độ phân giải lên đến 108MP .    0
 [[];[];[];[];[]]
-Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình .   0
+Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình .    0
 [[];[];[];[];[]]
-Nếu đã quyết định mua Samsung Galaxy A73 và S21 FE thì bạn nên lựa chọn mua ở những cửa hàng uy tín để có thể mua được sản phẩm chất lượng và được hưởng các chính sách bảo hành chính hãng .   0
+Nếu đã quyết định mua Samsung Galaxy A73 và S21 FE thì bạn nên lựa chọn mua ở những cửa hàng uy tín để có thể mua được sản phẩm chất lượng và được hưởng các chính sách bảo hành chính hãng .    0
 [[];[];[];[];[]]
-Bạn hoàn toàn có thể an tâm khi mua điện thoại ở Thế Giới Di Động với nhiều ưu đãi cùng chính sách bảo hành hấp dẫn .   0
+Bạn hoàn toàn có thể an tâm khi mua điện thoại ở Thế Giới Di Động với nhiều ưu đãi cùng chính sách bảo hành hấp dẫn .    0
 [[];[];[];[];[]]
-- Bảo hành chính hãng điện thoại 1 năm .   0
+- Bảo hành chính hãng điện thoại 1 năm .    0
 [[];[];[];[];[]]
-- Hư gì đổi nấy 12 tháng tại hệ thống siêu thị trên toàn quốc ( miễn phí tháng đầu ) .   0
+- Hư gì đổi nấy 12 tháng tại hệ thống siêu thị trên toàn quốc ( miễn phí tháng đầu ) .    0
 [[];[];[];[];[]]
-Chính sách bảo hành tại Thế Giới Di Động .   0
+Chính sách bảo hành tại Thế Giới Di Động .    0
 [[];[];[];[];[]]
-( * ) Trên đây là chính sách bảo hành được cập nhật vào ngày 14/04/2022 .   0
+( * ) Trên đây là chính sách bảo hành được cập nhật vào ngày 14/04/2022 .    0
 [[];[];[];[];[]]
-Chính sách có thể thay đổi theo thời gian , để xem chi tiết chính sách bảo hành cụ thể bạn có thể xem TẠI ĐÂY .   0
+Chính sách có thể thay đổi theo thời gian , để xem chi tiết chính sách bảo hành cụ thể bạn có thể xem TẠI ĐÂY .    0
 [[];[];[];[];[]]
-Trên đây là những so sánh Samsung Galaxy A73 5G và Samsung Galaxy S21 FE , hy vọng bài viết có thể giúp bạn hiểu rõ chi tiết hơn về hai phiên bản này và đưa ra lựa chọn phù hợp .   0
+Trên đây là những so sánh Samsung Galaxy A73 5G và Samsung Galaxy S21 FE , hy vọng bài viết có thể giúp bạn hiểu rõ chi tiết hơn về hai phiên bản này và đưa ra lựa chọn phù hợp .    0
 [[];[];[];[];[]]
-Nếu như bạn đang cân nhắc không biết có nên mua điện thoại Samsung Galaxy A24 hay không thì những thông tin dưới đây có thể giúp ích cho bạn .   0
+Nếu như bạn đang cân nhắc không biết có nên mua điện thoại Samsung Galaxy A24 hay không thì những thông tin dưới đây có thể giúp ích cho bạn .    0
 [[];[];[];[];[]]
-Samsung vừa mới bổ sung cho phân khúc smartphone giá 6 triệu đồng tại Việt Nam với dòng điện thoại Galaxy A24 .   0
+Samsung vừa mới bổ sung cho phân khúc smartphone giá 6 triệu đồng tại Việt Nam với dòng điện thoại Galaxy A24 .    0
 [[];[];[];[];[]]
-Cùng chúng tôi đánh giá và cho mình câu trả lời .   0
+Cùng chúng tôi đánh giá và cho mình câu trả lời .    0
 [[];[];[];[];[]]
-Với điện thoại Samsung Galaxy A24 người sử dụng được sở hữu một chiếc điện thoại với thiết kế thời thượng lấy cảm hứng từ flagship Galaxy S23 series , đặc biệt là mặt lưng của máy gần như giống y hệ S23 tiêu chuẩn .   1
+Với điện thoại Samsung Galaxy A24 người sử dụng được sở hữu một chiếc điện thoại với thiết kế thời thượng lấy cảm hứng từ flagship Galaxy S23 series , đặc biệt là mặt lưng của máy gần như giống y hệ S23 tiêu chuẩn .    1
 [[4&&Samsung 5&&Galaxy 6&&A24];[42&&hệ 43&&S23 44&&tiêu 45&&chuẩn];[34&&mặt 35&&lưng];[38&&gần 39&&như 40&&giống 41&&y];[0]]
-des : Samsung Galaxy A24 vừa trình làng .   0
+des : Samsung Galaxy A24 vừa trình làng .    0
 [[];[];[];[];[]]
-Tại Việt Nam , Galaxy A24 được phân phối với 2 phiên bản màu sắc là màu đen và xanh .   0
+Tại Việt Nam , Galaxy A24 được phân phối với 2 phiên bản màu sắc là màu đen và xanh .    0
 [[];[];[];[];[]]
-Trong đo , phiên bản A24 màu đen được hoàn thiện nhám mang tới bề ngoài trung tính cao cấp , trong khi đó phiên bản A24 xanh lại được hoàn thiện với bề mặt bóng cùng hiệu ứng đổi màu theo góc nhìn đưa tới bề ngoài trẻ trung năng động .   0
+Trong đo , phiên bản A24 màu đen được hoàn thiện nhám mang tới bề ngoài trung tính cao cấp , trong khi đó phiên bản A24 xanh lại được hoàn thiện với bề mặt bóng cùng hiệu ứng đổi màu theo góc nhìn đưa tới bề ngoài trẻ trung năng động .    0
 [[];[];[];[];[]]
-Tùy phong cách mà người sử dụng có thể lựa chọn cho mình phiên bản màu Galaxy A24 phù hợp nhất .   0
+Tùy phong cách mà người sử dụng có thể lựa chọn cho mình phiên bản màu Galaxy A24 phù hợp nhất .    0
 [[];[];[];[];[]]
-Ở mặt trước điện thoại Galaxy A24 sở hữu màn hình tràn viền với camera trước cách điệu giọt nước mang tới không gian sử dụng khá thoải mái cho người sử dụng .   0
+Ở mặt trước điện thoại Galaxy A24 sở hữu màn hình tràn viền với camera trước cách điệu giọt nước mang tới không gian sử dụng khá thoải mái cho người sử dụng .    0
 [[];[];[];[];[]]
-Bên cạnh đó , điện thoại này cũng rất tiện dùng khi sử dụng khóa vân tay tích hợp vào nút nguồn giúp mở khóa màn hình dễ dàng hơn .   1
+Bên cạnh đó , điện thoại này cũng rất tiện dùng khi sử dụng khóa vân tay tích hợp vào nút nguồn giúp mở khóa màn hình dễ dàng hơn .    1
 [[5&&điện 6&&thoại 7&&này];[];[24&&mở 25&&khóa 26&&màn 27&&hình];[28&&dễ 29&&dàng 30&&hơn];[4]]
-Đồng thời việc duy trì jack tai nghe 3.5 mm và sử dụng cổng sạc USB Type-C cũng mang tới cho người sử dụng nhiều tiện dụng khi sử dụng .   0
+Đồng thời việc duy trì jack tai nghe 3.5 mm và sử dụng cổng sạc USB Type-C cũng mang tới cho người sử dụng nhiều tiện dụng khi sử dụng .    0
 [[];[];[];[];[]]
-Đáng tiếc là Samsung Galaxy A24 không được tích hợp khả năng kháng bụi nước .   0
+Đáng tiếc là Samsung Galaxy A24 không được tích hợp khả năng kháng bụi nước .    0
 [[];[];[];[];[]]
-Samsung đưa tới cho Galaaxy A24 màn hình Super AMOLED 6,5 inch với độ phân giải 10880 x 2340 pixel đưa tới khả năng hiển thị sắc nét ấn tượng .   0
+Samsung đưa tới cho Galaaxy A24 màn hình Super AMOLED 6,5 inch với độ phân giải 10880 x 2340 pixel đưa tới khả năng hiển thị sắc nét ấn tượng .    0
 [[];[];[];[];[]]
-Và với độ sáng màn hình lên tới 1000 nit tối đa thì đây cũng là một trong những điện thoại có màn hình tốt nhất trong phân khúc giá bán .   1
+Và với độ sáng màn hình lên tới 1000 nit tối đa thì đây cũng là một trong những điện thoại có màn hình tốt nhất trong phân khúc giá bán .    1
 [[14&&đây];[];[23&&màn 24&&hình];[25&&tốt 26&&nhất 27&&trong 28&&phân 29&&khúc 30&&giá 31&&bán];[1]]
-des : Samsung Galaxy A24 với màn hình xịn xò .   0
+des : Samsung Galaxy A24 với màn hình xịn xò .    0
 [[];[];[];[];[]]
-Đặc biệt , với tốc độ làm mới màn hình là 90H z , mọi thao tác sử dụng trên màn hình đặc biệt là các chuyển động trong game trên màn hình của điện thoại Samsung Galaxy A24 cũng đều hết sức mượt mà .   0
+Đặc biệt , với tốc độ làm mới màn hình là 90H z , mọi thao tác sử dụng trên màn hình đặc biệt là các chuyển động trong game trên màn hình của điện thoại Samsung Galaxy A24 cũng đều hết sức mượt mà .    0
 [[];[];[];[];[]]
-Đáng tiếc duy nhất là máy không có thiết kế camera nằm trong màn hình mà là thiết kế U-Infinity – đây là điều khiến điện thoại Samsung này có mặt trước trông hơi “ giá rẻ ” so với các điện thoại khác trong phân khúc như Xiaomi Redmi Note 12 chẳng hạn .   1
+Đáng tiếc duy nhất là máy không có thiết kế camera nằm trong màn hình mà là thiết kế U-Infinity – đây là điều khiến điện thoại Samsung này có mặt trước trông hơi “ giá rẻ ” so với các điện thoại khác trong phân khúc như Xiaomi Redmi Note 12 chẳng hạn .    1
 [[26&&điện 27&&thoại 28&&Samsung 29&&này];[41&&các 42&&điện 43&&thoại 44&&khác 45&&trong 46&&phân 47&&khúc];[31&&mặt 32&&trước];[33&&trông 34&&hơi 35&&“ 36&&giá 37&&rẻ 38&&”];[5]]
 [[26&&điện 27&&thoại 28&&Samsung 29&&này];[49&&Xiaomi 50&&Redmi 51&&Note 52&&12];[31&&mặt 32&&trước];[33&&trông 34&&hơi 35&&“ 36&&giá 37&&rẻ 38&&”];[5]]
-Samsung trang bị cho Galaxy A24 con chip MediaTek HeliO G99 được sản xuất trên tiến trình 6 nm và là một trong những CPU mạnh m ẽ hàng đầu trong phân khúc tầm trung – giá rẻ trên thi trường hiện nay .   1
+Samsung trang bị cho Galaxy A24 con chip MediaTek HeliO G99 được sản xuất trên tiến trình 6 nm và là một trong những CPU mạnh m ẽ hàng đầu trong phân khúc tầm trung – giá rẻ trên thi trường hiện nay .    1
 [[9&&MediaTek 10&&HeliO 11&&G99];[];[];[25&&mạnh 26&&m 27&&ẽ 28&&hàng 29&&đầu 30&&trong 31&&phân 32&&khúc 33&&tầm 34&&trung 35&&– 36&&giá 37&&rẻ 38&&trên 39&&thi 40&&trường 41&&hiện 42&&nay];[1]]
-des : Samsung Galaxy A24 sở hữu cấu hình mạnh mẽ .   0
+des : Samsung Galaxy A24 sở hữu cấu hình mạnh mẽ .    0
 [[];[];[];[];[]]
-Tại Việt Nam , Galaxy A24 được bán kèm RAM tùy chọn 6GB hoặc 8GB đi kèm với bộ nhớ trong 128GB .   0
+Tại Việt Nam , Galaxy A24 được bán kèm RAM tùy chọn 6GB hoặc 8GB đi kèm với bộ nhớ trong 128GB .    0
 [[];[];[];[];[]]
-Người sử dụng cũng có thể mở rộng bộ nhớ của điện thoại này bằng cách gắn thêm thẻ nhớ microSD .   0
+Người sử dụng cũng có thể mở rộng bộ nhớ của điện thoại này bằng cách gắn thêm thẻ nhớ microSD .    0
 [[];[];[];[];[]]
-Về phần mềm máy được cài sẵn hệ điều hành Android 13 với tùy biến giao diện OneUI 5.1 đưa tới những trải nghiệm hiện đại nhất cho người sử dụng .   0
+Về phần mềm máy được cài sẵn hệ điều hành Android 13 với tùy biến giao diện OneUI 5.1 đưa tới những trải nghiệm hiện đại nhất cho người sử dụng .    0
 [[];[];[];[];[]]
-Điểm hiệu năng này nếu so sánh với các smartphone khác trong phân khúc thuộc hàng rất tốt .   1
+Điểm hiệu năng này nếu so sánh với các smartphone khác trong phân khúc thuộc hàng rất tốt .    1
 [[];[9&&các 10&&smartphone 11&&khác 12&&trong 13&&phân 14&&khúc];[1&&Điểm 2&&hiệu 3&&năng 4&&này];[15&&thuộc 16&&hàng 17&&rất 18&&tốt];[4]]
-Thỏi pin 5000 mAh của A24 cũng làm việc rất tốt để đưa tới thời lượng sử dụng máy thoải mái cả ngày dài cho người sử dụng .   0
+Thỏi pin 5000 mAh của A24 cũng làm việc rất tốt để đưa tới thời lượng sử dụng máy thoải mái cả ngày dài cho người sử dụng .    0
 [[];[];[];[];[]]
-Và công nghệ sạc nhanh 25W cũng giúp tiết kiệm đáng kể thời gian sạc .   0
+Và công nghệ sạc nhanh 25W cũng giúp tiết kiệm đáng kể thời gian sạc .    0
 [[];[];[];[];[]]
-Điện thoại A24 sở hữu cụm camera chính bao gồm 3 ống kính gồm cảm biến chính góc rộng 50MP , cảm biến góc siêu rộng 5MP và cảm biến macro 2MP .   0
+Điện thoại A24 sở hữu cụm camera chính bao gồm 3 ống kính gồm cảm biến chính góc rộng 50MP , cảm biến góc siêu rộng 5MP và cảm biến macro 2MP .    0
 [[];[];[];[];[]]
-Với trang bị này , điện thoại A24 có được khả năng đưa tới những bức ảnh với độ sắc nét ấn tượng đi kèm với đó là người sử dụng có thể chụp đa dạng các loại ảnh khác nhau để đáp ứng nhu cầu lưu dữ khoảnh khắc cuộc sống .   0
+Với trang bị này , điện thoại A24 có được khả năng đưa tới những bức ảnh với độ sắc nét ấn tượng đi kèm với đó là người sử dụng có thể chụp đa dạng các loại ảnh khác nhau để đáp ứng nhu cầu lưu dữ khoảnh khắc cuộc sống .    0
 [[];[];[];[];[]]
-des : Samsung Galaxy A24 sở hữu cụm 3 camera .   0
+des : Samsung Galaxy A24 sở hữu cụm 3 camera .    0
 [[];[];[];[];[]]
-Bên cạnh đó , camera trước 13MP cũng đưa tới một công cụ selfie đỉnh cao với sự sắc nét và nhiều chế độ làm đẹp giúp mang tới sự hài lòng cho người sử dụng .   0
+Bên cạnh đó , camera trước 13MP cũng đưa tới một công cụ selfie đỉnh cao với sự sắc nét và nhiều chế độ làm đẹp giúp mang tới sự hài lòng cho người sử dụng .    0
 [[];[];[];[];[]]
-Với giá bán từ 6 triệu đồng trên thị trường hiện nay cùng với loạt các trang bị ấn tượng chúng tôi đề cập trên đâ thì Galaxy A24 không chỉ mang tới smartphone có bề ngoài thời thượng , mà khả năng chụp hình , cấu hình lẫn màn hình đều thuộc hàng tốt nhất , đáp ứng nhu cầu sử dụng của người dùng phổ thông .   1
+Với giá bán từ 6 triệu đồng trên thị trường hiện nay cùng với loạt các trang bị ấn tượng chúng tôi đề cập trên đâ thì Galaxy A24 không chỉ mang tới smartphone có bề ngoài thời thượng , mà khả năng chụp hình , cấu hình lẫn màn hình đều thuộc hàng tốt nhất , đáp ứng nhu cầu sử dụng của người dùng phổ thông .    1
 [[28&&Galaxy 29&&A24];[];[42&&khả 43&&năng 44&&chụp 45&&hình];[53&&thuộc 54&&hàng 55&&tốt 56&&nhất];[1]]
 [[28&&Galaxy 29&&A24];[];[47&&cấu 48&&hình];[53&&thuộc 54&&hàng 55&&tốt 56&&nhất];[1]]
 [[28&&Galaxy 29&&A24];[];[50&&màn 51&&hình];[53&&thuộc 54&&hàng 55&&tốt 56&&nhất];[1]]
-Do đó , nếu như bạn đang cần mua điện thoại trong tầm giá 6 triệu đồng trên thị trường thì chắc chắn model Galaxy A24 sẽ là lựa chọn “ đáng đồng tiền bát gạo ” dành cho bạn .   0
+Do đó , nếu như bạn đang cần mua điện thoại trong tầm giá 6 triệu đồng trên thị trường thì chắc chắn model Galaxy A24 sẽ là lựa chọn “ đáng đồng tiền bát gạo ” dành cho bạn .    0
 [[];[];[];[];[]]
-Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua .   0
+Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua .    0
 [[];[];[];[];[]]
-Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .   1
+Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .    1
 [[5&&đây];[];[];[11&&mạnh 12&&nhất 13&&trên 14&&thị 15&&trường 16&&smartphone 17&&hiện 18&&nay];[1]]
-Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua .   0
+Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua .    0
 [[];[];[];[];[]]
-Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .   1
+Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .    1
 [[5&&đây];[];[];[11&&mạnh 12&&nhất 13&&trên 14&&thị 15&&trường 16&&smartphone 17&&hiện 18&&nay];[1]]
 [[1&&Thiết 2&&kế 3&&Galaxy 4&&Note 5&&20 6&&Ultra];[];[];[7&&sang 8&&trọng 9&&và 10&&vuông 11&&vắn 12&&hơn];[4]]
-Mặc dù cả Galaxy Note 20 Ultra và Galaxy Note 10 + đều được hoàn thiện từ khung kim loại cao cấp với 2 mặt kính cường lực bóng bẩy ở trước và sau .   1
+Mặc dù cả Galaxy Note 20 Ultra và Galaxy Note 10 + đều được hoàn thiện từ khung kim loại cao cấp với 2 mặt kính cường lực bóng bẩy ở trước và sau .    1
 [[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[9&&Galaxy 10&&Note 11&&10 12&&+];[18&&khung 19&&kim 20&&loại 21&&cao 22&&cấp 23&&với 24&&2 25&&mặt 26&&kính 27&&cường 28&&lực 29&&bóng 30&&bẩy 31&&ở 32&&trước 33&&và 34&&sau];[13&&đều 14&&được 15&&hoàn 16&&thiện 17&&từ];[0]]
-Mặt trước mẫu Galaxy Note mới năm nay vẫn đi cùng màn hình cong cùng nốt ruồi đặc trưng của Samsung .   0
+Mặt trước mẫu Galaxy Note mới năm nay vẫn đi cùng màn hình cong cùng nốt ruồi đặc trưng của Samsung .    0
 [[];[];[];[];[]]
-Dường như điểm khác biệt lớn nhất về thiết kế của bộ đôi này chính là cụm camera ở mặt sau .   1
+Dường như điểm khác biệt lớn nhất về thiết kế của bộ đôi này chính là cụm camera ở mặt sau .    1
 [[9&&thiết 10&&kế 11&&của 12&&bộ 13&&đôi 14&&này];[9&&thiết 10&&kế 11&&của 12&&bộ 13&&đôi 14&&này];[17&&cụm 18&&camera 19&&ở 20&&mặt 21&&sau];[3&&điểm 4&&khác 5&&biệt 6&&lớn 7&&nhất];[-1]]
-Theo đó , Galaxy Note 20 Ultra đi cùng với module hình chữ nhật đúng như xu hướng hiện nay .   0
+Theo đó , Galaxy Note 20 Ultra đi cùng với module hình chữ nhật đúng như xu hướng hiện nay .    0
 [[];[];[];[];[]]
-Trong khi đó , bản tiền nhiệm lại sở hữu cụm camera 3 ống kính sắp dọc thông thường .   0
+Trong khi đó , bản tiền nhiệm lại sở hữu cụm camera 3 ống kính sắp dọc thông thường .    0
 [[];[];[];[];[]]
-Chính cải tiến này đã giúp Galaxy Note 20 Ultra trở nên sang trọng , mạnh mẽ và hợp xu hướng hơn .   1
+Chính cải tiến này đã giúp Galaxy Note 20 Ultra trở nên sang trọng , mạnh mẽ và hợp xu hướng hơn .    1
 [[7&&Galaxy 8&&Note 9&&20 10&&Ultra];[];[];[13&&sang 14&&trọng 15&&, 16&&mạnh 17&&mẽ 18&&và 19&&hợp 20&&xu 21&&hướng 22&&hơn];[4]]
-Bên cạnh đó , mẫu Galaxy Note mới còn đem tới cho người dùng tùy chọn màu sắc khá đẹp mắt và mới lạ .   0
+Bên cạnh đó , mẫu Galaxy Note mới còn đem tới cho người dùng tùy chọn màu sắc khá đẹp mắt và mới lạ .    0
 [[];[];[];[];[]]
-Một trong số đó chính là màu đồng huyền bí .   0
+Một trong số đó chính là màu đồng huyền bí .    0
 [[];[];[];[];[]]
-Nhìn chung , thiết kế Galaxy Note 20 Ultra không có quá nhiều khác biệt so với Note 10 + .   1
+Nhìn chung , thiết kế Galaxy Note 20 Ultra không có quá nhiều khác biệt so với Note 10 + .    1
 [[6&&Galaxy 7&&Note 8&&20 9&&Ultra];[18&&Note 19&&10 20&&+];[4&&thiết 5&&kế];[10&&không 11&&có 12&&quá 13&&nhiều 14&&khác 15&&biệt];[0]]
-Được Samsung chăm chút đến từng chi tiết , kích thước và trọng lượng của máy được cải thiện rõ rệt .   0
+Được Samsung chăm chút đến từng chi tiết , kích thước và trọng lượng của máy được cải thiện rõ rệt .    0
 [[];[];[];[];[]]
-Đây sẽ là lựa chọn tuyệt vời cho những ai thích ghi chép trên điện thoại .   1
+Đây sẽ là lựa chọn tuyệt vời cho những ai thích ghi chép trên điện thoại .    1
 [[3&&Galaxy 4&&Note 5&&20 6&&Ultra];[];[1&&Màn 2&&hình];[7&&vượt 8&&trội 9&&hơn 10&&hẳn];[4]]
-Là mẫu flagship cao cấp nhất của hãng nên Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch , độ phân giải 2K + .   1
+Là mẫu flagship cao cấp nhất của hãng nên Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch , độ phân giải 2K + .    1
 [[10&&Galaxy 11&&Note 12&&20 13&&Ultra];[];[];[4&&cao 5&&cấp 6&&nhất 7&&của 8&&hãng];[4]]
-Chưa hết , màn hình máy còn tích hợp công nghệ Dynamic AMOLED 2 x , cho độ sáng cao hơn tới 25 % .   1
+Chưa hết , màn hình máy còn tích hợp công nghệ Dynamic AMOLED 2 x , cho độ sáng cao hơn tới 25 % .    1
 [[4&&màn 5&&hình 6&&máy];[];[17&&độ 18&&sáng];[19&&cao 20&&hơn];[4]]
-Một điểm nâng cấp phải kể đến nữa chính là màn hình Galaxy Note 20 Ultra còn có tần số quét màn hình lên đến 120H z .   0
+Một điểm nâng cấp phải kể đến nữa chính là màn hình Galaxy Note 20 Ultra còn có tần số quét màn hình lên đến 120H z .    0
 [[];[];[];[];[]]
-Tuy nhiên , là fagship cũ nhưng Galaxy Note 10 + cũng không thể coi thường .   0
+Tuy nhiên , là fagship cũ nhưng Galaxy Note 10 + cũng không thể coi thường .    0
 [[];[];[];[];[]]
-Nhìn mặt trước máy không có gì khác biệt so với Note 20 Ultra .   1
+Nhìn mặt trước máy không có gì khác biệt so với Note 20 Ultra .    1
 [[4&&máy];[12&&Note 13&&20 14&&Ultra];[2&&mặt 3&&trước];[5&&không 6&&có 7&&gì 8&&khác 9&&biệt];[0]]
-Máy ở hữu màn hình Dynamic AMOLED 6,8 inch , QHD + , hỗ trợ HDR10 + , tần số quét 60H z .   0
+Máy ở hữu màn hình Dynamic AMOLED 6,8 inch , QHD + , hỗ trợ HDR10 + , tần số quét 60H z .    0
 [[];[];[];[];[]]
-Có thể thấy , với thông số này màn hình Galaxy Note 10 + vẫn đem đến cho người dùng những trải nghiệm tuyệt vời nhất xứng danh flagship hàng đầu trên thị trường hiện nay .   0
+Có thể thấy , với thông số này màn hình Galaxy Note 10 + vẫn đem đến cho người dùng những trải nghiệm tuyệt vời nhất xứng danh flagship hàng đầu trên thị trường hiện nay .    0
 [[];[];[];[];[]]
-Dường như điểm khác biệt có thể dễ dàng nhận thấy nhất của bộ đôi này chính là cụm camera .   1
+Dường như điểm khác biệt có thể dễ dàng nhận thấy nhất của bộ đôi này chính là cụm camera .    1
 [[14&&bộ 15&&đôi 16&&này];[14&&bộ 15&&đôi 16&&này];[19&&cụm 20&&camera];[4&&khác 5&&biệt];[-1]]
-Theo đó , Galaxy Note 20 Ultra đi cùng cụm camera đúng như xu hướng hiện nay là các ống kính được đặt trong ô hình chữ nhật độc đáo .   0
+Theo đó , Galaxy Note 20 Ultra đi cùng cụm camera đúng như xu hướng hiện nay là các ống kính được đặt trong ô hình chữ nhật độc đáo .    0
 [[];[];[];[];[]]
-Trong đó , camera chính của máy có độ phân giải lên đến 108MP .   0
+Trong đó , camera chính của máy có độ phân giải lên đến 108MP .    0
 [[];[];[];[];[]]
-Đi cùng với đó là một camera góc siêu rộng 12 MP và góc nhìn lên tới 120 độ với khả năng zoom lên đến 50 x .   0
+Đi cùng với đó là một camera góc siêu rộng 12 MP và góc nhìn lên tới 120 độ với khả năng zoom lên đến 50 x .    0
 [[];[];[];[];[]]
-Ngoài ra , Samsung còn trang bị thêm một cảm biến laser cho máy để lấy nét nhanh hơn .   1
+Ngoài ra , Samsung còn trang bị thêm một cảm biến laser cho máy để lấy nét nhanh hơn .    1
 [[14&&máy];[];[16&&lấy 17&&nét];[18&&nhanh 19&&hơn];[4]]
-Trong khi đó , Galaxy Note 10 + chỉ sở hữu camera chính 12MP cùng 2 camera phụ có độ phân giải lần lượt là 12MP và 16MP .   0
+Trong khi đó , Galaxy Note 10 + chỉ sở hữu camera chính 12MP cùng 2 camera phụ có độ phân giải lần lượt là 12MP và 16MP .    0
 [[];[];[];[];[]]
-Đáng tiếc là cụm camera của máy chỉ có độ phân giải 10 x .   0
+Đáng tiếc là cụm camera của máy chỉ có độ phân giải 10 x .    0
 [[];[];[];[];[]]
-Tuy nhiên , máy vẫn đem tới những trải nghiệm nhiếp ảnh và quay video ấn tượng cho người dùng .   0
+Tuy nhiên , máy vẫn đem tới những trải nghiệm nhiếp ảnh và quay video ấn tượng cho người dùng .    0
 [[];[];[];[];[]]
-Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Galaxy Note 20 Ultra đi cùng chipset mạnh mẽ nhất là điều dễ hiểu .   1
+Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Galaxy Note 20 Ultra đi cùng chipset mạnh mẽ nhất là điều dễ hiểu .    1
 [[14&&Galaxy 15&&Note 16&&20 17&&Ultra];[];[20&&chipset];[21&&mạnh 22&&mẽ 23&&nhất];[1]]
-Theo đó , máy được trang bị 2 chip xử lý gồm Exynos 990 và Snapdragon 865 + tùy thị trường .   0
+Theo đó , máy được trang bị 2 chip xử lý gồm Exynos 990 và Snapdragon 865 + tùy thị trường .    0
 [[];[];[];[];[]]
-Đi cùng với đó là các tùy chọn RAM 8GB / 12GB cùng bộ nhớ trong là 128GB / 256GB / 512GB .   0
+Đi cùng với đó là các tùy chọn RAM 8GB / 12GB cùng bộ nhớ trong là 128GB / 256GB / 512GB .    0
 [[];[];[];[];[]]
-Cung cấp năng lượng cho máy là viên pin có dung lượng 4500 mAh có hỗ trợ sạc nhanh lên đến 25W .   0
+Cung cấp năng lượng cho máy là viên pin có dung lượng 4500 mAh có hỗ trợ sạc nhanh lên đến 25W .    0
 [[];[];[];[];[]]
-Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới hiệu năng khủng nhất nhì trên thị trường hiện nay .   1
+Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới hiệu năng khủng nhất nhì trên thị trường hiện nay .    1
 [[6&&Galaxy 7&&Note 8&&20 9&&Ultra];[];[14&&hiệu 15&&năng];[16&&khủng 17&&nhất 18&&nhì 19&&trên 20&&thị 21&&trường 22&&hiện 23&&nay];[1]]
-Do đó , máy có thể xử lý tốt mọi tác vụ do người dùng đặt ra một cách dễ dàng .   0
+Do đó , máy có thể xử lý tốt mọi tác vụ do người dùng đặt ra một cách dễ dàng .    0
 [[];[];[];[];[]]
-Trong khi đó , Galaxy Note 10 + có phần kém cạnh hơn một chút khi chỉ sở hữu chip Exynos 9825 và Snapdragon 855 .   0
+Trong khi đó , Galaxy Note 10 + có phần kém cạnh hơn một chút khi chỉ sở hữu chip Exynos 9825 và Snapdragon 855 .    0
 [[];[];[];[];[]]
-Trong khi đó , máy lại có cùng tùy chọn bộ nhớ tương tự như người kế nhiệm là 8GB / 12GB RAM cùng bộ nhớ trong 128GB / 256GB / 512GB .   1
+Trong khi đó , máy lại có cùng tùy chọn bộ nhớ tương tự như người kế nhiệm là 8GB / 12GB RAM cùng bộ nhớ trong 128GB / 256GB / 512GB .    1
 [[5&&máy];[16&&người 17&&kế 18&&nhiệm];[9&&tùy 10&&chọn 11&&bộ 12&&nhớ];[13&&tương 14&&tự];[0]]
-Đáng tiếc là viên pin của máy cũng có phần kém cạnh hơn một chút khi chỉ có dung lượng 4300 mAh .   1
+Đáng tiếc là viên pin của máy cũng có phần kém cạnh hơn một chút khi chỉ có dung lượng 4300 mAh .    1
 [[7&&máy];[];[4&&viên 5&&pin];[11&&kém 12&&cạnh 13&&hơn 14&&một 15&&chút];[5]]
-Mặc dù không sở hữu thông số cấu hình mạnh mẽ nhất nhưng có thể đánh giá Galaxy Note 10 + là một đối thử đáng gờm trên thị trường smartphone hiện nay .   0
+Mặc dù không sở hữu thông số cấu hình mạnh mẽ nhất nhưng có thể đánh giá Galaxy Note 10 + là một đối thử đáng gờm trên thị trường smartphone hiện nay .    0
 [[];[];[];[];[]]
-Máy vẫn đáp ứng rất tốt nhu cầu sử dụng của người dùng , nên việc nâng cấp từ Galaxy Note 10 + lên Note 20 Ultra cần cân nhắc kỹ .   0
+Máy vẫn đáp ứng rất tốt nhu cầu sử dụng của người dùng , nên việc nâng cấp từ Galaxy Note 10 + lên Note 20 Ultra cần cân nhắc kỹ .    0
 [[];[];[];[];[]]
-Có thể thấy Galaxy Note 20 Ultra mang nhiều cải tiến vượt trội từ thiết kế , màn hình , camera lẫn hiệu năng .   1
+Có thể thấy Galaxy Note 20 Ultra mang nhiều cải tiến vượt trội từ thiết kế , màn hình , camera lẫn hiệu năng .    1
 [[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[15&&thiết 16&&kế];[10&&cải 11&&tiến 12&&vượt 13&&trội];[4]]
 [[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[18&&màn 19&&hình];[10&&cải 11&&tiến 12&&vượt 13&&trội];[4]]
 [[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[21&&camera];[10&&cải 11&&tiến 12&&vượt 13&&trội];[4]]
 [[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[23&&hiệu 24&&năng];[10&&cải 11&&tiến 12&&vượt 13&&trội];[4]]
-Tuy nhiên , Galaxy Note 10 + cũng được đánh giá cao ở thời điểm này .   0
+Tuy nhiên , Galaxy Note 10 + cũng được đánh giá cao ở thời điểm này .    0
 [[];[];[];[];[]]
-Do đó , tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý .   0
+Do đó , tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý .    0
 [[];[];[];[];[]]
-Samsung là một trong những thương hiệu điện thoại thông minh được ưa chuộng tại Việt Nam bởi mẫu mã đa dạng và nhiều tiện ích .   0
+Samsung là một trong những thương hiệu điện thoại thông minh được ưa chuộng tại Việt Nam bởi mẫu mã đa dạng và nhiều tiện ích .    0
 [[];[];[];[];[]]
-Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp .   1
+Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp .    1
 [[1&&Samsung 2&&Galaxy 3&&A53];[33&&Galaxy 34&&A52];[28&&tính 29&&năng];[27&&nhiều 28&&tính 29&&năng 30&&vượt 31&&trội 32&&hơn];[4]]
 [[1&&Samsung 2&&Galaxy 3&&A53];[44&&Galaxy 45&&A73 46&&5G];[36&&giá];[38&&rẻ 39&&hơn];[4]]
-Chiếc Galaxy A3 được xem là át chủ bài khi được trang bị nhiều công nghệ ấn tượng như camera sắc nét giúp bắt trọn khoảnh khắc , hiệu năng Exynox 1280 tha hồ chiến game , hay thời gian sạc pin nhanh hơn đem lại trải nghiệm tuyệt vời cho người dùng .   0
+Chiếc Galaxy A3 được xem là át chủ bài khi được trang bị nhiều công nghệ ấn tượng như camera sắc nét giúp bắt trọn khoảnh khắc , hiệu năng Exynox 1280 tha hồ chiến game , hay thời gian sạc pin nhanh hơn đem lại trải nghiệm tuyệt vời cho người dùng .    0
 [[];[];[];[];[]]
-Samsung Galaxy A53 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen .   0
+Samsung Galaxy A53 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen .    0
 [[];[];[];[];[]]
-Samsung Galaxy A73 được ra mắt vào năm 2022 và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua .   1
+Samsung Galaxy A73 được ra mắt vào năm 2022 và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua .    1
 [[1&&Samsung 2&&Galaxy 3&&A73];[];[];[14&&nổi 15&&bật 16&&nhất 17&&trong 18&&dòng 19&&Galaxy 20&&A];[1]]
-Chiếc điện thoại này được trang bị nhiều thông số kỹ thuật ấn tượng đem đến trải nghiệm thú vị .   0
+Chiếc điện thoại này được trang bị nhiều thông số kỹ thuật ấn tượng đem đến trải nghiệm thú vị .    0
 [[];[];[];[];[]]
-Với chất lượng màn hình và camera có độ phân giải lên đến 108 MP cho bạn tha hồ thỏa sức nhiếp ảnh .   0
+Với chất lượng màn hình và camera có độ phân giải lên đến 108 MP cho bạn tha hồ thỏa sức nhiếp ảnh .    0
 [[];[];[];[];[]]
-Nhờ được trang bị chipset mạnh mẽ đến từ nhà sản xuất Qualcomm mà Galaxy A73 vận hành khá ổn định .   0
+Nhờ được trang bị chipset mạnh mẽ đến từ nhà sản xuất Qualcomm mà Galaxy A73 vận hành khá ổn định .    0
 [[];[];[];[];[]]
-Samsung Galaxy A73 là sản phẩm nổi bật nhất trong dòng Galaxy A .   0
+Samsung Galaxy A73 là sản phẩm nổi bật nhất trong dòng Galaxy A .    0
 [[];[];[];[];[]]
-Nhìn chung cả 2 chiếc điện thoại này không có sự khác biệt lớn về thiết kế và màu sắc .   1
+Nhìn chung cả 2 chiếc điện thoại này không có sự khác biệt lớn về thiết kế và màu sắc .    1
 [[3&&cả 4&&2 5&&chiếc 6&&điện 7&&thoại 8&&này];[3&&cả 4&&2 5&&chiếc 6&&điện 7&&thoại 8&&này];[16&&thiết 17&&kế];[9&&không 10&&có 11&&sự 12&&khác 13&&biệt 14&&lớn];[0]]
 [[3&&cả 4&&2 5&&chiếc 6&&điện 7&&thoại 8&&này];[3&&cả 4&&2 5&&chiếc 6&&điện 7&&thoại 8&&này];[19&&màu 20&&sắc];[9&&không 10&&có 11&&sự 12&&khác 13&&biệt 14&&lớn];[0]]
-Cả 2 đều được sử dụng nhựa cao cấp cho mặt lưng và có khung viền bezel ở cạnh bên của máy .   0
+Cả 2 đều được sử dụng nhựa cao cấp cho mặt lưng và có khung viền bezel ở cạnh bên của máy .    0
 [[];[];[];[];[]]
-Galaxy A73 5G có kích thước máy lớn hơn và viền mỏng nhẹ hơn so với Galaxy A53 5G một chút .   1
+Galaxy A73 5G có kích thước máy lớn hơn và viền mỏng nhẹ hơn so với Galaxy A53 5G một chút .    1
 [[1&&Galaxy 2&&A73 3&&5G];[17&&Galaxy 18&&A53 19&&5G];[5&&kích 6&&thước 7&&máy];[8&&lớn 9&&hơn];[4]]
 [[1&&Galaxy 2&&A73 3&&5G];[17&&Galaxy 18&&A53 19&&5G];[11&&viền];[12&&mỏng 13&&nhẹ 14&&hơn];[4]]
-Màu sắc của Galaxy A73 5G gồm trắng , đen , xanh bạc hà .   0
+Màu sắc của Galaxy A73 5G gồm trắng , đen , xanh bạc hà .    0
 [[];[];[];[];[]]
-Trong khi đó Galaxy A53 G5 có nhiều hơn một lựa chọn là : trắng , đen , cam và xanh dương .   1
+Trong khi đó Galaxy A53 G5 có nhiều hơn một lựa chọn là : trắng , đen , cam và xanh dương .    1
 [[4&&Galaxy 5&&A53 6&&G5];[];[];[8&&nhiều 9&&hơn];[4]]
-sử dụng nhựa cao cấp cho mặt lưng và có khung viền bezel ở cạnh bên .   0
+sử dụng nhựa cao cấp cho mặt lưng và có khung viền bezel ở cạnh bên .    0
 [[];[];[];[];[]]
-Đều được sử dụng màn hình có độ phân giải Full HD + và tần số quét 120H z .   1
+Đều được sử dụng màn hình có độ phân giải Full HD + và tần số quét 120H z .    1
 [[];[];[5&&màn 6&&hình 7&&có 8&&độ 9&&phân 10&&giải 11&&Full 12&&HD 13&&+ 14&&và 15&&tần 16&&số 17&&quét 18&&120Hz];[1&&Đều 2&&được 3&&sử 4&&dụng];[0]]
-Mặt trước của điện thoại đều được trang bị kính cường lực Gorilla Glass thế hệ thứ 5 giúp màn hình được bảo vệ và hạn chế trầy xước .   0
+Mặt trước của điện thoại đều được trang bị kính cường lực Gorilla Glass thế hệ thứ 5 giúp màn hình được bảo vệ và hạn chế trầy xước .    0
 [[];[];[];[];[]]
-Samsung Galaxy A53 được trang bị màn hình SUPER AMOLED với tỷ lệ khung hình là 20 : 9 .   0
+Samsung Galaxy A53 được trang bị màn hình SUPER AMOLED với tỷ lệ khung hình là 20 : 9 .    0
 [[];[];[];[];[]]
-Trong khi đó , Samsung Galaxy A73 được ứng dụng công nghệ màn hình SUPER AMOLED + kích thước lớn và sắc nét hơn với tỷ lệ tương tự .   1
+Trong khi đó , Samsung Galaxy A73 được ứng dụng công nghệ màn hình SUPER AMOLED + kích thước lớn và sắc nét hơn với tỷ lệ tương tự .    1
 [[5&&Samsung 6&&Galaxy 7&&A73];[];[];[22&&sắc 23&&nét 24&&hơn];[4]]
 [[5&&Samsung 6&&Galaxy 7&&A73];[];[26&&tỷ 27&&lệ];[28&&tương 29&&tự];[0]]
-màn hình có độ phân giải Full HD + và tần số quét 120H z .   0
+màn hình có độ phân giải Full HD + và tần số quét 120H z .    0
 [[];[];[];[];[]]
-Cả 2 điện thoại đều sở hữu 4 ống kính như nhau .   1
+Cả 2 điện thoại đều sở hữu 4 ống kính như nhau .    1
 [[1&&Cả 2&&2 3&&điện 4&&thoại];[1&&Cả 2&&2 3&&điện 4&&thoại];[8&&4 9&&ống 10&&kính];[5&&đều 6&&sở 7&&hữu];[0]]
-Tuy nhiên chúng vẫn có những điểm khác biệt như camera selfie của Galaxy A53 be shown so với A73 và các thông số camera cũng có sự khác biệt .   1
+Tuy nhiên chúng vẫn có những điểm khác biệt như camera selfie của Galaxy A53 be shown so với A73 và các thông số camera cũng có sự khác biệt .    1
 [[14&&Galaxy 15&&A53];[20&&A73];[22&&các 23&&thông 24&&số 25&&camera];[29&&khác 30&&biệt];[-1]]
-Galaxy A53 có camera trước 32MP , ống kính chính 64MP , camera góc rộng đến 12 MP , camera macro và camera đo độ sâu 2MP .   1
+Galaxy A53 có camera trước 32MP , ống kính chính 64MP , camera góc rộng đến 12 MP , camera macro và camera đo độ sâu 2MP .    1
 [[2&&Galaxy 3&&A73];[];[8&&ống 9&&kính 10&&chính];[4&&hiện 5&&đại 6&&hơn];[4]]
-Sở hữu 4 ống kính như nhau .   0
+Sở hữu 4 ống kính như nhau .    0
 [[];[];[];[];[]]
-Chiếc điện thoại Galaxy A73 5G được nâng cấp con chip Snapdragon 778G giúp các tác vụ được xử lý mượt mà , đặc biệt là chơi game .   0
+Chiếc điện thoại Galaxy A73 5G được nâng cấp con chip Snapdragon 778G giúp các tác vụ được xử lý mượt mà , đặc biệt là chơi game .    0
 [[];[];[];[];[]]
-Bên cạnh đó , còn được trang bị thêm chip đồ họa Adreno 642L giúp khả năng hiển thị đồ họa tốc độ nhanh hơn .   0
+Bên cạnh đó , còn được trang bị thêm chip đồ họa Adreno 642L giúp khả năng hiển thị đồ họa tốc độ nhanh hơn .    0
 [[];[];[];[];[]]
-Samsung Galaxy A53 5G lại sở hữu vi xử lý Exynos 1280 mới với nhiều hiệu năng ấn tượng .   0
+Samsung Galaxy A53 5G lại sở hữu vi xử lý Exynos 1280 mới với nhiều hiệu năng ấn tượng .    0
 [[];[];[];[];[]]
-Galaxy A73 5G được nâng cấp con chip Snapdragon 778G .   0
+Galaxy A73 5G được nâng cấp con chip Snapdragon 778G .    0
 [[];[];[];[];[]]
-Cả 2 đều sử dụng pin lõi Li-po dung lượng 5000 mAh chỉ mất đến 70 phút là sạc đầy pin với công nghệ sạc nhanh Super Fast Charging 25W .   1
+Cả 2 đều sử dụng pin lõi Li-po dung lượng 5000 mAh chỉ mất đến 70 phút là sạc đầy pin với công nghệ sạc nhanh Super Fast Charging 25W .    1
 [[1&&Cả 2&&2];[1&&Cả 2&&2];[6&&pin 7&&lõi 8&&Li-po 9&&dung 10&&lượng 11&&5000mAh];[3&&đều 4&&sử 5&&dụng];[0]]
-Giờ đây bạn có thể tha hồ quay video hay chơi game mà không lo phải dành nhiều thời gian chờ pin được sạc đầy .   0
+Giờ đây bạn có thể tha hồ quay video hay chơi game mà không lo phải dành nhiều thời gian chờ pin được sạc đầy .    0
 [[];[];[];[];[]]
-ả 2 đều sử dụng pin lõi Li-po dung lượng 5000 mAh .   0
+ả 2 đều sử dụng pin lõi Li-po dung lượng 5000 mAh .    0
 [[];[];[];[];[]]
-Samsung Galaxy A53 và Samsung Galaxy A73 đều có khả năng kết nối mạng di động hỗ trợ 5G , 2 Nano SIM , Wi-Fi ( Wi-Fi Direct , Wi-Fi hotspo , Dual-band 2.4 GHz / 5 GHz ) , Wi-Fi 802.11 a / b / g / n / ac / ax ) , GPS , Bluetooth ( A2D , PLE , v5 . 0 ) , cổng Type - C , jack tai nghe Type - C .   1
+Samsung Galaxy A53 và Samsung Galaxy A73 đều có khả năng kết nối mạng di động hỗ trợ 5G , 2 Nano SIM , Wi-Fi ( Wi-Fi Direct , Wi-Fi hotspo , Dual-band 2.4 GHz / 5 GHz ) , Wi-Fi 802.11 a / b / g / n / ac / ax ) , GPS , Bluetooth ( A2D , PLE , v5 . 0 ) , cổng Type - C , jack tai nghe Type - C .    1
 [[1&&Samsung 2&&Galaxy 3&&A53];[5&&Samsung 6&&Galaxy 7&&A73];[10&&khả 11&&năng 12&&kết 13&&nối 14&&mạng 15&&di 16&&động 17&&hỗ 18&&trợ 19&&5G];[8&&đều 9&&có];[0]]
-đều có khả năng kết nối mạng di động hỗ trợ 5G , 2 Nano SIM , Wi-Fi .   0
+đều có khả năng kết nối mạng di động hỗ trợ 5G , 2 Nano SIM , Wi-Fi .    0
 [[];[];[];[];[]]
-Cả 2 phiên bản Samsung này đều có các tiện ích tương tự nhau .   1
+Cả 2 phiên bản Samsung này đều có các tiện ích tương tự nhau .    1
 [[1&&Cả 2&&2 3&&phiên 4&&bản 5&&Samsung 6&&này];[1&&Cả 2&&2 3&&phiên 4&&bản 5&&Samsung 6&&này];[9&&các 10&&tiện 11&&ích];[12&&tương 13&&tự 14&&nhau];[0]]
-Các chức năng cơ bản đều được hỗ trợ tối đa như xem phim , nghe nhạc , ghi âm .   0
+Các chức năng cơ bản đều được hỗ trợ tối đa như xem phim , nghe nhạc , ghi âm .    0
 [[];[];[];[];[]]
-Bên cạnh đó còn được trang bị tính năng mở khóa vân tay dưới màn hình nâng cao tính bảo mật và rất tiện lợi .   0
+Bên cạnh đó còn được trang bị tính năng mở khóa vân tay dưới màn hình nâng cao tính bảo mật và rất tiện lợi .    0
 [[];[];[];[];[]]
-Một số tính năng đặc biệt cũng có ở Galaxy A73 và Galaxxy A53 như chế độ trẻ em ( Samsung Kids ) , tối ưu game ( Game Booster ) , trợ lý ảo ( Samsung Bixby ) , mở rộng bộ nhớ RAM , ...   0
+Một số tính năng đặc biệt cũng có ở Galaxy A73 và Galaxxy A53 như chế độ trẻ em ( Samsung Kids ) , tối ưu game ( Game Booster ) , trợ lý ảo ( Samsung Bixby ) , mở rộng bộ nhớ RAM , ...    0
 [[];[];[];[];[]]
-Cả 2 phiên bản Samsung này ddefu có các tiện ích tương tự nhau .   0
+Cả 2 phiên bản Samsung này ddefu có các tiện ích tương tự nhau .    0
 [[];[];[];[];[]]
-Nên mua Samsung Galaxy A53 hay A73 còn phụ thuộc vào nhu cầu và sở thích của người dùng vì mỗi chiếc điện thoại sẽ có những ưu điểm riêng .   0
+Nên mua Samsung Galaxy A53 hay A73 còn phụ thuộc vào nhu cầu và sở thích của người dùng vì mỗi chiếc điện thoại sẽ có những ưu điểm riêng .    0
 [[];[];[];[];[]]
-Samsung Galaxy A53 có thiết kế đẹp , cấu hình mạnh , chip xử lý Snapdragon 778G với hệ thống camrera được nâng cấp với ống kính chính lên tới 108MP .   0
+Samsung Galaxy A53 có thiết kế đẹp , cấu hình mạnh , chip xử lý Snapdragon 778G với hệ thống camrera được nâng cấp với ống kính chính lên tới 108MP .    0
 [[];[];[];[];[]]
-Những đặc điểm của chiếc điện thoại này rất phù hợp với những ai thích chụp ảnh mà chơi game .   0
+Những đặc điểm của chiếc điện thoại này rất phù hợp với những ai thích chụp ảnh mà chơi game .    0
 [[];[];[];[];[]]
-Còn với Samsung Galaxy A53 mặc dù có các hiệu năng và khả năng hiển thị thấp hơn nhưng vẫn đáp ứng đủ nhu cầu cho các bạn giống như Samsung Galaxy A73 .   1
+Còn với Samsung Galaxy A53 mặc dù có các hiệu năng và khả năng hiển thị thấp hơn nhưng vẫn đáp ứng đủ nhu cầu cho các bạn giống như Samsung Galaxy A73 .    1
 [[3&&Samsung 4&&Galaxy 5&&A53];[31&&Samsung 32&&Galaxy 33&&A73];[10&&hiệu 11&&năng];[17&&thấp 18&&hơn];[5]]
 [[3&&Samsung 4&&Galaxy 5&&A53];[31&&Samsung 32&&Galaxy 33&&A73];[13&&khả 14&&năng 15&&hiển 16&&thị];[17&&thấp 18&&hơn];[5]]
 [[3&&Samsung 4&&Galaxy 5&&A53];[31&&Samsung 32&&Galaxy 33&&A73];[21&&đáp 22&&ứng 23&&đủ 24&&nhu 25&&cầu];[29&&giống 30&&như];[0]]
-Điểm cộng của A53 là kích thước nhỏ gọn hơn .   1
+Điểm cộng của A53 là kích thước nhỏ gọn hơn .    1
 [[4&&A53];[];[6&&kích 7&&thước];[8&&nhỏ 9&&gọn 10&&hơn];[4]]
-Nên mua Samsung Galaxxy A53 hay A73 còn phụ thuộc vào nhu cầu và sở thích .   0
+Nên mua Samsung Galaxxy A53 hay A73 còn phụ thuộc vào nhu cầu và sở thích .    0
 [[];[];[];[];[]]
-Thế giới di động .   0
+Thế giới di động .    0
 [[];[];[];[];[]]
-Galaxy S21 Ultra đã trở thành chiếc điện thoại hot nhất của Samsung vào cuối năm ngoái nhưng hiện tại đã có một đối thủ mới là Galaxy Z Fold3 .   0
+Galaxy S21 Ultra đã trở thành chiếc điện thoại hot nhất của Samsung vào cuối năm ngoái nhưng hiện tại đã có một đối thủ mới là Galaxy Z Fold3 .    0
 [[];[];[];[];[]]
-Phần so sánh dưới đây sẽ làm nổi bật các thông số kỹ thuật của hai dòng smartphone cao cấp nhất này .   0
+Phần so sánh dưới đây sẽ làm nổi bật các thông số kỹ thuật của hai dòng smartphone cao cấp nhất này .    0
 [[];[];[];[];[]]
-Galaxy S21 Ultra và Galaxy Z Fold3 có hai kiểu thiết kế rất khác nhau .   1
+Galaxy S21 Ultra và Galaxy Z Fold3 có hai kiểu thiết kế rất khác nhau .    1
 [[1&&Galaxy 2&&S21 3&&Ultra];[5&&Galaxy 6&&Z 7&&Fold3];[10&&kiểu 11&&thiết 12&&kế];[13&&rất 14&&khác 15&&nhau];[-1]]
-Trong khi S21 Ultra là một chiếc smartphone 6,8 ″ kiểu dáng thông thường thì Z Fold3 có thể gập lại với bản lề ở chế độ linh hoạt cho phép mở ở mọi góc độ .   0
+Trong khi S21 Ultra là một chiếc smartphone 6,8 ″ kiểu dáng thông thường thì Z Fold3 có thể gập lại với bản lề ở chế độ linh hoạt cho phép mở ở mọi góc độ .    0
 [[];[];[];[];[]]
-Z Fold3 có màn hình 6,2 ″ kích thước thu gọn ở mặt trước và màn hình bên trong có thể mở rộng đến 7,6 ″ .   0
+Z Fold3 có màn hình 6,2 ″ kích thước thu gọn ở mặt trước và màn hình bên trong có thể mở rộng đến 7,6 ″ .    0
 [[];[];[];[];[]]
-Cả hai thiết bị đều có màn hình OLED với tốc độ làm mới thay đổi lên đến tối đa 120H z .   1
+Cả hai thiết bị đều có màn hình OLED với tốc độ làm mới thay đổi lên đến tối đa 120H z .    1
 [[1&&Cả 2&&hai 3&&thiết 4&&bị];[1&&Cả 2&&hai 3&&thiết 4&&bị];[7&&màn 8&&hình 9&&OLED 10&&với 11&&tốc 12&&độ 13&&làm 14&&mới 15&&thay 16&&đổi 17&&lên 18&&đến 19&&tối 20&&đa 21&&120Hz];[5&&đều 6&&có];[0]]
-S21 Ultra có kính cường lực Gorilla Glass Victus để bảo vệ màn hình và khả năng chống bụi , nước IP68 để tránh làm hỏng các thành phần bên trong .   0
+S21 Ultra có kính cường lực Gorilla Glass Victus để bảo vệ màn hình và khả năng chống bụi , nước IP68 để tránh làm hỏng các thành phần bên trong .    0
 [[];[];[];[];[]]
-Z Fold3 sử dụng cùng một loại kính Gorilla Glass Victus ở màn hình bên ngoài nhưng bên trong là một lớp bảo vệ mỏng hơn .   0
+Z Fold3 sử dụng cùng một loại kính Gorilla Glass Victus ở màn hình bên ngoài nhưng bên trong là một lớp bảo vệ mỏng hơn .    0
 [[];[];[];[];[]]
-Chiếc điện thoại có thể gập lại được xếp hạng IPX8 về khả năng chống nước .   0
+Chiếc điện thoại có thể gập lại được xếp hạng IPX8 về khả năng chống nước .    0
 [[];[];[];[];[]]
-S21 Ultra và Z Fold3 đều sử dụng chip Snapdragon 888 , kết hợp với RAM 12GB và bộ nhớ trong 256GB .   1
+S21 Ultra và Z Fold3 đều sử dụng chip Snapdragon 888 , kết hợp với RAM 12GB và bộ nhớ trong 256GB .    1
 [[1&&S21 2&&Ultra];[4&&Z 5&&Fold3];[9&&chip 10&&Snapdragon 11&&888];[6&&đều 7&&sử 8&&dụng];[0]]
 [[1&&S21 2&&Ultra];[4&&Z 5&&Fold3];[16&&RAM 17&&12GB];[6&&đều 7&&sử 8&&dụng];[0]]
 [[1&&S21 2&&Ultra];[4&&Z 5&&Fold3];[19&&bộ 20&&nhớ 21&&trong 22&&256GB];[6&&đều 7&&sử 8&&dụng];[0]]
-Tùy chọn thay thế duy nhất cho Z Fold3 là tăng dung lượng lưu trữ lên 512GB .   0
+Tùy chọn thay thế duy nhất cho Z Fold3 là tăng dung lượng lưu trữ lên 512GB .    0
 [[];[];[];[];[]]
-Tuy nhiên , S21 Ultra lại có thêm tùy chọn RAM 12GB / 128GB rẻ hơn và phiên bản RAM 16GB / 512GB .   0
+Tuy nhiên , S21 Ultra lại có thêm tùy chọn RAM 12GB / 128GB rẻ hơn và phiên bản RAM 16GB / 512GB .    0
 [[];[];[];[];[]]
-Galaxy S21 Ultra là một trong những điện thoại có camera tốt nhất và sẽ vẫn là vua camera của Samsung ngay cả sau khi Galaxy Z Fold3 ra mắt .   1
+Galaxy S21 Ultra là một trong những điện thoại có camera tốt nhất và sẽ vẫn là vua camera của Samsung ngay cả sau khi Galaxy Z Fold3 ra mắt .    1
 [[1&&Galaxy 2&&S21 3&&Ultra];[];[11&&camera];[12&&tốt 13&&nhất];[1]]
 [[1&&Galaxy 2&&S21 3&&Ultra];[];[19&&camera];[17&&là 18&&vua];[1]]
-Ở mặt sau , Galaxy S21 Ultra sử dụng camera chính 108MP , một camera góc siêu rộng 12MP và hai camera tele 10MP , một camera zoom quang 3 x và camera zoom quang 10 x .   0
+Ở mặt sau , Galaxy S21 Ultra sử dụng camera chính 108MP , một camera góc siêu rộng 12MP và hai camera tele 10MP , một camera zoom quang 3 x và camera zoom quang 10 x .    0
 [[];[];[];[];[]]
-Các camera phía sau của Galaxy Z Fold3 bao gồm ba camera 12MP với một camera tele chính cùng hai camera siêu rộng và quang học 2 x .   0
+Các camera phía sau của Galaxy Z Fold3 bao gồm ba camera 12MP với một camera tele chính cùng hai camera siêu rộng và quang học 2 x .    0
 [[];[];[];[];[]]
-Đối với camera selfie , Galaxy S21 Ultra có camera selfie 40MP nằm chính giữa màn hình .   0
+Đối với camera selfie , Galaxy S21 Ultra có camera selfie 40MP nằm chính giữa màn hình .    0
 [[];[];[];[];[]]
-Galaxy Z Fold3 giành ưu thế với camera 10MP trên màn hình phía trước trong phần notch cộng thêm một camera 4MP thứ hai được ẩn bên dưới màn hình .   1
+Galaxy Z Fold3 giành ưu thế với camera 10MP trên màn hình phía trước trong phần notch cộng thêm một camera 4MP thứ hai được ẩn bên dưới màn hình .    1
 [[1&&Galaxy 2&&Z 3&&Fold3];[];[];[4&&giành 5&&ưu 6&&thế];[4]]
-S21 Ultra chiếm ưu thế với dung lượng pin tới 5.000 mAh , trong khi Z Fold3 chỉ là 4.400 mAh trên hệ thống pin kép .   1
+S21 Ultra chiếm ưu thế với dung lượng pin tới 5.000 mAh , trong khi Z Fold3 chỉ là 4.400 mAh trên hệ thống pin kép .    1
 [[1&&S21 2&&Ultra];[];[7&&dung 8&&lượng 9&&pin];[3&&chiếm 4&&ưu 5&&thế];[4]]
-Tuy nhiên , cả hai điện thoại đều cung cấp các thông số kỹ thuật sạc giống nhau bao gồm sạc có dây 25W , sạc không dây 10W và sạc không dây ngược 4,5 W .   1
+Tuy nhiên , cả hai điện thoại đều cung cấp các thông số kỹ thuật sạc giống nhau bao gồm sạc có dây 25W , sạc không dây 10W và sạc không dây ngược 4,5 W .    1
 [[4&&cả 5&&hai 6&&điện 7&&thoại];[4&&cả 5&&hai 6&&điện 7&&thoại];[11&&các 12&&thông 13&&số 14&&kỹ 15&&thuật 16&&sạc];[8&&đều 9&&cung 10&&cấp];[0]]
 [[4&&cả 5&&hai 6&&điện 7&&thoại];[4&&cả 5&&hai 6&&điện 7&&thoại];[21&&sạc 22&&có 23&&dây 24&&25W];[8&&đều 9&&cung 10&&cấp];[0]]
 [[4&&cả 5&&hai 6&&điện 7&&thoại];[4&&cả 5&&hai 6&&điện 7&&thoại];[26&&sạc 27&&không 28&&dây 29&&10W];[8&&đều 9&&cung 10&&cấp];[0]]
 [[4&&cả 5&&hai 6&&điện 7&&thoại];[4&&cả 5&&hai 6&&điện 7&&thoại];[31&&sạc 32&&không 33&&dây 34&&ngược 35&&4,5W];[8&&đều 9&&cung 10&&cấp];[0]]
-Cả hai điện thoại đều chạy Android 11 thông qua One UI của Samsung , mặc dù phiên bản của Z Fold3 có sự khác biệt đáng kể để phù hợp với màn hình phụ .   1
+Cả hai điện thoại đều chạy Android 11 thông qua One UI của Samsung , mặc dù phiên bản của Z Fold3 có sự khác biệt đáng kể để phù hợp với màn hình phụ .    1
 [[1&&Cả 2&&hai 3&&điện 4&&thoại];[];[7&&Android 8&&11];[5&&đều 6&&chạy];[0]]
 [[18&&phiên 19&&bản 20&&của 21&&Z 22&&Fold3];[1&&Cả 2&&hai 3&&điện 4&&thoại];[];[25&&khác 26&&biệt 27&&đáng 28&&kể];[-1]]
-Hai điện thoại đều hỗ trợ bút cảm ứng S Pen .   1
+Hai điện thoại đều hỗ trợ bút cảm ứng S Pen .    1
 [[1&&Hai 2&&điện 3&&thoại];[1&&Hai 2&&điện 3&&thoại];[7&&bút 8&&cảm 9&&ứng 10&&S 11&&Pen];[4&&đều 5&&hỗ 6&&trợ];[0]]
-Z Fold3 có hai phiên bản S Pen để lựa chọn – S Pen Fold Edition cơ bản hoặc S Pen Pro được hỗ trợ Bluetooth .   0
+Z Fold3 có hai phiên bản S Pen để lựa chọn – S Pen Fold Edition cơ bản hoặc S Pen Pro được hỗ trợ Bluetooth .    0
 [[];[];[];[];[]]
-Hầu hết người dùng sẽ khá hài lòng với S21 Ultra vì hiệu suất và sức mạnh chụp ảnh cao nhất .   1
+Hầu hết người dùng sẽ khá hài lòng với S21 Ultra vì hiệu suất và sức mạnh chụp ảnh cao nhất .    1
 [[10&&S21 11&&Ultra];[];[13&&hiệu 14&&suất];[20&&cao 21&&nhất];[1]]
 [[10&&S21 11&&Ultra];[];[16&&sức 17&&mạnh 18&&chụp 19&&ảnh];[20&&cao 21&&nhất];[1]]
-Trong khi Z Fold3 sẽ là một trải nghiệm thực sự đặc biệt cho bất kỳ người dùng nào muốn tận hưởng smartphone cấp cao .   0
+Trong khi Z Fold3 sẽ là một trải nghiệm thực sự đặc biệt cho bất kỳ người dùng nào muốn tận hưởng smartphone cấp cao .    0
 [[];[];[];[];[]]
-Vì vậy , việc lựa chọn smartphone thích hợp với bản thân còn phụ thuộc vào nhiều yếu tố đến từ mỗi người dùng .   0
+Vì vậy , việc lựa chọn smartphone thích hợp với bản thân còn phụ thuộc vào nhiều yếu tố đến từ mỗi người dùng .    0
 [[];[];[];[];[]]
