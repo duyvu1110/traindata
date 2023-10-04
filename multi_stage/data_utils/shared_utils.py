@@ -484,8 +484,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             print(seq_gold_token[token_index])
 
             # drop "##" prefix
-            if seq_bert_token[bert_index].find("</w>") != -1:
-                bert_length = len(seq_bert_token[bert_index]) - 4
+            if seq_bert_token[bert_index].find("@@") != -1:
+                bert_length = len(seq_bert_token[bert_index]) - 2
 
             while token_length > bert_length:
                 bert_index = bert_index + 1
