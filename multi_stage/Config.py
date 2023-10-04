@@ -33,7 +33,7 @@ class BaseConfig(object):
         )
         self.val = GlobalConfig(self.position_sys)
         print('self.path.bert_model_path', self.path.bert_model_path)
-        self.bert_tokenizer = AutoTokenizer.from_pretrained(self.path.bert_model_path)
+        self.bert_tokenizer = AutoTokenizer.from_pretrained('t5-small')
 
 
 class PathConfig(object):

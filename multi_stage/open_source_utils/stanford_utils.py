@@ -14,7 +14,7 @@ class stanfordFeature(object):
         # self.nlp = stanza.Pipeline('vi', processors='tokenize,pos,lemma,depparse', verbose=False)
 
         # using set to store label type
-        self.pos_dict, self.pos_index = {"PAD": 0}, 1
+        self.pos_dict, self.pos_index = {"pad": 0}, 1
         self.dep_label_dict, self.dep_label_index = {}, 1
         self.vocab = {}
 
