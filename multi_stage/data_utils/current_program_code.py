@@ -143,6 +143,9 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
     """
     assert len(label_col) == len(mapping_col)
 
+    print('label_col\n', label_col)
+    print('mapping_col\n', mapping_col)
+    
     convert_label_col = []
     for index in range(len(label_col)):
         sequence_label, sequence_map = copy.deepcopy(label_col[index]), mapping_col[index]
