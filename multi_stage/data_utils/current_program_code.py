@@ -161,8 +161,10 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
                 s_index = elem_position[0]
                 e_index = elem_position[1]
                 
-                s_index = list(sequence_map.keys())[list(sequence_map.values()).index(s_index)]
-                e_index = list(sequence_map.keys())[list(sequence_map.values()).index(e_index)]
+                # s_index = list(sequence_map.keys())[list(sequence_map.values()).index(s_index)]
+                # e_index = list(sequence_map.keys())[list(sequence_map.values()).index(e_index)]
+                s_index = next((key for key, value_list in sequence_map.items() if s_index in value_list), -1)
+                e_index = next((key for key, value_list in sequence_map.items() if e_index in value_list), -1)
                 
                 print(s_index, e_index)
                 print(sequence_label[key][elem_index])
