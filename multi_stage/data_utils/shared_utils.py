@@ -463,14 +463,13 @@ def token_mapping_bert(bert_token_col, gold_token_col):
         seq_map, bert_index, token_index = {}, 1, 0
         seq_bert_token, seq_gold_token = bert_token_col[index], gold_token_col[index]
         
-        print('seq_bert_token', seq_bert_token)
-        print('seq_gold_token', seq_gold_token)
+        # print('seq_bert_token', seq_bert_token)
+        # print('seq_gold_token', seq_gold_token)
         
         while bert_index < len(seq_bert_token) and token_index < len(seq_gold_token):
             seq_map[token_index] = [bert_index]
 
             # [UNK] denote special symbol
-            # if seq_bert_token[bert_index] == "[UNK]":
             if seq_bert_token[bert_index] == "<unk>":
                 bert_index = bert_index + 1
                 token_index = token_index + 1
@@ -481,8 +480,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             token_length = len(seq_gold_token[token_index])
             bert_length = len(seq_bert_token[bert_index])
 
-            print(seq_bert_token[bert_index])
-            print(seq_gold_token[token_index])
+            # print(seq_bert_token[bert_index])
+            # print(seq_gold_token[token_index])
 
             # drop "##" prefix
             if seq_bert_token[bert_index].find("@@") != -1:
@@ -503,8 +502,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                     bert_length += 1
                     
                     
-            print(bert_length, token_length)
-            # print (bert_length, '\t', token_length)
+            # print(bert_length, token_length)
+            
             assert bert_length == token_length, "appear mapping error!"
             # check_utils.check_mapping_process(seq_map, seq_gold_token, seq_bert_token)
 
