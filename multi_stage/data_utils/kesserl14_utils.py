@@ -64,9 +64,9 @@ class DataGenerator(object):
             
             mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
 
-            label_col = cpc.convert_eng_label_dict_by_mapping(label_col, mapping_col)
+            label_col = cpc.convert_vi_label_dict_by_mapping(label_col, mapping_col)
 
-            tuple_pair_col = cpc.convert_eng_tuple_pair_by_mapping(tuple_pair_col, mapping_col)
+            tuple_pair_col = cpc.convert_vi_tuple_pair_by_mapping(tuple_pair_col, mapping_col)
 
             data_dict['input_ids'] = shared_utils.bert_data_transfer(
                 self.bert_tokenizer,

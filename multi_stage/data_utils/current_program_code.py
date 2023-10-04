@@ -135,7 +135,7 @@ def convert_label_dict_by_mapping(label_col, mapping_col):
     return convert_label_col
 
 
-def convert_eng_label_dict_by_mapping(label_col, mapping_col):
+def convert_vi_label_dict_by_mapping(label_col, mapping_col):
     """
     :param label_col: [{"entity_1": {(s_index, e_index)}}]
     :param mapping_col: {bert_index: [char_index]}
@@ -147,8 +147,8 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
     for index in range(len(label_col)):
         sequence_label, sequence_map = copy.deepcopy(label_col[index]), mapping_col[index]
         
-        print('seq_label', sequence_label)
-        print('seq_map', sequence_map)
+        # print('seq_label', sequence_label)
+        # print('seq_map', sequence_map)
         
         for key in sequence_label.keys():
             sequence_label[key] = sorted(list(sequence_label[key]), key=lambda x: x[0])
@@ -166,9 +166,9 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
                 s_index = next((key for key, value_list in sequence_map.items() if s_index in value_list), -1)
                 e_index = next((key for key, value_list in sequence_map.items() if e_index in value_list), -1)
                 
-                print(s_index, e_index)
-                print(sequence_label[key][elem_index])
-                print(sequence_map[s_index][0], sequence_map[e_index][-1])                
+                # print(s_index, e_index)
+                # print(sequence_label[key][elem_index])
+                # print(sequence_map[s_index][0], sequence_map[e_index][-1])                
                 
                 if s_index == -1 or e_index == -1:
                     sequence_label[key][elem_index] = [-1, -1]
@@ -743,7 +743,7 @@ def create_polarity_label(tuple_pair_col):
 
 
 
-def convert_eng_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
+def convert_vi_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
     """
     :param tuple_pair_col:
     :param mapping_col: {token_index: [bert_index]}
@@ -751,6 +751,9 @@ def convert_eng_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
     """
     convert_tuple_pair_col = []
 
+    print(tuple_pair_col)
+    print(mapping_col)
+    
     for index in range(len(tuple_pair_col)):
         sequence_tuple_pair, sequence_map = tuple_pair_col[index], mapping_col[index]
 
