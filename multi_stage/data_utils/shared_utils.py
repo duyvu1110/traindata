@@ -496,7 +496,7 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                 bert_length += len(seq_bert_token[bert_index]) + 1
                 print(bert_length, token_length)
                 if seq_bert_token[bert_index].find("@@") != -1:
-                    bert_length -= 2
+                    bert_length -= 3
 
             # print (bert_length, '\t', token_length)
             assert bert_length == token_length, "appear mapping error!"
