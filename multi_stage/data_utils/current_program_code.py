@@ -146,7 +146,10 @@ def convert_eng_label_dict_by_mapping(label_col, mapping_col):
     convert_label_col = []
     for index in range(len(label_col)):
         sequence_label, sequence_map = copy.deepcopy(label_col[index]), mapping_col[index]
-
+        
+        print('seq_label', sequence_label)
+        print('seq_map', sequence_map)
+        
         for key in sequence_label.keys():
             sequence_label[key] = sorted(list(sequence_label[key]), key=lambda x: x[0])
 
