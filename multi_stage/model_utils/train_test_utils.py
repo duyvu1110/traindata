@@ -254,7 +254,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
 
     pair_weight = torch.tensor([model_parameters['factor'], 1]).float()
 
-    feature_dim = [4 * (5 + 768), 4 * 5, 4 * 768]
+    feature_dim = [8 * (5 + 768), 8 * 5, 8 * 768]
     pair_feature_dim = feature_dim[feature_type]
 
     # define pair and polarity model.

@@ -203,6 +203,6 @@ class LogisticClassifier(nn.Module):
                 criterion = nn.CrossEntropyLoss()
             
             return criterion(predict_label, pair_label.view(-1))
-        else:
+        else: 
             return torch.max(F.softmax(predict_label, dim=-1), dim=-1)[-1]
 
