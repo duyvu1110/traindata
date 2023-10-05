@@ -254,7 +254,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
 
     pair_weight = torch.tensor([model_parameters['factor'], 1]).float()
 
-    feature_dim = [8 * (5 + 768), 8 * 5, 8 * 768]
+    feature_dim = [4 * (5 + 768), 4 * 5, 4 * 768]
     pair_feature_dim = feature_dim[feature_type]
 
     # define pair and polarity model.
@@ -280,7 +280,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     dev_polarity_parameters = ["./ModelResult/" + model_name + "/dev_polarity_result.txt",
                                "./PreTrainModel/" + model_name + "/dev_polarity_model"]
 
-    for epoch in range(50):
+    for epoch in range(5):
         pair_stage_model_train(pair_model, pair_optimizer, train_pair_loader, config, epoch)
         pair_stage_model_test(
             pair_model, config, dev_pair_loader, dev_pair_eval,
@@ -300,7 +300,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     dev_polarity_loader = data_loader_utils.get_loader([dev_polarity_representation], 1)
     shared_utils.clear_optimize_measure(dev_pair_eval)
 
-    for epoch in range(50):
+    for epoch in range(5):
         pair_stage_model_train(polarity_model, polarity_optimizer, train_polarity_loader, config, epoch)
         pair_stage_model_test(
             polarity_model, config, dev_polarity_loader, dev_pair_eval,

@@ -587,6 +587,7 @@ def create_polarity_train_data(config, tuple_pair_col, feature_out, bert_feature
             each_pair_representation = []
             for elem_index in range(4):
                 s, e = tuple_pair_col[index][pair_index][elem_index]
+                print(s, e)
                 if s == -1:
                     # 采用5维 + 768维
                     if feature_type == 0:
@@ -629,7 +630,8 @@ def create_polarity_train_data(config, tuple_pair_col, feature_out, bert_feature
                 cur_representation = torch.cat(each_pair_representation, dim=-1).view(-1).numpy().tolist()
 
             representation_col.append(cur_representation)
-
+            print(representation_col)
+            print(polarity_col)
             assert tuple_pair_col[index][pair_index][-1][0] in {-1, 0, 1, 2, 3, 4, 5, 6}, "[ERROR] Tuple Pair Col Error."
             polarity_col.append([tuple_pair_col[index][pair_index][-1][0] + 1])
 
