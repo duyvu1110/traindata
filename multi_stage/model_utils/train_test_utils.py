@@ -68,7 +68,7 @@ def first_stage_model_test(model, config, test_loader, res_eval, eval_parameters
     with torch.no_grad():
         for index, data in tqdm(enumerate(test_loader)):
             input_ids, attn_mask, comparative_label, multi_label, result_label = data
-        
+
             input_ids = torch.tensor(input_ids).long().to(config.device)
             attn_mask = torch.tensor(attn_mask).long().to(config.device)
 
@@ -280,7 +280,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     dev_polarity_parameters = ["./ModelResult/" + model_name + "/dev_polarity_result.txt",
                                "./PreTrainModel/" + model_name + "/dev_polarity_model"]
 
-    for epoch in range(5):
+    for epoch in range(1):
         pair_stage_model_train(pair_model, pair_optimizer, train_pair_loader, config, epoch)
         pair_stage_model_test(
             pair_model, config, dev_pair_loader, dev_pair_eval,
@@ -300,7 +300,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     dev_polarity_loader = data_loader_utils.get_loader([dev_polarity_representation], 1)
     shared_utils.clear_optimize_measure(dev_pair_eval)
 
-    for epoch in range(5):
+    for epoch in range(1):
         pair_stage_model_train(polarity_model, polarity_optimizer, train_polarity_loader, config, epoch)
         pair_stage_model_test(
             polarity_model, config, dev_polarity_loader, dev_pair_eval,
