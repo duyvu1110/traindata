@@ -10,8 +10,8 @@ class BaseEvaluation(object):
     def __init__(self, config, elem_col=None, ids_to_tags=None, fold=0, save_model=False):
         """
         :param config: program config table.
-        :param elem_col: ["entity_1", "entity_2", "aspect", "scale", "predicate"].
-        :param ids_to_tags: {0: "O", 1: "B-entity_1"}.
+        :param elem_col: ["subject", "object", "aspect", "scale", "predicate"].
+        :param ids_to_tags: {0: "O", 1: "B-subject"}.
         :param save_model: True denote save model by optimize exact measure.
         """
         self.config = config
@@ -112,13 +112,13 @@ class BaseEvaluation(object):
         elem_label_ids, result_label_ids = target
         for i in range(len(result_label_ids)):
             seq_elem = self.sequence_label_convert_dict(
-                result_label_ids[i], {}, "result"
+                result_label_ids[i], {}, "predicate"
             )
             elem_col.append(seq_elem)
 
         assert len(elem_col) == len(elem_label_ids), "label length error!"
 
-        elem_key = ["entity_1", "entity_2", "aspect", "result"]
+        elem_key = ["subject", "object", "aspect", "predicate"]
 
         for i in range(len(elem_col)):
             for j in range(len(elem_label_ids[i])):
@@ -301,7 +301,7 @@ class BaseEvaluation(object):
         if not multi_elem_score:
             return result_dict
 
-        base_elem_col = ["entity_1", "entity_2", "aspect", "result"]
+        base_elem_col = ["subject", "object", "aspect", "predicate"]
 
         result_dict = self.get_macro_measure(result_dict, base_elem_col, elem_name="macro")
         result_dict = self.get_micro_measure(
@@ -552,7 +552,7 @@ class BaseEvaluation(object):
         """
         elem_str = "["
 
-        cur_elem_col = ["entity_1", "entity_2", "aspect", "result"]
+        cur_elem_col = ["subject", "object", "aspect", "predicate"]
         for index, elem in enumerate(cur_elem_col):
             elem_str += "["
             for elem_index, elem_representation in enumerate(data_dict[elem]):
@@ -918,7 +918,7 @@ class ElementEvaluation(BaseEvaluation):
 
         candidate_pair_col = []
 
-        # elem_col = {"entity_1", "entity_2", "aspect", "result"}
+        # elem_col = {"subject", "object", "aspect", "predicate"}
         for index in range(len(self.predict_dict)):
             cur_candidate_pair_col = []
             cur_predict_elem_dict = self.predict_dict[index]

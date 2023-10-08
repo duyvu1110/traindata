@@ -72,7 +72,7 @@ class PathConfig(object):
 
 class GlobalConfig(object):
     def __init__(self, position_sys):
-        self.elem_col = ["entity_1", "entity_2", "aspect", "result"]
+        self.elem_col = ["subject", "object", "aspect", "predicate"]
         self.polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
         self.polarity_dict = {k: index - 1 for index, k in enumerate(self.polarity_col)}
 

@@ -5,8 +5,8 @@ class LabelParser(object):
     def __init__(self, label_col, elem_col, intermittent=False):
         """
         :param label_col:
-        :param elem_col: ["entity_1", "entity_2", "aspect", "result"]
-        :param intermittent: True denote "result" using intermittent representation
+        :param elem_col: ["subject", "object", "aspect", "predicate"]
+        :param intermittent: True denote "predicate" using intermittent representation
         """
         self.label_col = label_col
         self.elem_col = elem_col
@@ -79,7 +79,7 @@ class LabelParser(object):
 
                     elem_tuple += (s_index, e_index)
                     
-                    if self.elem_col[elem_index] == "result":
+                    if self.elem_col[elem_index] == "predicate":
                         result_elem += [s_index, e_index]
 
                     # [check sentence and label position]
@@ -110,7 +110,7 @@ class LabelParser(object):
             if elem_index < 3 and elem_tuple != (-1, -1):
                 global_elem_col[self.elem_col[elem_index]].add(elem_tuple)
 
-        global_elem_col["result"].add(tuple(result_elem))
+        global_elem_col["predicate"].add(tuple(result_elem))
 
         return global_elem_col, tuple_pair_representation
 

@@ -23,7 +23,7 @@ class DataGenerator(object):
         self.train_data_dict, self.dev_data_dict, self.test_data_dict = {}, {}, {}
         self.bert_tokenizer = AutoTokenizer.from_pretrained(config.path.bert_model_path)
 
-        self.elem_col = ["entity_1", "entity_2", "aspect", "result"]
+        self.elem_col = ["subject", "object", "aspect", "predicate"]
 
     def create_data_dict(self, data_path, data_type, label_path=None):
         """
@@ -36,7 +36,7 @@ class DataGenerator(object):
 
         sent_col, sent_label_col, label_col = cpc.read_standard_file(data_path)
 
-        LP = LabelParser(label_col, ["entity_1", "entity_2", "aspect", "result"])
+        LP = LabelParser(label_col, ["subject", "object", "aspect", "predicate"])
         label_col, tuple_pair_col = LP.parse_sequence_label("&&", sent_col, file_type="en")
 
         # using stanford tool to get some feature data.

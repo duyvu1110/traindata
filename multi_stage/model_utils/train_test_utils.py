@@ -68,7 +68,7 @@ def first_stage_model_test(model, config, test_loader, res_eval, eval_parameters
     with torch.no_grad():
         for index, data in tqdm(enumerate(test_loader)):
             input_ids, attn_mask, comparative_label, multi_label, result_label = data
-
+        
             input_ids = torch.tensor(input_ids).long().to(config.device)
             attn_mask = torch.tensor(attn_mask).long().to(config.device)
 

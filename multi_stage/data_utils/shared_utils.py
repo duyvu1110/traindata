@@ -17,7 +17,7 @@ from gensim.scripts.glove2word2vec import glove2word2vec
 # using elem_col and position_sys to get {tag: id}
 def create_tag_mapping_ids(elem_col, position_sys, other_flag=True):
     """
-    :param elem_col: like: ["entity_1", "entity_2", "aspect", "scale", "predicate"]
+    :param elem_col: like: ["subject", "object", "aspect", "scale", "predicate"]
     :param position_sys: like ["B", "M", "E", "S"], ["B", "I"], ["B", "I", "E", "S"]
     :param other_flag: true denote {"O": 0}, false denote {}
     :return:
@@ -639,7 +639,7 @@ def elem_dict_convert_to_pair_col(elem_dict):
     :param elem_dict: {elem: [(s_index, e_index)]}
     :return:
     """
-    key_col = ["entity_1", "entity_2", "aspect", "scale"]
+    key_col = ["subject", "object", "aspect", "scale"]
     final_pair_col = []
 
     for elem in key_col:
@@ -797,7 +797,7 @@ def elem_dict_convert_to_sequence_label(token_col, label_col, label_type="predic
             sequence_label_col.append(create_sequence_label(token_col[index], label_col[index], ["predicate"]))
 
         elif label_type == "elem":
-            elem_col = ["entity_1", "entity_2", "aspect", "scale"]
+            elem_col = ["subject", "object", "aspect", "scale"]
             sequence_label_col.append(create_sequence_label(token_col[index], label_col[index], elem_col))
 
     return sequence_label_col
@@ -810,7 +810,7 @@ def elem_dict_convert_to_multi_sequence_label(token_col, label_col):
     :return:
     """
     elem_pair_col, polarity_col = [], []
-    elem_col = ["entity_1", "entity_2", "aspect", "result"]
+    elem_col = ["subject", "object", "aspect", "predicate"]
 
     for index in range(len(token_col)):
         sent_multi_col = []
@@ -887,7 +887,7 @@ def convert_label_dict_by_mapping(label_col, mapping_col):
     :param mapping_col: [n, index_dict], index_dict: {bert_index: [char_index]} or {token_index: [bert_index]}.
     :return: new type label col.
     """
-    elem_col = ["entity_1", "entity_2", "aspect", "scale", "predicate"]
+    elem_col = ["subject", "object", "aspect", "scale", "predicate"]
     assert len(label_col) == len(mapping_col), "mapping_col length equal to label length."
     final_label_col = copy.deepcopy(label_col)
 
@@ -958,7 +958,7 @@ def combine_predicate_label_col(label_col, gold_tuple_pair_col):
             cur_tuple_pair_col.append(elem_dict['tuple_pair'])
 
         if len(cur_pair_elem_dict_col) == 0:
-            cur_pair_elem_dict_col = [{"entity_1": {}, "entity_2": {}, "aspect": {}, "scale": {}, "predicate": {}}]
+            cur_pair_elem_dict_col = [{"subject": {}, "object": {}, "aspect": {}, "scale": {}, "predicate": {}}]
             cur_tuple_pair_col = [[[(-1, -1)] * 4]]
         final_label_col.append(cur_pair_elem_dict_col)
         final_tuple_pair_col.append(cur_tuple_pair_col)
@@ -1022,7 +1022,7 @@ def get_init_pair_num(label_col):
     :param label_col: [n, pair_num, elem_dict], elem_dict: {elem: {s_index: length}}
     :return:
     """
-    elem_col = ["entity_1", "entity_2", "aspect", "scale"]
+    elem_col = ["subject", "object", "aspect", "scale"]
 
     init_pair_num = 0
     for index in range(len(label_col)):

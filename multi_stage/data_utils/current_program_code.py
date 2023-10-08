@@ -100,7 +100,7 @@ def bert_mapping_char(bert_token_col, gold_char_col):
 
 def convert_label_dict_by_mapping(label_col, mapping_col):
     """
-    :param label_col: [{"entity_1": {(s_index, e_index)}}]
+    :param label_col: [{"subject": {(s_index, e_index)}}]
     :param mapping_col: [{char_index: bert_index]}]
     :return:
     """
@@ -123,7 +123,7 @@ def convert_label_dict_by_mapping(label_col, mapping_col):
 
                 sequence_label[key][elem_index] = [sequence_map[s_index], sequence_map[e_index]]
 
-                if key == "result":
+                if key == "predicate":
                     sequence_label[key][elem_index].append(elem_position[-1])
 
         for key in sequence_label.keys():
@@ -137,7 +137,7 @@ def convert_label_dict_by_mapping(label_col, mapping_col):
 
 def convert_vi_label_dict_by_mapping(label_col, mapping_col):
     """
-    :param label_col: [{"entity_1": {(s_index, e_index)}}]
+    :param label_col: [{"subject": {(s_index, e_index)}}]
     :param mapping_col: {bert_index: [char_index]}
     :return:
     """
@@ -178,7 +178,7 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
                         print(sequence_label[key])
                         return
 
-                if key == "result":
+                if key == "predicate":
                     sequence_label[key][elem_index].append(elem_position[-1])
 
         for key in sequence_label.keys():
@@ -280,7 +280,7 @@ def get_sequence_label_item(position_symbol, polarity, elem_type, special_symbol
         5: "COM-",
         6: "COM"
     }
-    if elem_type == "result" and special_symbol:
+    if elem_type == "predicate" and special_symbol:
         return position_symbol + "-" + polarity_dict[polarity]
     else:
         return position_symbol
@@ -300,7 +300,7 @@ def each_elem_convert_to_multi_sequence_label(sequence_token, each_elem, elem_ty
     for elem_position in each_elem:
         s_index, e_index = elem_position[0], elem_position[1]
 
-        if elem_type == "result":
+        if elem_type == "predicate":
             polarity = elem_position[-1]
             polarity_col.append(polarity)
         else:
@@ -327,7 +327,7 @@ def elem_dict_convert_to_multi_sequence_label(token_col, label_col, special_symb
     :return:
     """
     elem_pair_col, polarity_col, result_sequence_label_col = [], [], []
-    elem_col = ["entity_1", "entity_2", "aspect", "result"]
+    elem_col = ["subject", "object", "aspect", "predicate"]
 
     for index in range(len(token_col)):
         sent_multi_col = []
@@ -341,7 +341,7 @@ def elem_dict_convert_to_multi_sequence_label(token_col, label_col, special_symb
             # result may be add special symbol label system.
             else:
                 sequence_label, cur_polarity = each_elem_convert_to_multi_sequence_label(
-                    token_col[index], label_col[index][elem], "result", special_symbol
+                    token_col[index], label_col[index][elem], "predicate", special_symbol
                 )
                 polarity_col.append(cur_polarity)
                 result_sequence_label_col.append(sequence_label)
