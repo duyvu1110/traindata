@@ -7,11 +7,13 @@ import os
 import argparse
 import Config
 
-from data_utils import shared_utils, kesserl14_utils, data_loader_utils, coae13_utils
+
+from data_utils import shared_utils, kesserl14_utils, data_loader_utils
 from model_utils import train_test_utils
 from eval_utils.base_eval import BaseEvaluation, ElementEvaluation, PairEvaluation
 from eval_utils import create_eval
 from data_utils import current_program_code as cpc
+
 
 def set_seed(seed):
     random.seed(seed)
@@ -104,14 +106,14 @@ def main():
         {"config": config_parameters, "model": model_parameters}
     )
 
-    print(model_name)
+    print('model_name',model_name)
 
-    if config.data_type == "eng":
-        data_gene = kesserl14_utils.DataGenerator(config)
-    else:
-        data_gene = coae13_utils.DataGenerator(config)
+    # if config.data_type == "eng":
+    #     data_gene = kesserl14_utils.DataGenerator(config)
+    # else:
+    #     data_gene = coae13_utils.DataGenerator(config)
     
-    # data_gene = kesserl14_utils.DataGenerator(config)
+    data_gene = kesserl14_utils.DataGenerator(config)
     data_gene.generate_data()
 
     global_eval = BaseEvaluation(config)
@@ -162,7 +164,7 @@ def main():
         dev_parameters = ["./ModelResult/" + model_name + "/dev_elem_result.txt",
                           "./PreTrainModel/" + model_name + "/dev_model"]
 
-        print("=================================test===================================")
+        print("========================test==========================")
         predicate_model = torch.load(dev_parameters[1])
 
         test_parameters = ["./ModelResult/" + model_name + "/test_elem_result.txt", None]
