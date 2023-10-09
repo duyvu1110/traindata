@@ -1,3 +1,3 @@
-CUDA_VISIBLE_DEVICES=5,6 python main.py --file_type="smartphone" --model_mode="bert" --program_mode="run" --stage_model="first" --epoch=1 --model_type="multitask" --embed_dropout=0.1 --premodel_path="/home/pretrain_model/"
+CUDA_VISIBLE_DEVICES=5,6 python main.py --file_type="smartphone" --model_mode="bert" --program_mode="run" --stage_model="first" --epoch=5 --model_type="multitask" --embed_dropout=0.1 --premodel_path="/home/pretrain_model/"
 
-CUDA_VISIBLE_DEVICES=5,6 python main.py --file_type="smartphone" --model_mode="bert" --program_mode="run" --stage_model="second" --epoch=1 --model_type="multitask" --embed_dropout=0.1 --premodel_path="/home/pretrain_model/" --factor=0.3
+CUDA_VISIBLE_DEVICES=5,6 python main.py --file_type="smartphone" --model_mode="bert" --program_mode="run" --stage_model="second" --epoch=5 --model_type="multitask" --embed_dropout=0.1 --premodel_path="/home/pretrain_model/" --factor=0.3
