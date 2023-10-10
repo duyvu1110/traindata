@@ -142,14 +142,11 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
     :return:
     """
     assert len(label_col) == len(mapping_col)
-    
+
     convert_label_col = []
     for index in range(len(label_col)):
         sequence_label, sequence_map = copy.deepcopy(label_col[index]), mapping_col[index]
-        
-        print('seq_label', sequence_label)
-        print('seq_map', sequence_map)
-        
+
         for key in sequence_label.keys():
             sequence_label[key] = sorted(list(sequence_label[key]), key=lambda x: x[0])
 
@@ -158,27 +155,16 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
 
         for key, elem_position_col in sequence_label.items():
             for elem_index, elem_position in enumerate(elem_position_col):
-                s_index = elem_position[0] - 1
+                s_index = elem_position[0]
                 e_index = elem_position[1]
-                
-                # s_index = next((key for key, value_list in sequence_map.items() if s_index in value_list), -1)
-                # e_index = next((key for key, value_list in sequence_map.items() if e_index in value_list), -1)
-                
-                # print(s_index, e_index)
-                # print(sequence_label[key][elem_index])
-                # print(sequence_map[s_index][0], sequence_map[e_index][-1])                
-                
+
+                # 针对英文数据集可能存在空的情况
                 if s_index == -1 or e_index == -1:
                     sequence_label[key][elem_index] = [-1, -1]
                 else:
                     sequence_label[key][elem_index] = [sequence_map[s_index][0], sequence_map[e_index][-1]]
-                    # try:
-                    #     sequence_label[key][elem_index] = [sequence_map[s_index][0], sequence_map[e_index][-1]]
-                    # except:
-                    #     print(sequence_label[key])
-                    #     return
 
-                if key == "predicate":
+                if key == "result":
                     sequence_label[key][elem_index].append(elem_position[-1])
 
         for key in sequence_label.keys():
@@ -749,24 +735,15 @@ def convert_vi_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
     """
     convert_tuple_pair_col = []
 
-    # print('tuple_pair_col', tuple_pair_col)
-    # print('mapping_col', mapping_col)
-    
     for index in range(len(tuple_pair_col)):
         sequence_tuple_pair, sequence_map = tuple_pair_col[index], mapping_col[index]
 
-        print('seq_tuple_pair', sequence_tuple_pair)
-        print('seq_map', sequence_map)
-        
         new_sequence_tuple_pair = []
         for pair_index in range(len(sequence_tuple_pair)):
             new_tuple_pair = []
             for k in range(4):
-                s_index = sequence_tuple_pair[pair_index][k][0] - 1
+                s_index = sequence_tuple_pair[pair_index][k][0]
                 e_index = sequence_tuple_pair[pair_index][k][1]
-                                
-                # s_index = next((key for key, value_list in sequence_map.items() if s_index in value_list), -1)
-                # e_index = next((key for key, value_list in sequence_map.items() if e_index in value_list), -1)
 
                 if s_index == -1 or e_index == -1:
                     new_tuple_pair.append((-1, -1))
