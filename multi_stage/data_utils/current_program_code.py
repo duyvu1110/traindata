@@ -169,8 +169,9 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
                     except:
                         print(s_index)
                         print(e_index)
+                        print(sequence_label)
                         print(sequence_map)
-                        print(key)
+                        # print(key)
 
                 if key == "result":
                     sequence_label[key][elem_index].append(elem_position[-1])
