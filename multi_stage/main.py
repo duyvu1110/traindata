@@ -176,12 +176,7 @@ def convert_data(data_type):
         for item in sentences_and_content:
             output_file.write(str(item) + '\n')
             
-def main():
-    # pre-process
-    convert_data('train')
-    convert_data('test')
-    convert_data('dev')
-    
+def main():    
     # get program configure
     args = TerminalParser()
 
@@ -208,6 +203,10 @@ def main():
     #     data_gene = kesserl14_utils.DataGenerator(config)
     # else:
     #     data_gene = coae13_utils.DataGenerator(config)
+    
+    convert_data('train')
+    convert_data('test')
+    convert_data('dev')
     
     data_gene = kesserl14_utils.DataGenerator(config)
     data_gene.generate_data()
