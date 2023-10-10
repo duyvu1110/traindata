@@ -57,10 +57,6 @@ class DataGenerator(object):
 
         if self.config.model_mode == "bert":
             data_dict['bert_token'] = shared_utils.get_token_col(sent_col, bert_tokenizer=self.bert_tokenizer, dim=1)
-
-            # mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
-            # print(data_dict['bert_token'])
-            # print(data_dict['standard_token'])
             
             mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
 

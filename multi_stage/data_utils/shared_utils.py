@@ -497,8 +497,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                     bert_length = bert_length + len(seq_bert_token[bert_index]) - 2
                 else:
                     bert_length += len(seq_bert_token[bert_index])
-                if seq_bert_token[bert_index - 1].find("@@") == -1:
-                    bert_length += 1
+                # if seq_bert_token[bert_index - 1].find("@@") == -1:
+                #     bert_length += 1
                         
             # print(bert_length, token_length)
             

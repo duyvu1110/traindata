@@ -1,5 +1,5 @@
 import copy
-from underthesea import word_tokenize, pos_tag, dependency_parse
+# from underthesea import word_tokenize, pos_tag, dependency_parse
 
 
 class stanfordFeature(object):
@@ -10,8 +10,6 @@ class stanfordFeature(object):
         :param lang: denote which language sentences need to process
         """
         self.sentences_col = sentences
-        # self.nlp = stanza.Pipeline('vi', processors='tokenize,pos,lemma,depparse', verbose=False)
-
         # using set to store label type
         self.pos_dict, self.pos_index = {"pad": 0}, 1
         self.dep_label_dict, self.dep_label_index = {}, 1
@@ -26,7 +24,7 @@ class stanfordFeature(object):
         """
         input_tokens = []
         for i in range(len(self.sentences_col)):
-            token_list = word_tokenize(self.sentences_col[i])
+            token_list = self.sentences_col[i].split(' ')
             input_tokens.append(token_list)
 
         return input_tokens
