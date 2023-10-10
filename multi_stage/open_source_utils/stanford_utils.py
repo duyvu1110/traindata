@@ -1,5 +1,5 @@
 import copy
-# from underthesea import word_tokenize, pos_tag, dependency_parse
+import re
 
 
 class stanfordFeature(object):
@@ -24,7 +24,7 @@ class stanfordFeature(object):
         """
         input_tokens = []
         for i in range(len(self.sentences_col)):
-            token_list = self.sentences_col[i].split(' ')
+            token_list = re.sub(' +', ' ', self.sentences_col[i]).split(' ')
             input_tokens.append(token_list)
 
         return input_tokens
