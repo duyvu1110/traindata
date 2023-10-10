@@ -157,9 +157,11 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
 
         for key, elem_position_col in sequence_label.items():
             for elem_index, elem_position in enumerate(elem_position_col):
-                s_index = elem_position[0] - 1
+                s_index = elem_position[0]
                 e_index = elem_position[1]
-
+                
+                s_index = list(sequence_map.keys())[list(sequence_map.values()).index(s_index)]
+                e_index = list(sequence_map.keys())[list(sequence_map.values()).index(e_index)]
                 # 针对英文数据集可能存在空的情况
                 if s_index == -1 or e_index == -1:
                     sequence_label[key][elem_index] = [-1, -1]
