@@ -114,7 +114,7 @@ def convert_data(data_type):
                     if len(parts) == 2:
                         sentence = parts[0].strip()
                         sentence = sentence.split('\t')[-1]
-                        sentence = " ".join(s.split())
+                        sentence = " ".join(sentence.split())
                         sentence += '\t' + '1'
                         
                         contents = parts[1].strip()
@@ -166,7 +166,7 @@ def convert_data(data_type):
                         
                     else:
                         sentence = parts[0].split('\t')[-1]
-                        sentence = " ".join(s.split())
+                        sentence = " ".join(sentence.split())
                         if len(sentence) > 3:
                             sentence += '\t' + '0'
                             json_format = "[[];[];[];[];[]]"
