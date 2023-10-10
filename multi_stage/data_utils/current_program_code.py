@@ -755,8 +755,8 @@ def convert_vi_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
     for index in range(len(tuple_pair_col)):
         sequence_tuple_pair, sequence_map = tuple_pair_col[index], mapping_col[index]
 
-        # print('seq_tuple_pair', sequence_tuple_pair)
-        # print('seq_map', sequence_map)
+        print('seq_tuple_pair', sequence_tuple_pair)
+        print('seq_map', sequence_map)
         
         new_sequence_tuple_pair = []
         for pair_index in range(len(sequence_tuple_pair)):
