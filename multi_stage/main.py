@@ -98,7 +98,6 @@ def convert_data(data_type):
 
 
     files = os.listdir(folder_path)
-    files = files[:10]
     sentences_and_content = []
 
     for file_name in sorted(files):
