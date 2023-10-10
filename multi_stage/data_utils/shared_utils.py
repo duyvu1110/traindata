@@ -454,8 +454,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
     :param gold_token_col: a list char list
     :return: a map: {bert_index: [char_index]}
     """
-    print(len(bert_token_col), '\t', len(gold_token_col))
-    print(bert_token_col, '\n', gold_token_col)
+    # print(len(bert_token_col), '\t', len(gold_token_col))
+    # print(bert_token_col, '\n', gold_token_col)
     assert len(bert_token_col) == len(gold_token_col), "bert data length not equal to char data length"
     
     mapping_col = []
@@ -490,8 +490,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             while token_length > bert_length:
                 bert_index = bert_index + 1
                 seq_map[token_index].append(bert_index)
-                # print('len_seq', len(seq_bert_token[bert_index]))
-                # print('len_gold', len(seq_gold_token[token_index]))
+                print('len_seq', len(seq_bert_token[bert_index]))
+                print('len_gold', len(seq_gold_token[token_index]))
                 
                 if seq_bert_token[bert_index].find("@@") != -1:
                     bert_length = bert_length + len(seq_bert_token[bert_index]) - 2
@@ -500,7 +500,7 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                 # if seq_bert_token[bert_index - 1].find("@@") == -1:
                 #     bert_length += 1
                         
-            # print(bert_length, token_length)
+            print(bert_length, token_length)
             
             assert bert_length == token_length, "appear mapping error!"
             # check_utils.check_mapping_process(seq_map, seq_gold_token, seq_bert_token)
