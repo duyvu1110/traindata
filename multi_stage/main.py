@@ -174,7 +174,7 @@ def convert_data(data_type):
 
     with open(des_file, 'w', encoding='utf-8') as output_file:
         for item in sentences_and_content:
-            output_file.write(str(item) + '\n')
+            output_file.write(re.sub(' +', ' ', item) + '\n')
             
 def main():    
     # get program configure
