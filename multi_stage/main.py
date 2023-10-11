@@ -410,6 +410,7 @@ def main():
                     test_type="gene", feature_type=feature_type
                 )
         
+        print(type(train_pair_representation), type(train_make_pair_label))
         train_pair_representation, train_make_pair_label = cpc.generate_train_pair_data(
             train_pair_representation, train_make_pair_label
         )
