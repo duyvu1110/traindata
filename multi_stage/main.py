@@ -397,6 +397,8 @@ def main():
         dev_first_process_data_path = "./ModelResult/" + model_name + "/dev_first_data_" + str(feature_type) + ".txt"
         test_first_process_data_path = "./ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
 
+        print(data_gene.train_data_dict['tuple_pair_col'])
+        
         if os.path.exists(train_first_process_data_path):
             train_pair_representation, train_make_pair_label, train_polarity_representation, train_polarity_label = \
                 shared_utils.read_pickle(train_first_process_data_path)
