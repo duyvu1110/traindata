@@ -423,41 +423,41 @@ def main():
             train_first_process_data_path
         )
 
-        if os.path.exists(dev_first_process_data_path):
-            dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label = \
-                shared_utils.read_pickle(dev_first_process_data_path)
-            print('dev_candidate_pair_col', dev_candidate_pair_col)
-            print('dev_make_pair_label', dev_make_pair_label)
+    # if os.path.exists(dev_first_process_data_path):
+    #     dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label = \
+    #         shared_utils.read_pickle(dev_first_process_data_path)
+    #     print('dev_candidate_pair_col', dev_candidate_pair_col)
+    #     print('dev_make_pair_label', dev_make_pair_label)
 
-        else:
-            dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label, _, _ = \
-                train_test_utils.first_stage_model_test(
-                    elem_model, config, dev_loader, generate_second_res_eval,
-                    eval_parameters=[data_gene.dev_data_dict['tuple_pair_col']],
-                    test_type="gene", feature_type=feature_type
-                )
-
-            shared_utils.write_pickle(
-                [dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label],
-                dev_first_process_data_path
+    # else:
+        dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label, _, _ = \
+            train_test_utils.first_stage_model_test(
+                elem_model, config, dev_loader, generate_second_res_eval,
+                eval_parameters=[data_gene.dev_data_dict['tuple_pair_col']],
+                test_type="gene", feature_type=feature_type
             )
 
-        if os.path.exists(test_first_process_data_path):
-            test_candidate_pair_col, test_pair_representation, test_make_pair_label = \
-                shared_utils.read_pickle(test_first_process_data_path)
+        shared_utils.write_pickle(
+            [dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label],
+            dev_first_process_data_path
+        )
 
-        else:
-            test_candidate_pair_col, test_pair_representation, test_make_pair_label, _, _ = \
-                train_test_utils.first_stage_model_test(
-                    elem_model, config, test_loader, generate_second_res_eval,
-                    eval_parameters=[data_gene.test_data_dict['tuple_pair_col']],
-                    test_type="gene", feature_type=feature_type
-                )
+    # if os.path.exists(test_first_process_data_path):
+    #     test_candidate_pair_col, test_pair_representation, test_make_pair_label = \
+    #         shared_utils.read_pickle(test_first_process_data_path)
 
-            shared_utils.write_pickle(
-                [test_candidate_pair_col, test_pair_representation, test_make_pair_label],
-                test_first_process_data_path
+    # else:
+        test_candidate_pair_col, test_pair_representation, test_make_pair_label, _, _ = \
+            train_test_utils.first_stage_model_test(
+                elem_model, config, test_loader, generate_second_res_eval,
+                eval_parameters=[data_gene.test_data_dict['tuple_pair_col']],
+                test_type="gene", feature_type=feature_type
             )
+
+        shared_utils.write_pickle(
+            [test_candidate_pair_col, test_pair_representation, test_make_pair_label],
+            test_first_process_data_path
+        )
 
         pair_representation = [train_pair_representation, dev_pair_representation, test_pair_representation]
         make_pair_label = [train_make_pair_label, dev_make_pair_label, test_make_pair_label]
