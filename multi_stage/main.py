@@ -426,6 +426,8 @@ def main():
         if os.path.exists(dev_first_process_data_path):
             dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label = \
                 shared_utils.read_pickle(dev_first_process_data_path)
+            print('dev_candidate_pair_col', dev_candidate_pair_col)
+            print('dev_make_pair_label', dev_make_pair_label)
 
         else:
             dev_candidate_pair_col, dev_pair_representation, dev_make_pair_label, _, _ = \
