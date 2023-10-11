@@ -407,7 +407,11 @@ def main():
                     eval_parameters=[data_gene.train_data_dict['tuple_pair_col']],
                     test_type="gene", feature_type=feature_type
                 )
-
+        print(train_pair_representation)
+        print(train_make_pair_label)
+        print(train_polarity_representation)
+        print(train_polarity_label)
+        
         train_pair_representation, train_make_pair_label = cpc.generate_train_pair_data(
             train_pair_representation, train_make_pair_label
         )
