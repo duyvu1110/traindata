@@ -42,7 +42,7 @@ class DataGenerator(object):
         # using stanford tool to get some feature data.
         if not os.path.exists(self.config.path.pre_process_data[data_type]):
             
-            sf = stanford_utils.stanfordFeature(sent_col, self.config.path.stanford_path)
+            sf = stanford_utils.stanfordFeature(sent_col)
             
             data_dict['standard_token'] = sf.get_tokenizer()
             

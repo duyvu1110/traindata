@@ -3,7 +3,7 @@ import re
 
 
 class stanfordFeature(object):
-    def __init__(self, sentences, stanford_path):
+    def __init__(self, sentences):
         """
         :param sentences: a list of sentence, [sentence1, sentence2......]
         :param stanford_path: nlp stanford core path
