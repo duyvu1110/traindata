@@ -51,16 +51,16 @@ class PathConfig(object):
         # nlp tool file path
         if device == "cpu":
             # self.stanford_path = "/kaggle/working/vncorenlp"
-            self.stanford_path = "/kaggle/input/corenlp/stanford-corenlp-full-2018-10-05"
+            # self.stanford_path = "/kaggle/input/corenlp/stanford-corenlp-full-2018-10-05"
             # self.bert_model_path = "/kaggle/input/huggingface-bert/bert-base-multilingual-uncased"
             self.bert_model_path = "vinai/phobert-base-v2"
             
         else:
             # self.stanford_path = premodel_path + "/kaggle/working/vncorenlp"
-            self.stanford_path = premodel_path + "/kaggle/input/corenlp/stanford-corenlp-full-2018-10-05"
+            # self.stanford_path = premodel_path + "/kaggle/input/corenlp/stanford-corenlp-full-2018-10-05"
             self.bert_model_path =  "vinai/phobert-base-v2"
-            self.GloVe_path = premodel_path + "/kaggle/input/glove840b300dtxt/glove.840B.300d.txt"
-            self.Word2Vec_path = premodel_path + "/kaggle/input/word2vec-sample/word2vec_sample/pruned.word2vec.txt"
+            self.GloVe_path = "/kaggle/input/glove840b300dtxt/glove.840B.300d.txt"
+            self.Word2Vec_path =  "/kaggle/input/word2vec-sample/word2vec_sample/pruned.word2vec.txt"
 
         self.pre_process_data = {
             "train": "../data/pre_process/{}_train_data.txt".format(file_type),
