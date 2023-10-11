@@ -1093,6 +1093,9 @@ class PairEvaluation(BaseEvaluation):
             gold_sequence_pair_col = self.gold_pair_col[index]
             predict_sequence_pair_col = predict_tuple_pair_col[index]
 
+            print(gold_sequence_pair_col)
+            print(predict_sequence_pair_col)
+            
             gold_num['pair'] += self.get_effective_pair_num(gold_sequence_pair_col)
             predict_num['pair'] += self.get_effective_pair_num(predict_sequence_pair_col)
 
