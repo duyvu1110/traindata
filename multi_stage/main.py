@@ -294,10 +294,10 @@ def main():
             ids_to_tags=config.val.invert_norm_id_map
         )
 
-        if model_name.find("ele") != -1:
-            cross_model_name = model_name.replace("ele", "car")
-        else:
-            cross_model_name = model_name.replace("car", "ele")
+        # if model_name.find("ele") != -1:
+        #     cross_model_name = model_name.replace("ele", "car")
+        # else:
+        #     cross_model_name = model_name.replace("car", "ele")
 
         pre_train_model_path = "./PreTrainModel/" + cross_model_name + "/dev_model"
 
@@ -391,6 +391,8 @@ def main():
 
         elem_model = torch.load(pre_train_model_path)
 
+        print(model_name)
+        print('before first process data')
         train_first_process_data_path = "./ModelResult/" + model_name + "/train_first_data_" + str(feature_type) + ".txt"
         dev_first_process_data_path = "./ModelResult/" + model_name + "/dev_first_data_" + str(feature_type) + ".txt"
         test_first_process_data_path = "./ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
