@@ -292,7 +292,7 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
         token_col = []
 
         for index in range(len(sent_col)):
-            sent_col.replace('"', '\\"')
+            sent_col[index].replace('"', '\\"')
             token_col.append(get_token_col(sent_col[index], split_symbol, bert_tokenizer, dim - 1))
 
         return token_col
