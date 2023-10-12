@@ -1045,6 +1045,7 @@ class ElementEvaluation(BaseEvaluation):
                 # truth predicate pair num
                 isExist = False
                 for k in range(len(truth_pair_label[i])):
+                    print(candidate_col[i], '\n', truth_pair_label[i])
                     if self.is_equal_tuple_pair(candidate_col[i][j], truth_pair_label[i][k], null_pair):
                         isExist = True
 
