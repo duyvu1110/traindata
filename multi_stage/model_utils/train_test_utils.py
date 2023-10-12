@@ -265,7 +265,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
         pipeline_model_utils.LogisticClassifier(config, pair_feature_dim, 2, weight=pair_weight).to(config.device)
     )
     polarity_model = copy.deepcopy(
-        pipeline_model_utils.LogisticClassifier(config, pair_feature_dim, 8).to(config.device)
+        pipeline_model_utils.LogisticClassifier(config, pair_feature_dim, 4).to(config.device)
     )
 
     if torch.cuda.device_count() > 1:
