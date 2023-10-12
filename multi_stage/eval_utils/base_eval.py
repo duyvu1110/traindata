@@ -1019,8 +1019,8 @@ class ElementEvaluation(BaseEvaluation):
 
     @staticmethod
     def is_equal_tuple_pair(candidate_tuple_col, truth_tuple_col, null_pair):
-        if truth_tuple_col == null_pair:
-        # if np.array_equal(truth_tuple_col, np.array(null_pair)):
+        # if truth_tuple_col == null_pair:
+        if np.array_equal(truth_tuple_col, np.array(null_pair)):
             return False
 
         if len(candidate_tuple_col) != len(truth_tuple_col):
@@ -1038,7 +1038,7 @@ class ElementEvaluation(BaseEvaluation):
         :param truth_pair_label: shape is [n, tuple_pair_num, tuple_pair]
         :return:
         """
-        pair_label_col, null_pair = [], np.array([[-1,-1],[-1,-1],[-1,-1],[-1,-1],[-1,-1]])
+        pair_label_col, null_pair = [], [(-1,-1)]*5
         for i in range(len(candidate_col)):
             # cartesian product pair num
             is_pair_label = []
