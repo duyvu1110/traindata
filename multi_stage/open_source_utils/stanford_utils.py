@@ -24,7 +24,7 @@ class stanfordFeature(object):
         """
         input_tokens = []
         for i in range(len(self.sentences_col)):
-            token_list = re.sub(' +', ' ', self.sentences_col[i]).split(' ')
+            token_list = self.sentences_col[i].split(' ')
             input_tokens.append(token_list)
 
         return input_tokens
