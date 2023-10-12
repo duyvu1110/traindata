@@ -157,8 +157,8 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
 
         for key, elem_position_col in sequence_label.items():
             for elem_index, elem_position in enumerate(elem_position_col):
-                s_index = elem_position[0]
-                e_index = elem_position[1]
+                s_index = elem_position[0] - 1
+                e_index = elem_position[1] - 1
                 
                 # s_index = next((key for key, value_list in sequence_map.items() if s_index in value_list), -1)
                 # e_index = next((key for key, value_list in sequence_map.items() if e_index in value_list), -1)
@@ -751,8 +751,8 @@ def convert_vi_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
         for pair_index in range(len(sequence_tuple_pair)):
             new_tuple_pair = []
             for k in range(4):
-                s_index = sequence_tuple_pair[pair_index][k][0]
-                e_index = sequence_tuple_pair[pair_index][k][1]
+                s_index = sequence_tuple_pair[pair_index][k][0] - 1
+                e_index = sequence_tuple_pair[pair_index][k][1] - 1
                 # s_index = next((key for key, value_list in sequence_map.items() if s_index in value_list), -1)
                 # e_index = next((key for key, value_list in sequence_map.items() if e_index in value_list), -1)
                 if s_index == -1 or e_index == -1:
