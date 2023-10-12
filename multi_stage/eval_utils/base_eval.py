@@ -1019,8 +1019,8 @@ class ElementEvaluation(BaseEvaluation):
 
     @staticmethod
     def is_equal_tuple_pair(candidate_tuple_col, truth_tuple_col, null_pair):
-        # if truth_tuple_col == null_pair:
-        if np.array_equal(truth_tuple_col, np.array(null_pair)):
+        if np.all(truth_tuple_col == null_pair):
+        # if np.array_equal(truth_tuple_col, np.array(null_pair)):
             return False
 
         if len(candidate_tuple_col) != len(truth_tuple_col):
