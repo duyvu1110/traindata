@@ -551,6 +551,7 @@ def create_predicate_info(predicate_vocab, token_col):
 def generate_train_pair_data(data_representation, data_label):
     assert len(data_representation) == len(data_label), "[ERROR] Data Length Error."
 
+    print(data_representation[0])
     feature_dim = len(data_representation[0][0])
     final_representation, final_label = [], []
 
