@@ -1037,7 +1037,7 @@ class ElementEvaluation(BaseEvaluation):
         :param truth_pair_label: shape is [n, tuple_pair_num, tuple_pair]
         :return:
         """
-        pair_label_col, null_pair = [], np.array([[-1, -1]] * 5)
+        pair_label_col, null_pair = [], [(-1, -1)] * 5
         for i in range(len(candidate_col)):
             # cartesian product pair num
             is_pair_label = []
@@ -1045,9 +1045,9 @@ class ElementEvaluation(BaseEvaluation):
                 # truth predicate pair num
                 isExist = False
                 for k in range(len(truth_pair_label[i])):
-                    print(candidate_col[i], '\n', truth_pair_label[i])
+                    print(candidate_col[i][j], '\n', truth_pair_label[i][k])
                     print(type(candidate_col[i]), type(truth_pair_label[i]))
-                    if self.is_equal_tuple_pair(candidate_col[i][j], np.array(truth_pair_label[i][k]), null_pair):
+                    if self.is_equal_tuple_pair(candidate_col[i][j], truth_pair_label[i][k], null_pair):
                         isExist = True
 
                 is_pair_label.append(1 if isExist else 0)
