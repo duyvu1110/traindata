@@ -493,12 +493,15 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                 # print('len_seq', len(seq_bert_token[bert_index]))
                 # print('len_gold', len(seq_gold_token[token_index]))
                 
+                # if seq_bert_token[bert_index].find("@@") != -1:
+                #     bert_length += len(seq_bert_token[bert_index]) - 2
+                # else:
+                #     bert_length += len(seq_bert_token[bert_index])
+                bert_length += len(seq_bert_token[bert_index])
+
                 if seq_bert_token[bert_index].find("@@") != -1:
-                    bert_length += len(seq_bert_token[bert_index]) - 2
-                else:
-                    bert_length += len(seq_bert_token[bert_index])
-                # if seq_bert_token[bert_index - 1].find("@@") == -1:
-                #     bert_length += 1
+                    bert_length -= 2
+                
                         
             # print(bert_length, token_length)
             
