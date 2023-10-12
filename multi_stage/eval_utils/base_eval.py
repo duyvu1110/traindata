@@ -1037,7 +1037,7 @@ class ElementEvaluation(BaseEvaluation):
         :param truth_pair_label: shape is [n, tuple_pair_num, tuple_pair]
         :return:
         """
-        pair_label_col, null_pair = [], [(-1, -1)] * 5
+        pair_label_col, null_pair = [], [[-1, -1]] * 5
         for i in range(len(candidate_col)):
             # cartesian product pair num
             is_pair_label = []
