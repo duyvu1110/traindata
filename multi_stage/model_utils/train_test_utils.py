@@ -64,7 +64,7 @@ def first_stage_model_test(model, config, test_loader, res_eval, eval_parameters
         measure_file, model_path = eval_parameters
     else:
         gold_pair_label = eval_parameters[0]
-        print(gold_pair_label)
+        # print(gold_pair_label)
         
     with torch.no_grad():
         for index, data in tqdm(enumerate(test_loader)):
