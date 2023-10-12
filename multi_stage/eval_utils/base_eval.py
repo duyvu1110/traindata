@@ -1019,7 +1019,8 @@ class ElementEvaluation(BaseEvaluation):
 
     @staticmethod
     def is_equal_tuple_pair(candidate_tuple_col, truth_tuple_col, null_pair):
-        if truth_tuple_col == null_pair:
+        # if truth_tuple_col == null_pair:
+        if np.array_equal(truth_tuple_col, np.array(null_pair)):
             return False
 
         if len(candidate_tuple_col) != len(truth_tuple_col):
@@ -1046,7 +1047,7 @@ class ElementEvaluation(BaseEvaluation):
                 isExist = False
                 for k in range(len(truth_pair_label[i])):
                     print(candidate_col[i][j], '\n', truth_pair_label[i][k])
-                    print(type(candidate_col[i]), type(truth_pair_label[i]))
+                    print(type(candidate_col[i][j]), type(truth_pair_label[i][k]))
                     if self.is_equal_tuple_pair(candidate_col[i][j], truth_pair_label[i][k], null_pair):
                         isExist = True
 
