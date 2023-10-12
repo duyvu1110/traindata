@@ -1046,8 +1046,8 @@ class ElementEvaluation(BaseEvaluation):
                 # truth predicate pair num
                 isExist = False
                 for k in range(len(truth_pair_label[i])):
-                    print(candidate_col[i][j], '\n', truth_pair_label[i][k])
-                    print(type(candidate_col[i][j]), type(truth_pair_label[i][k]))
+                    # print(candidate_col[i][j], '\n', truth_pair_label[i][k])
+                    # print(type(candidate_col[i][j]), type(truth_pair_label[i][k]))
                     if self.is_equal_tuple_pair(candidate_col[i][j], truth_pair_label[i][k], null_pair):
                         isExist = True
 
@@ -1172,7 +1172,7 @@ class PairEvaluation(BaseEvaluation):
         elem_length = len(tuple_pair_col[0]) if len(tuple_pair_col) != 0 else 5
         null_pair, pair_num = [(-1, -1)] * elem_length, 0
         for index in range(len(tuple_pair_col)):
-            if tuple_pair_col[index] == null_pair:
+            if np.all(tuple_pair_col[index] == null_pair):
                 continue
             pair_num += 1
         return pair_num
