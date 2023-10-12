@@ -98,79 +98,84 @@ def convert_data(data_type):
 
 
     files = os.listdir(folder_path)
+
     sentences_and_content = []
 
-    for file_name in sorted(files):
-        if file_name.startswith('train_') and file_name.endswith('.txt'):
-            file_path = os.path.join(folder_path, file_name)
-            with open(file_path, 'r', encoding='utf-8') as file:
-                sections = file.read().split('\n\n')
-                
-                for section in sections:
-                    parts = section.split('\n', 1)
-                    json_format = ""
-                    
-                    if len(parts) == 2:
-                        sentence = parts[0].strip()
-                        sentence = sentence.split('\t')[-1]
-                        sentence = " ".join(sentence.split())
-                        sentence += '\t' + '1'
+    for file_name in files:
+        # if file_name.startswith('train_') and file_name.endswith('.txt'):
+        file_path = os.path.join(folder_path, file_name)
+        with open(file_path, 'r', encoding='utf-8') as file:
+            sections = file.read().split('\n\n')
+
+            for section in sections:
+                parts = section.split('\n')
+                json_format = ""
+
+                if len(parts) == 2:
+                    sentence = parts[0].strip()
+                    sentence = sentence.split('\t')[-1]
+                    sentence = " ".join(sentence.split())
+                    sentence += '\t' + '1'
+
+                    contents = parts[1].strip()
+                    json_contents = contents.strip().split('\n')
+                    combined_format = sentence + '\n'
+
+                    for json_content in json_contents:
+                        idx_s, idx_e = (-1, -1)
+                        tuples = ""
+                        while True:
+                            idx_s = json_content.find('[', idx_s + 1)
+                            idx_e = json_content.find(']', idx_e + 1)
+
+                            if idx_s == -1:
+                                break
+
+                            for i in json_content[idx_s:idx_e + 1]:
+                                if i != ',':
+                                    tuples += i
+
+                            tuples += ';'
+
+                        labels = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
+
+                        for label in labels:
+                            if json_content.find(label) != -1:
+                                if label == "DIF":
+                                    tuples += '[' + str(-1) + ']'
+                                elif label == "EQL":
+                                    tuples += '[' + str(0) + ']'
+                                elif label == "SUP+":
+                                    tuples += '[' + str(1) + ']'
+                                elif label == "SUP-":
+                                    tuples += '[' + str(2) + ']'
+                                elif label == "SUP":
+                                    tuples += '[' + str(3) + ']'
+                                elif label == "COM+":
+                                    tuples += '[' + str(4) + ']'
+                                elif label == "COM-":
+                                    tuples += '[' + str(5) + ']'
+                                elif label == "COM":
+                                    tuples += '[' + str(6) + ']'
+                                break
+
+                        json_format += '[' + tuples + ']' + '\n'
+                        json_format = json_format.replace('"', '')
                         
-                        contents = parts[1].strip()
-                        json_contents = contents.strip().split('\n')
-                        combined_format = sentence + '\n'
-                        
-                        for json_content in json_contents:
-                            idx_s, idx_e = (-1, -1)
-                            tuples = ""
-                            while True:
-                                idx_s = json_content.find('[', idx_s+1)
-                                idx_e = json_content.find(']', idx_e+1)
-                                
-                                if idx_s == -1:
-                                    break
-                                
-                                for i in json_content[idx_s:idx_e+1]:
-                                    if i != ',':
-                                        tuples += i
-                                
-                                tuples += ';'
-                            
-                            labels = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
-                            
-                            for label in labels:
-                                if json_content.find(label) != -1:
-                                    if label == "DIF":
-                                        tuples += '[' + str(-1) + ']'
-                                    elif label == "EQL":
-                                        tuples += '[' + str(0) + ']'
-                                    elif label == "SUP+":
-                                        tuples += '[' + str(1) + ']'
-                                    elif label == "SUP-":
-                                        tuples += '[' + str(2) + ']'
-                                    elif label == "SUP":
-                                        tuples += '[' + str(3) + ']'
-                                    elif label == "COM+":
-                                        tuples += '[' + str(4) + ']'
-                                    elif label == "COM-":
-                                        tuples += '[' + str(5) + ']'
-                                    elif label == "COM":
-                                        tuples += '[' + str(6) + ']'
-                                    break
-                                    
-                            json_format += '[' + tuples + ']' + '\n'
-                            
-                        combined_format += json_format[:-1]  
-                        sentences_and_content.append(str(combined_format).replace('"', ''))
-                        
+                    combined_format += json_format[:-1]
+                    sentences_and_content.append(combined_format)
+
+                else:
+                    sentence = parts[0].split('\t')
+                    if len(sentence) == 1:
+                        continue
                     else:
-                        sentence = parts[0].split('\t')[-1]
-                        sentence = " ".join(sentence.split())
-                        if len(sentence) > 3:
-                            sentence += '\t' + '0'
-                            json_format = "[[];[];[];[];[]]"
-                            combined_format = f"{sentence}\n{json_format}"
-                            sentences_and_content.append(combined_format)
+                        sentence = sentence[-1]
+                    sentence = " ".join(sentence.split())
+                    sentence += '\t' + '0'
+                    json_format = "[[];[];[];[];[]]"
+                    combined_format = f"{sentence}\n{json_format}"
+                    sentences_and_content.append(combined_format)
 
     with open(des_file, 'w', encoding='utf-8') as output_file:
         for item in sentences_and_content:
@@ -397,7 +402,7 @@ def main():
         dev_first_process_data_path = "./ModelResult/" + model_name + "/dev_first_data_" + str(feature_type) + ".txt"
         test_first_process_data_path = "./ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
 
-        print(data_gene.train_data_dict['tuple_pair_col'])
+        # print(data_gene.train_data_dict['tuple_pair_col'])
         
         if os.path.exists(train_first_process_data_path):
             train_pair_representation, train_make_pair_label, train_polarity_representation, train_polarity_label = \
@@ -410,7 +415,7 @@ def main():
                     test_type="gene", feature_type=feature_type
                 )
         
-        print(type(train_pair_representation), type(train_make_pair_label))
+        # print(type(train_pair_representation), type(train_make_pair_label))
         train_pair_representation, train_make_pair_label = cpc.generate_train_pair_data(
             train_pair_representation, train_make_pair_label
         )
