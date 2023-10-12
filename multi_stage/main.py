@@ -209,9 +209,9 @@ def main():
     # else:
     #     data_gene = coae13_utils.DataGenerator(config)
     
-    # convert_data('train')
-    # convert_data('test')
-    # convert_data('dev')
+    convert_data('train')
+    convert_data('test')
+    convert_data('dev')
     
     data_gene = kesserl14_utils.DataGenerator(config)
     data_gene.generate_data()
