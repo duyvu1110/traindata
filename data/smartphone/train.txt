@@ -1,100 +1,105 @@
-Cá nhân mình nhận thấy , Redmi Note 11 sở hữu thiết kế đẹp và ấn tượng nhất trong bộ ba điện thoại này .    1
-[[7&&Redmi 8&&Note 9&&11];[];[12&&thiết 13&&kế];[14&&đẹp 15&&và 16&&ấn 17&&tượng 18&&nhất 19&&trong 20&&bộ 21&&ba 22&&điện 23&&thoại 24&&này];[1]]
-Di động Xiaomi được trang bị màn hình đục lỗ hiện đại , bắt mắt ở mặt trước để chứa camera selfie nằm ở vị trí chính giữa viền trên .    0
+Title : Review iPhone 14 : Thiết kế , hiệu năng , camera và pin	0
 [[];[];[];[];[]]
-Trong khi đó , Realme 8 5G cũng sở hữu màn hình đục lỗ nhưng camera trước của nó nằm ở góc trên cùng bên trái nên không đẹp và đối xứng như Redmi Note 11 .    1
-[[5&&Realme 6&&8 7&&5G];[34&&Redmi 35&&Note 36&&11];[11&&màn 12&&hình 13&&đục 14&&lỗ];[8&&cũng 9&&sở 10&&hữu];[0]]
-[[5&&Realme 6&&8 7&&5G];[34&&Redmi 35&&Note 36&&11];[16&&camera 17&&trước];[28&&không 29&&đẹp 30&&và 31&&đối 32&&xứng 33&&như];[0]]
-Còn Galaxy M32 5G sở hữu màn hình giọt nước kém hiện đại hơn .    1
-[[2&&Galaxy 3&&M32 4&&5G];[];[7&&màn 8&&hình];[11&&kém 12&&hiện 13&&đại 14&&hơn];[5]]
-Di chuyển sang mặt sau , cả ba điện thoại này đều sở hữu thân máy được hoàn thiện từ chất liệu nhựa , cụm camera sau khá lớn và mỗi thiết bị đều có điểm nhấn của riêng mình .    0
+iPhone 14 được ra mắt vào 09 / 2022 , được đánh giá là chỉ nâng cấp nhẹ về phần cứng cũng như phần mềm so với thế hệ trước .	1
+[[1&&iPhone 2&&14];[28&&thế 29&&hệ 30&&trước];[20&&phần 21&&cứng];[16&&nâng 17&&cấp 18&&nhẹ];[4]]
+[[1&&iPhone 2&&14];[28&&thế 29&&hệ 30&&trước];[24&&phần 25&&mềm];[16&&nâng 17&&cấp 18&&nhẹ];[4]]
+Về ngoại hình thì cũng có rất ít sự khác biệt so với thế hệ tiền nhiệm .	1
+[[];[14&&thế 15&&hệ 16&&tiền 17&&nhiệm];[2&&ngoại 3&&hình];[7&&rất 8&&ít 9&&sự 10&&khác 11&&biệt];[0]]
+Có một vài ý kiến trái chiều cho rằng , phiên bản iPhone 14 này không có điểm gì nổi bật , thậm chí còn cho rằng không nên bỏ tiền ra nâng cấp hoặc mua .	0
 [[];[];[];[];[]]
-Trong đó , Redmi Note 11 đi kèm các hiệu ứng chuyển màu gradient bắt mắt , còn Realme 8 5G có hiệu ứng ánh sáng thú vị phát ra từ cụm camera sau .    0
+Thực tế khi mua hoặc nâng cấp một thiết bị di động bạn thường quan tâm đến những yếu tố nào ?	0
 [[];[];[];[];[]]
-Cuối cùng , Galaxy M32 5G có thiết kế phía sau rất đẹp với các cảm biến được đặt trực tiếp trong vỏ và không có mô-đun máy ảnh .    0
+Thiết kế , hiệu năng , camera và pin hay đơn giản hơn chỉ là thương hiệu ?	0
 [[];[];[];[];[]]
-Galaxy M32 5G có chất lượng màn hình kém hơn 2 mẫu máy còn lại .    1
-[[1&&Galaxy 2&&M32 3&&5G];[11&&2 12&&mẫu 13&&máy 14&&còn 15&&lại];[5&&chất 6&&lượng 7&&màn 8&&hình];[9&&kém 10&&hơn];[5]]
-Điều này là do di động Samsung sử dụng màn hình TFT , trong khi Redmi Note 11 và Realme 8 5G đi kèm với tấm nền IPS tốt hơn .    1
-[[16&&Redmi 17&&Note 18&&11];[7&&Samsung];[26&&tấm 27&&nền];[29&&tốt 30&&hơn];[4]]
-[[20&&Realme 21&&8 22&&5G];[7&&Samsung];[26&&tấm 27&&nền];[29&&tốt 30&&hơn];[4]]
-Hơn nữa , màn hình di động Samsung có độ phân giải HD + thấp hơn và tốc độ làm mới t60Hz tiêu chuẩn .    1
-[[4&&màn 5&&hình 6&&di 7&&động 8&&Samsung];[];[10&&độ 11&&phân 12&&giải];[15&&thấp 16&&hơn];[5]]
-Với Redmi Note 11 và Realme 8 5G , bạn sẽ có được độ phân giải Full-HD + và tốc độ làm mới 90H z cao hơn .    1
-[[2&&Redmi 3&&Note 4&&11];[];[20&&tốc 21&&độ 22&&làm 23&&mới];[25&&cao 26&&hơn];[4]]
-[[6&&Realme 7&&8 8&&5G];[];[20&&tốc 21&&độ 22&&làm 23&&mới];[25&&cao 26&&hơn];[4]]
-Điện thoại Xiaomi có màn hình rộng hơn một chút với kích thước 6.6 inch , trong khi Realme 8 5G dừng ở con số 6.5 inch .    1
-[[1&&Điện 2&&thoại 3&&Xiaomi];[19&&Realme 20&&8];[5&&màn 6&&hình];[7&&rộng 8&&hơn 9&&một 10&&chút];[4]]
-Redmi Note 11 có bộ phận phần cứng tiên tiến nhất vì nó đi kèm với bộ vi xử lý mạnh hơn : Mediatek Dimensity 810 5G mới được xây dựng trên tiến trình 6 nm với xung nhịp tối đa là 2.4 GHz . Con chip này được kết hợp với RAM lên đến 8GB và bộ nhớ trong tối đa 256GB .    1
-[[1&&Redmi 2&&Note 3&&11];[];[5&&bộ 6&&phận 7&&phần 8&&cứng];[9&&tiên 10&&tiến 11&&nhất];[1]]
-[[13&&nó];[];[17&&bộ 18&&vi 19&&xử 20&&lý];[21&&mạnh 22&&hơn];[4]]
-Mặt khác , hai điện thoại còn lại đều sử dụng chipset Mediatek Dimensity 700 , nhưng hiệu năng của Realme 8 5G hứa hẹn nhỉnh hơn một chút so với Galaxy M32 5G vì nó sử dụng bộ nhớ trong chuẩn UFS 2.1 nhanh hơn .    1
-[[4&&hai 5&&điện 6&&thoại 7&&còn 8&&lại];[4&&hai 5&&điện 6&&thoại 7&&còn 8&&lại];[12&&chipset 13&&Mediatek 14&&Dimensity 15&&700];[9&&đều 10&&sử 11&&dụng];[0]]
-[[21&&Realme 22&&8 23&&5G];[32&&Galaxy 33&&M32 34&&5G];[18&&hiệu 19&&năng];[26&&nhỉnh 27&&hơn 28&&một 29&&chút];[4]]
-[[21&&Realme 22&&8 23&&5G];[32&&Galaxy 33&&M32 34&&5G];[39&&bộ 40&&nhớ 41&&trong];[45&&nhanh 46&&hơn];[4]]
-Về phần mềm , tất cả các điện thoại này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng .    1
-[[5&&tất 6&&cả 7&&các 8&&điện 9&&thoại 10&&này];[];[2&&phần 3&&mềm];[11&&đều 12&&chạy 13&&trên 14&&hệ 15&&điều 16&&hành 17&&Android 18&&11];[0]]
-Trong ba smartphone này , Galaxy M32 5G có hệ thống máy ảnh linh hoạt nhất .    1
-[[6&&Galaxy 7&&M32 8&&5G];[];[10&&hệ 11&&thống 12&&máy 13&&ảnh];[14&&linh 15&&hoạt 16&&nhất];[1]]
-Di động Samsung sở hữu hệ thống 4 camera sau , bao gồm cảm biến chính 48MP , ống kính góc siêu rộng 8MP , camera macro 5MP và cảm biến độ sâu 2MP .    0
+Mặc dù đây không được đánh giá là chiếc iPhone tốt nhất trong tầm giá nhưng lại là chiếc Smartphone cân bằng giữa nhiều yếu tố .	0
 [[];[];[];[];[]]
-Redmi Note 11 chỉ có hai camera ở phía sau , nhưng camera chính vượt trội hơn vì nó sử dụng cảm biến 50MP mới hơn mang lại chất lượng ảnh tốt hơn .    1
-[[13&&camera 14&&chính];[];[];[15&&vượt 16&&trội 17&&hơn];[4]]
-[[13&&camera 14&&chính];[];[29&&chất 30&&lượng 31&&ảnh];[32&&tốt 33&&hơn];[4]]
-[[19&&nó];[];[22&&cảm 23&&biến];[25&&mới 26&&hơn];[4]]
-Realme 8 5G thua cuộc vì thiếu camera siêu rộng .    0
+Hãy cùng Mobileworld review iPhone 14 , qua bài viết bên dưới nhé !	0
 [[];[];[];[];[]]
-Cả ba smartphone này đều sở hữu viên pin có dung lượng khá tốt là 5,000 mAh . Nhưng Samsung Galaxy M32 5G sẽ cung cấp thời lượng pin lâu hơn vì nó đi kèm màn hình hỗ trợ độ phân giải và tốc độ làm mới thấp hơn .    1
-[[20&&Samsung 21&&Galaxy 22&&M32 23&&5G];[];[27&&thời 28&&lượng 29&&pin];[30&&lâu 31&&hơn];[4]]
-[[33&&nó];[];[40&&độ 41&&phân 42&&giải];[48&&thấp 49&&hơn];[5]]
-[[33&&nó];[];[44&&tốc 45&&độ 46&&làm 47&&mới];[48&&thấp 49&&hơn];[5]]
-Redmi Note 11 có sạc nhanh hơn ( 33W ) .    1
-[[1&&Redmi 2&&Note 3&&11];[];[5&&sạc];[6&&nhanh 7&&hơn];[4]]
-Qua bài so sánh trên , có thể thấy Redmi Note 11 nổi bật và đáng mua hơn hai mẫu máy còn lại .    1
-[[10&&Redmi 11&&Note 12&&11];[19&&hai 20&&mẫu 21&&máy 22&&còn 23&&lại];[];[13&&nổi 14&&bật];[4]]
-[[10&&Redmi 11&&Note 12&&11];[19&&hai 20&&mẫu 21&&máy 22&&còn 23&&lại];[];[16&&đáng 17&&mua 18&&hơn];[4]]
-Điện thoại này sở hữu màn hình đục lỗ bắt mắt , trông hiện đại hơn , màn hình chất lượng , phần cứng mạnh mẽ , camera chính chất lượng và sạc nhanh hơn hai điện thoại còn lại .    1
-[[1&&Điện 2&&thoại 3&&này];[36&&hai 37&&điện 38&&thoại 39&&còn 40&&lại];[6&&màn 7&&hình];[14&&hiện 15&&đại 16&&hơn];[4]]
-[[1&&Điện 2&&thoại 3&&này];[36&&hai 37&&điện 38&&thoại 39&&còn 40&&lại];[33&&sạc];[34&&nhanh 35&&hơn];[4]]
-Điện thoại Samsung là thương hiệu nổi tiếng đến từ Hàn Quốc , với nhiều dòng điện thoại nổi tiếng ở nhiều phân khúc khác nhau .    0
+alt :	0
 [[];[];[];[];[]]
-Mới đây , Samsung vừa cho ra mắt dòng điện thoại Samsung Galaxy A14 5G .    0
+des :	0
 [[];[];[];[];[]]
-Samsung Galaxy A14 5G có thể là chiếc smartphone đầu tiên của năm 2023 được nhà sản xuất đến từ Hàn Quốc phát hành chính thức ở Việt Nam , lấy cảm hứng thiết kế từ những mẫu điện thoại Samsung dòng A trước đây với mặt lưng phẳng , màn hình giọt nước cùng cụm camera xếp dọc .    0
+Thiết kế đẹp mắt nhưng không có sự khác biệt	0
 [[];[];[];[];[]]
-Kích thước màn hình thì sẽ là 6.6 inch nên bạn có thể thoải mái hơn trong việc xem phim trên một không gian lớn .    1
-[[];[];[19&&xem 20&&phim];[14&&thoải 15&&mái 16&&hơn];[4]]
-Bên cạnh đó thì hãng còn hỗ trợ thêm cho máy tần số quét 90 Hz , nó giúp bạn có thể thao tác mượt mà hơn với những cử chỉ cuộn / lướt quen thuộc hằng ngày .    1
-[[11&&máy];[];[23&&thao 24&&tác];[25&&mượt 26&&mà 27&&hơn];[4]]
-Điện thoại Samsung Galaxy A14 5G được làm chủ yếu từ nhựa và hoàn thiện theo kiểu vân nổi bao phủ lên toàn bộ phần mặt lưng , điều này vừa giúp máy tăng thêm độ bền bỉ nhưng cũng vừa giúp bạn có thể cầm nắm chắc hơn .    0
+Nhìn chung , về thiết kế của iPhone 14 thì không có sự khác biệt gì quá nhiều so với phiên bản tiền nhiệm là iPhone 13 .	1
+[[8&&iPhone 9&&14];[26&&iPhone 27&&13];[5&&thiết 6&&kế];[11&&không 12&&có 13&&sự 14&&khác 15&&biệt 16&&gì 17&&quá 18&&nhiều];[0]]
+Mặt lưng máy được vát phẳng , phần khung viền thì được thiết kế vuông vức và bo cong nhẹ nhàng giúp tăng tính mềm mại nhưng vẫn giữ được sự sang trọng , cao cấp vốn có .	0
 [[];[];[];[];[]]
-Mẫu điện thoại có thiết kế vuông sang trọng , tinh tế không khác gì những chiếc smartphone cao cấp trên thị trường .    1
-[[1&&Mẫu 2&&điện 3&&thoại];[16&&những 17&&chiếc 18&&smartphone 19&&cao 20&&cấp 21&&trên 22&&thị 23&&trường];[5&&thiết 6&&kế 7&&vuông];[8&&sang 9&&trọng 10&&, 11&&tinh 12&&tế 13&&không 14&&khác 15&&gì];[0]]
-Phần camera được làm liền mạch cùng khung nguyên khối , tạo cảm giác cầm nắm chắc chắn , vừa vặn .    0
+Thực tế khi trải nghiệm iPhone 14 thì cho người dùng cảm giác cầm nắm khá chắc chắn , đầm tay và rất thoải mái .	0
 [[];[];[];[];[]]
-Cảm biến vân tay được đặt ngay nút nguồn , giúp việc mở khóa nhanh chóng , tiện lợi và an toàn .    0
+Nhìn tổng thể , thì với kích thước như vậy là khá tối ưu , không quá nhỏ cũng không quá to , dù tay bạn lớn hay nhỏ thì cũng có thể cầm nắm được dễ dàng .	0
 [[];[];[];[];[]]
-Tấm nền PLS LCD với ưu điểm là tái hiện hình ảnh có độ sáng cao , màu sắc trung thực và góc nhìn rộng .    0
+Tương tự , thì hệ thống camera vẫn giữ nguyên thiết kế với 2 camera được đặt chéo nhau và được làm nhô lên so với mặt lưng của máy .	1
+[[5&&hệ 6&&thống 7&&camera];[];[11&&thiết 12&&kế];[9&&giữ 10&&nguyên];[0]]
+Phần mô-đun chứa cụm camera được làm trong suốt nhằm tăng sự đồng bộ nhưng vẫn nổi bật .	0
 [[];[];[];[];[]]
-Về độ chi tiết thì hình ảnh hiển thị trên điện thoại là cực kỳ sắc nét nhờ có độ phân giải Full HD + .    0
+Chính giữa mặt sau là nơi đặt logo quả táo quen thuộc thường thấy .	0
 [[];[];[];[];[]]
-Hơn hết , Samsung cũng tích hợp sẵn tần số quét 90H z cho trải nghiệm mượt mà , hơn hẳn các đại diện khác chỉ có 60H z , giúp bạn hạn chế tình trạng răng cưa hay hỗ trợ cài đặt nhiều mức đồ họa cao hơn khi chơi game .    1
-[[4&&Samsung];[21&&các 22&&đại 23&&diện 24&&khác];[9&&tần 10&&số 11&&quét];[19&&hơn 20&&hẳn];[4]]
-Trong đó , camera chính đạt độ phân giải 50MP cho ảnh sắc nét và rõ ràng .    0
+So với iPhone 13 , thì rất khó để nhận ra sự khác biệt giữa 2 thế hệ này qua vẻ bề ngoài , thậm chí ngay cả những phần mềm bên trong cũng không có quá nhiều sự khác biệt .	1
+[[16&&2 17&&thế 18&&hệ 19&&này];[16&&2 17&&thế 18&&hệ 19&&này];[21&&vẻ 22&&bề 23&&ngoài];[8&&khó 9&&để 10&&nhận 11&&ra 12&&sự 13&&khác 14&&biệt];[0]]
+[[16&&2 17&&thế 18&&hệ 19&&này];[16&&2 17&&thế 18&&hệ 19&&này];[29&&những 30&&phần 31&&mềm 32&&bên 33&&trong];[35&&không 36&&có 37&&quá 38&&nhiều 39&&sự 40&&khác 41&&biệt];[0]]
+Trừ khi bạn mua 2 màu khác nhau còn nếu không thì sẽ rất khó để nhận ra .	0
 [[];[];[];[];[]]
-Kèm theo đó sẽ là các tính năng chụp ảnh hữu dụng như siêu độ phân giải , xóa phông hay macro để bạn có thể thỏa sức sáng tạo trước những khung cảnh tuyệt đẹp với đa dạng phong cách chụp hơn .    0
+Ngoài ra , chiếc máy còn được trang bị khả năng chống nước IP68 , có nghĩa là thiết bị có khả năng kháng nước ở độ sâu khoảng 1.5m trong vòng 30 phút .	0
 [[];[];[];[];[]]
-Trang bị trên chiếc điện thoại Samsung Galaxy A14 5G này là con chip MediaTek Dimensity 700 với tám nhân , điều này giúp máy có thể duy trì sự ổn định khi sử dụng các tác vụ từ lướt web , xem phim và cho đến chơi game .    0
+Bạn có thể selfie và sử dụng ở bể bơi mà không hề sợ bị hỏng máy .	0
 [[];[];[];[];[]]
-Đây cũng là phiên bản 5G giá tốt nhất của hãng từ trước đến nay .    1
-[[1&&Đây];[];[7&&giá];[8&&tốt 9&&nhất 10&&của 11&&hãng 12&&từ 13&&trước 14&&đến 15&&nay];[1]]
-Bên cạnh 4 GB RAM có sẵn , người dùng cũng có thể mở rộng RAM bằng tính năng RAM Plus , cho phép tăng lên 4 GB RAM , tổng RAM đạt được là 8 GB .    0
+Mặc dù , đây cũng được xem là 1 điểm khá ấn tượng trên iPhone 13 , nhưng mình khuyên bạn không nên thử điều này với chiếc máy .	0
 [[];[];[];[];[]]
-Cung cấp năng lượng cho điện thoại sẽ là viên pin dung lượng 5000 mAh khá ấn tượng , đủ cho một ngày dài sử dụng trong việc lướt web hay xem phim .    0
+Hiệu năng ấn tượng trên iPhone 14	0
 [[];[];[];[];[]]
-Còn đối với những bạn chỉ sử dụng để nghe gọi hay trả lời tin nhắn thì Galaxy A14 còn có thể đáp ứng khả năng duy trì lên tới hai ngày liên tục .    0
+iPhone 14 được nhà sản xuất sử dụng chipset A15 Bionic được nhà Táo sản xuất dựa trên tiến trình 5nm , có 6 nhân , trong đó 4 nhân là 1.82 GHz Blizzard Avalanche và 2 nhân là 3.23 GHz . Bên cạnh đó , chiếc máy còn được trang bị Apple GPU ( 5 - core graphics ) giúp xử lý hình ảnh và video được tốt hơn .	1
+[[47&&chiếc 48&&máy];[];[62&&xử 63&&lý 64&&hình 65&&ảnh 66&&và 67&&video];[69&&tốt 70&&hơn];[4]]
+Mặc dù , không được Apple trang bị chipset mới nhất nhưng A15 Bionic cũng là một bộ vi xử lý mạnh mẽ bật nhất hiện nay .	1
+[[13&&A15 14&&Bionic];[];[];[22&&mạnh 23&&mẽ 24&&bật 25&&nhất 26&&hiện 27&&nay];[1]]
+Bên cạnh đó , iPhone 14 được nâng cấp bộ nhớ lên đến 6GB RAM cao hơn iPhone 13 đến 2GB RAM , cho khả năng đa nhiệm tốt hơn .	1
+[[5&&iPhone 6&&14];[18&&iPhone 19&&13];[10&&bộ 11&&nhớ];[16&&cao 17&&hơn];[4]]
+[[5&&iPhone 6&&14];[18&&iPhone 19&&13];[25&&khả 26&&năng 27&&đa 28&&nhiệm];[29&&tốt 30&&hơn];[4]]
+Thực sự thì đa nhiệm trên dòng iPhone được rất nhiều người đánh giá là tốt hơn so với dòng Smartphone khác trên thị trường .	1
+[[8&&iPhone];[20&&dòng 21&&Smartphone 22&&khác 23&&trên 24&&thị 25&&trường];[4&&đa 5&&nhiệm];[16&&tốt 17&&hơn];[4]]
+Bạn có thể mở nhiều tác vụ cùng lúc và chuyển qua lại giữa chúng mà không cần phải tải lại .	0
 [[];[];[];[];[]]
-Về tốc độ sạc thì đây không hẳn là một điểm ấn tượng trên Samsung Galaxy A14 5G .    0
+Khi nhìn vào thông số thì bạn sẽ khó nhận biết được sức mạnh của chiếc máy .	0
 [[];[];[];[];[]]
-Máy chỉ được trang bị công suất sạc 15W , mất khoảng 1 tiếng 55 phút là có thể sạc đầy máy rồi .    0
+Chính vì vậy , nếu bạn muốn dễ dàng nhận biết về hiệu năng của iPhone 14 thì hãy kiểm tra qua phần mềm benchmark quen thuộc .	0
+[[];[];[];[];[]]
+alt :	0
+[[];[];[];[];[]]
+des :	0
+[[];[];[];[];[]]
+2.1 . Kiểm tra hiệu năng iPhone 14 thông qua phần mềm benchmark	0
+[[];[];[];[];[]]
+Như thường lệ thì phần kiểm tra đầu tiên là phần Antutu benchmark .	0
+[[];[];[];[];[]]
+Với phần mềm này , thì iPhone 14 đạt điểm cũng khá cao lên đến 830.779 điểm .	0
+[[];[];[];[];[]]
+Trong đó , thì điểm CPU đạt 212.289 điểm , MEM đạt 134.956 điểm , GPU đạt 355.190 điểm và đạt 128.344 điểm UX .	0
+[[];[];[];[];[]]
+Nếu so sánh với một số chipset khác như Dimensity 9000 hay Snapdragon 8 Gen 1 thì có hơi thấp một chút .	1
+[[];[10&&Dimensity 11&&9000];[];[19&&hơi 20&&thấp 21&&một 22&&chút];[5]]
+[[];[13&&Snapdragon 14&&8 15&&Gen 16&&1];[];[19&&hơi 20&&thấp 21&&một 22&&chút];[5]]
+Tuy nhiên , đó chỉ là điểm số còn thực tế thì bạn hãy tự mình trải nghiệm và đánh giá iPhone 14 rõ hơn .	0
+[[];[];[];[];[]]
+Tiếp theo chính là phần mềm Geekbench 5 , đây là phần mềm thường dùng để đo hiệu suất hoạt động đa nhân và đơn nhân của CPU .	0
+[[];[];[];[];[]]
+Với bài kiểm tra này thì iPhone 14 đạt được 4.668 điểm đa nhân và 1.685 điểm đơn nhân .	0
+[[];[];[];[];[]]
+Số điểm này cao hơn rất nhiều so với Snapdragon 8 Gen 1 ( 3.578 điểm đa nhân và 1.238 điểm đơn nhân ) và Dimensity 9000 ( 4.207 điểm đa nhân và 1.264 điểm đơn nhân ) .	1
+[[];[10&&Snapdragon 11&&8 12&&Gen 13&&1];[1&&Số 2&&điểm];[4&&cao 5&&hơn 6&&rất 7&&nhiều];[4]]
+[[];[26&&Dimensity 27&&9000];[1&&Số 2&&điểm];[4&&cao 5&&hơn 6&&rất 7&&nhiều];[4]]
+alt :	0
+[[];[];[];[];[]]
+des :	0
+[[];[];[];[];[]]
+2.2 . Hiệu năng qua nhiều tựa game thực tế	0
+[[];[];[];[];[]]
+Đầu tiên , với tựa game đình đám hiện nay là Liên Quân Mobile , với đồ họa đẹp mắt , lối chơi đa dạng và đặc biệt là không cần hiệu năng phải quá mạnh , nên đây là tựa game có số lượng người chơi đông đảo nhất hiện nay .	0
+[[];[];[];[];[]]
+Đối với tựa game này thì không cần kiểm tra mình cũng biết iPhone 14 có thể dễ dàng cân được với mức đồ họa cao .	0
+[[];[];[];[];[]]
+Thực tế trải nghiệm cho thấy rằng , chiếc máy đáp ứng được một cách dễ dàng với đồ họa siêu đẹp , màu sắc sống động , chi tiết tốt và tốc độ khung hình được duy trì ở mức 60FPS – 61FPS , không có hiện tượng giật lag .	0
+[[];[];[];[];[]]
+Tựa game trải nghiệm tiếp theo chính là PUGB , đây là một tựa game bắn súng sinh tồn được rất nhiều người yêu thích .	0
+[[];[];[];[];[]]
+Với tựa game này thì iPhone 14 có thể cân được ở mức thiết lập “ tốc độ khung hình - cực độ ” và “ đồ họa - HDR ” , thực tế thì bạn có thể chơi ở mức “ đồ họa – ultra HD ” .	0
 [[];[];[];[];[]]
