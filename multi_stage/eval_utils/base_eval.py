@@ -1024,11 +1024,11 @@ class ElementEvaluation(BaseEvaluation):
             return False
 
         if len(candidate_tuple_col) != len(truth_tuple_col):
-            if candidate_tuple_col == truth_tuple_col[:-1]:
+            if np.all(candidate_tuple_col == truth_tuple_col[:-1]):
                 return True
             return False
         else:
-            if candidate_tuple_col == truth_tuple_col:
+            if np.all(candidate_tuple_col == truth_tuple_col):
                 return True
             return False
 
