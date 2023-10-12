@@ -758,8 +758,12 @@ def convert_vi_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
                 if s_index == -1 or e_index == -1:
                     new_tuple_pair.append((-1, -1))
                     continue
-
-                new_s_index, new_e_index = sequence_map[s_index-1][0], sequence_map[e_index-1][-1]
+                
+                try:
+                    new_s_index, new_e_index = sequence_map[s_index][0], sequence_map[e_index][-1]
+                except:
+                    print(sequence_tuple_pair, '\n', sequence_map)    
+                
                 new_tuple_pair.append((new_s_index, new_e_index))
 
             # add polarity.
