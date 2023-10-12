@@ -167,7 +167,11 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
                 if s_index == -1 or e_index == -1:
                     sequence_label[key][elem_index] = [-1, -1]
                 else:
-                    sequence_label[key][elem_index] = [sequence_map[s_index][0], sequence_map[e_index][-1]]
+                    try:
+                        
+                        sequence_label[key][elem_index] = [sequence_map[s_index][0], sequence_map[e_index][-1]]
+                    except:
+                        print(sequence_label, '\n', sequence_map)
 
                 if key == "result":
                     sequence_label[key][elem_index].append(elem_position[-1])
