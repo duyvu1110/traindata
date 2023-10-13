@@ -729,7 +729,8 @@ class ElementEvaluation(BaseEvaluation):
                 prop_correct_num[elem] += cur_prop_num[0]
                 binary_correct_num[elem] += cur_binary_num[0]
 
-        # print(gold_num)
+        print(gold_num)
+        print(predict_num)
         # calculate f-score.
         exact_measure = self.get_f_score(gold_num, predict_num, exact_correct_num, multi_elem_score)
         prop_measure = self.get_f_score(gold_num, predict_num, prop_correct_num, multi_elem_score)
