@@ -10,8 +10,8 @@ class BaseEvaluation(object):
     def __init__(self, config, elem_col=None, ids_to_tags=None, fold=0, save_model=False):
         """
         :param config: program config table.
-        :param elem_col: ["subject", "object", "aspect", "scale", "predicate"].
-        :param ids_to_tags: {0: "O", 1: "B-subject"}.
+        :param elem_col: ["entity_1", "entity_2", "aspect", "scale", "predicate"].
+        :param ids_to_tags: {0: "O", 1: "B-entity_1"}.
         :param save_model: True denote save model by optimize exact measure.
         """
         self.config = config
@@ -112,13 +112,13 @@ class BaseEvaluation(object):
         elem_label_ids, result_label_ids = target
         for i in range(len(result_label_ids)):
             seq_elem = self.sequence_label_convert_dict(
-                result_label_ids[i], {}, "predicate"
+                result_label_ids[i], {}, "result"
             )
             elem_col.append(seq_elem)
 
         assert len(elem_col) == len(elem_label_ids), "label length error!"
 
-        elem_key = ["subject", "object", "aspect", "predicate"]
+        elem_key = ["entity_1", "entity_2", "aspect", "result"]
 
         for i in range(len(elem_col)):
             for j in range(len(elem_label_ids[i])):
@@ -301,7 +301,7 @@ class BaseEvaluation(object):
         if not multi_elem_score:
             return result_dict
 
-        base_elem_col = ["subject", "object", "aspect", "predicate"]
+        base_elem_col = ["entity_1", "entity_2", "aspect", "result"]
 
         result_dict = self.get_macro_measure(result_dict, base_elem_col, elem_name="macro")
         result_dict = self.get_micro_measure(
@@ -416,14 +416,14 @@ class BaseEvaluation(object):
         correct_num, null_pair = 0.0, [(-1, -1)] * 5
 
         for gold_index in range(len(gold_col)):
-            if np.all(gold_col[gold_index] == null_pair):
+            if gold_col[gold_index] == null_pair:
                 continue
 
             for predict_index in range(len(predict_col)):
-                if polarity and np.all(gold_col[gold_index] == predict_col[predict_index]):
+                if polarity and gold_col[gold_index] == predict_col[predict_index]:
                     correct_num += 1
                     break
-                elif not polarity and np.all(gold_col[gold_index][: -1] == predict_col[predict_index]):
+                elif not polarity and gold_col[gold_index][: -1] == predict_col[predict_index]:
                     correct_num += 1
                     break
 
@@ -440,7 +440,7 @@ class BaseEvaluation(object):
         correct_num, null_pair = 0.0, [(-1, -1)] * 5
 
         for gold_index in range(len(gold_col)):
-            if np.all(gold_col[gold_index] == null_pair):
+            if gold_col[gold_index] == null_pair:
                 continue
 
             for predict_index in range(len(predict_col)):
@@ -464,7 +464,7 @@ class BaseEvaluation(object):
         gold_elem_length, cover_elem_length = 0, 0
 
         for index in range(4):
-            if np.all(gold_tuple_pair[index] == null_elem) and np.all(predict_tuple_pair[index] == null_elem):
+            if gold_tuple_pair[index] == null_elem and predict_tuple_pair[index] == null_elem:
                 continue
 
             cur_gold_length = gold_tuple_pair[index][1] - gold_tuple_pair[index][0]
@@ -552,7 +552,7 @@ class BaseEvaluation(object):
         """
         elem_str = "["
 
-        cur_elem_col = ["subject", "object", "aspect", "predicate"]
+        cur_elem_col = ["entity_1", "entity_2", "aspect", "result"]
         for index, elem in enumerate(cur_elem_col):
             elem_str += "["
             for elem_index, elem_representation in enumerate(data_dict[elem]):
@@ -729,8 +729,8 @@ class ElementEvaluation(BaseEvaluation):
                 prop_correct_num[elem] += cur_prop_num[0]
                 binary_correct_num[elem] += cur_binary_num[0]
 
-        print('gold_num', gold_num)
-        print('predict_num', predict_num)
+        print(gold_num)
+        print(predict_num)
         # calculate f-score.
         exact_measure = self.get_f_score(gold_num, predict_num, exact_correct_num, multi_elem_score)
         prop_measure = self.get_f_score(gold_num, predict_num, prop_correct_num, multi_elem_score)
@@ -919,7 +919,7 @@ class ElementEvaluation(BaseEvaluation):
 
         candidate_pair_col = []
 
-        # elem_col = {"subject", "object", "aspect", "predicate"}
+        # elem_col = {"entity_1", "entity_2", "aspect", "result"}
         for index in range(len(self.predict_dict)):
             cur_candidate_pair_col = []
             cur_predict_elem_dict = self.predict_dict[index]
@@ -1020,16 +1020,15 @@ class ElementEvaluation(BaseEvaluation):
 
     @staticmethod
     def is_equal_tuple_pair(candidate_tuple_col, truth_tuple_col, null_pair):
-        if np.all(truth_tuple_col == null_pair):
-        # if np.array_equal(truth_tuple_col, np.array(null_pair)):
+        if truth_tuple_col == null_pair:
             return False
 
         if len(candidate_tuple_col) != len(truth_tuple_col):
-            if np.all(candidate_tuple_col == truth_tuple_col[:-1]):
+            if candidate_tuple_col == truth_tuple_col[:-1]:
                 return True
             return False
         else:
-            if np.all(candidate_tuple_col == truth_tuple_col):
+            if candidate_tuple_col == truth_tuple_col:
                 return True
             return False
 
@@ -1039,7 +1038,7 @@ class ElementEvaluation(BaseEvaluation):
         :param truth_pair_label: shape is [n, tuple_pair_num, tuple_pair]
         :return:
         """
-        pair_label_col, null_pair = [], [(-1,-1)]*5
+        pair_label_col, null_pair = [], [(-1, -1)] * 5
         for i in range(len(candidate_col)):
             # cartesian product pair num
             is_pair_label = []
@@ -1047,8 +1046,6 @@ class ElementEvaluation(BaseEvaluation):
                 # truth predicate pair num
                 isExist = False
                 for k in range(len(truth_pair_label[i])):
-                    # print(candidate_col[i][j], '\n', truth_pair_label[i][k])
-                    # print(type(candidate_col[i][j]), type(truth_pair_label[i][k]))
                     if self.is_equal_tuple_pair(candidate_col[i][j], truth_pair_label[i][k], null_pair):
                         isExist = True
 
@@ -1096,7 +1093,7 @@ class PairEvaluation(BaseEvaluation):
         for index in range(len(self.gold_pair_col)):
             gold_sequence_pair_col = self.gold_pair_col[index]
             predict_sequence_pair_col = predict_tuple_pair_col[index]
-            
+
             gold_num['pair'] += self.get_effective_pair_num(gold_sequence_pair_col)
             predict_num['pair'] += self.get_effective_pair_num(predict_sequence_pair_col)
 
@@ -1173,9 +1170,8 @@ class PairEvaluation(BaseEvaluation):
         elem_length = len(tuple_pair_col[0]) if len(tuple_pair_col) != 0 else 5
         null_pair, pair_num = [(-1, -1)] * elem_length, 0
         for index in range(len(tuple_pair_col)):
-            if np.all(tuple_pair_col[index] == null_pair):
+            if tuple_pair_col[index] == null_pair:
                 continue
-            # if np.all(tuple_pair_col != null_pair):
             pair_num += 1
         return pair_num
 
