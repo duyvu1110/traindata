@@ -1174,7 +1174,7 @@ class PairEvaluation(BaseEvaluation):
         for index in range(len(tuple_pair_col)):
             # if np.all(tuple_pair_col[index] == null_pair):
             #     continue
-            if tuple_pair_col != null_pair:
+            if np.all(tuple_pair_col != null_pair):
                 pair_num += 1
         return pair_num
 
