@@ -479,7 +479,7 @@ class BaseEvaluation(object):
             else:
                 return False, 0
 
-        if polarity and gold_tuple_pair[-1] != predict_tuple_pair[-1]:
+        if polarity and np.all(gold_tuple_pair[-1] != predict_tuple_pair[-1]):
             return False, 0
 
         return True, cover_elem_length / gold_elem_length if gold_elem_length != 0 else 0
