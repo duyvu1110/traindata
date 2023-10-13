@@ -262,7 +262,7 @@ def main():
 
     elif config.program_mode == "test" and config.stage_model == "first":
         dev_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult//" + model_name + "/dev_elem_result.txt",
-                          "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + model_name + "/dev_model"]
+                          "/kaggle/working/COQE_test/multi_stage/PreTrainModel//" + model_name + "/dev_model"]
 
         print("========================test==========================")
         predicate_model = torch.load(dev_parameters[-1])
@@ -304,7 +304,7 @@ def main():
         # else:
         #     cross_model_name = model_name.replace("car", "ele")
 
-        pre_train_model_path = "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + cross_model_name + "/dev_model"
+        pre_train_model_path = "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + cross_model_name + "/dev_model"
 
         if not os.path.exists(pre_train_model_path):
             print("[ERROR] pre-train model isn't exist")
@@ -332,10 +332,10 @@ def main():
             )
 
         dev_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/dev_pair_result.txt",
-                               "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + cross_model_name + "/dev_pair_model"]
+                               "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + cross_model_name + "/dev_pair_model"]
 
         dev_polarity_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/dev_polarity_result.txt",
-                                   "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + cross_model_name + "/dev_polarity_model"]
+                                   "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + cross_model_name + "/dev_polarity_model"]
 
         test_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/test_pair_result.txt", None]
         test_polarity_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/test_pair_result.txt", None]
@@ -388,7 +388,7 @@ def main():
             ids_to_tags=config.val.invert_norm_id_map
         )
 
-        pre_train_model_path = "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + model_name + "/dev_model"
+        pre_train_model_path = "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + model_name + "/dev_model"
 
         if not os.path.exists(pre_train_model_path):
             print("[ERROR] pre-train model isn't exist")

@@ -202,7 +202,7 @@ def first_stage_model_main(
     optimizer = OPTIM2FN[config.model_mode](optimizer_need_model, optimizer_parameters)
 
     dev_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/dev_elem_result.txt",
-                      "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + model_name + "/dev_model"]
+                      "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + model_name + "/dev_model"]
 
     # train and test model.
     for epoch in range(config.epochs):
@@ -278,10 +278,10 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
         polarity_optimizer = optimizer_utils.Logistic_Optim(polarity_model, optimizer_parameters)
 
     dev_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/dev_pair_result.txt",
-                           "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + model_name + "/dev_pair_model"]
+                           "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + model_name + "/dev_pair_model"]
 
     dev_polarity_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/dev_polarity_result.txt",
-                               "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + model_name + "/dev_polarity_model"]
+                               "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + model_name + "/dev_polarity_model"]
 
     for epoch in range(5):
         pair_stage_model_train(pair_model, pair_optimizer, train_pair_loader, config, epoch)
