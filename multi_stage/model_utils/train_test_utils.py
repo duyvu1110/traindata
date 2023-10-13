@@ -149,6 +149,7 @@ def pair_stage_model_test(
             pair_representation = torch.tensor(pair_representation).float().to(config.device)
 
             pair_out = model(pair_representation).view(-1)
+            print(pair_out)
             # print(pair_representation, '\n', 'before', pair_out)
             if torch.equal(pair_representation, torch.zeros_like(pair_representation)):
                 pair_out = torch.zeros(pair_out.size())
