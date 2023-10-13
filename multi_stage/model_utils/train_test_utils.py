@@ -201,8 +201,8 @@ def first_stage_model_main(
     OPTIM2FN = {"bert": optimizer_utils.Baseline_Optim, "norm": optimizer_utils.LSTMModel_Optim}
     optimizer = OPTIM2FN[config.model_mode](optimizer_need_model, optimizer_parameters)
 
-    dev_parameters = ["./ModelResult/" + model_name + "/dev_elem_result.txt",
-                      "./PreTrainModel/" + model_name + "/dev_model"]
+    dev_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/dev_elem_result.txt",
+                      "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + model_name + "/dev_model"]
 
     # train and test model.
     for epoch in range(config.epochs):
@@ -212,13 +212,13 @@ def first_stage_model_main(
     print("========================================test===================================")
     predicate_model = torch.load(dev_parameters[1])
 
-    test_parameters = ["./ModelResult/" + model_name + "/test_elem_result.txt", None]
+    test_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/test_elem_result.txt", None]
 
     first_stage_model_test(predicate_model, config, test_loader, test_comp_eval, test_parameters)
 
     test_comp_eval.print_elem_result(
         data_gene.test_data_dict['input_ids'], data_gene.test_data_dict['attn_mask'],
-        "./ModelResult/" + model_name + "/test_result_file" + ".txt", drop_span=False
+        "/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/test_result_file" + ".txt", drop_span=False
     )
 
     # add average measure.
@@ -277,11 +277,11 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
         pair_optimizer = optimizer_utils.Logistic_Optim(pair_model, optimizer_parameters)
         polarity_optimizer = optimizer_utils.Logistic_Optim(polarity_model, optimizer_parameters)
 
-    dev_pair_parameters = ["./ModelResult/" + model_name + "/dev_pair_result.txt",
-                           "./PreTrainModel/" + model_name + "/dev_pair_model"]
+    dev_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/dev_pair_result.txt",
+                           "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + model_name + "/dev_pair_model"]
 
-    dev_polarity_parameters = ["./ModelResult/" + model_name + "/dev_polarity_result.txt",
-                               "./PreTrainModel/" + model_name + "/dev_polarity_model"]
+    dev_polarity_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/dev_polarity_result.txt",
+                               "/kaggle/working/COQE_test/multi_stage/PreTrainModel" + model_name + "/dev_polarity_model"]
 
     for epoch in range(5):
         pair_stage_model_train(pair_model, pair_optimizer, train_pair_loader, config, epoch)
@@ -292,7 +292,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
 
     # get optimize pair model.
     predict_pair_model = torch.load(dev_pair_parameters[1])
-    test_pair_parameters = ["./ModelResult/" + model_name + "/test_pair_result.txt", None]
+    test_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/test_pair_result.txt", None]
     pair_stage_model_test(
         predict_pair_model, config, dev_pair_loader, dev_pair_eval,
         test_pair_parameters, mode="pair", polarity=False, initialize=(False, False)
@@ -314,8 +314,8 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     predict_pair_model = torch.load(dev_pair_parameters[1])
     predict_polarity_model = torch.load(dev_polarity_parameters[1])
 
-    test_pair_parameters = ["./ModelResult/" + model_name + "/test_pair_result.txt", None]
-    test_polarity_parameters = ["./ModelResult/" + model_name + "/test_pair_result.txt", None]
+    test_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/test_pair_result.txt", None]
+    test_polarity_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/test_pair_result.txt", None]
 
     pair_stage_model_test(
         predict_pair_model, config, test_pair_loader, test_pair_eval,
@@ -323,7 +323,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     )
 
     shared_utils.calculate_average_measure(test_pair_eval, global_pair_eval)
-    global_pair_eval.avg_model("./ModelResult/" + model_name + "/test_pair_result.txt")
+    global_pair_eval.avg_model("/kaggle/working/COQE_test/multi_stage/ModelResult" + model_name + "/test_pair_result.txt")
     global_pair_eval.store_result_to_csv([model_name], "result.csv")
 
     shared_utils.clear_global_measure(global_pair_eval)

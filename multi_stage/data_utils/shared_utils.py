@@ -108,7 +108,7 @@ def parameters_to_model_name(param_dict):
     """
     assert "config" in param_dict, "must need config parameters."
 
-    result_file, model_file = "./ModelResult/", "./PreTrainModel/"
+    result_file, model_file = "/kaggle/working/COQE_test/multi_stage/ModelResult", "/kaggle/working/COQE_test/multi_stage/PreTrainModel"
 
     config_param = param_dict['config']
     model_param = param_dict['model'] if "model" in param_dict else None
