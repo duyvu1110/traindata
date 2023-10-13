@@ -416,14 +416,14 @@ class BaseEvaluation(object):
         correct_num, null_pair = 0.0, [(-1, -1)] * 5
 
         for gold_index in range(len(gold_col)):
-            if gold_col[gold_index] == null_pair:
+            if np.all(gold_col[gold_index] == null_pair):
                 continue
 
             for predict_index in range(len(predict_col)):
-                if polarity and gold_col[gold_index] == predict_col[predict_index]:
+                if polarity and np.all(gold_col[gold_index] == predict_col[predict_index]):
                     correct_num += 1
                     break
-                elif not polarity and gold_col[gold_index][: -1] == predict_col[predict_index]:
+                elif not polarity and np.all(gold_col[gold_index][: -1] == predict_col[predict_index]):
                     correct_num += 1
                     break
 
@@ -440,7 +440,7 @@ class BaseEvaluation(object):
         correct_num, null_pair = 0.0, [(-1, -1)] * 5
 
         for gold_index in range(len(gold_col)):
-            if gold_col[gold_index] == null_pair:
+            if np.all(gold_col[gold_index] == null_pair):
                 continue
 
             for predict_index in range(len(predict_col)):
@@ -464,7 +464,7 @@ class BaseEvaluation(object):
         gold_elem_length, cover_elem_length = 0, 0
 
         for index in range(4):
-            if gold_tuple_pair[index] == null_elem and predict_tuple_pair[index] == null_elem:
+            if np.all(gold_tuple_pair[index] == null_elem) and np.all(predict_tuple_pair[index] == null_elem):
                 continue
 
             cur_gold_length = gold_tuple_pair[index][1] - gold_tuple_pair[index][0]
@@ -1020,15 +1020,15 @@ class ElementEvaluation(BaseEvaluation):
 
     @staticmethod
     def is_equal_tuple_pair(candidate_tuple_col, truth_tuple_col, null_pair):
-        if truth_tuple_col == null_pair:
+        if np.all(truth_tuple_col == null_pair):
             return False
 
         if len(candidate_tuple_col) != len(truth_tuple_col):
-            if candidate_tuple_col == truth_tuple_col[:-1]:
+            if np.all(candidate_tuple_col == truth_tuple_col[:-1]):
                 return True
             return False
         else:
-            if candidate_tuple_col == truth_tuple_col:
+            if np.all(candidate_tuple_col == truth_tuple_col):
                 return True
             return False
 
@@ -1170,7 +1170,7 @@ class PairEvaluation(BaseEvaluation):
         elem_length = len(tuple_pair_col[0]) if len(tuple_pair_col) != 0 else 5
         null_pair, pair_num = [(-1, -1)] * elem_length, 0
         for index in range(len(tuple_pair_col)):
-            if tuple_pair_col[index] == null_pair:
+            if np.all(tuple_pair_col[index] == null_pair):
                 continue
             pair_num += 1
         return pair_num
