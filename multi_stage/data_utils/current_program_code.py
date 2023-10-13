@@ -172,7 +172,7 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
                     except:
                         print(sequence_label, '\n', sequence_map)
 
-                if key == "result":
+                if key == "predicate":
                     sequence_label[key][elem_index].append(elem_position[-1])
 
         for key in sequence_label.keys():
