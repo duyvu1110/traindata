@@ -15,7 +15,7 @@ class DataGenerator(object):
         :return: input_ids, attn_mask, pos_ids, dep_matrix, dep_label_matrix, label_ids
         """
         self.config = config
-        self.vocab, self.pos_dict = {"pad": 0, "<s>": 1, "</s>": 2}, {"pad": 0}
+        self.vocab, self.pos_dict = {"<pad>": 0, "<s>": 1, "</s>": 2}, {"<pad>": 0}
         self.vocab_index, self.pos_index = 5, 5
         self.token_max_len, self.char_max_len = -1, -1
 

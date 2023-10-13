@@ -11,7 +11,7 @@ class stanfordFeature(object):
         """
         self.sentences_col = sentences
         # using set to store label type
-        self.pos_dict, self.pos_index = {"pad": 0}, 1
+        self.pos_dict, self.pos_index = {"<pad>": 0}, 1
         self.dep_label_dict, self.dep_label_index = {}, 1
         self.vocab = {}
 
