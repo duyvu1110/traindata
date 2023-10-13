@@ -1173,10 +1173,10 @@ class PairEvaluation(BaseEvaluation):
         elem_length = len(tuple_pair_col[0]) if len(tuple_pair_col) != 0 else 5
         null_pair, pair_num = [(-1, -1)] * elem_length, 0
         for index in range(len(tuple_pair_col)):
-            # if np.all(tuple_pair_col[index] == null_pair):
-            #     continue
-            if np.all(tuple_pair_col != null_pair):
-                pair_num += 1
+            if np.all(tuple_pair_col[index] == null_pair):
+                continue
+            # if np.all(tuple_pair_col != null_pair):
+            pair_num += 1
         return pair_num
 
     def add_pair_data(self, match_label):

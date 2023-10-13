@@ -168,7 +168,6 @@ def convert_vi_label_dict_by_mapping(label_col, mapping_col):
                     sequence_label[key][elem_index] = [-1, -1]
                 else:
                     try:
-                        
                         sequence_label[key][elem_index] = [sequence_map[s_index][0], sequence_map[e_index][-1]]
                     except:
                         print(sequence_label, '\n', sequence_map)
