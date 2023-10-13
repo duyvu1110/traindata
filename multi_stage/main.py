@@ -265,7 +265,7 @@ def main():
                           "/kaggle/working/COQE_test/multi_stage/PreTrainModel//" + model_name + "/dev_model"]
 
         print("========================test==========================")
-        predicate_model = torch.load(dev_parameters[-1])
+        predicate_model = torch.load(dev_parameters[1])
 
         test_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_elem_result.txt", None]
 
