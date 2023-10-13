@@ -261,13 +261,13 @@ def main():
         )
 
     elif config.program_mode == "test" and config.stage_model == "first":
-        dev_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult//" + model_name + "/dev_elem_result.txt",
-                          "/kaggle/working/COQE_test/multi_stage/PreTrainModel//" + model_name + "/dev_model"]
+        dev_parameters = ["./ModelResult//" + model_name + "/dev_elem_result.txt",
+                          "./PreTrainModel//" + model_name + "/dev_model"]
 
         print("========================test==========================")
         predicate_model = torch.load(dev_parameters[1])
 
-        test_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_elem_result.txt", None]
+        test_parameters = ["./ModelResult/" + model_name + "/test_elem_result.txt", None]
 
         test_comp_eval = create_eval.create_first_stage_eval(
             config,
@@ -283,7 +283,7 @@ def main():
 
         test_comp_eval.print_elem_result(
             data_gene.test_data_dict['input_ids'], data_gene.test_data_dict['attn_mask'],
-            "/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_result_file" + ".txt", drop_span=False
+            "./ModelResult/" + model_name + "/test_result_file" + ".txt", drop_span=False
         )
 
         # add average measure.
@@ -304,7 +304,7 @@ def main():
         # else:
         #     cross_model_name = model_name.replace("car", "ele")
 
-        pre_train_model_path = "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + cross_model_name + "/dev_model"
+        pre_train_model_path = "./PreTrainModel/" + cross_model_name + "/dev_model"
 
         if not os.path.exists(pre_train_model_path):
             print("[ERROR] pre-train model isn't exist")
@@ -312,7 +312,7 @@ def main():
 
         elem_model = torch.load(pre_train_model_path)
 
-        test_first_process_data_path = "/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
+        test_first_process_data_path = "./ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
 
         if os.path.exists(test_first_process_data_path):
             test_candidate_pair_col, test_pair_representation, test_make_pair_label = \
@@ -331,14 +331,14 @@ def main():
                 test_first_process_data_path
             )
 
-        dev_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/dev_pair_result.txt",
-                               "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + cross_model_name + "/dev_pair_model"]
+        dev_pair_parameters = ["./ModelResult/" + cross_model_name + "/dev_pair_result.txt",
+                               "./PreTrainModel/" + cross_model_name + "/dev_pair_model"]
 
-        dev_polarity_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/dev_polarity_result.txt",
-                                   "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + cross_model_name + "/dev_polarity_model"]
+        dev_polarity_parameters = ["./ModelResult/" + cross_model_name + "/dev_polarity_result.txt",
+                                   "./PreTrainModel/" + cross_model_name + "/dev_polarity_model"]
 
-        test_pair_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/test_pair_result.txt", None]
-        test_polarity_parameters = ["/kaggle/working/COQE_test/multi_stage/ModelResult/" + cross_model_name + "/test_pair_result.txt", None]
+        test_pair_parameters = ["./ModelResult/" + cross_model_name + "/test_pair_result.txt", None]
+        test_polarity_parameters = ["./ModelResult/" + cross_model_name + "/test_pair_result.txt", None]
 
         predict_pair_model = torch.load(dev_pair_parameters[1])
         predict_polarity_model = torch.load(dev_polarity_parameters[1])
@@ -360,7 +360,7 @@ def main():
         )
 
         shared_utils.calculate_average_measure(test_pair_eval, global_pair_eval)
-        global_pair_eval.avg_model("/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_pair_result.txt")
+        global_pair_eval.avg_model("./ModelResult/" + model_name + "/test_pair_result.txt")
         global_pair_eval.store_result_to_csv([model_name], "result.csv")
 
         shared_utils.clear_global_measure(global_pair_eval)
@@ -388,7 +388,7 @@ def main():
             ids_to_tags=config.val.invert_norm_id_map
         )
 
-        pre_train_model_path = "/kaggle/working/COQE_test/multi_stage/PreTrainModel/" + model_name + "/dev_model"
+        pre_train_model_path = "./PreTrainModel/" + model_name + "/dev_model"
 
         if not os.path.exists(pre_train_model_path):
             print("[ERROR] pre-train model isn't exist")
@@ -398,9 +398,9 @@ def main():
 
         print(model_name)
         print('before first process data')
-        train_first_process_data_path = "/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/train_first_data_" + str(feature_type) + ".txt"
-        dev_first_process_data_path = "/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/dev_first_data_" + str(feature_type) + ".txt"
-        test_first_process_data_path = "/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
+        train_first_process_data_path = "./ModelResult/" + model_name + "/train_first_data_" + str(feature_type) + ".txt"
+        dev_first_process_data_path = "./ModelResult/" + model_name + "/dev_first_data_" + str(feature_type) + ".txt"
+        test_first_process_data_path = "./ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
 
         # print(data_gene.train_data_dict['tuple_pair_col'])
         
@@ -497,10 +497,10 @@ def main():
         )
 
     if config.stage_model == "first":
-        global_eval.avg_model("/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_extraction_result.txt")
+        global_eval.avg_model("./ModelResult/" + model_name + "/test_extraction_result.txt")
         global_eval.store_result_to_csv([model_name], "result.csv")
     else:
-        global_pair_eval.avg_model("/kaggle/working/COQE_test/multi_stage/ModelResult/" + model_name + "/test_pair_result.txt")
+        global_pair_eval.avg_model("./ModelResult/" + model_name + "/test_pair_result.txt")
         global_pair_eval.store_result_to_csv([model_name], "result.csv")
 
 
