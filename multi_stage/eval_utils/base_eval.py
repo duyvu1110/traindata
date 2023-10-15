@@ -894,14 +894,15 @@ class ElementEvaluation(BaseEvaluation):
                 token_list = shared_utils.bert_data_transfer(
                     self.bert_tokenizer, input_ids[index][mask[index] == 1], data_type="ids"
                 )
-
+            
+            print('token_list', '\n', token_list)
             write_str += " ".join(token_list) + "\n"
-
+            print('predict', '\n', self.predict_dict[index])
             write_str += self.elem_dict_to_string(token_list, self.predict_dict[index]) + "\n"
             write_str += self.elem_dict_to_string(token_list, self.gold_dict[index]) + "\n"
 
-        with open(write_path, "w", encoding='utf-8', errors='ignore') as f:
-            f.write(write_str)
+        with open(write_path, "w", encoding='utf-8') as f:
+            f.write(str(write_str))
 
     ####################################################################################################################
     # Generate make pair model data
