@@ -1112,9 +1112,9 @@ class PairEvaluation(BaseEvaluation):
             assert cur_exact_num <= cur_prop_num <= cur_binary_num, "eval calculate error!"
             assert cur_fake_exact_num <= cur_fake_prop_num <= cur_fake_binary_num, "eval calculate error!"
 
-            # tuple_str += self.print_tuple_pair(
-            #     gold_sequence_pair_col, predict_sequence_pair_col, [cur_exact_num, cur_binary_num]
-            # )
+            tuple_str += self.print_tuple_pair(
+                gold_sequence_pair_col, predict_sequence_pair_col, [cur_exact_num, cur_binary_num]
+            )
 
             exact_correct_num['pair'] += cur_exact_num
             prop_correct_num['pair'] += cur_prop_num
@@ -1124,8 +1124,8 @@ class PairEvaluation(BaseEvaluation):
             prop_correct_num['init_pair'] += cur_fake_prop_num
             binary_correct_num['init_pair'] += cur_fake_binary_num
 
-        # with open("./tuple_pair_output.txt", "w", encoding='utf-8') as f:
-        #     f.write(tuple_str)
+        with open("./tuple_pair_output.txt", "w", encoding='utf-8') as f:
+            f.write(tuple_str)
 
         print(gold_num, predict_num)
 
