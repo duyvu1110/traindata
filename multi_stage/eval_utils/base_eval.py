@@ -896,7 +896,7 @@ class ElementEvaluation(BaseEvaluation):
                 )
             
             # print('token_list', '\n', token_list)
-            write_str += " ".join(sentences[index]) + "\n"
+            write_str += sentences[index] + "\n"
             
             write_str += self.elem_dict_to_string(token_list, self.predict_dict[index]) + "\n"
             write_str += self.elem_dict_to_string(token_list, self.gold_dict[index]) + "\n"
