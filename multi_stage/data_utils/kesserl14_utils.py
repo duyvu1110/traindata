@@ -35,7 +35,8 @@ class DataGenerator(object):
         data_dict = {}
 
         sent_col, sent_label_col, label_col = cpc.read_standard_file(data_path)
-
+        if(data_type == 'test'): 
+            data_dict['sentences'] = sent_col
         LP = LabelParser(label_col, ["subject", "object", "aspect", "predicate"])
         label_col, tuple_pair_col = LP.parse_sequence_label("&&", sent_col, file_type="en")
 
@@ -174,7 +175,7 @@ class DataGenerator(object):
         :param data_dict:
         :return:
         """
-        key_col = ["input_ids", "attn_mask", "tuple_pair_col", "result_label", "multi_label", "comparative_label"]
+        key_col = ["sentences", "input_ids", "attn_mask", "tuple_pair_col", "result_label", "multi_label", "comparative_label"]
 
         for key in key_col:
             data_dict[key] = np.array(data_dict[key])

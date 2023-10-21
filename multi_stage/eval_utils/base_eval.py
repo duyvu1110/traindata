@@ -873,7 +873,7 @@ class ElementEvaluation(BaseEvaluation):
 
         return measure
 
-    def print_elem_result(self, input_ids, mask, write_path, drop_span=True):
+    def print_elem_result(self, sentences, input_ids, mask, write_path, drop_span=True):
         """
         :param input_ids: [n, sequence_length]
         :param mask:
@@ -895,8 +895,8 @@ class ElementEvaluation(BaseEvaluation):
                     self.bert_tokenizer, input_ids[index][mask[index] == 1], data_type="ids"
                 )
             
-            print('token_list', '\n', token_list)
-            write_str += " ".join(token_list) + "\n"
+            # print('token_list', '\n', token_list)
+            write_str += " ".join(sentences[index]) + "\n"
             
             write_str += self.elem_dict_to_string(token_list, self.predict_dict[index]) + "\n"
             write_str += self.elem_dict_to_string(token_list, self.gold_dict[index]) + "\n"

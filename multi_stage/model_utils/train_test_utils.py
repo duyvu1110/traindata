@@ -217,7 +217,7 @@ def first_stage_model_main(
     first_stage_model_test(predicate_model, config, test_loader, test_comp_eval, test_parameters)
 
     test_comp_eval.print_elem_result(
-        data_gene.test_data_dict['input_ids'], data_gene.test_data_dict['attn_mask'],
+        data_gene.test_data_dict['sentences'], data_gene.test_data_dict['input_ids'], data_gene.test_data_dict['attn_mask'],
         "./ModelResult/" + model_name + "/test_result_file" + ".txt", drop_span=False
     )
 
