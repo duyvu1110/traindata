@@ -897,10 +897,10 @@ class ElementEvaluation(BaseEvaluation):
             
             print('token_list', '\n', token_list)
             write_str += " ".join(token_list) + "\n"
-            print('predict', '\n', self.predict_dict[index])
+            
             write_str += self.elem_dict_to_string(token_list, self.predict_dict[index]) + "\n"
             write_str += self.elem_dict_to_string(token_list, self.gold_dict[index]) + "\n"
-
+            print('predict', '\n', self.predict_dict[index])
         with open(write_path, "w", encoding='utf-8') as f:
             f.write(str(write_str))
 

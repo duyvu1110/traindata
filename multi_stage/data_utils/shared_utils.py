@@ -391,7 +391,7 @@ def bert_data_transfer(bert_tokenizer, input_tokens, data_type="tokens"):
 
     if not isinstance(input_tokens, list):
         input_tokens = input_tokens.tolist()
-
+    print('input_tokens', input_tokens[0])
     for seq_tokens in input_tokens:
         if data_type == "tokens":
             result_data.append(bert_tokenizer.convert_tokens_to_ids(seq_tokens))

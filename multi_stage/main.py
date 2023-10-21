@@ -495,7 +495,7 @@ def main():
             [train_polarity_representation, train_polarity_label],
             model_parameters, optimizer_parameters, model_name, feature_type
         )
-    print('keys', data_gene.test_data_dict.key())
+    print('keys', data_gene.test_data_dict.keys())
     if config.stage_model == "first":
         global_eval.avg_model("./ModelResult/" + model_name + "/test_extraction_result.txt")
         global_eval.store_result_to_csv([model_name], "result.csv")
