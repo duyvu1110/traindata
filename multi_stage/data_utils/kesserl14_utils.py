@@ -176,7 +176,7 @@ class DataGenerator(object):
         :return:
         """
         key_col = ["input_ids", "attn_mask", "tuple_pair_col", "result_label", "multi_label", "comparative_label"]
-        if _type == 'train':
+        if _type == 'test':
             key_col.insert(0, 'sentences')
             
         for key in key_col:
