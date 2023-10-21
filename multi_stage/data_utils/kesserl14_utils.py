@@ -140,9 +140,9 @@ class DataGenerator(object):
         self.dev_data_dict = self.padding_data_dict(self.dev_data_dict)
         self.test_data_dict = self.padding_data_dict(self.test_data_dict)
 
-        self.train_data_dict = self.data_dict_to_numpy(self.train_data_dict)
-        self.dev_data_dict = self.data_dict_to_numpy(self.dev_data_dict)
-        self.test_data_dict = self.data_dict_to_numpy(self.test_data_dict)
+        self.train_data_dict = self.data_dict_to_numpy(self.train_data_dict, 'train')
+        self.dev_data_dict = self.data_dict_to_numpy(self.dev_data_dict, 'dev')
+        self.test_data_dict = self.data_dict_to_numpy(self.test_data_dict, 'train')
 
     def padding_data_dict(self, data_dict):
         """
@@ -170,13 +170,15 @@ class DataGenerator(object):
         return data_dict
 
     @staticmethod
-    def data_dict_to_numpy(data_dict):
+    def data_dict_to_numpy(data_dict, _type):
         """
         :param data_dict:
         :return:
         """
-        key_col = ["sentences", "input_ids", "attn_mask", "tuple_pair_col", "result_label", "multi_label", "comparative_label"]
-
+        key_col = ["input_ids", "attn_mask", "tuple_pair_col", "result_label", "multi_label", "comparative_label"]
+        if _type == 'train':
+            key_col.insert(0, 'sentences')
+            
         for key in key_col:
             data_dict[key] = np.array(data_dict[key])
             print(key, data_dict[key].shape)
