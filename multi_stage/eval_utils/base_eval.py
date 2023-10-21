@@ -1275,7 +1275,7 @@ class PairEvaluation(BaseEvaluation):
         for index in range(len(gold_tuple_pair)):
             write_str += self.tuple_pair_to_string(gold_tuple_pair[index])
 
-        write_str += "----------------------------------\n"
+        write_str += "----------------------------------" + '\n'
 
         for index in range(len(predict_tuple_pair)):
             write_str += self.tuple_pair_to_string(predict_tuple_pair[index])
@@ -1301,6 +1301,6 @@ class PairEvaluation(BaseEvaluation):
             if index != len(tuple_pair) - 1:
                 write_str += " , "
             else:
-                write_str += "]\n"
+                write_str += "]"+'\n'
 
         return write_str
