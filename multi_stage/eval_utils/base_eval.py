@@ -1288,7 +1288,7 @@ class PairEvaluation(BaseEvaluation):
             else:
                 write_str += "\n"
         
-        return str(write_str)
+        return write_str
 
     @staticmethod
     def tuple_pair_to_string(tuple_pair):
@@ -1305,4 +1305,4 @@ class PairEvaluation(BaseEvaluation):
             else:
                 write_str += "]"+'\n'
 
-        return str(write_str)
+        return write_str
