@@ -1282,9 +1282,41 @@ class PairEvaluation(BaseEvaluation):
         #     write_str += self.tuple_pair_to_string(gold_tuple_pair[index], sentence)
 
         # write_str += "----------------------------------" + '\n'
-
+        write_str = sentence + '\n'
+        tmp_sentence = sentence.split(' ')
+        polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
+        write_str += "{"
+        
         for index in range(len(predict_tuple_pair)):
-            write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
+            if index == 0:
+                write_str += "subject: ["
+            elif index == 1:   
+                write_str += "object: ["
+            elif index == 2:   
+                write_str += "aspect: ["
+            elif index == 3:   
+                write_str += "predicate: ["       
+            elif index == 4:   
+                write_str += "label: "
+            
+            if index != len(predict_tuple_pair) - 1:
+                if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
+                    for i in range(predict_tuple_pair[index][0], predict_tuple_pair[index][1] - 1):
+                        write_str += str(i) + "&&" + tmp_sentence[i-1]
+                        if i != predict_tuple_pair[index][1] - 1:
+                            write_str += ", "
+                        else:
+                            write_str += "], "
+                else:
+                    write_str += "], "
+                    
+            else:
+                # print(tuple_pair[index][0] + 1)
+                write_str += polarity_col[predict_tuple_pair[index][0] + 1] + "}\n"
+                
+            # write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
+
+
 
         # for index in range(len(correct_num)):
         #     write_str += str(correct_num[index])
