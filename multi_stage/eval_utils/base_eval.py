@@ -1094,6 +1094,7 @@ class PairEvaluation(BaseEvaluation):
 
         # calculate elem dict.
         tuple_str = ""
+        sentence = ""
         for index in range(len(self.gold_pair_col)):
             gold_sequence_pair_col = self.gold_pair_col[index]
             predict_sequence_pair_col = predict_tuple_pair_col[index]
