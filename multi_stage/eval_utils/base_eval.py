@@ -1314,6 +1314,7 @@ class PairEvaluation(BaseEvaluation):
         tmp_sentence = sentence.split(' ')
         polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
         write_str += "{"
+        print('len tuple pair', len(tuple_pair))
         for index in range(len(tuple_pair)):
             if index == 0:
                 write_str += "subject: ["
@@ -1330,7 +1331,7 @@ class PairEvaluation(BaseEvaluation):
             if index != len(tuple_pair) - 1:
                 if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
                     for i in range(tuple_pair[index][0], tuple_pair[index][1] - 1):
-                        write_str += str(i) + tmp_sentence[i-1]
+                        write_str += str(i) + "&&" + tmp_sentence[i-1]
                         if i != tuple_pair[index][1] - 1:
                             write_str += ", "
                         else:
