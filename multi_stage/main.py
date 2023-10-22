@@ -497,6 +497,7 @@ def main():
             model_parameters, optimizer_parameters, model_name, feature_type,
             data_gene.test_data_dict['sentences']
         )
+        
     print('keys', data_gene.test_data_dict.keys())
     if config.stage_model == "first":
         global_eval.avg_model("./ModelResult/" + model_name + "/test_extraction_result.txt")
