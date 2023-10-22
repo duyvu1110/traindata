@@ -1326,16 +1326,20 @@ class PairEvaluation(BaseEvaluation):
             elif index == 4:   
                 write_str += "label: "
                 
-            print(tuple_pair[index][0], tuple_pair[index][1])
             
             if index != len(tuple_pair) - 1:
-                for i in range(tuple_pair[index][0], tuple_pair[index][1] - 1):
-                    write_str += str(i) + tmp_sentence[i-1]
-                    if i != tuple_pair[index][1] - 1:
-                        write_str += ", "
-                    else:
-                        write_str += "] "
+                if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
+                    for i in range(tuple_pair[index][0], tuple_pair[index][1] - 1):
+                        write_str += str(i) + tmp_sentence[i-1]
+                        if i != tuple_pair[index][1] - 1:
+                            write_str += ", "
+                        else:
+                            write_str += "], "
+                else:
+                    write_str += "], "
+                    
             else:
+                print(tuple_pair[index][0] + 1)
                 write_str += polarity_col[tuple_pair[index][0] + 1] + "}\n"
                     
         return write_str
