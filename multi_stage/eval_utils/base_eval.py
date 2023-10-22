@@ -1286,34 +1286,37 @@ class PairEvaluation(BaseEvaluation):
         tmp_sentence = sentence.split(' ')
         polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
         write_str += "{"
-        
-        for index in range(len(predict_tuple_pair)):
-            if index == 0:
-                write_str += "subject: ["
-            elif index == 1:   
-                write_str += "object: ["
-            elif index == 2:   
-                write_str += "aspect: ["
-            elif index == 3:   
-                write_str += "predicate: ["       
-            elif index == 4:   
-                write_str += "label: "
-            print(len(predict_tuple_pair))
-            if index != len(predict_tuple_pair) - 1:
-                if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
-                    for i in range(predict_tuple_pair[index][0], predict_tuple_pair[index][1] - 1):
-                        write_str += str(i) + "&&" + tmp_sentence[i-1]
-                        if i != predict_tuple_pair[index][1] - 1:
-                            write_str += ", "
-                        else:
-                            write_str += "], "
-                else:
-                    write_str += "], "
-                    
-            else:
-                x, y = predict_tuple_pair[index]
-                write_str += polarity_col[x + 1] + "}\n"
+        if len(predict_tuple_pair) == 5:            
+            for index in range(len(predict_tuple_pair)):
+                if index == 0:
+                    write_str += "subject: ["
+                elif index == 1:   
+                    write_str += "object: ["
+                elif index == 2:   
+                    write_str += "aspect: ["
+                elif index == 3:   
+                    write_str += "predicate: ["       
+                elif index == 4:   
+                    write_str += "label: "
                 
+                if index != len(predict_tuple_pair) - 1:
+                    if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
+                        for i in range(predict_tuple_pair[index][0], predict_tuple_pair[index][1] - 1):
+                            write_str += str(i) + "&&" + tmp_sentence[i-1]
+                            if i != predict_tuple_pair[index][1] - 1:
+                                write_str += ", "
+                            else:
+                                write_str += "], "
+                    else:
+                        write_str += "], "
+                        
+                else:
+                    x, y = predict_tuple_pair[index]
+                    write_str += polarity_col[x + 1] + "}\n"
+                
+        else:
+            write_str += "subject: [], object: [], aspect: [], predicate: [], label: }"
+        
             # write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
 
 
