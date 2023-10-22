@@ -1286,13 +1286,13 @@ class PairEvaluation(BaseEvaluation):
         for index in range(len(predict_tuple_pair)):
             write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
 
-        for index in range(len(correct_num)):
-            write_str += str(correct_num[index])
+        # for index in range(len(correct_num)):
+        #     write_str += str(correct_num[index])
 
-            if index != len(correct_num) - 1:
-                write_str += " "
-            else:
-                write_str += "\n"
+        #     if index != len(correct_num) - 1:
+        #         write_str += " "
+        #     else:
+        #         write_str += "\n"
         
         return write_str
 
@@ -1325,8 +1325,10 @@ class PairEvaluation(BaseEvaluation):
                 write_str += "predicate: ["       
             elif index == 4:   
                 write_str += "label: "
+                
             print(tuple_pair[index][0], tuple_pair[index][1])
-            if index != 4:
+            
+            if index != len(tuple_pair) - 1:
                 for i in range(tuple_pair[index][0], tuple_pair[index][1]):
                     write_str += str(i) + tmp_sentence[i-1]
                     if i != tuple_pair[index][1] - 1:
@@ -1334,6 +1336,6 @@ class PairEvaluation(BaseEvaluation):
                     else:
                         write_str += "] "
             else:
-                write_str += polarity_col[tuple_pair[index][0] + 1] + "]\n"
+                write_str += polarity_col[tuple_pair[index][0] + 1] + "}\n"
                     
         return write_str
