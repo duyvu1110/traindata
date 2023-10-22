@@ -1311,8 +1311,8 @@ class PairEvaluation(BaseEvaluation):
                     write_str += "], "
                     
             else:
-                # print(tuple_pair[index][0] + 1)
-                write_str += polarity_col[predict_tuple_pair[index][0] + 1] + "}\n"
+                print(tuple_pair[index][0] + 1)
+                write_str += polarity_col[int(predict_tuple_pair[index][0]) + 1] + "}\n"
                 
             # write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
 
