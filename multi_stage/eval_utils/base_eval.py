@@ -1058,7 +1058,7 @@ class ElementEvaluation(BaseEvaluation):
 
 
 class PairEvaluation(BaseEvaluation):
-    def __init__(self, config, candidate_pair_col, gold_pair_col, elem_col, ids_to_tags, save_model=False, fold=0):
+    def __init__(self, config, candidate_pair_col, gold_pair_col, elem_col, ids_to_tags, save_model=False, fold=0, input_ids = None, attn_mask = None):
         super(PairEvaluation, self).__init__(
             config, elem_col=elem_col, ids_to_tags=ids_to_tags, save_model=save_model, fold=fold
         )
@@ -1068,8 +1068,11 @@ class PairEvaluation(BaseEvaluation):
 
         self.y_hat = []
         self.polarity_hat = []
+        
+        self.input_ids = input_ids
+        self.attn_mask = attn_mask
 
-    def eval_model(self, measure_file, model=None, model_path=None, polarity=False, initialize=(False, False)):
+    def eval_model(self, measure_file, model=None, model_path=None, polarity=False, initialize=(False, False), sentences=None):
         """
         :param measure_file: a file path to write result.
         :param model: use to save.
@@ -1094,6 +1097,7 @@ class PairEvaluation(BaseEvaluation):
         for index in range(len(self.gold_pair_col)):
             gold_sequence_pair_col = self.gold_pair_col[index]
             predict_sequence_pair_col = predict_tuple_pair_col[index]
+            sentence = sentences[index]
 
             gold_num['pair'] += self.get_effective_pair_num(gold_sequence_pair_col)
             predict_num['pair'] += self.get_effective_pair_num(predict_sequence_pair_col)
@@ -1113,7 +1117,7 @@ class PairEvaluation(BaseEvaluation):
             assert cur_fake_exact_num <= cur_fake_prop_num <= cur_fake_binary_num, "eval calculate error!"
 
             tuple_str += self.print_tuple_pair(
-                gold_sequence_pair_col, predict_sequence_pair_col, [cur_exact_num, cur_binary_num]
+                gold_sequence_pair_col, predict_sequence_pair_col, [cur_exact_num, cur_binary_num], sentence
             )
 
             exact_correct_num['pair'] += cur_exact_num
@@ -1124,7 +1128,7 @@ class PairEvaluation(BaseEvaluation):
             prop_correct_num['init_pair'] += cur_fake_prop_num
             binary_correct_num['init_pair'] += cur_fake_binary_num
 
-        with open("./tuple_pair_output.txt", "w", encoding='utf-8') as f:
+        with open("./ModelResult/" +  + "/tuple_pair_output.txt", "w", encoding='utf-8') as f:
             f.write(tuple_str)
 
         print(gold_num, predict_num)
@@ -1264,7 +1268,7 @@ class PairEvaluation(BaseEvaluation):
     def add_polarity_to_tuple_pair(tuple_pair, polarity):
         return copy.deepcopy(tuple_pair + [(int(polarity - 1), int(polarity - 1))])
 
-    def print_tuple_pair(self, gold_tuple_pair, predict_tuple_pair, correct_num):
+    def print_tuple_pair(self, gold_tuple_pair, predict_tuple_pair, correct_num, sentence):
         """
         :param gold_tuple_pair:
         :param predict_tuple_pair:
@@ -1272,13 +1276,13 @@ class PairEvaluation(BaseEvaluation):
         :return:
         """
         write_str = ""
-        for index in range(len(gold_tuple_pair)):
-            write_str += self.tuple_pair_to_string(gold_tuple_pair[index])
+        # for index in range(len(gold_tuple_pair)):
+        #     write_str += self.tuple_pair_to_string(gold_tuple_pair[index], sentence)
 
-        write_str += "----------------------------------" + '\n'
+        # write_str += "----------------------------------" + '\n'
 
         for index in range(len(predict_tuple_pair)):
-            write_str += self.tuple_pair_to_string(predict_tuple_pair[index])
+            write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
 
         for index in range(len(correct_num)):
             write_str += str(correct_num[index])
@@ -1291,18 +1295,42 @@ class PairEvaluation(BaseEvaluation):
         return write_str
 
     @staticmethod
-    def tuple_pair_to_string(tuple_pair):
+    def tuple_pair_to_string(tuple_pair, sentence):
         """
         :param tuple_pair:
         :return:
         """
-        write_str = "["
+        # write_str = "["
+        # for index in range(len(tuple_pair)):
+        #     write_str += "(" + str(tuple_pair[index][0]) + ", " + str(tuple_pair[index][1]) + ")"
+
+        #     if index != len(tuple_pair) - 1:
+        #         write_str += " , "
+        #     else:
+        #         write_str += "]"+'\n'
+        tmp_sentence = sentence.split()
+        polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
+        write_str = "{"
         for index in range(len(tuple_pair)):
-            write_str += "(" + str(tuple_pair[index][0]) + ", " + str(tuple_pair[index][1]) + ")"
-
-            if index != len(tuple_pair) - 1:
-                write_str += " , "
+            if index == 0:
+                write_str += "subject: ["
+            elif index == 1:   
+                write_str += "object: ["
+            elif index == 2:   
+                write_str += "aspect: ["
+            elif index == 3:   
+                write_str += "predicate: ["       
+            elif index == 4:   
+                write_str += "label: "
+                
+            if index != 4:
+                for i in range(tuple_pair[index][0], tuple_pair[index[1]]):
+                    write_str += str(i) + tmp_sentence[i-1]
+                    if i != tuple_pair[index][1] - 1:
+                        write_str += ", "
+                    else:
+                        write_str += "] "
             else:
-                write_str += "]"+'\n'
-
+                write_str += polarity_col[tuple_pair[index][0] + 1] + "]\n"
+                    
         return write_str

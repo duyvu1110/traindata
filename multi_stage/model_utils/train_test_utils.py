@@ -127,7 +127,7 @@ def pair_stage_model_train(model, optimizer, train_loader, config, epoch):
 
 
 def pair_stage_model_test(
-        model, config, test_loader, res_eval, eval_parameters=None, mode="pair", polarity=False, initialize=(False, False)):
+        model, config, test_loader, res_eval, eval_parameters=None, mode="pair", polarity=False, initialize=(False, False), sentences=None):
     """
     :param model: the model
     :param test_loader: test data loader: [input_ids, attn_mask, pos_ids, predicate_label]
@@ -158,7 +158,7 @@ def pair_stage_model_test(
             else:
                 res_eval.add_polarity_data(pair_out)
 
-    res_eval.eval_model(measure_file, model, model_path, polarity=polarity, initialize=initialize)
+    res_eval.eval_model(measure_file, model, model_path, polarity=polarity, initialize=initialize, sentences=sentences)
 
 
 ########################################################################################################################
@@ -226,7 +226,7 @@ def first_stage_model_main(
 
 
 def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eval, polarity_col,
-                          model_parameters, optimizer_parameters, model_name, feature_type):
+                          model_parameters, optimizer_parameters, model_name, feature_type, sentences):
     """
 
     :param config:
@@ -283,7 +283,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     dev_polarity_parameters = ["./ModelResult/" + model_name + "/dev_polarity_result.txt",
                                "./PreTrainModel/" + model_name + "/dev_polarity_model"]
 
-    for epoch in range(50):
+    for epoch in range(5):
         pair_stage_model_train(pair_model, pair_optimizer, train_pair_loader, config, epoch)
         pair_stage_model_test(
             pair_model, config, dev_pair_loader, dev_pair_eval,
@@ -303,7 +303,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
     dev_polarity_loader = data_loader_utils.get_loader([dev_polarity_representation], 1)
     shared_utils.clear_optimize_measure(dev_pair_eval)
 
-    for epoch in range(50):
+    for epoch in range(5):
         pair_stage_model_train(polarity_model, polarity_optimizer, train_polarity_loader, config, epoch)
         pair_stage_model_test(
             polarity_model, config, dev_polarity_loader, dev_pair_eval,
@@ -335,7 +335,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
 
     pair_stage_model_test(
         predict_polarity_model, config, test_polarity_loader, test_pair_eval,
-        test_polarity_parameters, mode="polarity", polarity=True, initialize=(True, True)
+        test_polarity_parameters, mode="polarity", polarity=True, initialize=(True, True), sentences=sentences
     )
 
     # add average measure.
