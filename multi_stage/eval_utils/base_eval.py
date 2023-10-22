@@ -1326,7 +1326,7 @@ class PairEvaluation(BaseEvaluation):
                 write_str += "label: "
                 
             if index != 4:
-                for i in range(tuple_pair[index][0], tuple_pair[index[1]]):
+                for i in range(tuple_pair[index][0], tuple_pair[index][1]):
                     write_str += str(i) + tmp_sentence[i-1]
                     if i != tuple_pair[index][1] - 1:
                         write_str += ", "
