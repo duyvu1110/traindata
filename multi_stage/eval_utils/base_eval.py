@@ -1310,7 +1310,8 @@ class PairEvaluation(BaseEvaluation):
         #         write_str += " , "
         #     else:
         #         write_str += "]"+'\n'
-        tmp_sentence = sentence.split()
+        print(sentence)
+        tmp_sentence = sentence.split(' ')
         polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
         write_str = "{"
         for index in range(len(tuple_pair)):
@@ -1324,7 +1325,7 @@ class PairEvaluation(BaseEvaluation):
                 write_str += "predicate: ["       
             elif index == 4:   
                 write_str += "label: "
-                
+            print(tuple_pair[index][0], tuple_pair[index][1])
             if index != 4:
                 for i in range(tuple_pair[index][0], tuple_pair[index][1]):
                     write_str += str(i) + tmp_sentence[i-1]
