@@ -1298,7 +1298,7 @@ class PairEvaluation(BaseEvaluation):
                 write_str += "predicate: ["       
             elif index == 4:   
                 write_str += "label: "
-            
+            print(len(predict_tuple_pair))
             if index != len(predict_tuple_pair) - 1:
                 if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
                     for i in range(predict_tuple_pair[index][0], predict_tuple_pair[index][1] - 1):
@@ -1311,9 +1311,8 @@ class PairEvaluation(BaseEvaluation):
                     write_str += "], "
                     
             else:
-                print(predict_tuple_pair[index][0])
-                print(int(predict_tuple_pair[index][0]) + 1)
-                write_str += polarity_col[int(predict_tuple_pair[index][0]) + 1] + "}\n"
+                x, y = predict_tuple_pair[index]
+                write_str += polarity_col[x + 1] + "}\n"
                 
             # write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
 
