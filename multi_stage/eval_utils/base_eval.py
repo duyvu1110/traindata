@@ -1315,7 +1315,7 @@ class PairEvaluation(BaseEvaluation):
                     write_str += polarity_col[x + 1] + "}\n"
                 
         else:
-            write_str += "subject: [], object: [], aspect: [], predicate: [], label: }"
+            write_str += "subject: [], object: [], aspect: [], predicate: [], label: }\n"
         
             # write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
 
