@@ -1128,7 +1128,7 @@ class PairEvaluation(BaseEvaluation):
             prop_correct_num['init_pair'] += cur_fake_prop_num
             binary_correct_num['init_pair'] += cur_fake_binary_num
 
-        with open("./ModelResult/" +  + "/tuple_pair_output.txt", "w", encoding='utf-8') as f:
+        with open("/kaggle/working/nghich1chut/multi_stage/ModelResult/smartphone_bert_first_multitask_2_16_run/embe_1/tuple_pair_output.txt", "w", encoding='utf-8') as f:
             f.write(tuple_str)
 
         print(gold_num, predict_num)
