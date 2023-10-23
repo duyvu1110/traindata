@@ -1072,7 +1072,7 @@ class PairEvaluation(BaseEvaluation):
         self.input_ids = input_ids
         self.attn_mask = attn_mask
 
-    def eval_model(self, measure_file, model=None, model_path=None, polarity=False, initialize=(False, False), sentences=None):
+    def eval_model(self, measure_file, model=None, model_path=None, polarity=False, initialize=(False, False), data_dict=None):
         """
         :param measure_file: a file path to write result.
         :param model: use to save.
@@ -1096,11 +1096,11 @@ class PairEvaluation(BaseEvaluation):
         # print('len sents', len(sentences))
         tuple_str = ""
         sentence = ""
+        std_sent = ""
+        mapping = {}
         for index in range(len(self.gold_pair_col)):
             gold_sequence_pair_col = self.gold_pair_col[index]
             predict_sequence_pair_col = predict_tuple_pair_col[index]
-            if initialize == (True, True):
-                sentence = sentences[index]
 
             gold_num['pair'] += self.get_effective_pair_num(gold_sequence_pair_col)
             predict_num['pair'] += self.get_effective_pair_num(predict_sequence_pair_col)
@@ -1119,10 +1119,17 @@ class PairEvaluation(BaseEvaluation):
             assert cur_exact_num <= cur_prop_num <= cur_binary_num, "eval calculate error!"
             assert cur_fake_exact_num <= cur_fake_prop_num <= cur_fake_binary_num, "eval calculate error!"
 
-            tuple_str += self.print_tuple_pair(
-                gold_sequence_pair_col, predict_sequence_pair_col, [cur_exact_num, cur_binary_num], sentence
-            )
+            # tuple_str += self.print_tuple_pair(
+            #     gold_sequence_pair_col, predict_sequence_pair_col, [cur_exact_num, cur_binary_num]
+            # )
+            if polarity == True and initialize == (True, True):
+              std_sent = 'Cau truoc tab'
+              sentence = data_dict['sentences'][index]
+              mapping = data_dict['mapping_col'][index]
 
+            tuple_str += self.print_tuple_pair(
+                gold_sequence_pair_col, predict_sequence_pair_col, std_sent, sentence, mapping
+            )
             exact_correct_num['pair'] += cur_exact_num
             prop_correct_num['pair'] += cur_prop_num
             binary_correct_num['pair'] += cur_binary_num
@@ -1271,115 +1278,67 @@ class PairEvaluation(BaseEvaluation):
     def add_polarity_to_tuple_pair(tuple_pair, polarity):
         return copy.deepcopy(tuple_pair + [(int(polarity - 1), int(polarity - 1))])
 
-    def print_tuple_pair(self, gold_tuple_pair, predict_tuple_pair, correct_num, sentence):
+    def print_tuple_pair(self, gold_tuple_pair, predict_tuple_pair, std_sent, sentence, mapping):
         """
         :param gold_tuple_pair:
         :param predict_tuple_pair:
         :param correct_num:
         :return:
         """
-        write_str = ""
-        for index in range(len(gold_tuple_pair)):
-            write_str += self.tuple_pair_to_string(gold_tuple_pair[index], sentence)
+        write_str = std_sent + '\t' + sentence + '\n'
+        # for index in range(len(gold_tuple_pair)):
+        #     write_str += self.tuple_pair_to_string(gold_tuple_pair[index])
 
-        write_str += "----------------------------------" + '\n'
-        # write_str = sentence + '\n'
-        # tmp_sentence = sentence.split(' ')
-        # polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
-        # write_str += "{"
-        # if len(predict_tuple_pair) == 5:            
-        #     for index in range(len(predict_tuple_pair)):
-        #         if index == 0:
-        #             write_str += "subject: ["
-        #         elif index == 1:   
-        #             write_str += "object: ["
-        #         elif index == 2:   
-        #             write_str += "aspect: ["
-        #         elif index == 3:   
-        #             write_str += "predicate: ["       
-        #         elif index == 4:   
-        #             write_str += "label: "
-                
-        #         if index != len(predict_tuple_pair) - 1:
-        #             if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
-        #                 for i in range(predict_tuple_pair[index][0], predict_tuple_pair[index][1] - 1):
-        #                     write_str += str(i) + "&&" + tmp_sentence[i-1]
-        #                     if i != predict_tuple_pair[index][1] - 1:
-        #                         write_str += ", "
-        #                     else:
-        #                         write_str += "], "
-        #             else:
-        #                 write_str += "], "
-                        
-        #         else:
-        #             x, y = predict_tuple_pair[index]
-        #             write_str += polarity_col[x + 1] + "}\n"
-                
-        # else:
-        #     write_str += "subject: [], object: [], aspect: [], predicate: [], label: }\n"
-        
-        for index in range(len(predict_tuple_pair)):    
-            write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
-            
-            # for index in range(len(correct_num)):
-            #     write_str += str(correct_num[index])
+        # write_str += "----------------------------------" + '\n'
+        for index in range(len(predict_tuple_pair)):
+          # print(predict_tuple_pair[index])
+          write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence, mapping)
+          
+        write_str += '\n'
 
-            #     if index != len(correct_num) - 1:
-            #         write_str += " "
-            #     else:
-            #         write_str += "\n"
-            
         return write_str
-
-    @staticmethod
-    def tuple_pair_to_string(tuple_pair, sentence):
-        """
-        :param tuple_pair:
-        :return:
-        """
-        
-        # write_str = sentence + '\n'
-        # tmp_sentence = sentence.split(' ')
-        # polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
-        # write_str += "{"
-        # if len(tuple_pair) == 5:            
-        #     for index in range(len(tuple_pair)):
-        #         if index == 0:
-        #             write_str += "subject: ["
-        #         elif index == 1:   
-        #             write_str += "object: ["
-        #         elif index == 2:   
-        #             write_str += "aspect: ["
-        #         elif index == 3:   
-        #             write_str += "predicate: ["       
-        #         elif index == 4:   
-        #             write_str += "label: "
-                
-        #         if index != len(tuple_pair) - 1:
-        #             if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
-        #                 for i in range(tuple_pair[index][0], tuple_pair[index][1] - 1):
-        #                     write_str += str(i) + "&&" + tmp_sentence[i-1]
-        #                     if i != tuple_pair[index][1] - 1:
-        #                         write_str += ", "
-        #                     else:
-        #                         write_str += "], "
-        #             else:
-        #                 write_str += "], "
-                        
-        #         else:
-        #             x, y = tuple_pair[index]
-        #             write_str += polarity_col[x + 1] + "}\n"
-                
-        # else:
-        #     write_str += "subject: [], object: [], aspect: [], predicate: [], label: }\n"
-        
-        write_str = "["
+    
+    def tuple_pair_to_string(self, tuple_pair, sentence, mapping):
+      """
+      :param tuple_pair:
+      :return:
+      """
+      polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
+      elem = ["subject", "object", "aspect", "predicate", 'label']
+      write_str = "{"
+      if len(tuple_pair) == 5:
         for index in range(len(tuple_pair)):
-            write_str += "(" + str(tuple_pair[index][0]) + ", " + str(tuple_pair[index][1]) + ")"
+          if index != len(tuple_pair) - 1:
+            s, e = self.convert_index(mapping, tuple_pair[index][0], tuple_pair[index][1])
+            # write_str += "(" + str(tuple_pair[index][0]) + ", " + str(tuple_pair[index][1]) + ")"
+            # write_str += '(' + ' '.join(sentence.split(' ')[s:e]) + '),
+            write_str += '"' + elem[index] + '": ['
+            if (s == -1): write_str += '], '
+            for i in range(s, e):
+              if i != e - 1:
+                write_str += str(i+1) + '&&"' + sentence.split(' ')[i] + '", '
+              else:
+                write_str += str(i+1) + '&&"' + sentence.split(' ')[i] + '"], '
+          else:
+            write_str += '"'+elem[index] + '": "' + polarity_col[tuple_pair[index][0]+1] + '"}\n'
+      else:
+        for index in range(len(tuple_pair)):
+          if index != len(tuple_pair) - 1:
+            s, e = self.convert_index(mapping, tuple_pair[index][0], tuple_pair[index][1])
+            write_str += '"' + elem[index] + '": ['
+            if (s == -1): write_str += '], '
+            for i in range(s, e):
+              if i != e - 1:
+                write_str += str(i+1) + '&&"' + sentence.split(' ')[i] + '", '
+              else:
+                write_str += str(i+1) + '&&"' + sentence.split(' ')[i] + '"], '
+          else:
+            write_str += '}\n\n'
+        # write_str = '\n'
 
-            if index != len(tuple_pair) - 1:
-                write_str += " , "
-            else:
-                write_str += "]"+'\n'
+      return write_str
 
-        return write_str
+    def convert_index(self, mapping, s_index, e_index):
+      s_i = next((key for key, value_list in mapping.items() if s_index in value_list), -1)
+      e_i = next((key for key, value_list in mapping.items() if e_index in value_list), -1)
+      return (s_i, e_i)

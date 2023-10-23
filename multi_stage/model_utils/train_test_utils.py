@@ -127,7 +127,7 @@ def pair_stage_model_train(model, optimizer, train_loader, config, epoch):
 
 
 def pair_stage_model_test(
-        model, config, test_loader, res_eval, eval_parameters=None, mode="pair", polarity=False, initialize=(False, False), sentences=None):
+        model, config, test_loader, res_eval, eval_parameters=None, mode="pair", polarity=False, initialize=(False, False), data_dict=None):
     """
     :param model: the model
     :param test_loader: test data loader: [input_ids, attn_mask, pos_ids, predicate_label]
@@ -158,7 +158,7 @@ def pair_stage_model_test(
             else:
                 res_eval.add_polarity_data(pair_out)
 
-    res_eval.eval_model(measure_file, model, model_path, polarity=polarity, initialize=initialize, sentences=sentences)
+    res_eval.eval_model(measure_file, model, model_path, polarity=polarity, initialize=initialize, data_dict=data_dict)
 
 
 ########################################################################################################################
@@ -226,7 +226,7 @@ def first_stage_model_main(
 
 
 def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eval, polarity_col,
-                          model_parameters, optimizer_parameters, model_name, feature_type, sentences):
+                          model_parameters, optimizer_parameters, model_name, feature_type):
     """
 
     :param config:
@@ -335,7 +335,7 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
 
     pair_stage_model_test(
         predict_polarity_model, config, test_polarity_loader, test_pair_eval,
-        test_polarity_parameters, mode="polarity", polarity=True, initialize=(True, True), sentences=sentences
+        test_polarity_parameters, mode="polarity", polarity=True, initialize=(True, True)
     )
 
     # add average measure.
