@@ -110,8 +110,7 @@ def convert_data(data_type):
             for section in sections:
                 parts = section.split('\n')
                 json_format = ""
-
-                if len(parts) == 2:
+                if len(parts) >= 2:
                     sentence = parts[0].strip()
                     sentence = sentence.split('\t')[-1]
                     sentence = " ".join(sentence.split())
@@ -120,48 +119,47 @@ def convert_data(data_type):
                     contents = parts[1].strip()
                     json_contents = contents.strip().split('\n')
                     combined_format = sentence + '\n'
+                    for i in range(1, len(parts)):
+                        for json_content in json_contents:
+                            idx_s, idx_e = (-1, -1)
+                            tuples = ""
+                            while True:
+                                idx_s = json_content.find('[', idx_s + 1)
+                                idx_e = json_content.find(']', idx_e + 1)
 
-                    for json_content in json_contents:
-                        idx_s, idx_e = (-1, -1)
-                        tuples = ""
-                        while True:
-                            idx_s = json_content.find('[', idx_s + 1)
-                            idx_e = json_content.find(']', idx_e + 1)
+                                if idx_s == -1:
+                                    break
 
-                            if idx_s == -1:
-                                break
+                                for i in json_content[idx_s:idx_e + 1]:
+                                    if i != ',':
+                                        tuples += i
 
-                            for i in json_content[idx_s:idx_e + 1]:
-                                if i != ',':
-                                    tuples += i
+                                tuples += ';'
 
-                            tuples += ';'
+                            labels = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
 
-                        labels = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
+                            for label in labels:
+                                if json_content.find(label) != -1:
+                                    if label == "DIF":
+                                        tuples += '[' + str(-1) + ']'
+                                    elif label == "EQL":
+                                        tuples += '[' + str(0) + ']'
+                                    elif label == "SUP+":
+                                        tuples += '[' + str(1) + ']'
+                                    elif label == "SUP-":
+                                        tuples += '[' + str(2) + ']'
+                                    elif label == "SUP":
+                                        tuples += '[' + str(3) + ']'
+                                    elif label == "COM+":
+                                        tuples += '[' + str(4) + ']'
+                                    elif label == "COM-":
+                                        tuples += '[' + str(5) + ']'
+                                    elif label == "COM":
+                                        tuples += '[' + str(6) + ']'
+                                    break
 
-                        for label in labels:
-                            if json_content.find(label) != -1:
-                                if label == "DIF":
-                                    tuples += '[' + str(-1) + ']'
-                                elif label == "EQL":
-                                    tuples += '[' + str(0) + ']'
-                                elif label == "SUP+":
-                                    tuples += '[' + str(1) + ']'
-                                elif label == "SUP-":
-                                    tuples += '[' + str(2) + ']'
-                                elif label == "SUP":
-                                    tuples += '[' + str(3) + ']'
-                                elif label == "COM+":
-                                    tuples += '[' + str(4) + ']'
-                                elif label == "COM-":
-                                    tuples += '[' + str(5) + ']'
-                                elif label == "COM":
-                                    tuples += '[' + str(6) + ']'
-                                break
-
-                        json_format += '[' + tuples + ']' + '\n'
-                        json_format = json_format.replace('"', '')
-                        
+                            json_format += '[' + tuples + ']' + '\n'
+                            json_format = json_format.replace('"', '')
                     combined_format += json_format[:-1]
                     sentences_and_content.append(combined_format)
 
