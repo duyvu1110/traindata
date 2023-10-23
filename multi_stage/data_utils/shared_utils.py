@@ -396,7 +396,8 @@ def bert_data_transfer(bert_tokenizer, input_tokens, data_type="tokens"):
         if data_type == "tokens":
             result_data.append(bert_tokenizer.convert_tokens_to_ids(seq_tokens))
         else:
-            result_data.append(bert_tokenizer.convert_ids_to_tokens(seq_tokens))
+            # result_data.append(bert_tokenizer.convert_ids_to_tokens(seq_tokens))
+            result_data.append(bert_tokenizer.decode(input_tokens, skip_special_tokens=True))
 
     return result_data
 

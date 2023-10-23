@@ -1320,9 +1320,7 @@ class PairEvaluation(BaseEvaluation):
         
         for index in range(len(predict_tuple_pair)):    
             write_str += self.tuple_pair_to_string(predict_tuple_pair[index], sentence)
-
-
-
+            
             # for index in range(len(correct_num)):
             #     write_str += str(correct_num[index])
 
@@ -1339,6 +1337,42 @@ class PairEvaluation(BaseEvaluation):
         :param tuple_pair:
         :return:
         """
+        
+        # write_str = sentence + '\n'
+        # tmp_sentence = sentence.split(' ')
+        # polarity_col = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
+        # write_str += "{"
+        # if len(tuple_pair) == 5:            
+        #     for index in range(len(tuple_pair)):
+        #         if index == 0:
+        #             write_str += "subject: ["
+        #         elif index == 1:   
+        #             write_str += "object: ["
+        #         elif index == 2:   
+        #             write_str += "aspect: ["
+        #         elif index == 3:   
+        #             write_str += "predicate: ["       
+        #         elif index == 4:   
+        #             write_str += "label: "
+                
+        #         if index != len(tuple_pair) - 1:
+        #             if (tuple_pair[index][0], tuple_pair[index][1]) != (-1, -1):
+        #                 for i in range(tuple_pair[index][0], tuple_pair[index][1] - 1):
+        #                     write_str += str(i) + "&&" + tmp_sentence[i-1]
+        #                     if i != tuple_pair[index][1] - 1:
+        #                         write_str += ", "
+        #                     else:
+        #                         write_str += "], "
+        #             else:
+        #                 write_str += "], "
+                        
+        #         else:
+        #             x, y = tuple_pair[index]
+        #             write_str += polarity_col[x + 1] + "}\n"
+                
+        # else:
+        #     write_str += "subject: [], object: [], aspect: [], predicate: [], label: }\n"
+        
         write_str = "["
         for index in range(len(tuple_pair)):
             write_str += "(" + str(tuple_pair[index][0]) + ", " + str(tuple_pair[index][1]) + ")"
