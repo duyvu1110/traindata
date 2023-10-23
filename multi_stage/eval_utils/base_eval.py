@@ -1123,7 +1123,7 @@ class PairEvaluation(BaseEvaluation):
             #     gold_sequence_pair_col, predict_sequence_pair_col, [cur_exact_num, cur_binary_num]
             # )
             if polarity == True and initialize == (True, True):
-              std_sent = data_dict['std_sent'][index]
+              std_sent = data_dict['std_sents'][index]
               sentence = data_dict['sentences'][index]
               mapping = data_dict['mapping_col'][index]
 
