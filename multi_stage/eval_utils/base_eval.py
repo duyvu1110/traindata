@@ -1093,7 +1093,7 @@ class PairEvaluation(BaseEvaluation):
         assert len(self.gold_pair_col) == len(predict_tuple_pair_col), "data length error!"
 
         # calculate elem dict.
-        print('len sents', len(sentences))
+        # print('len sents', len(sentences))
         tuple_str = ""
         sentence = ""
         for index in range(len(self.gold_pair_col)):
