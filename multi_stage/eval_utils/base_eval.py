@@ -1347,3 +1347,5 @@ class PairEvaluation(BaseEvaluation):
                 write_str += " , "
             else:
                 write_str += "]"+'\n'
+
+        return write_str
