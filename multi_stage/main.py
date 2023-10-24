@@ -176,7 +176,8 @@ def convert_data(data_type):
                     json_format = "[[];[];[];[];[]]"
                     combined_format = f"{sentence}\n{json_format}"
                     sentences_and_content.append(combined_format)
-                std_sents.append(tmp)
+                if data_type == 'test':
+                    std_sents.append(tmp)
     with open(des_file, 'w', encoding='utf-8') as output_file:
         for item in sentences_and_content:
             output_file.write(str(item) + '\n')
