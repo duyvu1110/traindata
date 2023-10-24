@@ -166,7 +166,7 @@ def convert_data(data_type):
 
                 else:
                     sentences = parts[0].split('\t')
-                    if len(sentence) == 1:
+                    if len(sentences) == 1:
                         continue
                     else:
                         tmp = sentences[0]
