@@ -226,7 +226,7 @@ def first_stage_model_main(
 
 
 def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eval, polarity_col,
-                          model_parameters, optimizer_parameters, model_name, feature_type):
+                          model_parameters, optimizer_parameters, model_name, feature_type, data_dict):
     """
 
     :param config:
@@ -335,7 +335,8 @@ def pair_stage_model_main(config, pair_representation, make_pair_label, pair_eva
 
     pair_stage_model_test(
         predict_polarity_model, config, test_polarity_loader, test_pair_eval,
-        test_polarity_parameters, mode="polarity", polarity=True, initialize=(True, True)
+        test_polarity_parameters, mode="polarity", polarity=True, initialize=(True, True),
+        data_dict=data_dict
     )
 
     # add average measure.

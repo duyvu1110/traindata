@@ -490,7 +490,8 @@ def main():
             config, pair_representation, make_pair_label,
             [dev_pair_eval, test_pair_eval, global_pair_eval],
             [train_polarity_representation, train_polarity_label],
-            model_parameters, optimizer_parameters, model_name, feature_type
+            model_parameters, optimizer_parameters, model_name, feature_type,
+            data_gene.test_data_dict
         )
         print(test_pair_eval.polarity_hat)
     print('keys', data_gene.test_data_dict.keys())
