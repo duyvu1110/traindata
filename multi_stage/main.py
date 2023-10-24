@@ -112,8 +112,8 @@ def convert_data(data_type):
                 parts = section.split('\n')
                 json_format = ""
                 if len(parts) >= 2:
-                    sentence = parts[0].strip()
-                    tmp, sentence = sentence.split('\t')
+                    sentences = parts[0].strip()
+                    tmp, sentence = sentences.split('\t')
                     sentence = " ".join(sentence.split())
                     sentence += '\t' + '1'
 
@@ -165,12 +165,12 @@ def convert_data(data_type):
                     sentences_and_content.append(combined_format)
 
                 else:
-                    sentence = parts[0].split('\t')
+                    sentences = parts[0].split('\t')
                     if len(sentence) == 1:
                         continue
                     else:
-                        tmp = sentence[0]
-                        sentence = sentence[-1]
+                        tmp = sentences[0]
+                        sentence = sentences[-1]
                     sentence = " ".join(sentence.split())
                     sentence += '\t' + '0'
                     json_format = "[[];[];[];[];[]]"
