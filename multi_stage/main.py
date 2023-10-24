@@ -217,7 +217,7 @@ def main():
     data_gene.generate_data()
 
     data_gene.test_data_dict['std_sents'] = std_sents
-
+    print(len(std_sents))
     global_eval = BaseEvaluation(config)
     global_pair_eval = BaseEvaluation(config)
 
