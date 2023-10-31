@@ -38,7 +38,7 @@ def create_first_data_loader(data_dict, batch_size, mask_index=None):
                     data_dict['multi_label'], data_dict['result_label']]
     
     print("feature size: ", len(feature_data))
-
+    
     if mask_index is not None:
         for index in range(len(feature_data)):
             feature_data[index] = feature_data[index][mask_index]
