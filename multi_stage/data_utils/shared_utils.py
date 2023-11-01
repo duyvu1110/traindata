@@ -391,13 +391,12 @@ def bert_data_transfer(bert_tokenizer, input_tokens, data_type="tokens"):
 
     if not isinstance(input_tokens, list):
         input_tokens = input_tokens.tolist()
-        
+
     for seq_tokens in input_tokens:
         if data_type == "tokens":
             result_data.append(bert_tokenizer.convert_tokens_to_ids(seq_tokens))
         else:
             result_data.append(bert_tokenizer.convert_ids_to_tokens(seq_tokens))
-            # result_data.append(bert_tokenizer.decode(input_tokens, skip_special_tokens=True).split(' '))
 
     return result_data
 
@@ -464,7 +463,8 @@ def token_mapping_bert(bert_token_col, gold_token_col):
     for index in range(len(bert_token_col)):
         seq_map, bert_index, token_index = {}, 1, 0
         seq_bert_token, seq_gold_token = bert_token_col[index], gold_token_col[index]
-        
+        if(seq_gold_token[0] == ''):
+            continue
         # print('seq_bert_token', seq_bert_token)
         # print('seq_gold_token', seq_gold_token)
         
