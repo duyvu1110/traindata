@@ -41,15 +41,12 @@ class DataGenerator(object):
         label_col, tuple_pair_col = LP.parse_sequence_label("&&", sent_col, file_type="en")
 
         # using stanford tool to get some feature data.
-        if not os.path.exists(self.config.path.pre_process_data[data_type]):
             
-            sf = stanford_utils.stanfordFeature(sent_col)
+        sf = stanford_utils.stanfordFeature(sent_col)
+        
+        data_dict['standard_token'] = sf.get_tokenizer()
             
-            data_dict['standard_token'] = sf.get_tokenizer()
-            
-            shared_utils.write_pickle(data_dict, self.config.path.pre_process_data[data_type])
-        else:
-            data_dict = shared_utils.read_pickle(self.config.path.pre_process_data[data_type])
+        
 
         self.token_max_len = max(self.token_max_len, shared_utils.get_max_token_length(data_dict['standard_token']))
 
