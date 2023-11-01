@@ -421,8 +421,6 @@ alt: Samsung Galaxy M31s	alt : Samsung Galaxy M31s
 
 des: Samsung Galaxy M31s	des : Samsung Galaxy M31s
 
-	 
-
 Đi kèm với M31s chính là bộ sạc nhanh 25W của Samsung.	Đi kèm với M31s chính là bộ sạc nhanh 25W của Samsung .
 
 Nó không phải là quá nhanh nhưng khá phù hợp ở tầm trung này.	Nó không phải là quá nhanh nhưng khá phù hợp ở tầm trung này .
