@@ -116,10 +116,10 @@ def convert_data(data_type):
                     tmp, sentence = sentences.split('\t')
                     sentence = " ".join(sentence.split())
                     sentence += '\t' + '1'
-
+                    
                     
                     for i in range(1, len(parts)):
-                        contents = parts[1].strip()
+                        contents = parts[i].strip()
                         json_contents = contents.strip().split('\n')
                         combined_format = sentence + '\n'
                         for json_content in json_contents:
